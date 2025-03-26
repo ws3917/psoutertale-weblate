@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-23 04:14+0000\n"
-"PO-Revision-Date: 2025-07-23 04:14+0000\n"
+"PO-Revision-Date: 2025-07-23 04:30+0000\n"
 "Last-Translator: ws3917 <ws3917@outlook.com>\n"
 "Language-Team: Armenian <https://translate.ws3917.space/projects/"
 "ps-outertale/7-values/hy/>\n"
@@ -15,10 +15,8 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid "en_US"
 msgstr "hy_AM"
-
 
 msgid "You must choose a name."
 msgstr ""
