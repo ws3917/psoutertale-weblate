@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-23 04:12+0000\n"
-"PO-Revision-Date: 2025-07-23 04:12+0000\n"
-"Last-Translator: Murder--Sans_MDR <z127568254@163.com>\n"
+"PO-Revision-Date: 2025-07-23 04:28+0000\n"
+"Last-Translator: braing <3313576509@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/5-citadel/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid "<32>{#p/human}* (You feel a darkness gathering inside of you.)"
 msgstr "<32>{#p/human}* （一股暗流在你心中充盈。）"
 
@@ -18304,7 +18303,6 @@ msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/10}{@random=1.1/1.1}..."
 
 msgid "<11>{*}{#e/asgore/2}{#v/3}{#i/7}{@random=1.1/1.1}Goodbye..."
 msgstr "<11>{*}{#e/asgore/2}{#v/3}{#i/12}{@random=1.1/1.1}永别了..."
-
 
 msgid "N/A"
 msgstr "无"
