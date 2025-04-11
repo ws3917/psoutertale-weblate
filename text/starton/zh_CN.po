@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-23 04:09+0000\n"
-"PO-Revision-Date: 2025-07-23 04:09+0000\n"
-"Last-Translator: braing <3313576509@qq.com>\n"
+"PO-Revision-Date: 2025-07-23 04:26+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/2-starton/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -6601,7 +6600,6 @@ msgstr "哈喽！"
 
 msgid "SAVE YOURSELVES..."
 msgstr "自求多福吧..."
-
 
 msgid "FAILED TO CONNECT..."
 msgstr "网络连接失败..."
