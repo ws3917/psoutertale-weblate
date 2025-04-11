@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-11 17:13+0000\n"
+"PO-Revision-Date: 2025-04-11 17:13+0000\n"
+"Last-Translator: Sevag Mora <77gamerr77@gmail.com>\n"
+"Language-Team: Armenian <https://translate.ws3917.space/projects/"
+"ps-outertale/0-systems/hy/>\n"
+"Language: hy_AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Մեծ շունջ մը կ'առնես։)"
@@ -71,7 +86,7 @@ msgid ""
 "* Your LOVE increased."
 msgstr ""
 "<32>{#p/story}* ՅԱՂԹԵՑԻ՜Ր։\n"
-"* $(x) EXP ու $(y)G շահեցար։\n"
+"* $(x) EXP ու $(y)Ո շահեցար։\n"
 "* LOVE-դ բարձրացաւ։"
 
 msgid "ERROR"
@@ -112,37 +127,37 @@ msgid "Interact"
 msgstr "Շօշափել"
 
 msgid "Input"
-msgstr ""
+msgstr "Կոճակ Կոխել"
 
 msgid "Movement"
-msgstr ""
+msgstr "Շարժում"
 
 msgid "Noclip"
-msgstr ""
+msgstr "Պատերու Մէջէն Անցնիլ"
 
 msgid "Save"
-msgstr ""
+msgstr "Պահել"
 
 msgid "SkipText"
-msgstr ""
+msgstr "ԱնցնիլԳրութիւն"
 
 msgid "Freecam"
-msgstr ""
+msgstr "ԱզատԳամերա"
 
 msgid "CanAssist"
-msgstr ""
+msgstr "ԿրնայՕգնել"
 
 msgid "ClearBox"
-msgstr ""
+msgstr "ՍրբելՏուփ"
 
 msgid "Exit"
 msgstr "Դուրս"
 
 msgid "ResetBox"
-msgstr ""
+msgstr "ՎերահաստատելՏուփ"
 
 msgid "ResetMenu"
-msgstr ""
+msgstr "ՎերահաստատելԿարգաւորում"
 
 msgid "CanFlee"
 msgstr "ԿրնալՓախիլ"
@@ -151,7 +166,7 @@ msgid "InfiniteHP"
 msgstr "ԱնեզրHP"
 
 msgid "PacifyAll"
-msgstr ""
+msgstr "ՀանդարտեցնելԲոլորին"
 
 msgid "Suicide"
 msgstr "Անձնասպանութիւն"
@@ -163,7 +178,7 @@ msgid "$(x) FPS"
 msgstr "$(x) FPS"
 
 msgid "Halt"
-msgstr "Կանք"
+msgstr "Կանգ"
 
 msgid "GAME SPEED"
 msgstr "ԽԱՂԻ ԱՐԱԳՈՒԹԻՒՆ"
@@ -184,7 +199,7 @@ msgid "ROOM"
 msgstr "ՍԵՆԵԱԿ"
 
 msgid "Teleport"
-msgstr ""
+msgstr "Իսկոյն Տեղափոխուիլ"
 
 msgid "ENCOUNTER"
 msgstr "ՀԱՆԴԻՊՈՒՄ"
@@ -199,10 +214,10 @@ msgid "WEAPON"
 msgstr "ԶԷՆՔ"
 
 msgid "INSPECT"
-msgstr ""
+msgstr "ՔՆՆԵԼ"
 
 msgid "LAYERS"
-msgstr ""
+msgstr "ԽԱՒԵՐ"
 
 msgid "TYPES"
 msgstr "ՏԵՍԱԿՆԵՐ"
@@ -232,13 +247,13 @@ msgid "Text"
 msgstr "Գրութիւն"
 
 msgid "EXPLORER"
-msgstr ""
+msgstr "ՓՆՏՌՈՂ"
 
 msgid "Base (Explorer)"
-msgstr ""
+msgstr "Base (Փնտռող)"
 
 msgid "Below (Explorer)"
-msgstr ""
+msgstr "Տակ (Փնտռող)"
 
 msgid "Main (Explorer)"
 msgstr ""
@@ -259,61 +274,61 @@ msgid "R"
 msgstr ""
 
 msgid "E"
-msgstr ""
+msgstr "Ե"
 
 msgid "H"
-msgstr ""
+msgstr "Հ"
 
 msgid "O"
-msgstr ""
+msgstr "Օ"
 
 msgid "P"
-msgstr ""
+msgstr "Պ"
 
 msgid "S"
-msgstr ""
+msgstr "Ս"
 
 msgid "T"
-msgstr ""
+msgstr "Տ"
 
 msgid "Press [TAB] to cycle debug info"
-msgstr ""
+msgstr "[TAB] կոխէ՝ որ debug-ի տեղեկութիւնները երեւին։"
 
 msgid "Acceleration"
-msgstr ""
+msgstr "Երագում"
 
 msgid "Active"
-msgstr ""
+msgstr "Գործունեայ"
 
 msgid "Alpha"
-msgstr ""
+msgstr "Ալֆա"
 
 msgid "Anchor"
-msgstr ""
+msgstr "Խարիսխ"
 
 msgid "B"
-msgstr ""
+msgstr "Բ"
 
 msgid "Blend"
-msgstr ""
+msgstr "Խառնել"
 
 msgid "Border"
-msgstr ""
+msgstr "Սահման"
 
 msgid "Computed Size"
-msgstr ""
+msgstr "Հաշուած Չափ"
 
 msgid "Content"
-msgstr ""
+msgstr "Բովանդակութիւն"
 
 msgid "Crop"
-msgstr ""
+msgstr "Կտրել"
 
 msgid "Down"
-msgstr ""
+msgstr "Վար"
 
 msgid "Duration"
-msgstr ""
+msgstr "Տեւողութիւն"
 
 msgid "EXP"
 msgstr "EXP"
@@ -355,55 +370,55 @@ msgid "Index"
 msgstr "Index"
 
 msgid "Inert"
-msgstr ""
+msgstr "Անգործ"
 
 msgid "Key"
 msgstr "Բանալի"
 
 msgid "Last Saved Time"
-msgstr ""
+msgstr "Վերջին Պահելու Ժամանակ"
 
 msgid "Layer"
-msgstr ""
+msgstr "Խաւ"
 
 msgid "Layers"
-msgstr ""
+msgstr "Խաւեր"
 
 msgid "Left"
-msgstr ""
+msgstr "Ձախ"
 
 msgid "Metadata"
-msgstr ""
+msgstr "Մեդատադա"
 
 msgid "Music"
-msgstr ""
+msgstr "Երաժշտութիւն"
 
 msgid "Namespace"
-msgstr ""
+msgstr "Անունւ Տեղ"
 
 msgid "NONE"
-msgstr ""
+msgstr "ՈՉ ՄԷԿ"
 
 msgid "none"
-msgstr ""
+msgstr "ոչ մէկ"
 
 msgid "Objects"
-msgstr ""
+msgstr "Առարկաներ"
 
 msgid "Oversaver"
-msgstr ""
+msgstr "Վրա-պահիչ"
 
 msgid "Parallax"
-msgstr ""
+msgstr "Բարալլաքս"
 
 msgid "Position"
-msgstr ""
+msgstr "Դիրք"
 
 msgid "Primed"
-msgstr ""
+msgstr "Պատրաստուած"
 
 msgid "Priority"
-msgstr ""
+msgstr "Նախորդութիւն"
 
 msgid "REGISTRY"
 msgstr "ԱՐՁԱՆԱԳՐՈՒԹԻՒՆ"
@@ -451,10 +466,10 @@ msgid "Step"
 msgstr "Քայլ"
 
 msgid "Stroke"
-msgstr ""
+msgstr "Զարկ"
 
 msgid "Subcrop"
-msgstr ""
+msgstr "Տակ-Կտրել"
 
 msgid "Talk"
 msgstr "Խօսք"
@@ -618,8 +633,6 @@ msgstr "§fill=#ff0§< ՀՆԱՐԻՉ >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< ԳՐՈՂ >§fill=#fff§"
@@ -736,61 +749,73 @@ msgid "Valor52"
 msgstr "Valor52"
 
 msgid "§fill=#ff0§< ARTIST (CONTINUED) >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ԳԾԱԳՐԻՉ (ՇԱՐՈՒՆԱԿՈՒԱԾ) >§fill=#fff§"
 
 msgid "Abb"
-msgstr ""
+msgstr "Abb"
 
 msgid ""
 "§fill=#808080§Created one border, fanart,\n"
 "and several sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Գծեց մէկ սահման, գծագրութիւն,\n"
+"եւ բազմաթիւ նկարներ։§fill=#fff§"
 
 msgid "C-G_O_A_T"
-msgstr ""
+msgstr "C-G_O_A_T"
 
 msgid ""
 "§fill=#808080§Colored dialogue sprites for\n"
 "Alphys, Asriel, Undyne, etc.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Ներկուած խօսակցութեան նկարներ\n"
+"Ալֆիզին, Ազրիէլին, Անտայնին, եւայլն։§fill=#fff§"
 
 msgid "DarkFlameWeaver"
-msgstr ""
+msgstr "DarkFlameWeaver"
 
 msgid ""
 "§fill=#808080§Created battle-colored Undyne\n"
 "sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Գծեց կռիւի-գունաւորուած\n"
+"Անտայնի նկարներ։§fill=#fff§"
 
 msgid "JustAnimates"
-msgstr ""
+msgstr "JustAnimates"
 
 msgid "§fill=#808080§Improved Toriel sprite art.§fill=#fff§"
-msgstr ""
+msgstr "§fill=#808080§Բարւոքեց Դորիէլի գծագրութիւնը։§fill=#fff§"
 
 msgid "Kite95"
-msgstr ""
+msgstr "Kite95"
 
 msgid ""
 "§fill=#808080§Created Frisk running animation\n"
 "and revised many key sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Գծեց Ֆրիսքին վազքի նկարները\n"
+"եւ սրբագրեց շատ կարեւոր նկարներ։§fill=#fff§"
 
 msgid "KodLenss"
-msgstr ""
+msgstr "KodLenss"
 
 msgid ""
 "§fill=#808080§Designed Outlands and\n"
 "Aerialis borders.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Գծեց Աութլանծի եւ\n"
+"Էրեալիսի սահմանները։§fill=#fff§"
 
 msgid "KrisDrmr"
-msgstr ""
+msgstr "KrisDrmr"
 
 msgid ""
 "§fill=#808080§Created sprites for Muffet,\n"
 "Cozmo, and Mettaton.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Գծեց նկարները Մաֆեդին,\n"
+"Գոզմօյին, եւ Մեդադոնին համար։§fill=#fff§"
 
 msgid "moons"
 msgstr ""
