@@ -10097,7 +10097,7 @@ msgstr ""
 
 msgid "<32>* I don't think anyone's going to replicate THAT stunt again."
 msgstr ""
-"<32>* 大概不會有人會再\n"
+"<32>* 以後可能不會再有人會\n"
 "  在你面前逞英雄了。"
 
 msgid "<32>{#p/basic}* Look at that..."
