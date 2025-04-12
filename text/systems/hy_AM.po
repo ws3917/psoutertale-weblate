@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-12 11:13+0000\n"
+"PO-Revision-Date: 2025-04-12 11:13+0000\n"
+"Last-Translator: Sevag Mora <77gamerr77@gmail.com>\n"
+"Language-Team: Armenian <https://translate.ws3917.space/projects/"
+"ps-outertale/0-systems/hy/>\n"
+"Language: hy_AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Մեծ շունջ մը կ'առնես։)"
@@ -241,22 +256,22 @@ msgid "Below (Explorer)"
 msgstr "Տակ (Փնտռող)"
 
 msgid "Main (Explorer)"
-msgstr ""
+msgstr "Գլխաւոր (Փնտռող)"
 
 msgid "Above (Explorer)"
-msgstr ""
+msgstr "Վեր (Փնտռող)"
 
 msgid "Menu (Explorer)"
-msgstr ""
+msgstr "Կարգաւորում (Փնտռող)"
 
 msgid "A"
-msgstr ""
+msgstr "Ա"
 
 msgid "C"
-msgstr ""
+msgstr "Ց"
 
 msgid "R"
-msgstr ""
+msgstr "Ռ"
 
 msgid "E"
 msgstr "Ե"
@@ -618,8 +633,6 @@ msgstr "§fill=#ff0§< ՀՆԱՐԻՉ >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< ԳՐՈՂ >§fill=#fff§"
@@ -805,26 +818,30 @@ msgstr ""
 "Գոզմօյին, եւ Մեդադոնին համար։§fill=#fff§"
 
 msgid "moons"
-msgstr ""
+msgstr "moons"
 
 msgid ""
 "§fill=#808080§Contributed over 40 colored\n"
 "battle sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Օգնեց աւելի քան 40 ներկուած\n"
+"կռիւի նկարներ։§fill=#fff§"
 
 msgid "XiaoYun"
-msgstr ""
+msgstr "XiaoYun"
 
 msgid ""
 "§fill=#808080§Designed 18 Outertale borders\n"
 "including Starton and CORE.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Հիմնեց 18 Outertale-ի սահմաններ\n"
+"մէջը Ստարդոնը ու ՔՈՐԸ։§fill=#fff§"
 
 msgid "§fill=#ff0§< TECHNICIAN >§fill=#fff§"
 msgstr "§fill=#ff0§< ՄԱՍՆԱԳԷՏ >§fill=#fff§"
 
 msgid "AnXing"
-msgstr ""
+msgstr "AnXing"
 
 msgid ""
 "§fill=#808080§Assisted with Android controller\n"
