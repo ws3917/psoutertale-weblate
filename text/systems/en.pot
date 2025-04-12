@@ -815,7 +815,7 @@ msgid ""
 "§fill=#808080§Contributed to code improvements\n"
 "and sprite implementation,\n"
 "as well as technical support\n"
-" during build.§fill=#fff§"
+"during build.§fill=#fff§"
 msgstr ""
 
 msgid "Onezhazha"

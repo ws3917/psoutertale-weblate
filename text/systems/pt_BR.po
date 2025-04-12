@@ -1,21 +1,6 @@
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-12 03:30+0000\n"
-"PO-Revision-Date: 2025-04-12 03:30+0000\n"
-"Last-Translator: ws3917 <ws3917@outlook.com>\n"
-"Language-Team: Portuguese (Brazil) <https://translate.ws3917.space/projects/"
-"ps-outertale/0-systems/pt_BR/>\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
-
-#
 
 msgid "(You take a deep breath.)"
 msgstr "(Você preenche seus pulmões.)"
@@ -647,6 +632,8 @@ msgstr "§fill=#ff0§< DESENVOLVEDOR >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
+msgid ""
+msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< ESCRITOR >§fill=#fff§"
@@ -882,7 +869,7 @@ msgid ""
 "§fill=#808080§Contributed to code improvements\n"
 "and sprite implementation,\n"
 "as well as technical support\n"
-" during build.§fill=#fff§"
+"during build.§fill=#fff§"
 msgstr ""
 
 msgid "Onezhazha"
@@ -3008,8 +2995,7 @@ msgid ""
 "When enabled, you can §fill=#fff§independently set the position\n"
 "and size of each directional key§fill=#808080§ for greater flexibility."
 msgstr ""
-"§fill=#ff0§Pressione [Z]§fill=#808080§ para ativar ou desativar as "
-"configurações de teclas direcionais individuais.\n"
+"§fill=#ff0§Pressione [Z]§fill=#808080§ para ativar ou desativar as configurações de teclas direcionais individuais.\n"
 "Quando ativado, você pode §fill=#fff§ definir a posição independentemente\n"
 "e tamanho de cada tecla direcional§fill=#808080§ para maior flexibilidade."
 
