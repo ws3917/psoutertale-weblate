@@ -1,6 +1,22 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-12 11:13+0000\n"
+"PO-Revision-Date: 2025-04-12 11:13+0000\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
+"1-outlands/ru/>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
@@ -4183,7 +4199,7 @@ msgid "<25>* The Outlands have been unusually silent today."
 msgstr "<25>* В Запределье сегодня необычно тихо..."
 
 msgid "<25>* I tried calling someone just now, but..."
-msgstr "<25>* Я только что пыталась дозвонится своему знакомому, но..."
+msgstr "<25>* Я только что пыталась дозвониться своему знакомому, но..."
 
 msgid "<25>* Nothing."
 msgstr "<25>* Никто не ответил."
@@ -4260,10 +4276,10 @@ msgid "<25>{#f/10}* Perhaps you really are different from the others."
 msgstr "<25>{#f/10}* Может, ты и вправду отличаешься от других..."
 
 msgid "<25>{#f/0}* ... well then."
-msgstr "<25>{#f/0}* ...В таком случае."
+msgstr "<25>{#f/0}* ...Ну и ладно."
 
 msgid "<25>{#f/0}* I will finish up here, and meet you back at the house."
-msgstr "<25>{#f/0}* Я закончу здесь, и встречу тебя у дома."
+msgstr "<25>{#f/0}* Я закончу здесь и встречу тебя у дома."
 
 msgid "<25>{#f/0}* Thank you for listening, my child."
 msgstr "<25>{#f/0}* Спасибо, что прислушался ко мне."
@@ -4404,13 +4420,13 @@ msgid "<25>{#f/5}* There are important errands I must run."
 msgstr "<25>{#f/5}* У меня есть срочные дела."
 
 msgid "<25>{#f/0}* While I am away, I expect you to be on your best behavior."
-msgstr "<25>{#f/0}* Веди себя хорошо."
+msgstr "<25>{#f/0}* Веди себя хорошо, пока меня нет."
 
 msgid "<25>{#f/1}* The puzzles ahead are yet to be explained, and..."
-msgstr "<25>{#f/1}* Дальше будут ещё головоломки, так что..."
+msgstr "<25>{#f/1}* Дальнейшие головоломки ещё нужно объяснить, и..."
 
 msgid "<25>{#f/0}* Leaving the room on your own may prove to be dangerous."
-msgstr "<25>{#f/0}* Если ты решишь пойти дальше в одиночку, будь осторожен."
+msgstr "<25>{#f/0}* ...покидать комнату тебе одному — опасно."
 
 msgid ""
 "<25>{#f/10}* Here.\n"
@@ -4429,7 +4445,7 @@ msgid "<26>{#f/23}* And stay out of trouble."
 msgstr "<26>{#f/23}* И не ищи неприятностей."
 
 msgid "<25>{#f/1}* Be good, alright?"
-msgstr "<25>{#f/1}* Будь послушным и жди здесь, хорошо?"
+msgstr "<25>{#f/1}* Будь послушным, хорошо?"
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr "<32>{#s/phone}{#p/event}* Звонок..."
@@ -4549,8 +4565,8 @@ msgid ""
 "<25>{#p/toriel}{#f/1}* Aha!\n"
 "* I heard that, you little white dog..."
 msgstr ""
-"<25>{#p/toriel}{#f/1}* Аха!\n"
-"* Я слышу тебя, мелкая псина..."
+"<25>{#p/toriel}{#f/1}* Ага!\n"
+"* Я слышу тебя, белый пёсик..."
 
 msgid "<25>{#f/6}* Now I am going to find you!"
 msgstr "<25>{#f/6}* Сейчас я тебя найду!"
@@ -4677,10 +4693,10 @@ msgid ""
 msgstr "<25>{#f/0}* Мне предстоит очень многое рассказать тебе о жизни здесь."
 
 msgid "<25>{#f/1}* First and foremost..."
-msgstr "<25>{#f/1}* Первое, и самое важное..."
+msgstr "<25>{#f/1}* Первое и наиболее важное —..."
 
 msgid "<25>{#f/0}* Puzzles!"
-msgstr "<25>{#f/0}* Головоломки!"
+msgstr "<25>{#f/0}* ...головоломки!"
 
 msgid "<25>{#f/0}* Allow me to perform this quick demonstration."
 msgstr "<25>{#f/0}* Позволь показать тебе."
@@ -4693,7 +4709,7 @@ msgstr ""
 "Аванпосте..."
 
 msgid "<25>{#f/0}* Solving puzzles is a part of our daily routine."
-msgstr "<25>{#f/0}* Решение головоломок часть ежедневной рутины."
+msgstr "<25>{#f/0}* Решение головоломок — это часть повседневной рутины."
 
 msgid ""
 "<25>{#f/0}* With time, and a little guidance, you will grow accustomed to "
@@ -4737,7 +4753,7 @@ msgid ""
 "* I can tell by the look on your face that you haven't yet."
 msgstr ""
 "<32>* Ха!\n"
-"* Я вижу по твоему лицу, что ты ещё не делал этого."
+"* Я вижу по твоему лицу, что ещё нет."
 
 msgid "<32>* I gotta tell you, it's tons of fun."
 msgstr "<32>* На самом деле это очень весело."
@@ -4760,7 +4776,7 @@ msgid "<32>* How does it feel?"
 msgstr "<32>* Что ты чувствуешь?"
 
 msgid "<32>* It's pretty great, right?"
-msgstr "<32>* Скажи что это круто."
+msgstr "<32>* Скажи, что это круто."
 
 msgid "<32>{#p/basic}{#n1}* I hear you're somewhat of a bully in these parts."
 msgstr "<32>{#p/basic}{#n1}* Я слышал про твои хулиганства."
