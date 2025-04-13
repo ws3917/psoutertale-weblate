@@ -2510,7 +2510,7 @@ msgid "Go back"
 msgstr "返回"
 
 msgid "OUTERTALE V5.1.0 (c) 2025 SPACEY_432"
-msgstr "OUTERTALE V5.1.0 (c) 2025 SPACEY_432"
+msgstr "OUTERTALE V75 最終版 (c) 2025 SPACEY_432"
 
 msgid "* (HP fully restored.)"
 msgstr "* （HP已回滿。）"
