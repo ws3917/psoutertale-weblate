@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-13 18:13+0000\n"
+"PO-Revision-Date: 2025-04-13 18:13+0000\n"
+"Last-Translator: Sevag Mora <77gamerr77@gmail.com>\n"
+"Language-Team: Armenian <https://translate.ws3917.space/projects/"
+"ps-outertale/0-systems/hy/>\n"
+"Language: hy_AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Մեծ շունջ մը կ'առնես։)"
@@ -618,8 +633,6 @@ msgstr "§fill=#ff0§< ՀՆԱՐԻՉ >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< ԳՐՈՂ >§fill=#fff§"
@@ -1323,29 +1336,37 @@ msgid ""
 "Trades Kisses\n"
 "For Supporters"
 msgstr ""
+"Համբոյր կ՛առնէ\n"
+"Օգնութեան Համար"
 
 msgid ""
 "Anti-Bullying\n"
 "Activist"
 msgstr ""
+"Յոխորտալու Դէմ\n"
+"Ծառայ"
 
 msgid "ASTRO SERF"
-msgstr ""
+msgstr "ԱՍՏՐՕ ՍԵՐՖ"
 
 msgid ""
 "Thinking About\n"
 "Its Antenna"
 msgstr ""
+"Կը Մտածէ Իր\n"
+"Անտեննային Մասին"
 
 msgid ""
 "Radio Station\n"
 "Sensation"
 msgstr ""
+"Ռատիօ Կայանի\n"
+"Համբաւ"
 
 msgid ""
 "Love Is On\n"
 "The Air"
-msgstr ""
+msgstr "Սէրը Օդերն Է"
 
 msgid ""
 "Emergency\n"
