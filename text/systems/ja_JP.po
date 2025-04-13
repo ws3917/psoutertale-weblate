@@ -2477,7 +2477,7 @@ msgstr ""
 msgid "Go back"
 msgstr "もどる"
 
-msgid "OUTERTALE V5.06 Preview 5 (c) 2025 SPACEY_432"
+msgid "OUTERTALE V5.1.0 (c) 2025 SPACEY_432"
 msgstr ""
 
 msgid "* (HP fully restored.)"

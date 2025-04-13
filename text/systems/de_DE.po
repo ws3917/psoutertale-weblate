@@ -2485,8 +2485,8 @@ msgstr ""
 msgid "Go back"
 msgstr "Geh zurück"
 
-msgid "OUTERTALE V5.06 Preview 5 (c) 2025 SPACEY_432"
-msgstr "OUTERTALE V5.06 Preview 5 (c) 2025 SPACEY_432"
+msgid "OUTERTALE V5.1.0 (c) 2025 SPACEY_432"
+msgstr "OUTERTALE V5.1.0 (c) 2025 SPACEY_432"
 
 msgid "* (HP fully restored.)"
 msgstr "* (HP vollständig wiederhergestellt.)"
