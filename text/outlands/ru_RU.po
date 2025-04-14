@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-13 18:13+0000\n"
-"PO-Revision-Date: 2025-04-14 06:04+0000\n"
+"PO-Revision-Date: 2025-04-14 14:29+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/ru/>\n"
@@ -9815,10 +9815,10 @@ msgid "<11>{#p/toriel}{#f/9}But the path to get there would be dangerous."
 msgstr "<11>{#p/toriel}{#f/9}Но дорога туда будет опасной."
 
 msgid "<11>{#p/toriel}{#f/14}So please... go back the other way."
-msgstr "<11>{#p/toriel}{#f/14}Так что пожалуйста... возвращайся назад."
+msgstr "<11>{#p/toriel}{#f/14}Так что прошу... возвращайся назад."
 
 msgid "<11>{#p/toriel}{#f/13}I know we do not have much..."
-msgstr "<11>{#p/toriel}{#f/13}Знаю, у нас много нет..."
+msgstr "<11>{#p/toriel}{#f/13}Знаю, у нас многого нет..."
 
 msgid "<11>{#p/toriel}{#f/10}But we can still have a good life."
 msgstr "<11>{#p/toriel}{#f/10}Но у нас всё ещё может быть хорошая жизнь."
@@ -9827,7 +9827,7 @@ msgid "<11>{#p/toriel}{#f/13}You and I, like a family..."
 msgstr "<11>{#p/toriel}{#f/13}Ты и я, как одна семья..."
 
 msgid "<11>{#p/toriel}{#f/10}Does that not sound good?"
-msgstr "<11>{#p/toriel}{#f/10}Разве это не звучит хорошо?"
+msgstr "<11>{#p/toriel}{#f/10}Разве это не хорошо звучит?"
 
 msgid "<11>{#p/toriel}{#f/21}..."
 msgstr "<11>{#p/toriel}{#f/21}..."
@@ -9872,7 +9872,7 @@ msgid "<32>{#p/story}* ..."
 msgstr "<32>{#p/story}* ..."
 
 msgid "<32>{#p/basic}* There must be another way..."
-msgstr "<32>{#p/basic}* Должно быть есть другой способ..."
+msgstr "<32>{#p/basic}* Должен быть другой способ..."
 
 msgid ""
 "<32>{#p/human}* (You ask Toriel to let you through.)\n"
@@ -9899,8 +9899,7 @@ msgid "<32>{#p/human}* (You once again begged Toriel to stop.)"
 msgstr "<32>{#p/human}* (Вы вновь умоляете Ториэль остановиться.)"
 
 msgid "<32>{#p/basic}* ... perhaps there is too much at stake for her."
-msgstr ""
-"<32>{#p/basic}* ... возможно, для неё слишком многое поставлено на карту."
+msgstr "<32>{#p/basic}* ... возможно, для неё многое лежит на чаше весов."
 
 msgid ""
 "<32>{#p/human}* (You yell at Toriel.)\n"
@@ -9913,8 +9912,7 @@ msgid "<32>{#p/human}* (You once again yell at Toriel.)"
 msgstr "<32>{#p/human}* (Вы вновь кричите на Ториэль.)"
 
 msgid "<32>{#p/basic}* ... perhaps talking won't do anymore good."
-msgstr ""
-"<32>{#p/basic}* ... Кажется, разговоры не приведут ни к чему хорошему."
+msgstr "<32>{#p/basic}* ... Кажется, разговоры ни к чему не приведут."
 
 msgid "<32>{#p/human}* (But you couldn't think of anything else to say.)"
 msgstr "<32>{#p/human}* (Вы не можете проронить ни слова.)"
@@ -10014,7 +10012,7 @@ msgid "<25>{#p/toriel}* This is Toriel."
 msgstr "<25>{#p/toriel}* Это Ториэль."
 
 msgid "<25>{#f/1}* You only wanted to say hello...?"
-msgstr "<25>{#f/1}* Ты позвонил мне просто чтобы поздороваться?.."
+msgstr "<25>{#f/1}* Ты позвонил мне, чтобы просто поздороваться?.."
 
 msgid ""
 "<25>{#f/0}* Well then.\n"
@@ -10053,7 +10051,7 @@ msgid "<25>{#f/1}* Why not use your imagination to distract yourself?"
 msgstr "<25>{#f/1}* Используй своё воображение!"
 
 msgid "<25>{#f/0}* Pretend you are... a fighter pilot!"
-msgstr "<25>{#f/0}* Представь что ты... пилот боевого звездолёта!"
+msgstr "<25>{#f/0}* Представь, что ты... пилот боевого звездолёта!"
 
 msgid ""
 "<25>{#f/1}* Twisting and twirling, doing barrel rolls at light speed..."
@@ -10456,7 +10454,7 @@ msgid ""
 "* A dark, sickly yellow liquid."
 msgstr ""
 "<32>{#p/basic}* Шипучая газировка: восстанавливает 8 ОЗ.\n"
-"[ADD]<32>{#p/basic}* Тёмная, блевотно-жёлтая жидкость."
+"[ADD]<32>{#p/basic}* Тёмная, тошнотворно жёлтая жидкость."
 
 msgid "Fizzli Soda"
 msgstr "Шипучая газировка"
@@ -10655,7 +10653,7 @@ msgid ""
 "* That must be where you crash-landed."
 msgstr ""
 "<25>{#p/toriel}{#f/0}* Ах, конечно.\n"
-"* Должно быть, именно тут ты совершил аварийную посадку."
+"* Должно быть тут ты потерпел крушение."
 
 msgid "<25>{#f/0}* The other humans who came here landed there, too."
 msgstr "<25>{#f/0}* Другие люди, прибывшие сюда, тоже приземлялись тут."
@@ -10733,7 +10731,7 @@ msgstr ""
 
 msgid ""
 "<25>{#p/toriel}* If this puzzle is not my favorite, I do not know what is!"
-msgstr "<25>{#p/toriel}* Возможно это мой любимый тип головоломок!"
+msgstr "<25>{#p/toriel}* Возможно, это мой любимый тип головоломок!"
 
 msgid "<25>* The way it teaches collaboration is a most valuable quality."
 msgstr "<25>* Они очень хорошо учат командной работе."
@@ -10875,7 +10873,7 @@ msgid "<25>{#f/1}* It involved a series of many intricate puzzles..."
 msgstr "<25>{#f/1}* Она включала в себя множество сложных головоломок..."
 
 msgid "<25>{#f/0}* And a certain deceptive baked good."
-msgstr "<25>{#f/0}* ...и сообщение что торт это ложь."
+msgstr "<25>{#f/0}* ...и сообщение о лживой природе выпечки."
 
 msgid "<25>{#f/5}* It is a shame you refused to solve it."
 msgstr "<25>{#f/5}* Жаль, что ты отказался решать её."
@@ -10896,7 +10894,7 @@ msgid "<25>{#f/0}* Both they and I have a mutual understanding about this."
 msgstr "<25>{#f/0}* Они хорошо понимают мои мотивы."
 
 msgid "<25>{#f/0}* That is why the Froggit left so readily."
-msgstr "<25>{#f/0}* Именно поэтому тот квакушёнок ушёл не сопротивляясь."
+msgstr "<25>{#f/0}* Именно поэтому тот квакушёнок ушёл, не сопротивляясь."
 
 msgid ""
 "<25>{#p/toriel}{#f/1}* My idea with building this room to be so long and "
@@ -10912,7 +10910,7 @@ msgstr ""
 
 msgid ""
 "<25>{#f/1}* After all, who wants to walk in a straight line all their life?"
-msgstr "<25>{#f/1}* Ведь кто захочет всю жизнь идти прямо?"
+msgstr "<25>{#f/1}* Ведь кто захочет всю жизнь идти по прямой?"
 
 msgid "<25>{#f/0}* A little change of pace can be quite nice."
 msgstr ""
@@ -11387,7 +11385,7 @@ msgid "<25>{#f/1}* In the past, I lived in the Citadel..."
 msgstr "<25>{#f/1}* Раньше я жила в Цитадели..."
 
 msgid "<25>{#f/0}* In a house that this one was made to resemble."
-msgstr "<25>{#f/0}* В доме очень похожем на этот."
+msgstr "<25>{#f/0}* В доме, очень похожем на этот."
 
 msgid "<25>{#f/5}* Once in a while, I forget that I am not really there..."
 msgstr "<25>{#f/5}* Иногда я забываю, что это в прошлом..."
@@ -11825,7 +11823,7 @@ msgstr ""
 
 msgid ""
 "<25>{#f/1}* Sans mentioned that his brother often updates the pattern..."
-msgstr "<25>{#f/1}* Санс упомянал, что его брат часто обновляет узор..."
+msgstr "<25>{#f/1}* Санс упоминал, что его брат часто обновляет узор..."
 
 msgid "<25>{#f/0}* ... to maintain a strong \"rotating password.\""
 msgstr "<25>{#f/0}* ...для поддержания надёжного «ротационного пароля»."
@@ -11858,8 +11856,8 @@ msgstr "<25>{#f/0}* Очевидно, он многому научился у т
 
 msgid "<25>{#p/toriel}{#f/1}* Please, can somebody explain \"dog justice?\""
 msgstr ""
-"<25>{#p/toriel}{#f/1}* Пожалуйста, кто-нибудь может объяснить, что такое "
-"«собачья справедливость»?"
+"<25>{#p/toriel}{#f/1}* Пожалуйста, кто-нибудь может объяснить, что такое «"
+"собачье правосудие»?"
 
 msgid "<25>{#f/0}* It is an odd phrase I continue to hear every so often."
 msgstr "<25>{#f/0}* Это странная фраза, которую я слышу время от времени."
@@ -11871,7 +11869,7 @@ msgstr ""
 "<25>{#f/5}* Я знаю одного щеночка, который иногда посещает Запределье..."
 
 msgid "<25>{#f/0}* Perhaps that is who is deserving of justice."
-msgstr "<25>{#f/0}* Возможно, именно он заслуживает справедливости."
+msgstr "<25>{#f/0}* Возможно, именно он заслуживает правосудия."
 
 msgid "<25>{#p/toriel}{#f/1}* When this bridge was first constructed..."
 msgstr "<25>{#p/toriel}{#f/1}* Когда этот мост был впервые построен..."
@@ -12009,7 +12007,7 @@ msgid ""
 "* I just thought that I should let you know."
 msgstr ""
 "<25>{#f/1}* Извини меня.\n"
-"* Я просто подумала, что должна дать вам знать это."
+"* Я просто подумала, что должна предупредить."
 
 msgid ""
 "<25>{#p/toriel}{#f/7}* So you found a place in the factory with good "
