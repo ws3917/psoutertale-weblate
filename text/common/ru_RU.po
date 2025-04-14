@@ -1,17 +1,16 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-04-14 16:56+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "6-common/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.10.4\n"
@@ -11429,8 +11428,9 @@ msgstr ""
 msgid "* Yell"
 msgstr ""
 
+#, fuzzy
 msgid "* ... but everybody ran."
-msgstr ""
+msgstr "* Но все сбежали..."
 
 msgid "* ... but nobody came."
 msgstr "* Но никто не пришёл..."
@@ -11493,13 +11493,15 @@ msgid "<32>{#p/story}* The dummy looks like it's going to fall over."
 msgstr "<32>{#p/story}* Манекен готов провалиться сквозь землю."
 
 msgid "<09>{#p/basic}{#i/20}{~}.....{}"
-msgstr ""
+msgstr "<09>{#p/basic}{#i/20}{~}.....{}"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}{#x3}Ugh, you're WASTING my time!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}{#x3}Тьфу, ты тратишь моё время!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Oh.. how strange."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ох.. как странно."
 
 msgid ""
 "<32>{#p/story}* GLAD DUMMY - ATK 0 DEF 0\n"
