@@ -14,7 +14,7 @@
     "12-multiple": "\"<p:player><f:surprise>It's a tree! (placeholder)\"",
     "13-multiple": "\"<p:player>placeholder :3\"",
     "0-single": "Press [X] while moving\nto sprint.",
-    "1-single": "(Press [\u0010] [\u0011] [\u0012] [\u0013] to move.)\n(Press [Z] to select a pipe.)",
+    "1-single": "(Press [←] [↑] [→] [↓] to move.)\n(Press [Z] to select a pipe.)",
     "2-single": "(Press [C] to rotate the pipe.)",
     "3-single": "(Arrange the pipes to connect\nthe two endpoints.)",
     "4-single": "(Press [X] to exit.)",
