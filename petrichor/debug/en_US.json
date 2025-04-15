@@ -1,5 +1,5 @@
 {
-    "0-multiple": "\"sv <key> <value> - set save file value\",\nu\"tp <x> <y> - teleport player\"",
+    "0-multiple": "\"ed - toggle engine debug display\",\n\"fc - toggle map freecam\",\n\"fps - get fps\",\n\"fps <value> - set fps\",\n\"help [page] - this command\",\n\"r - return to last save\",\n\"reset [level] - reset save file\",\n\"rm - get map room index\",\n\"rm <value> - set map room index\",\n\"sk [page] - get save file keys\",\n\"spd - get game speed\",\n\"spd <value> - set game speed\",\n\"sv <key> - get save file value\",\n\"sv <key> <value> - set save file value\",\n\"tp <x> <y> - teleport player\"\n    ",
     "0-single": "ed - toggle engine debug display",
     "1-single": "fc - toggle map freecam",
     "2-single": "fps - get fps",
