@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-16 11:17+0000\n"
+"PO-Revision-Date: 2025-04-16 11:17+0000\n"
+"Last-Translator: Chistosito <souzadecarvalhofabio1@gmail.com>\n"
+"Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
+"2-starton/es/>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -2154,25 +2169,25 @@ msgid "<25>{#f/4}* See you never."
 msgstr "<25>{#f/4}* Hasta nunca."
 
 msgid "<32>{#p/human}* (You place your hands on the heavily scratched door.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Pones tus manos en la arañada puerta.)"
 
 msgid "<32>{#p/basic}* The door is covered in cat- claw scratches."
-msgstr ""
+msgstr "<32>{#p/basic}* La puerta está cubierta en arañazos de pata de gato."
 
 msgid "<32>{#p/basic}* ... but everybody ran."
-msgstr ""
+msgstr "<32>{#p/basic}* ... pero todos huyeron."
 
 msgid "<32>{#p/basic}* ... but nobody came."
-msgstr ""
+msgstr "<32>{#p/basic}* ... pero nadie vino."
 
 msgid "<32>{#p/human}* (But there was nobody around to occupy the seat.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Pero no había nadie alrededor para ocupar el sitio.)"
 
 msgid "<32>{#p/human}* (But there was nobody here.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Pero no había nadie aquí.)"
 
 msgid "<32>{#p/basic}* Nobody's home."
-msgstr ""
+msgstr "<32>{#p/basic}* No hay nadie en casa."
 
 msgid "<32>{#p/human}* (You can't seem to find a way in.)"
 msgstr ""
@@ -5194,8 +5209,6 @@ msgstr "¡HOLA!"
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
