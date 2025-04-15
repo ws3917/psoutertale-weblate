@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-04-14 16:56+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"PO-Revision-Date: 2025-04-15 08:12+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "6-common/ru/>\n"
 "Language: ru_RU\n"
@@ -16,7 +16,6 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid "The player did everything they could..."
 msgstr ""
 
@@ -377,7 +376,6 @@ msgstr ""
 
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr ""
-
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr "<32>{#s/phone}{#p/event}* Звонок..."
@@ -11428,9 +11426,8 @@ msgstr ""
 msgid "* Yell"
 msgstr ""
 
-#, fuzzy
 msgid "* ... but everybody ran."
-msgstr "* Но все сбежали..."
+msgstr "* Все сбежали..."
 
 msgid "* ... but nobody came."
 msgstr "* Но никто не пришёл..."
@@ -11495,13 +11492,11 @@ msgstr "<32>{#p/story}* Манекен готов провалиться скв�
 msgid "<09>{#p/basic}{#i/20}{~}.....{}"
 msgstr "<09>{#p/basic}{#i/20}{~}.....{}"
 
-#, fuzzy
 msgid "<11>{#p/basic}{~}{#x3}Ugh, you're WASTING my time!"
-msgstr "<11>{#p/basic}{~}{#x3}Тьфу, ты тратишь моё время!"
+msgstr "<11>{#p/basic}{~}{#x3}Тьфу, ты ТРАТИШЬ моё время!"
 
-#, fuzzy
 msgid "<08>{#p/basic}{~}Oh.. how strange."
-msgstr "<08>{#p/basic}{~}Ох.. как странно."
+msgstr "<08>{#p/basic}{~}Как странно..."
 
 msgid ""
 "<32>{#p/story}* GLAD DUMMY - ATK 0 DEF 0\n"
