@@ -1,5 +1,5 @@
 {
-    "0-multiple": "\"sv <key> <value> - set save file value\",\n \"tp <x> <y> - teleport player\"",
+    "0-multiple": "\"sv <key> <value> - set save file value\",\n\"tp <x> <y> - teleport player\"",
     "0-single": "ed - toggle engine debug display",
     "1-single": "fc - toggle map freecam",
     "2-single": "fps - get fps",
