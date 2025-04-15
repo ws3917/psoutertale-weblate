@@ -11,7 +11,7 @@
     "9-multiple": "Take it off\nDo nothing",
     "10-multiple": "<p:player><f:sigh>(I'll take it off for now.)",
     "11-multiple": "<p:player>(A worn rope, nearly at its end.)",
-    "12-multiple": "<p:player><f:side>(If only this were longer...) accessor.item_cover and <p:player><f:sweat4>(... then I wouldn't have to make ropes out of blankets.) or <p:player>(... maybe there's something else I could make a rope out of.)",
+    "12-multiple": "<p:player><f:side>(If only this were longer...)\n<p:player><f:sweat4>(... then I wouldn't have to make ropes out of blankets.)\n<p:player>(... maybe there's something else I could make a rope out of.)",
     "13-multiple": "<p:player>(A worn rope, nearly at its end.)\n<p:player><f:determined>(Nothing like the one I made myself.)",
     "14-multiple": "<p:player>An average pair of kitchen scissors.",
     "0-single": "Pail",
