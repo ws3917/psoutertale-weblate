@@ -1,23 +1,21 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-04-14 16:56+0000\n"
+"PO-Revision-Date: 2025-04-21 11:14+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -4917,7 +4915,6 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-
 msgid "FAILED TO CONNECT..."
 msgstr ""
 
@@ -7590,16 +7587,18 @@ msgid "<25>{#f/2}* i've got better things to do."
 msgstr "<25>{#f/2}* у меня есть дела и получше."
 
 msgid "<25>{#f/5}* despite not being an actual sentry, he sure ACTS like one."
-msgstr "<25>{#f/5}* пусть он и не страж, но в РОЛЬ он вцепился крепче жука."
+msgstr ""
+"<25>{#f/5}* пусть он и не страж,\n"
+"  но в РОЛЬ он вцепился крепче жука."
 
 msgid "<25>{#f/0}* in fact, i think that's him over there."
-msgstr "<25>{#f/0}* по правде, я уже вижу его вдалеке."
+msgstr "<25>{#f/0}* кстати, он как раз идёт сюда."
 
 msgid ""
 "<25>* i have an idea.\n"
 "* jump across that gap, will ya?"
 msgstr ""
-"<25>* у меня мысль.\n"
+"<25>* придумал.\n"
 "* можешь прыгнуть через яму?"
 
 msgid ""
@@ -7607,7 +7606,7 @@ msgid ""
 "* my bro set the gravity too low to stop anyone."
 msgstr ""
 "<26>{#f/4}* да, просто прыгни.\n"
-"* мой бро установил слишком низкую силу тяжести."
+"[ADD]<26>{#f/4}* мой бро установил слишком низкую силу тяжести."
 
 msgid "<25>{#p/sans}* well, here we are."
 msgstr "<25>{#p/sans}* вот мы и здесь."
@@ -7629,7 +7628,7 @@ msgid "<25>{#p/sans}* quick, to the gravometric inverter."
 msgstr "<25>{#p/sans}* быстрее, к гравометрическому инвертору."
 
 msgid "<25>{#p/sans}* 'sup, bro?"
-msgstr "<25>{#p/sans}* прив, бро?"
+msgstr "<25>{#p/sans}* прив, бро."
 
 msgid "<18>{#p/papyrus}{#x2}{#f/7}YOU KNOW WHAT \"SUP,\" BROTHER!"
 msgstr "<18>{#p/papyrus}{#x2}{#f/7}ЧТО ЕЩЁ ЗА «ПРИВ», БРАТ!"
@@ -7692,20 +7691,18 @@ msgstr ""
 "ПРИЗНАНИЕ..."
 
 msgid "<18>{#f/9}I WILL FINALLY BE ABLE TO JOIN THE ROYAL GUARD!"
-msgstr "<18>{#f/9}Я НАКОНЕЦ-ТО ПРИСОЕДИНЮСЬ К КОРОЛЕВСКОЙ ГВАРДИИ!"
+msgstr "<18>{#f/9}Я ПРИСОЕДИНЮСЬ К КОРОЛЕВСКОЙ ГВАРДИИ!"
 
 msgid "<25>{#p/sans}* hmm..."
 msgstr "<25>{#p/sans}* хм-м..."
 
 msgid "<25>{#f/2}* maybe this gadget will help you."
-msgstr "<25>{#f/2}* может быть, это устройство поможет тебе."
+msgstr "<25>{#f/2}* может это устройство поможет тебе?"
 
 msgid ""
 "<18>{#p/papyrus}{#x3}{#f/7}SANS, THAT WON'T DO ANYTHING!\n"
 "YOU LAZYBONES!"
-msgstr ""
-"<18>{#p/papyrus}{#x3}{#f/7}ЭТО НИЧЕМ НЕ ПОМОЖЕТ, САНС!\n"
-"ТЫ ЛЕНИВАЯ КОСТЕКУЧА!"
+msgstr "<18>{#p/papyrus}{#x3}{#f/7}ЭТО НЕ ПОМОЖЕТ! САНС, ТЫ ЛЕНИВЕЦ!"
 
 msgid "<18>{#x1}{#f/5}YOU KNOW, YOU ARE CAPABLE OF SO MUCH MORE, YET..."
 msgstr "<18>{#x1}{#f/5}ТЫ ЗНАЕШЬ, ЧТО СПОСОБЕН НА БОЛЬШЕЕ, НО..."
