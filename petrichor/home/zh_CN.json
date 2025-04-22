@@ -27,7 +27,7 @@
     "25-multiple": "<h:a><p:none>（你把那本书拿了下来。）",
     "26-multiple": "<p:none>（你打算不这么做。）",
     "27-multiple": "<p:player><f:sweat>...\n<p:player><f:sweat>（这好像不是我的床吧。）",
-    "28-multiple": "",
+    "28-multiple": "<p:player><f:sweat5>（...好像睡觉用的天线不太对...）",
     "29-multiple": "<p:player><f:what>（不对... 这压根就不是我家啊。）\n<p:player><f:confused>（我咋就来这了？\\n难不成... 有人把我绑了？）",
     "30-multiple": "<p:player><f:side>（谁干的？我一点印象都没...）",
     "31-multiple": "<p:none>带走吗？",
