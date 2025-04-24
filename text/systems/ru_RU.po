@@ -1,23 +1,21 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 12:51+0000\n"
-"PO-Revision-Date: 2025-04-19 12:51+0000\n"
+"PO-Revision-Date: 2025-04-24 21:44+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/ru/>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid "(You take a deep breath.)"
 msgstr "(Вы делаете глубокий вдох.)"
 
@@ -63,7 +61,7 @@ msgid ""
 "      and $(y)G."
 msgstr ""
 "    * Убежали с $(x) ОП\n"
-"      и $(y) М."
+"      и $(y) М."
 
 msgid "* Assist"
 msgstr "* Помочь"
@@ -625,7 +623,6 @@ msgstr "§fill=#ff0§< РАЗРАБОТЧИК >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< СЦЕНАРИЙ >§fill=#fff§"
 
@@ -741,7 +738,7 @@ msgid "Valor52"
 msgstr "Valor52"
 
 msgid "§fill=#ff0§< ARTIST (CONTINUED) >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ХУДОЖНИКИ (ДОП. РАБОТА) >§fill=#fff§"
 
 msgid "Abb"
 msgstr ""
@@ -750,6 +747,8 @@ msgid ""
 "§fill=#808080§Created one border, fanart,\n"
 "and several sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Создал рамку, фанарт,\n"
+"и несколько спрайтов.§fill=#fff§"
 
 msgid "C-G_O_A_T"
 msgstr ""
@@ -758,6 +757,8 @@ msgid ""
 "§fill=#808080§Colored dialogue sprites for\n"
 "Alphys, Asriel, Undyne, etc.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Цветные диалоговые спрайты для\n"
+"Альфис, Азриэля, Андайн, и т.д.§fill=#fff§"
 
 msgid "DarkFlameWeaver"
 msgstr ""
@@ -2107,7 +2108,7 @@ msgid "ENABLED"
 msgstr ""
 
 msgid "Press [X] to Finish"
-msgstr ""
+msgstr "Закрыть [X]"
 
 msgid "Frisk"
 msgstr "Фриск"
@@ -2186,7 +2187,7 @@ msgid "OUTERTALE V5.1.0 (c) 2025 SPACEY_432"
 msgstr ""
 
 msgid "* (HP fully restored.)"
-msgstr ""
+msgstr "* (Ваши ОЗ полностью восполнены.)"
 
 msgid "* (You recovered $(x) HP.)"
 msgstr ""
@@ -2243,7 +2244,7 @@ msgid "Return"
 msgstr "Закрыть"
 
 msgid "File saved."
-msgstr "Файл сохранён."
+msgstr "Сохранено."
 
 msgid "SETTINGS"
 msgstr "НАСТРОЙКИ"
@@ -2647,6 +2648,9 @@ msgid ""
 "Non-canon\n"
 "timeline."
 msgstr ""
+"§fill=#ff0§Внимание:\n"
+"Не канон.\n"
+"линия."
 
 msgid "KILLS"
 msgstr ""
@@ -2667,73 +2671,77 @@ msgid ""
 "<24>{#p/storyteller}Long ago, two species ruled the solar system: HUMANS and"
 " MONSTERS.{^35}{}"
 msgstr ""
+"<25>{#p/storyteller}Давным-давно расы ЛЮДЕЙ и МОНСТРОВ правили Солнечной "
+"системой.{^35}{}"
 
 msgid "<24>As time passed, a war broke out between the two species.{^35}{}"
-msgstr ""
+msgstr "<24>Со временем между ними вспыхнула война.{^35}{}"
 
 msgid ""
 "<24>After the MONSTERS' home planet was destroyed, HUMANS declared "
 "victory.{^35}{}"
-msgstr ""
+msgstr "<24>Исходом войны стало уничтожение планеты МОНСТРОВ.{^35}{}"
 
 msgid ""
 "<24>The remaining MONSTERS were banished to an abandoned outpost.{^35}{}"
-msgstr ""
+msgstr "<24>Оставшихся МОНСТРОВ сослали на давно заброшенный Аванпост.{^35}{}"
 
 msgid ""
 "<24>A powerful force field was erected, and the MONSTERS were sealed "
 "in.{^35}{}"
-msgstr ""
+msgstr "<24>Там МОНСТРОВ заперли, возведя сильное защитное поле.{^35}{}"
 
 msgid "<24>Many years later.{^8}.{^8}.{^35}{}"
-msgstr ""
+msgstr "<24>Много лет спустя.{^8}.{^8}.{^35}{}"
 
 msgid ""
 "<#24>     EBOTT SECTOR     \n"
 "         251X{^35}{}"
 msgstr ""
+"<#24>      СЕКТОР ЭБОТТ     \n"
+"          251Х{^35}{}"
 
 msgid "<24>Tales speak of a place from which spacecraft never return.{^35}{}"
-msgstr ""
+msgstr "<24>Говорят, это место, откуда никогда не возвращаются.{^35}{}"
 
 msgid "<24>{^100}{}"
-msgstr ""
+msgstr "<24>{^100}{}"
 
 msgid "<24>{^35}{}"
-msgstr ""
+msgstr "<24>{^35}{}"
 
 msgid "Resume Canon Timeline"
-msgstr ""
+msgstr "Продолжить каноничную линию"
 
 msgid "Start Canon Timeline"
-msgstr ""
+msgstr "Начать каноничную линию"
 
 msgid "Other Slots"
-msgstr ""
+msgstr "Другие линии"
 
 msgid "Bisect"
-msgstr ""
+msgstr "Поделить"
 
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 msgid "[ESC] to Cancel / [ENTER] to Confirm"
-msgstr ""
+msgstr "Отмена [ESC] / Подтвердить [ENTER]"
 
 msgid "Press any button on your gamepad to open the keyboard."
-msgstr ""
+msgstr "Чтобы открыть клавиатуру, нажмите любую кнопку на вашем контроллере."
 
 msgid "Launch"
-msgstr ""
+msgstr "Запуск"
 
 msgid "Rename"
-msgstr ""
+msgstr "Переим."
 
 msgid "Create New"
-msgstr ""
+msgstr "Создать новую"
 
 msgid "Enter Timeline Name"
-msgstr ""
+msgstr "Введите название линии"
 
 msgid "Are You Sure?"
-msgstr ""
+msgstr "Вы уверены?"
