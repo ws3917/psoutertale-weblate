@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 12:51+0000\n"
-"PO-Revision-Date: 2025-04-24 21:44+0000\n"
+"PO-Revision-Date: 2025-04-25 01:13+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/ru/>\n"
@@ -2120,7 +2120,7 @@ msgid "\\u221e"
 msgstr ""
 
 msgid "[PRESS Z OR ENTER]"
-msgstr ""
+msgstr "[НАЖМИТЕ Z ИЛИ ENTER]"
 
 msgid "LV"
 msgstr "УР"
@@ -2202,16 +2202,16 @@ msgid "* (You gained $(x) HP.)"
 msgstr ""
 
 msgid "USE"
-msgstr ""
+msgstr "ИСП."
 
 msgid "EQUIP"
-msgstr ""
+msgstr "ЭКИП."
 
 msgid "INFO"
-msgstr ""
+msgstr "ОПИС."
 
 msgid "DROP"
-msgstr ""
+msgstr "БРОС."
 
 msgid "Continue"
 msgstr "Продолжить"
@@ -2223,22 +2223,22 @@ msgid "Reset"
 msgstr "Сброс"
 
 msgid "True Reset"
-msgstr ""
+msgstr "Истинный сброс"
 
 msgid "Name the stranded human."
-msgstr ""
+msgstr "Назовите упавшего человека."
 
 msgid "Quit"
-msgstr ""
+msgstr "Выйти"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Done"
-msgstr ""
+msgstr "Подтв."
 
 msgid "§fill=#808080§ [ESC] - Quit / [ENTER] - Done"
-msgstr ""
+msgstr "§fill=#808080§ [ESC] - Выйти / [ENTER] - Подтв."
 
 msgid "Return"
 msgstr "Закрыть"
