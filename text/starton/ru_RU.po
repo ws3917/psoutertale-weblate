@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-04-24 10:13+0000\n"
+"PO-Revision-Date: 2025-04-25 14:13+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -65,8 +65,7 @@ msgid "<25>{#f/1}* That short skeleton gave me a bunch of these earlier."
 msgstr "<25>{#f/1}* Тот костлявый коротышка отдал мне это."
 
 msgid "<25>{#f/2}* He also gave me some digital thing with a lot of money..."
-msgstr ""
-"<25>{#f/2}* Ещё он мне дал какую-то цифровую штуковину с кучей денег..."
+msgstr "<25>{#f/2}* Ещё он мне дал какую-то цифровую штучку с кучей денег..."
 
 msgid "<25>{#f/1}* I guess he really likes me, haha."
 msgstr "<25>{#f/1}* Кажись я ему приглянулся, ха-ха."
@@ -218,25 +217,25 @@ msgid "<32>{#p/basic}* It's out of service."
 msgstr "<32>{#p/basic}* Сломано."
 
 msgid "<32>{#p/human}* (You reach for the jukebox...)"
-msgstr ""
+msgstr "<35>{#p/human}* (Вы подошли к музыкальному автомату...)"
 
 msgid "<32>{#p/basic}* This jukebox only plays music you've heard before."
-msgstr ""
+msgstr "<32>{#p/basic}* Он играет только то, что вы слышали ранее."
 
 msgid "* (Play a song?)"
-msgstr ""
+msgstr "* (Сыграть музыку?)"
 
 msgid "Track 01"
-msgstr ""
+msgstr "Трек №1"
 
 msgid "???"
-msgstr ""
+msgstr "???"
 
 msgid "Track 02"
-msgstr ""
+msgstr "Трек №2"
 
 msgid "Track 03"
-msgstr ""
+msgstr "Трек №3"
 
 msgid "Cancel"
 msgstr "Отмена"
@@ -266,16 +265,16 @@ msgid "<32>{#p/human}* (It sounds like a song is currently playing.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* Currently playing \"Track 01\""
-msgstr ""
+msgstr "<32>{#p/basic}* Сейчас играет трек №1."
 
 msgid "<32>{#p/basic}* Currently playing \"Track 02\""
-msgstr ""
+msgstr "<32>{#p/basic}* Сейчас играет трек №2."
 
 msgid "<32>{#p/basic}* Currently playing \"Track 03\""
-msgstr ""
+msgstr "<32>{#p/basic}* Сейчас играет трек №3."
 
 msgid "* (Stop playback?)"
-msgstr ""
+msgstr "* (Прервать?)"
 
 msgid "<32>{#p/basic}{#npc/a}* That's more like it!"
 msgstr ""
