@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-04-26 22:26+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -7991,26 +7991,22 @@ msgid ""
 "W.T.F."
 msgstr "<25>{#p/sans}* как человек, ты, наверное, никогда не слышал о Ч.З.Х."
 
-#, fuzzy
 msgid "<25>{#f/2}* that's short for \"wide- area troposphere framework.\""
 msgstr "<25>{#f/2}* это сокращение для «чрезмерно зажигательного химиката»."
 
-#, fuzzy
 msgid ""
 "<25>{#p/sans}* if the W.T.F. were to drop, the air around us would "
 "disappear."
 msgstr ""
-"<25>{#p/sans}* если сюда сбросить ЧЗХ, воздух вокруг нас пропадёт вовсе."
+"<25>{#p/sans}* если сюда сбросить Ч.З.Х., воздух вокруг нас пропадёт вовсе."
 
-#, fuzzy
 msgid ""
 "<25>{#f/3}* don't worry, though.\n"
 "* i {@fill=#ff0}swear{@fill=#fff} it's never happened before."
 msgstr ""
-"<25>{#f/3}* впрочем, не волнуйся.\n"
+"<26>{#f/3}* впрочем, не волнуйся.\n"
 "* чтобы язык у меня {@fill=#ff0}отсох{@fill=#fff}, если это случалось раньше."
 
-#, fuzzy
 msgid "<25>{#p/sans}{#f/2}* wide-area troposphere framework."
 msgstr "<25>{#p/sans}{#f/2}* чрезмерно зажигательный химикат."
 
