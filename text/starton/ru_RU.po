@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-04-25 14:13+0000\n"
+"PO-Revision-Date: 2025-04-26 20:31+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -7818,43 +7818,55 @@ msgstr ""
 "<32>{#p/basic}* Это книга о неевклидовой геометрии.\n"
 "* Собственность некой Альфис."
 
+#, fuzzy
 msgid "* (Take a look inside?)"
-msgstr ""
+msgstr "* (Заглянуть внутрь?)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You look inside the book...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы открыли книгу...)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Inside the geometry book was a joke book."
-msgstr ""
+msgstr "<32>{#p/basic}* Внутри книги по геометрии был сборник шуток."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Inside the joke book was another geometry book."
-msgstr ""
+msgstr "<32>{#p/basic}* Внутри сборника шуток была книга по геометрии."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Inside the geometry book was another joke book."
-msgstr ""
+msgstr "<32>{#p/basic}* Внутри книги по геометрии был очередной сборник шуток."
 
 msgid "<32>{#p/basic}* It's another geometry book."
-msgstr ""
+msgstr "<32>{#p/basic}* Это ещё одна книга по геометрии."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's another joke book."
-msgstr ""
+msgstr "<32>{#p/basic}* И ещё один сборник шуток."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a note from Sans."
-msgstr ""
+msgstr "<32>{#p/basic}* Здесь записка от Санса."
 
+#, fuzzy
 msgid ""
 "<32>{#p/without}* \"why so serious?\"\n"
 "* \"it's just a bad joke.\""
 msgstr ""
+"<32>{#p/without}* \"Чего ты такой серьёзный?\"\n"
+"* \"это просто дурная шутка.\""
 
 msgid "<33>{#p/without}* \"heh...\""
 msgstr ""
 
+#, fuzzy
 msgid "<33>{#p/without}* \"don't read into it too deeply.\""
-msgstr ""
+msgstr "<33>{#p/without}* \"не вчитывайся слишком глубоко.\""
 
+#, fuzzy
 msgid "<32>{#p/basic}* ... this is the worst joke I have ever experienced."
-msgstr ""
+msgstr "<32>{#p/basic}* ...это худшая шутка на моей памяти."
 
 msgid "<25>{#p/sans}* 'sup."
 msgstr ""
@@ -7908,17 +7920,20 @@ msgstr ""
 msgid "<25>{#p/sans}{#f/3}* ..."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Don't push your luck."
-msgstr ""
+msgstr "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Не играй с судьбой."
 
 msgid "{*}{#s.resume}{%}"
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#p/sans}* hey, here's something important to remember."
-msgstr ""
+msgstr "<25>{#p/sans}* эй, кое-что важно помнить."
 
+#, fuzzy
 msgid "<25>* my brother has a very {@fill=#00a2e8}special attack{@fill=#fff}."
-msgstr ""
+msgstr "<25>* у моего брата есть {@fill=#00a2e8}особая атака{@fill=#fff}."
 
 msgid ""
 "<25>* if you see an {@fill=#ff993d}orange attack{@fill=#fff}, you'll get "
@@ -7959,26 +7974,34 @@ msgid ""
 "* boney hot coals."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<25>{#p/sans}* since you're a human, you've probably never heard of the "
 "W.T.F."
-msgstr ""
+msgstr "<25>{#p/sans}* как человек, ты, наверное, никогда не слышал о ЧЗХ."
 
+#, fuzzy
 msgid "<25>{#f/2}* that's short for \"wide- area troposphere framework.\""
-msgstr ""
+msgstr "<25>{#f/2}* это сокращение для \"чрезмерно зажигательного химиката\"."
 
+#, fuzzy
 msgid ""
 "<25>{#p/sans}* if the W.T.F. were to drop, the air around us would "
 "disappear."
 msgstr ""
+"<25>{#p/sans}* если сюда сбросить ЧЗХ, воздух вокруг нас пропадёт вовсе."
 
+#, fuzzy
 msgid ""
 "<25>{#f/3}* don't worry, though.\n"
 "* i {@fill=#ff0}swear{@fill=#fff} it's never happened before."
 msgstr ""
+"<25>{#f/3}* впрочем, не волнуйся.\n"
+"* чтобы язык у меня {@fill=#ff0}отсох{@fill=#fff}, если это случалось раньше."
 
+#, fuzzy
 msgid "<25>{#p/sans}{#f/2}* wide-area troposphere framework."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* чрезмерно зажигательный химикат."
 
 msgid "<25>{#p/sans}* actually, that spaghetti from earlier..."
 msgstr ""
