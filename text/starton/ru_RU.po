@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-04-26 20:53+0000\n"
+"PO-Revision-Date: 2025-04-26 22:26+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -7928,44 +7928,63 @@ msgstr "<25>{#p/sans}* эй, тебе стоит знать кое-что."
 msgid "<25>* my brother has a very {@fill=#00a2e8}special attack{@fill=#fff}."
 msgstr "<25>* у моего брата есть {@fill=#00a2e8}особая атака{@fill=#fff}."
 
+#, fuzzy
 msgid ""
 "<25>* if you see an {@fill=#ff993d}orange attack{@fill=#fff}, you'll get "
 "hurt if you're not moving."
 msgstr ""
+"<25>* если видишь {@fill=#ff993d}оранжевую атаку{@fill=#fff}, ты получишь "
+"урон, если не движешься."
 
+#, fuzzy
 msgid "<25>{#f/3}* here's an easy way to keep it in mind."
-msgstr ""
+msgstr "<25>{#f/3}* есть простой способ запомнить это."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* imagine hot coals.\n"
 "* you wouldn't stand still on those, right?"
 msgstr ""
+"<25>{#f/0}* вообрази горячие угли.\n"
+"* ты не будешь на них стоять, да?"
 
+#, fuzzy
 msgid ""
 "<25>* hot coals are rocky.\n"
 "* so imagine boney hot coals instead."
 msgstr ""
+"<25>* горячие угли ещё и острые.\n"
+"* так что представь себе горячие костяшки."
 
+#, fuzzy
 msgid ""
 "<25>{#f/2}* simple, right?\n"
 "* when fighting, think about boney hot coals."
 msgstr ""
+"<25>{#f/2}* просто, да?\n"
+"* думай в бою о горячих костяшках."
 
+#, fuzzy
 msgid ""
 "<25>{#p/sans}{#f/0}* and no, you won't get hurt if you're moving slowly."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* и нет, больно не будет, если движешься медленно."
 
+#, fuzzy
 msgid "<25>{#f/0}* you just have to be moving."
-msgstr ""
+msgstr "<25>{#f/0}* нужно просто двигаться."
 
+#, fuzzy
 msgid ""
 "<25>{#f/2}* there's likely someone out there who can explain it better."
-msgstr ""
+msgstr "<25>{#f/2}* может быть, кто-то другой объяснит это лучше."
 
+#, fuzzy
 msgid ""
 "<25>{#p/sans}{#f/2}* remember...\n"
 "* boney hot coals."
 msgstr ""
+"<25>{#p/sans}{#f/2}* помни...\n"
+"* о горячих костяшках."
 
 msgid ""
 "<25>{#p/sans}* since you're a human, you've probably never heard of the "
@@ -8095,8 +8114,9 @@ msgstr ""
 msgid "<25>{#f/3}* ..."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Don't even try it."
-msgstr ""
+msgstr "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Даже не пробуй."
 
 msgid "<25>* i know it's kind of silly at times..."
 msgstr ""
