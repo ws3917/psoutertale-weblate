@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-04-25 14:13+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-04-26 22:26+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -7819,42 +7819,50 @@ msgstr ""
 "* Собственность некой Альфис."
 
 msgid "* (Take a look inside?)"
-msgstr ""
+msgstr "* (Заглянуть внутрь?)"
 
 msgid "<32>{#p/human}* (You look inside the book...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы открыли книгу...)"
 
 msgid "<32>{#p/basic}* Inside the geometry book was a joke book."
 msgstr ""
+"<40>{#p/basic}* В книге по геометрии сборник\n"
+"  анекдотов."
 
 msgid "<32>{#p/basic}* Inside the joke book was another geometry book."
 msgstr ""
+"<40>{#p/basic}* В сборнике анекдотов книга по\n"
+"  геометрии."
 
 msgid "<32>{#p/basic}* Inside the geometry book was another joke book."
 msgstr ""
+"<40>{#p/basic}* В книге по геометрии очередной\n"
+"  сборник анекдотов."
 
 msgid "<32>{#p/basic}* It's another geometry book."
-msgstr ""
+msgstr "<32>{#p/basic}* Это ещё одна книга по геометрии."
 
 msgid "<32>{#p/basic}* It's another joke book."
-msgstr ""
+msgstr "<32>{#p/basic}* И ещё один сборник анекдотов."
 
 msgid "<32>{#p/basic}* It's a note from Sans."
-msgstr ""
+msgstr "<32>{#p/basic}* Здесь записка от Санса."
 
 msgid ""
 "<32>{#p/without}* \"why so serious?\"\n"
 "* \"it's just a bad joke.\""
 msgstr ""
+"<32>{#p/without}* «чего такой серьёзный?»\n"
+"* «просто дурная шутка»."
 
 msgid "<33>{#p/without}* \"heh...\""
 msgstr ""
 
 msgid "<33>{#p/without}* \"don't read into it too deeply.\""
-msgstr ""
+msgstr "<33>{#p/without}* «не вчитывайся слишком сильно»."
 
 msgid "<32>{#p/basic}* ... this is the worst joke I have ever experienced."
-msgstr ""
+msgstr "<32>{#p/basic}* ...это худшая шутка на моей памяти."
 
 msgid "<25>{#p/sans}* 'sup."
 msgstr ""
@@ -7909,76 +7917,98 @@ msgid "<25>{#p/sans}{#f/3}* ..."
 msgstr ""
 
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Don't push your luck."
-msgstr ""
+msgstr "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Не испытывай судьбу."
 
 msgid "{*}{#s.resume}{%}"
 msgstr ""
 
 msgid "<25>{#p/sans}* hey, here's something important to remember."
-msgstr ""
+msgstr "<25>{#p/sans}* эй, тебе стоит знать кое-что."
 
 msgid "<25>* my brother has a very {@fill=#00a2e8}special attack{@fill=#fff}."
-msgstr ""
+msgstr "<25>* у моего брата есть {@fill=#00a2e8}особая атака{@fill=#fff}."
 
+#, fuzzy
 msgid ""
 "<25>* if you see an {@fill=#ff993d}orange attack{@fill=#fff}, you'll get "
 "hurt if you're not moving."
 msgstr ""
+"<25>* если видишь {@fill=#ff993d}оранжевую атаку{@fill=#fff}, ты получишь "
+"урон, если не движешься."
 
+#, fuzzy
 msgid "<25>{#f/3}* here's an easy way to keep it in mind."
-msgstr ""
+msgstr "<25>{#f/3}* есть простой способ запомнить это."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* imagine hot coals.\n"
 "* you wouldn't stand still on those, right?"
 msgstr ""
+"<25>{#f/0}* вообрази горячие угли.\n"
+"* ты не будешь на них стоять, да?"
 
+#, fuzzy
 msgid ""
 "<25>* hot coals are rocky.\n"
 "* so imagine boney hot coals instead."
 msgstr ""
+"<25>* горячие угли ещё и острые.\n"
+"* так что представь себе горячие костяшки."
 
+#, fuzzy
 msgid ""
 "<25>{#f/2}* simple, right?\n"
 "* when fighting, think about boney hot coals."
 msgstr ""
+"<25>{#f/2}* просто, да?\n"
+"* думай в бою о горячих костяшках."
 
+#, fuzzy
 msgid ""
 "<25>{#p/sans}{#f/0}* and no, you won't get hurt if you're moving slowly."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* и нет, больно не будет, если движешься медленно."
 
+#, fuzzy
 msgid "<25>{#f/0}* you just have to be moving."
-msgstr ""
+msgstr "<25>{#f/0}* нужно просто двигаться."
 
+#, fuzzy
 msgid ""
 "<25>{#f/2}* there's likely someone out there who can explain it better."
-msgstr ""
+msgstr "<25>{#f/2}* может быть, кто-то другой объяснит это лучше."
 
+#, fuzzy
 msgid ""
 "<25>{#p/sans}{#f/2}* remember...\n"
 "* boney hot coals."
 msgstr ""
+"<25>{#p/sans}{#f/2}* помни...\n"
+"* о горячих костяшках."
 
 msgid ""
 "<25>{#p/sans}* since you're a human, you've probably never heard of the "
 "W.T.F."
-msgstr ""
+msgstr "<25>{#p/sans}* как человек, ты, наверное, никогда не слышал о Ч.З.Х."
 
 msgid "<25>{#f/2}* that's short for \"wide- area troposphere framework.\""
-msgstr ""
+msgstr "<25>{#f/2}* это сокращение для «чрезмерно зажигательного химиката»."
 
 msgid ""
 "<25>{#p/sans}* if the W.T.F. were to drop, the air around us would "
 "disappear."
 msgstr ""
+"<25>{#p/sans}* если сюда сбросить Ч.З.Х., воздух вокруг нас пропадёт вовсе."
 
 msgid ""
 "<25>{#f/3}* don't worry, though.\n"
 "* i {@fill=#ff0}swear{@fill=#fff} it's never happened before."
 msgstr ""
+"<26>{#f/3}* впрочем, не волнуйся.\n"
+"* чтобы язык у меня {@fill=#ff0}отсох{@fill=#fff}, если это случалось раньше."
 
 msgid "<25>{#p/sans}{#f/2}* wide-area troposphere framework."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* чрезмерно зажигательный химикат."
 
 msgid "<25>{#p/sans}* actually, that spaghetti from earlier..."
 msgstr ""
@@ -8080,8 +8110,9 @@ msgstr ""
 msgid "<25>{#f/3}* ..."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Don't even try it."
-msgstr ""
+msgstr "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Даже не пробуй."
 
 msgid "<25>* i know it's kind of silly at times..."
 msgstr ""
