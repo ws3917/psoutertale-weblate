@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 06:04+0000\n"
-"PO-Revision-Date: 2025-04-25 01:13+0000\n"
+"PO-Revision-Date: 2025-04-27 20:13+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
@@ -7593,7 +7593,7 @@ msgid "<32>{#p/human}* (You feel the inviting warmth of the fireplace...)"
 msgstr ""
 
 msgid "* (Crawl inside?)"
-msgstr ""
+msgstr "* (Сделать глупость?)"
 
 msgid "<32>{#p/basic}* Just another fireplace."
 msgstr ""
@@ -8082,7 +8082,7 @@ msgid "<32>{#p/human}* (You're carrying too much.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You're carrying too much to take that.)"
-msgstr "<32>{#p/human}* (Вы несёте слишком много груза.)"
+msgstr "<40>{#p/human}* (Вы несёте слишком много груза.)"
 
 msgid "<32>{#p/human}* (You're carrying too much to use that.)"
 msgstr ""
@@ -9205,18 +9205,18 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You put the book back on the shelf.)"
-msgstr "<32>{#p/human}* (Вы ставите книгу обратно на полку.)"
+msgstr "<38>{#p/human}* (Вы ставите книгу обратно на полку.)"
 
 msgid "<32>{#p/basic}* This book has been signed by \"Toriel Dreemurr.\""
 msgstr ""
 
 msgid "<32>{#p/basic}* \"Dreemurr Family Recipes: Snail Pie\""
-msgstr "<32>{#p/basic}* «Рецепты семьи Дримурр: улиточный пирог»."
+msgstr "<32>{#p/basic}* «Рецепты семьи Дримур: улиточный пирог»."
 
 msgid ""
 "<32>* \"Snail Pie is a coveted tradition among members of the Dreemurr "
 "family line.\""
-msgstr "<32>* «Улиточный пирог — давняя традиция семьи Дримурр»."
+msgstr "<32>* «Улиточный пирог — давняя традиция семьи Дримур»."
 
 msgid ""
 "<32>* \"Making it is a simple process, and can be broken down into five "
