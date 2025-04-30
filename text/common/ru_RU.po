@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-04-30 14:02+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-04-30 15:58+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "6-common/ru/>\n"
 "Language: ru_RU\n"
@@ -49,7 +49,7 @@ msgid "I will not rest until the task is done."
 msgstr ""
 
 msgid "<32>{#p/human}* (...)"
-msgstr "<32>{#p/human}* (...)"
+msgstr "<34>{#p/human}* (...)"
 
 msgid "<32>{#p/human}* (You wake up.)"
 msgstr ""
@@ -116,7 +116,7 @@ msgid "<32>{#p/human}* (You try to call Papyrus and Undyne.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (No response.)"
-msgstr "<32>{#p/human}* (Нет ответа.)"
+msgstr "<34>{#p/human}* (Нет ответа.)"
 
 msgid "<32>{#p/human}* (You've lost track of how long you've been here.)"
 msgstr ""
@@ -378,7 +378,7 @@ msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
-msgstr "<32>{#s/phone}{#p/event}* Звонок..."
+msgstr "<34>{#s/phone}{#p/event}* Звонок..."
 
 msgid "<26>{#p/undyne}{#f/7}* ARRIGHT PUNK, LISTEN UP!"
 msgstr ""
@@ -1021,7 +1021,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/event}* Click..."
-msgstr "<32>{#s/equip}{#p/event}* Щелчок..."
+msgstr "<34>{#s/equip}{#p/event}* Щелчок..."
 
 msgid "<25>{#p/sans}{#f/0}* heya."
 msgstr ""
@@ -2078,7 +2078,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/sans}{#f/3}* ..."
-msgstr "<25>{#p/sans}{#f/3}* ..."
+msgstr "<27>{#p/sans}{#f/3}* ..."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* i'm just glad he's got a distraction from what's going "
@@ -5064,7 +5064,7 @@ msgid "<25>{#p/alphys}{#f/24}* ... I'll be outside if you need me."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/5}* ..."
-msgstr "<25>{#p/toriel}{#f/5}* ..."
+msgstr "<27>{#p/toriel}{#f/5}* ..."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* she's... still pretty upset about what happened to "
@@ -5185,7 +5185,7 @@ msgid "<25>{#p/toriel}{#f/10}* ... very good."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/9}* ..."
-msgstr "<25>{#p/toriel}{#f/9}* ..."
+msgstr "<27>{#p/toriel}{#f/9}* ..."
 
 msgid ""
 "<25>{#p/toriel}{#f/10}* I suppose I cannot judge the citizens too harshly..."
@@ -5793,7 +5793,7 @@ msgid ""
 "<32>{#s/bark}{#p/event}* Bark!\n"
 "{#s/bark}* Bark!"
 msgstr ""
-"<32>{#s/bark}{#p/event}* Гав!\n"
+"<34>{#s/bark}{#p/event}* Гав!\n"
 "{#s/bark}* Гав!"
 
 msgid ""
@@ -5802,7 +5802,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#s/bark}{#p/event}* Bark!"
-msgstr "<32>{#s/bark}{#p/event}* Гав!"
+msgstr "<34>{#s/bark}{#p/event}* Гав!"
 
 msgid "<32>{#p/basic}* (Wouldn't you like to know more!?)"
 msgstr ""
@@ -5860,7 +5860,7 @@ msgid "<32>{#p/basic}* Oh, it's just you."
 msgstr ""
 
 msgid "<32>{#p/basic}* ..."
-msgstr ""
+msgstr "<34>{#p/basic}* ..."
 
 msgid "<32>{#p/basic}* Wait, who are you talking to!?"
 msgstr ""
@@ -8133,7 +8133,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>* ..."
-msgstr "<32>* ..."
+msgstr "<34>* ..."
 
 msgid ""
 "<32>* ... huh?\n"
@@ -8515,12 +8515,12 @@ msgid ""
 "<32>* if a ghost changed vessels so they could have a child, what would you "
 "call it?"
 msgstr ""
-"<32>* если призрак вселился в тело, чтобы обрести детей, как бы ты это "
+"<34>* если призрак вселился в тело, чтобы обрести детей, как бы ты это "
 "назвал?"
 
 #, fuzzy
 msgid "<32>* answer... a {@fill=#ff0}trans-parent.{@fill=#fff}."
-msgstr "<32>* ответ...{@fill=#ff0}отча-яние.{@fill=#fff}."
+msgstr "<34>* ответ...{@fill=#ff0}отча-яние.{@fill=#fff}."
 
 msgid "<32>* ... heh."
 msgstr ""
@@ -8540,11 +8540,11 @@ msgid ""
 "<32>* if a restaurant hires a ghost to taste test their food, what does that"
 " make the ghost?"
 msgstr ""
-"<32>* если ресторан нанял призрака для оценки еды, как назовётся эта "
+"<34>* если ресторан нанял призрака для оценки еды, как назовётся эта "
 "должность?"
 
 msgid "<32>* answer... a {@fill=#ff0}food-in-spectre.{@fill=#fff}."
-msgstr "<32>* ответ...{@fill=#ff0}пищевод{@fill=#fff}."
+msgstr "<34>* ответ...{@fill=#ff0}пищевод{@fill=#fff}."
 
 msgid ""
 "<32>{#p/napstablook}* alright, alright.\n"
@@ -8694,16 +8694,16 @@ msgid "<32>* feel free to lay down next to me... if you like......"
 msgstr ""
 
 msgid "<32>* Zzz... Zzz..."
-msgstr "<32>* Хр-р-р... Хр-р-р..."
+msgstr "<34>* Хр-р-р... Хр-р-р..."
 
 msgid "<32>{#p/napstablook}* Zzz... Zzz..."
-msgstr "<32>{#p/napstablook}* Хр-р-р... Хр-р-р..."
+msgstr "<34>{#p/napstablook}* Хр-р-р... Хр-р-р..."
 
 msgid ""
 "<32>{#p/basic}* This ghost keeps saying 'z' out loud repeatedly, pretending "
 "to sleep."
 msgstr ""
-"<32>{#p/basic}* Этот призрак повторяет вслух «Хр-р-р», притворяясь спящим."
+"<34>{#p/basic}* Этот призрак повторяет вслух «Хр-р-р», притворяясь спящим."
 
 msgid "* (Lay down next to it?)"
 msgstr "* (Прилечь рядом?)"
@@ -8841,10 +8841,10 @@ msgid "<25>{*}{#p/asgore}{#f/6}* Systems powering down.{^20}{%}"
 msgstr ""
 
 msgid "<32>{#p/human}{@fill=#f00}* ($(x) left.)"
-msgstr "<32>{#p/human}{@fill=#f00}* ($(x) осталось.)"
+msgstr "<34>{#p/human}{@fill=#f00}* ($(x) осталось.)"
 
 msgid "<32>{#p/human}{@fill=#f00}* (Determination.)"
-msgstr "<32>{#p/human}{@fill=#f00}* (Решимость.)"
+msgstr "<34>{#p/human}{@fill=#f00}* (Решимость.)"
 
 msgid ""
 "<32>{#p/basic}* Sorry, kiddo.\n"
@@ -9765,7 +9765,7 @@ msgid "<25>{#p/kidd}{#f/4}* So what were you saying?"
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/13}* ..."
-msgstr "<25>{#p/asriel1}{#f/13}* ..."
+msgstr "<27>{#p/asriel1}{#f/13}* ..."
 
 msgid ""
 "<25>{#f/13}* ... there are deserts, but the races would be done in the "
@@ -9786,7 +9786,7 @@ msgid "<25>{#p/kidd}{#f/1}* What's a geological survey?"
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/15}* ..."
-msgstr "<25>{#p/asriel1}{#f/15}* ..."
+msgstr "<27>{#p/asriel1}{#f/15}* ..."
 
 msgid "<25>{#f/15}* The tubules are a region made up of... uh, tubes."
 msgstr ""
@@ -9893,7 +9893,7 @@ msgid "<32>{#p/basic}* ... uh, don't you mean \"the four of us?\""
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/25}* ...!"
-msgstr "<25>{#p/asriel1}{#f/25}* !.."
+msgstr "<27>{#p/asriel1}{#f/25}* !.."
 
 msgid "<25>{#f/25}* $(name)... you're..."
 msgstr ""
@@ -10320,7 +10320,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You can't make out what's in the trash...)"
-msgstr "<32>{#p/human}* (Вы не можете понять, что лежит в мусорке...)"
+msgstr "<34>{#p/human}* (Вы не можете понять, что лежит в мусорке...)"
 
 msgid ""
 "<32>{#p/basic}* There is a crumpled up recipe for Starling Tea.\n"
@@ -10460,7 +10460,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/basic}* \"Howdy, fellow gardeners.\""
-msgstr "<32>{#p/basic}* «Приветик, друзья-садоводы»."
+msgstr "<34>{#p/basic}* «Приветик, друзья-садоводы»."
 
 msgid ""
 "<32>* \"When it comes to Starling flowers, the line between growth and "
@@ -10470,7 +10470,7 @@ msgstr ""
 "стагнацией...»"
 
 msgid "<32>* \"Is access to open space.\""
-msgstr "<32>* «И проходит она прямо через доступ к открытому космосу»."
+msgstr "<34>* «И проходит она прямо через доступ к открытому космосу»."
 
 msgid "<32>* \"That is why they were commonly grown in Aerialis...\""
 msgstr ""
@@ -10707,7 +10707,7 @@ msgid "<32>{#p/human}* (The chair strikes you as being out of place.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* A comfy reading chair..."
-msgstr "<32>{#p/basic}* Уютное кресло для чтения..."
+msgstr "<34>{#p/basic}* Уютное кресло для чтения..."
 
 msgid "<32>* Doesn't seem like the right size for Asgore."
 msgstr ""
@@ -10773,7 +10773,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You note the fairly large size of the dining chair.)"
-msgstr "<32>{#p/human}* (Вы подмечаете весьма большой размер стула.)"
+msgstr "<34>{#p/human}* (Вы подмечаете весьма большой размер стула.)"
 
 msgid ""
 "<32>{#p/basic}* One of Asgore's dining chairs.\n"
@@ -10791,7 +10791,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You note the small size of the dining chair.)"
-msgstr "<32>{#p/human}* (Вы подмечаете стул небольшого размера.)"
+msgstr "<34>{#p/human}* (Вы подмечаете стул небольшого размера.)"
 
 msgid ""
 "<32>{#p/basic}* One of Asgore's dining chairs.\n"
@@ -10828,7 +10828,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You note the exceptional size of the dining chair.)"
-msgstr "<32>{#p/human}* (Вы отмечаете необычный размер обеденного стула.)"
+msgstr "<34>{#p/human}* (Вы отмечаете необычный размер обеденного стула.)"
 
 msgid ""
 "<32>{#p/basic}* One of Asgore's dining chairs.\n"
@@ -11436,58 +11436,57 @@ msgid ""
 "<32>{#p/story}* DUMMY - ATK 0 DEF 0\n"
 "* A ghost within the shell, they hope you're doing well."
 msgstr ""
-"<32>{#p/story}* МАНЕКЕН: АТК 0, ЗЩТ 0.\n"
+"<34>{#p/story}* МАНЕКЕН: АТК 0, ЗЩТ 0.\n"
 "* Призрак в теле манекена, не желает вам проблемы."
 
 msgid "<32>{#p/human}* (You flirt with the dummy.)"
-msgstr "<32>{#p/human}* (Вы заигрываете с манекеном.)"
+msgstr "<34>{#p/human}* (Вы заигрываете с манекеном.)"
 
 msgid "<32>{#p/basic}* It went exactly how you'd expect."
-msgstr "<32>{#p/basic}* Как и ожидалось, ничего не произошло."
+msgstr "<34>{#p/basic}* Как и ожидалось, ничего не произошло."
 
 msgid "<32>* Toriel is trying not to laugh."
-msgstr "<32>* Ториэль с трудом сдерживает смех."
+msgstr "<34>* Ториэль с трудом сдерживает смех."
 
 msgid "<32>{#p/human}* (You hug the dummy.)"
-msgstr "<32>{#p/human}* (Вы обнимаете манекена.)"
+msgstr "<34>{#p/human}* (Вы обнимаете манекена.)"
 
 msgid "<32>{#p/human}* (You slap the dummy.)"
-msgstr "<32>{#p/human}* (Вы шлёпнули манекена.)"
+msgstr "<34>{#p/human}* (Вы шлёпнули манекена.)"
 
 msgid "<32>{#p/human}* (You talk to the dummy.)"
-msgstr "<32>{#p/human}* (Вы заговорили с манекеном.)"
+msgstr "<34>{#p/human}* (Вы заговорили с манекеном.)"
 
 msgid "<32>{#p/basic}* It doesn't seem much for conversation."
-msgstr "<32>{#p/basic}* Кажется, манекен не самый подходящий собеседник."
+msgstr "<34>{#p/basic}* Кажется, манекен не самый подходящий собеседник."
 
 msgid "<32>* Toriel is pleased with you."
-msgstr "<32>* Ториэль выглядит довольной."
+msgstr "<34>* Ториэль выглядит довольной."
 
 msgid "<32>{#p/basic}* The dummy grew tired of your aimless shenanigans."
 msgstr ""
-"<32>{#p/basic}* Манекена утомила эта бесконечная петля однотипных действий."
+"<34>{#p/basic}* Манекена утомила эта бесконечная петля однотипных действий."
 
 msgid "<32>{#p/basic}* The dummy is blushing... somehow."
-msgstr "<32>{#p/basic}* Каким-то образом... манекен покраснел."
+msgstr "<34>{#p/basic}* Каким-то образом... манекен покраснел."
 
 msgid "* Dummy"
 msgstr "* Манекен"
 
 msgid "<32>{#p/basic}* Suddenly...!"
-msgstr "<32>{#p/basic}* Внезапно!.."
+msgstr "<34>{#p/basic}* И вдруг!.."
 
 msgid "<32>{#p/story}* You encountered the dummy."
-msgstr "<32>{#p/story}* Вы подошли к манекену."
+msgstr "<34>{#p/story}* Вы подошли к манекену."
 
 msgid "<32>{#p/story}* The dummy looks like it's already getting bored."
-msgstr "<32>{#p/story}* Кажется, что манекену уже становится скучно."
+msgstr "<34>{#p/story}* Кажется, что манекену уже становится скучно."
 
 msgid "<32>{#p/story}* The dummy looks like it's lost in itself."
-msgstr ""
-"<32>{#p/story}* Похоже, что от ваших действий манекен запутался в себе."
+msgstr "<34>{#p/story}* Похоже, что от ваших действий манекен запутался в себе."
 
 msgid "<32>{#p/story}* The dummy looks like it's going to fall over."
-msgstr "<32>{#p/story}* Манекен готов провалиться сквозь землю."
+msgstr "<34>{#p/story}* Манекен готов провалиться сквозь землю."
 
 msgid "<09>{#p/basic}{#i/20}{~}.....{}"
 msgstr "<09>{#p/basic}{#i/20}{~}.....{}"
@@ -11948,21 +11947,21 @@ msgid ""
 "<32>{#p/asriel2}* Gelatini, the mindless mold.\n"
 "* What more can I say?"
 msgstr ""
-"<32>{#p/asriel2}* Пожелейка — безмозглая слизь.\n"
+"<34>{#p/asriel2}* Пожелейка — безмозглая слизь.\n"
 "* Что ещё тут сказать?"
 
 msgid ""
 "<32>{#p/story}* GELATINI - ATK 6 DEF 0\n"
 "* Stereotypical: Curvaceously attractive, but no brains..."
 msgstr ""
-"<32>{#p/story}* ПОЖЕЛЕЙКА: АТК 6, ЗЩТ 0.\n"
+"<34>{#p/story}* ПОЖЕЛЕЙКА: АТК 6, ЗЩТ 0.\n"
 "* Красивая, соблазнительная и, конечно же, безмозглая..."
 
 msgid ""
 "<32>{#p/story}* GELATINI - ATK 6 DEF 0\n"
 "* It's even more attractive in this season's colors."
 msgstr ""
-"<32>{#p/story}* ПОЖЕЛЕЙКА: АТК 6, ЗЩТ 0.\n"
+"<34>{#p/story}* ПОЖЕЛЕЙКА: АТК 6, ЗЩТ 0.\n"
 "* Одета по последнему писку моды."
 
 msgid ""
@@ -11970,7 +11969,7 @@ msgid ""
 "* It's exactly your type.\n"
 "* It's \"stereo.\""
 msgstr ""
-"<32>{#p/story}* ПОЖЕЛЕЙКА: АТК 6, ЗЩТ 0.\n"
+"<34>{#p/story}* ПОЖЕЛЕЙКА: АТК 6, ЗЩТ 0.\n"
 "* Это именно ваш типаж.\n"
 "* «Стерео»."
 
@@ -11978,14 +11977,14 @@ msgid ""
 "<32>{#p/story}* GELATINI - ATK 6 DEF 0\n"
 "* This mold supermodel appears to be past its prime."
 msgstr ""
-"<32>{#p/story}* ПОЖЕЛЕЙКА: АТК 6, ЗЩТ 0.\n"
+"<34>{#p/story}* ПОЖЕЛЕЙКА: АТК 6, ЗЩТ 0.\n"
 "* Супермодель на пике своей красоты."
 
 msgid ""
 "<32>{#p/human}* (You wiggle your hips.)\n"
 "* (Gelatini wiggles back.)"
 msgstr ""
-"<32>{#p/human}* (Вы дёргаете коленями.)\n"
+"<34>{#p/human}* (Вы дёргаете коленями.)\n"
 "* (Пожелейка колышется в ответ.)"
 
 msgid "<33>{#p/basic}* What a meaningful conversation!"
@@ -11999,22 +11998,22 @@ msgstr ""
 "* (Она изменила свой окрас...)"
 
 msgid "<32>{#p/basic}* It's Gelatini's happy color!"
-msgstr "<32>{#p/basic}* Это её цвет радости!"
+msgstr "<34>{#p/basic}* Это её цвет радости!"
 
 msgid "<32>{#p/human}* (You give Gelatini a big slap.)"
 msgstr "<35>{#p/human}* (Вы сильно шлёпнули пожелейку.)"
 
 msgid "<32>{#p/basic}* Gelatini is jostled, but remains ultimately unfazed."
-msgstr "<32>{#p/basic}* Пожелейка пошатнулась, но не оскорбилась."
+msgstr "<34>{#p/basic}* Пожелейка пошатнулась, но не оскорбилась."
 
 msgid "<32>{#p/human}* (You deliver your mightiest slap to Gelatini.)"
-msgstr "<32>{#p/human}* (Вы одарили пожелейку вашим сильнейшим шлепком.)"
+msgstr "<34>{#p/human}* (Вы одарили пожелейку вашим сильнейшим шлепком.)"
 
 msgid "<32>{#p/basic}* Gelatini is shaken to its core!"
-msgstr "<32>{#p/basic}* Пожелейка потрясена до глубины души!"
+msgstr "<34>{#p/basic}* Пожелейка потрясена до глубины души!"
 
 msgid "<32>{#p/basic}* Gelatini flees the scene!"
-msgstr "<32>{#p/basic}* Пожелейка утекла со сцены!"
+msgstr "<34>{#p/basic}* Пожелейка утекла со сцены!"
 
 msgid "<08>{#p/basic}{~}Blorb.."
 msgstr "<08>{#p/basic}{~}Буль..."
@@ -12026,52 +12025,52 @@ msgid "* Gelatini"
 msgstr "* Пожелейка"
 
 msgid "<32>{#p/kidding}* This can't be good..."
-msgstr "<32>{#p/kidding}* Это нехорошо..."
+msgstr "<34>{#p/kidding}* Это нехорошо..."
 
 msgid "<32>{#p/story}* Gelatini has started to rot."
-msgstr "<32>{#p/story}* Пожелейка начинает плесневеть."
+msgstr "<34>{#p/story}* Пожелейка начинает плесневеть."
 
 msgid "<08>{#p/basic}{~}\\x00*sexy wiggle*"
 msgstr "<08>{#p/basic}{~}\\x00(чуткая дрожь)"
 
 msgid "<32>{#p/asriel2}* Gelatini squared."
-msgstr "<32>{#p/asriel2}* Пожелейка оквадратилась."
+msgstr "<34>{#p/asriel2}* Пожелейка оквадратилась."
 
 msgid "<32>{#p/story}* It's a pair of Gelatinis."
-msgstr "<32>{#p/story}* Пожелейки в паре."
+msgstr "<34>{#p/story}* Пожелейки в паре."
 
 msgid "<32>{#p/asriel2}* Gelatini."
-msgstr "<32>{#p/asriel2}* Пожелейка."
+msgstr "<34>{#p/asriel2}* Пожелейка."
 
 msgid "<32>{#p/kidding}* Shh... it's thinking!"
-msgstr "<32>{#p/kidding}* Тс-с... оно думает!"
+msgstr "<34>{#p/kidding}* Тс-с... оно думает!"
 
 msgid "<32>{#p/story}* Gelatini blorbs quietly."
-msgstr "<32>{#p/story}* Бульканье пожелейки притихает."
+msgstr "<34>{#p/story}* Бульканье пожелейки притихает."
 
 msgid "<32>{#p/story}* Gelatini waits optimistically."
-msgstr "<32>{#p/story}* Пожелейка застыла в предвкушении."
+msgstr "<34>{#p/story}* Пожелейка застыла в предвкушении."
 
 msgid "<32>{#p/kidding}* A blorb here, a blorb there..."
-msgstr "<32>{#p/kidding}* Буль там — буль сям..."
+msgstr "<34>{#p/kidding}* Буль там — буль сям..."
 
 msgid "<32>{#p/story}* Gelatini is ruminating."
-msgstr "<32>{#p/story}* Пожелейка размышляет."
+msgstr "<34>{#p/story}* Пожелейка размышляет."
 
 msgid "<32>{#p/kidding}* I wonder what Gelatinis are actually made of."
-msgstr "<32>{#p/kidding}* Интересно, из чего она всё-таки состоит?.."
+msgstr "<34>{#p/kidding}* Интересно, из чего она всё-таки состоит?.."
 
 msgid "<32>{#p/story}* The aroma of lime gelatin wafts through."
-msgstr "<32>{#p/story}* Поле боя пропахло ароматом лаймового желе."
+msgstr "<34>{#p/story}* Поле боя пропахло ароматом лаймового желе."
 
 msgid "<32>{#p/story}* And then, there was one."
-msgstr "<32>{#p/story}* Осталась одна."
+msgstr "<34>{#p/story}* Осталась одна."
 
 msgid "<32>{#p/kidding}* Just us now!"
-msgstr "<32>{#p/kidding}* Лишь мы наедине!"
+msgstr "<34>{#p/kidding}* Лишь мы наедине!"
 
 msgid "<32>{#p/story}* Gelatini now blorbs solo."
-msgstr "<32>{#p/story}* Пожелейка журчит сольник."
+msgstr "<34>{#p/story}* Пожелейка журчит сольник."
 
 msgid "<08>{#p/basic}{~}I can communi- cate else- where."
 msgstr ""
@@ -12469,105 +12468,105 @@ msgid "<32>{#p/kidding}* Oh! Oh!"
 msgstr ""
 
 msgid "<32>* I know how ACTing works!"
-msgstr "<32>* О, я знаю как ДЕЙСТВОВАТЬ!"
+msgstr "<34>* О, я знаю как ДЕЙСТВОВАТЬ!"
 
 msgid "<32>* Watch this...!"
-msgstr "<32>* Смотри!.."
+msgstr "<34>* Смотри!.."
 
 msgid ""
 "<32>{#p/kidding}* Are you sure...?\n"
 "* They don't seem to be happy about all this..."
 msgstr ""
-"<32>{#p/kidding}* Ты серьёзно?..\n"
+"<34>{#p/kidding}* Ты серьёзно?..\n"
 "* Кажется, он не в восторге от этого..."
 
 msgid "<32>{#p/kidding}* Is this really a good idea...?"
-msgstr "<32>{#p/kidding}* Это точно хорошая идея?.."
+msgstr "<34>{#p/kidding}* Это точно хорошая идея?.."
 
 msgid "<32>{#p/kidding}* Um..."
-msgstr "<32>{#p/kidding}* Э-э-э..."
+msgstr "<34>{#p/kidding}* Э-э-э..."
 
 msgid "<32>{#p/kidding}* Er..."
-msgstr "<32>{#p/kidding}* Ну..."
+msgstr "<34>{#p/kidding}* Ну..."
 
 msgid ""
 "<32>{#p/story}* Monster Kid struggled in the web and made a scary face."
-msgstr "<32>{#p/story}* Монстрёнок борется с паутиной и корчит жуткое лицо."
+msgstr "<34>{#p/story}* Монстрёнок борется с паутиной и корчит жуткое лицо."
 
 msgid "<32>{#p/story}* Monster Kid struggled in the web and yelled."
-msgstr "<32>{#p/story}* Монстрёнок отчаянно пытается выбраться из паутины."
+msgstr "<34>{#p/story}* Монстрёнок отчаянно пытается выбраться из паутины."
 
 msgid "<32>{#p/story}* Monster Kid gave out a menacing laugh."
-msgstr "<32>{#p/story}* Монстрёнок запел грустную мелодию."
+msgstr "<34>{#p/story}* Монстрёнок запел грустную мелодию."
 
 msgid "<32>{#p/story}* Monster Kid sang a scary tune."
-msgstr "<32>{#p/story}* Монстрёнок начал петь страшную мелодию."
+msgstr "<34>{#p/story}* Монстрёнок начал петь страшную мелодию."
 
 msgid "<32>{#p/story}* Monster Kid yelled overly edgy lyrics."
-msgstr "<32>{#p/story}* Монстрёнок выкрикивает ругательства."
+msgstr "<34>{#p/story}* Монстрёнок выкрикивает ругательства."
 
 msgid "<32>{#p/story}* Monster Kid drummed loudly with their feet."
-msgstr "<32>{#p/story}* Монстрёнок громко топчет ногами."
+msgstr "<34>{#p/story}* Монстрёнок громко топчет ногами."
 
 msgid "<32>{#p/story}* Monster Kid pointed out the dirty floors."
-msgstr "<32>{#p/story}* Монстрёнок указал на грязные полы."
+msgstr "<34>{#p/story}* Монстрёнок указал на грязные полы."
 
 msgid "<32>{#p/story}* Monster Kid pointed out the leaky pipes."
-msgstr "<32>{#p/story}* Монстрёнок уронил железную трубу."
+msgstr "<34>{#p/story}* Монстрёнок уронил железную трубу."
 
 msgid "<32>{#p/story}* Monster Kid made a gross face."
-msgstr "<32>{#p/story}* Монстрёнок скорчил мерзкую рожицу."
+msgstr "<34>{#p/story}* Монстрёнок скорчил мерзкую рожицу."
 
 msgid "<32>{#p/story}* Monster Kid stared $(x) directly in the face."
-msgstr "<32>{#p/story}* Монстрёнок уставился на лицо $(x)."
+msgstr "<34>{#p/story}* Монстрёнок уставился на лицо $(x)."
 
 msgid "<32>{#p/story}* Monster Kid pointed at $(x) accusingly."
-msgstr "<32>{#p/story}* Монстрёнок с упрёком тычет в $(x) пальцем."
+msgstr "<34>{#p/story}* Монстрёнок с упрёком тычет в $(x) пальцем."
 
 msgid "<32>{#p/story}* Monster Kid circled around $(x) like a predator."
-msgstr "<32>{#p/story}* Монстрёнок хищно бегает вокруг $(x)."
+msgstr "<34>{#p/story}* Монстрёнок хищно бегает вокруг $(x)."
 
 msgid ""
 "<32>{#p/story}* Monster Kid complimented Muffet on her eloquent taste in "
 "clothing."
-msgstr "<32>{#p/story}* Монстрёнок похвалил стиль одежды Маффет."
+msgstr "<34>{#p/story}* Монстрёнок похвалил стиль одежды Маффет."
 
 msgid ""
 "<32>{#p/story}* Monster Kid told Muffet her pastries are the best known to "
 "monsterkind."
 msgstr ""
-"<32>{#p/story}* Монстрёнок заявил, что пирожные Маффет — самые вкусные во "
+"<34>{#p/story}* Монстрёнок заявил, что пирожные Маффет — самые вкусные во "
 "всём Королевстве."
 
 msgid "<32>{#p/story}* Monster Kid said no webs are as strong as Muffet's."
 msgstr ""
-"<32>{#p/story}* Монстрёнок сказал Маффет, что её паутина самая прочная из "
+"<34>{#p/story}* Монстрёнок сказал Маффет, что её паутина самая прочная из "
 "всех, что он знает."
 
 msgid "<32>{#p/story}* Monster Kid hummed a pretty melody."
-msgstr "<32>{#p/story}* Монстрёнок напевает красивую мелодию."
+msgstr "<34>{#p/story}* Монстрёнок напевает красивую мелодию."
 
 msgid "<32>{#p/story}* Monster Kid complimented Shyren's hair."
-msgstr "<32>{#p/story}* Монстрёнок похвалил волосы Смурены."
+msgstr "<34>{#p/story}* Монстрёнок похвалил волосы Смурены."
 
 msgid "<32>{#p/story}* Monster Kid complimented Shyren's voice."
-msgstr "<32>{#p/story}* Монстрёнок похвалил голос Смурены."
+msgstr "<34>{#p/story}* Монстрёнок похвалил голос Смурены."
 
 msgid ""
 "<32>{#p/story}* Monster Kid called Skrubbington the cleanest monster on the "
 "block."
-msgstr "<32>{#p/story}* Монстрёнок назвал чистинсона самым чистым монстром."
+msgstr "<34>{#p/story}* Монстрёнок назвал чистинсона самым чистым монстром."
 
 msgid ""
 "<32>{#p/story}* Monster Kid appreciated Skrubbington's efforts to freshen up"
 " the factory."
 msgstr ""
-"<32>{#p/story}* Монстрёнок хвалит чистинсона за то, как хорошо он убирает "
+"<34>{#p/story}* Монстрёнок хвалит чистинсона за то, как хорошо он убирает "
 "фабрику."
 
 msgid ""
 "<32>{#p/story}* Monster Kid noted Skrubbington's committment to perfection."
-msgstr "<32>{#p/story}* Монстрёнок хвалит чистинсона за его чистолюбие."
+msgstr "<34>{#p/story}* Монстрёнок хвалит чистинсона за его чистолюбие."
 
 msgid "<32>{#p/story}* Monster Kid complimented Radtile's mirror."
 msgstr ""
@@ -12580,46 +12579,46 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/story}* Monster Kid offered to keep $(x) company."
-msgstr "<32>{#p/story}* Монстрёнок предложил $(x) составить компанию."
+msgstr "<34>{#p/story}* Монстрёнок предложил $(x) составить компанию."
 
 msgid "<32>{#p/story}* Monster Kid told $(x) they'd be there if it'd help."
 msgstr ""
-"<32>{#p/story}* Монстрёнок пообещал $(x), что всегда будет рядом, что бы не "
+"<34>{#p/story}* Монстрёнок пообещал $(x), что всегда будет рядом, что бы не "
 "случилось."
 
 msgid "<32>{#p/story}* Monster Kid stood on top of $(x)."
-msgstr "<32>{#p/story}* Монстрёнок взобрался на $(x)."
+msgstr "<34>{#p/story}* Монстрёнок взобрался на $(x)."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about spider clans."
 msgstr ""
-"<32>{#p/story}* Монстрёнок пытается расспросить у Маффет о паучьих кланах."
+"<34>{#p/story}* Монстрёнок пытается расспросить у Маффет о паучьих кланах."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about bakeries."
-msgstr "<32>{#p/story}* Монстрёнок пытается узнать у Маффет, что такое маффин."
+msgstr "<34>{#p/story}* Монстрёнок пытается узнать у Маффет, что такое маффин."
 
 msgid "<32>{#p/story}* Monster Kid tried asking Muffet about tea."
-msgstr "<32>{#p/story}* Монстрёнок пытается спросить Маффет о её любимом чае."
+msgstr "<34>{#p/story}* Монстрёнок пытается спросить Маффет о её любимом чае."
 
 msgid "<32>{#p/story}* Monster Kid debated about musical notation."
 msgstr ""
 
 msgid "<32>{#p/story}* Monster Kid spoke about music theory."
-msgstr "<32>{#p/story}* Монстрёнок рассказал о музыкальной теории."
+msgstr "<34>{#p/story}* Монстрёнок рассказал о музыкальной теории."
 
 msgid "<32>{#p/story}* Monster Kid discussed their favorite music genres."
 msgstr ""
-"<32>{#p/story}* Монстрёнок начал размышлять о своём любимом музыкальном "
+"<34>{#p/story}* Монстрёнок начал размышлять о своём любимом музыкальном "
 "жанре."
 
 msgid "<32>{#p/story}* Monster Kid waxed poetic about proper hygiene."
-msgstr "<32>{#p/story}* Монстрёнок ушёл в размышления о личной гигиене."
+msgstr "<34>{#p/story}* Монстрёнок ушёл в размышления о личной гигиене."
 
 msgid "<32>{#p/story}* Monster Kid rapped about hazard safety."
-msgstr "<32>{#p/story}* Монстрёнок читает рэп о безопасности на производстве."
+msgstr "<34>{#p/story}* Монстрёнок читает рэп о безопасности на производстве."
 
 msgid "<32>{#p/story}* Monster Kid showed off their polished sewer pipe set."
 msgstr ""
-"<32>{#p/story}* Монстрёнок показал свой набор неустойчивых сточных труб."
+"<34>{#p/story}* Монстрёнок показал свой набор неустойчивых сточных труб."
 
 msgid "<32>{#p/story}* Monster Kid made an ugly face at Radtile."
 msgstr ""
@@ -12629,29 +12628,28 @@ msgstr ""
 
 msgid ""
 "<32>{#p/story}* Monster Kid acted out as if they were a feral creature."
-msgstr "<32>{#p/story}* Монстрёнок начал вести себя как сумасшедший."
+msgstr "<34>{#p/story}* Монстрёнок начал вести себя как сумасшедший."
 
 msgid "<32>{#p/story}* Monster Kid wiggled around, mimicing $(x)."
-msgstr "<32>{#p/story}* Монстрёнок извивается, мимикрируя под $(x)!"
+msgstr "<34>{#p/story}* Монстрёнок извивается, мимикрируя под $(x)!"
 
 msgid "<32>{#p/story}* Monster Kid did a handstand, impressing $(x)."
-msgstr "<32>{#p/story}* Монстрёнок встал вверх ногами, удивив этим $(x)!"
+msgstr "<34>{#p/story}* Монстрёнок встал вверх ногами, удивив этим $(x)!"
 
 msgid "<32>{#p/story}* Monster Kid spun around, bewildering $(x)."
-msgstr "<32>{#p/story}* Монстрёнок сделал крутое сальто, озадачив $(x)!"
+msgstr "<34>{#p/story}* Монстрёнок сделал крутое сальто, озадачив $(x)!"
 
 msgid ""
 "<32>{#p/story}* Monster Kid tried telling Muffet there's no point in all "
 "this!"
 msgstr ""
-"<32>{#p/story}* Монстрёнок пытается сказать Маффет, что всё это "
-"бессмысленно!"
+"<34>{#p/story}* Монстрёнок пытается сказать Маффет, что всё это бессмысленно!"
 
 msgid ""
 "<32>{#p/story}* Monster Kid claimed a spatial distortion was approaching "
 "fast!"
 msgstr ""
-"<32>{#p/story}* Монстрёнок закричал о надвигающейся пространственной "
+"<34>{#p/story}* Монстрёнок закричал о надвигающейся пространственной "
 "аномалии!"
 
 msgid ""
@@ -12661,23 +12659,23 @@ msgstr ""
 msgid ""
 "<32>{#p/story}* Monster Kid claimed the nearby pipes were leaking acid!"
 msgstr ""
-"<32>{#p/story}* Монстрёнок заявил, что из ближайших труб сочится кислота!"
+"<34>{#p/story}* Монстрёнок заявил, что из ближайших труб сочится кислота!"
 
 msgid "<32>{#p/story}* Nothing happened."
-msgstr "<32>{#p/story}* Ничего не произошло."
+msgstr "<34>{#p/story}* Ничего не произошло."
 
 msgid ""
 "<32>{#p/story}* Skrubbington was grossed out!\n"
 "* Skrubbington's DEFENSE down!"
 msgstr ""
-"<32>{#p/story}* Чистинсону стало неприятно.\n"
+"<34>{#p/story}* Чистинсону стало неприятно.\n"
 "* ЗАЩИТА чистинсона понижена!"
 
 msgid ""
 "<32>{#p/story}* Shyren felt uncomfortable!\n"
 "* Shyren's DEFENSE down!"
 msgstr ""
-"<32>{#p/story}* Смурене стало неприятно.\n"
+"<34>{#p/story}* Смурене стало неприятно.\n"
 "* ЗАЩИТА Смурены понижена!"
 
 msgid ""
@@ -12689,21 +12687,21 @@ msgid ""
 "<32>{#p/story}* $(x) felt uncomfortable!\n"
 "* $(x)'s DEFENSE down!"
 msgstr ""
-"<32>{#p/story}* $(x) стало неприятно.\n"
+"<34>{#p/story}* $(x) стало неприятно.\n"
 "* ЗАЩИТА $(x) понижена!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington felt flattered!\n"
 "* Skrubbington's ATTACK down!"
 msgstr ""
-"<32>{#p/story}* Чистинсон польщён этим!\n"
+"<34>{#p/story}* Чистинсон польщён этим!\n"
 "* АТАКА чистинсона понижена!"
 
 msgid ""
 "<32>{#p/story}* Shyren felt flattered!\n"
 "* Shyren's ATTACK down!"
 msgstr ""
-"<32>{#p/story}* Смурена польщена этим!\n"
+"<34>{#p/story}* Смурена польщена этим!\n"
 "* АТАКА Смурены понижена!"
 
 msgid ""
@@ -12715,53 +12713,53 @@ msgid ""
 "<32>{#p/story}* $(x) felt respected!\n"
 "* $(x)'s ATTACK down!"
 msgstr ""
-"<32>{#p/story}* $(x) испытывает уважение!\n"
+"<34>{#p/story}* $(x) испытывает уважение!\n"
 "* АТАКА $(x) понижена!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington and the others were distracted by Monster Kid "
 "and forgot their turn!"
 msgstr ""
-"<32>{#p/story}* Чистинсон и другие монстры отвлеклись на Монстрёнка и "
+"<34>{#p/story}* Чистинсон и другие монстры отвлеклись на Монстрёнка и "
 "пропустили ход!"
 
 msgid ""
 "<32>{#p/story}* Skrubbington was distracted by Monster Kid and forgot their "
 "turn!"
-msgstr "<32>{#p/story}* Чистинсон отвлёкся на Монстрёнка и пропустил свой ход!"
+msgstr "<34>{#p/story}* Чистинсон отвлёкся на Монстрёнка и пропустил свой ход!"
 
 msgid "<32>{#p/story}* Distracted by Monster Kid, Shyren forgot her turn!"
-msgstr "<32>{#p/story}* Смурена отвлеклась на Монстрёнка и пропустила свой ход!"
+msgstr "<34>{#p/story}* Смурена отвлеклась на Монстрёнка и пропустила свой ход!"
 
 msgid ""
 "<32>{#p/story}* Entranced by Monster Kid, $(x) and the others forgot their "
 "turn!"
 msgstr ""
-"<32>{#p/story}* Очаровавшись Монстрёнком, $(x) другие монстры пропустили "
+"<34>{#p/story}* Очаровавшись Монстрёнком, $(x) другие монстры пропустили "
 "свой ход!"
 
 msgid "<32>{#p/story}* Entranced by Monster Kid, Radtile forgot his turn!"
 msgstr ""
 
 msgid "<32>{#p/story}* Entranced by Monster Kid, $(x) forgot their turn!"
-msgstr "<32>{#p/story}* Очаровавшись Монстёнком, $(x) пропускает свой ход!"
+msgstr "<34>{#p/story}* Очаровавшись Монстёнком, $(x) пропускает свой ход!"
 
 msgid ""
 "<32>{#p/story}* Fearful for its life, Skrubbington panicked and left the "
 "battle!"
-msgstr "<32>{#p/story}* Чистинсон испугался и в панике убежал из битвы!"
+msgstr "<34>{#p/story}* Чистинсон испугался и в панике убежал из битвы!"
 
 msgid "<32>{#p/story}* The other monsters continue to fight you."
-msgstr "<32>{#p/story}* Остальные монстры продолжают сражаться с вами."
+msgstr "<34>{#p/story}* Остальные монстры продолжают сражаться с вами."
 
 msgid ""
 "<32>{#p/story}* Fearful for her life, Shyren panicked and left the battle!"
-msgstr "<32>{#p/story}* Смурена испугалась и в панике убежала из битвы!"
+msgstr "<34>{#p/story}* Смурена испугалась и в панике убежала из битвы!"
 
 msgid ""
 "<32>{#p/story}* Encouraged by her own performance, Shyren braved the threat!"
 msgstr ""
-"<32>{#p/story}* Смурена, воодушевлённая своим выступлением, отважно приняла "
+"<34>{#p/story}* Смурена, воодушевлённая своим выступлением, отважно приняла "
 "вызов!"
 
 msgid ""
@@ -12770,45 +12768,45 @@ msgstr ""
 
 msgid ""
 "<32>{#p/story}* Fearful for its life, $(x) panicked and left the battle!"
-msgstr "<32>{#p/story}* $(x) испугался и в панике убежал из битвы!"
+msgstr "<34>{#p/story}* $(x) испугался и в панике убежал из битвы!"
 
 msgid ""
 "<32>{#p/kidding}* Y... y-you want me to fight?\n"
 "* Are you sure?"
 msgstr ""
-"<32>{#p/kidding}* Ты... т-ты хочешь, чтобы я сражался?\n"
+"<34>{#p/kidding}* Ты... т-ты хочешь, чтобы я сражался?\n"
 "* Ч-чел, ты серьёзно?"
 
 msgid "* (Do you confirm?)"
 msgstr "* (Вы уверены?)"
 
 msgid "<32>{#p/kidding}* Okay... here goes nothing..."
-msgstr "<32>{#p/kidding}* Безуспешно..."
+msgstr "<34>{#p/kidding}* Безуспешно..."
 
 msgid "<32>{#p/kidding}* Oh, okay..."
-msgstr "<32>{#p/kidding}* Уф, хорошо..."
+msgstr "<34>{#p/kidding}* Уф, хорошо..."
 
 msgid "<32>* I'll just spare them, then!"
-msgstr "<32>* Тогда я просто пощажу их!"
+msgstr "<34>* Тогда я просто пощажу их!"
 
 msgid "<32>* Ngh...!"
-msgstr "<32>* Мгх!.."
+msgstr "<34>* Мгх!.."
 
 msgid "<32>* Hi-yah...!"
-msgstr "<32>* Хэй-я!.."
+msgstr "<34>* Хэй-я!.."
 
 msgid "<32>* Wa-POW!"
-msgstr "<32>* Бабах!"
+msgstr "<34>* Бабах!"
 
 msgid ""
 "<32>{#p/kidding}* Mercy?\n"
 "* Do I spare them?"
 msgstr ""
-"<32>{#p/kidding}* Пощадить?\n"
+"<34>{#p/kidding}* Пощадить?\n"
 "* То есть, отпустить их?"
 
 msgid "<32>{#p/kidding}* Haha, that's easy!"
-msgstr "<32>{#p/kidding}* Ха, проще некуда!"
+msgstr "<34>{#p/kidding}* Ха, проще некуда!"
 
 msgid "* (What should Monster Kid do?)"
 msgstr "* (Что нужно сделать Монстрёнку?)"
@@ -12844,30 +12842,30 @@ msgid "Insult"
 msgstr "Оскорбить"
 
 msgid "<32>{#s/phone}{#p/event}* Dialing..."
-msgstr "<32>{#s/phone}{#p/event}* Набор номера..."
+msgstr "<34>{#s/phone}{#p/event}* Набор номера..."
 
 msgid "<32>{#p/human}* (Too much interference.)"
-msgstr "<32>{#p/human}* (Слишком сильные помехи.)"
+msgstr "<34>{#p/human}* (Слишком сильные помехи.)"
 
 msgid "<32>{#p/basic}* ... but nobody came."
-msgstr "<32>{#p/basic}* Но никто не пришёл..."
+msgstr "<34>{#p/basic}* Но никто не пришёл..."
 
 msgid "<32>{#p/human}* (No connection.)"
-msgstr "<32>{#p/human}* (Нет связи.)"
+msgstr "<34>{#p/human}* (Нет связи.)"
 
 msgid ""
 "<32>{#p/human}* (It sounds like a small, white dog is sleeping on the cell "
 "phone.)"
 msgstr ""
-"<32>{#p/human}* (Звук такой, как будто на телефоне лежит маленькая белая "
+"<34>{#p/human}* (Звук такой, как будто на телефоне лежит маленькая белая "
 "собачка.)"
 
 msgid "<32>{#p/basic}* (Snore... snore...)"
-msgstr "<32>{#p/basic}* (Храп... храп...)"
+msgstr "<34>{#p/basic}* (Храп... храп...)"
 
 msgid "<32>* (Snore... snore...)"
 msgstr ""
-"<32>* (Храп...\n"
+"<34>* (Храп...\n"
 "храп...)"
 
 msgid "<32>{#p/basic}* (Snore... snore... snore...)"
@@ -12895,7 +12893,7 @@ msgid "<32>* (Whine.)"
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/5}* About me?"
-msgstr "<25>{#p/asgore}{#f/5}* Про себя?"
+msgstr "<27>{#p/asgore}{#f/5}* Про себя?"
 
 msgid "<25>{#f/7}* ... oh, but where would I begin?"
 msgstr ""
