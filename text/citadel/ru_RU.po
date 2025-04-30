@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 06:04+0000\n"
-"PO-Revision-Date: 2025-04-30 14:02+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-04-30 15:58+0000\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
 "Language: ru_RU\n"
@@ -35,7 +35,7 @@ msgid "<32>{#p/human}* (You wish you could make this all just go away.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (...)"
-msgstr "<32>{#p/human}* (...)"
+msgstr "<34>{#p/human}* (...)"
 
 msgid ""
 "<32>{#p/human}* (You take a deep breath, and ready yourself for the end.)"
@@ -257,7 +257,7 @@ msgid "FILE 6 LOADED"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to equip.)"
-msgstr "<32>{#p/human}* (Вы решили не надевать это.)"
+msgstr "<34>{#p/human}* (Вы решили не надевать это.)"
 
 msgid "<26>{#p/asriel2}{#f/13}* As I was going to say..."
 msgstr ""
@@ -296,7 +296,7 @@ msgid "<25>{#f/23}* ... begged... for help..."
 msgstr ""
 
 msgid "<25>{#f/7}* ..."
-msgstr "<25>{#f/7}* ..."
+msgstr "<27>{#f/7}* ..."
 
 msgid "<25>{#f/6}* ... nobody came."
 msgstr ""
@@ -538,7 +538,7 @@ msgid "<25>{#f/15}* Pulled... just a little too tightly..."
 msgstr ""
 
 msgid "<25>{#f/16}* ..."
-msgstr "<25>{#f/16}* ..."
+msgstr "<27>{#f/16}* ..."
 
 msgid "<25>{#f/6}* My own mother, strangled to death by my own magic..."
 msgstr ""
@@ -918,10 +918,10 @@ msgid "<18>{#p/papyrus}{#f/6}YES, YES, DO THAT!"
 msgstr ""
 
 msgid "<32>{#p/basic}* ..."
-msgstr ""
+msgstr "<34>{#p/basic}* ..."
 
 msgid "<32>{#p/basic}* No response."
-msgstr "<32>{#p/basic}* Нет ответа."
+msgstr "<34>{#p/basic}* Нет ответа."
 
 msgid "<32>{#p/basic}* They say there's not enough of them left!?"
 msgstr ""
@@ -1338,7 +1338,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>* ..."
-msgstr "<32>* ..."
+msgstr "<34>* ..."
 
 msgid "<32>* Maybe... part of me still is."
 msgstr ""
@@ -3595,7 +3595,7 @@ msgid "<32>* The more easily you can bring yourself to hurt others."
 msgstr ""
 
 msgid "<25>{#p/sans}{#f/3}* ..."
-msgstr "<25>{#p/sans}{#f/3}* ..."
+msgstr "<27>{#p/sans}{#f/3}* ..."
 
 msgid ""
 "<25>{#f/0}* wow, buddo.\n"
@@ -3825,7 +3825,7 @@ msgid "<25>{#f/0}* but don't you think you could have done a little better?"
 msgstr ""
 
 msgid "<25>{#f/0}* ..."
-msgstr "<25>{#f/0}* ..."
+msgstr "<27>{#f/0}* ..."
 
 msgid "<25>{#f/0}* for what it's worth..."
 msgstr ""
@@ -4730,7 +4730,7 @@ msgid "<25>* I feared that, one day, a human would arrive and doom us all."
 msgstr ""
 
 msgid "<25>{#f/1}* ..."
-msgstr "<25>{#f/1}* ..."
+msgstr "<27>{#f/1}* ..."
 
 msgid "<25>{#f/2}* It seems... this fear was justified."
 msgstr ""
@@ -4756,7 +4756,7 @@ msgid "<25>{#f/12}* Or was this your plan from the start?"
 msgstr ""
 
 msgid "<25>{#f/5}* ..."
-msgstr "<25>{#f/5}* ..."
+msgstr "<27>{#f/5}* ..."
 
 msgid ""
 "<26>{#f/16}* Regardless.\n"
@@ -4824,7 +4824,7 @@ msgid "<25>{#f/5}* Especially since this is Alphys's first time doing this."
 msgstr ""
 
 msgid "<25>{#f/15}* ..."
-msgstr "<25>{#f/15}* ..."
+msgstr "<27>{#f/15}* ..."
 
 msgid "<25>{#f/16}* The archive lies ahead of you now."
 msgstr ""
@@ -5513,7 +5513,7 @@ msgid "<32>{#p/basic}* Asriel..."
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/22}* ..."
-msgstr "<25>{#p/asriel1}{#f/22}* ..."
+msgstr "<27>{#p/asriel1}{#f/22}* ..."
 
 msgid "<25>{#f/21}* ... I know."
 msgstr ""
@@ -5542,7 +5542,7 @@ msgid "<25>{#f/23}* Well, I guess you win again, Frisk."
 msgstr ""
 
 msgid "<25>{#f/22}* ..."
-msgstr "<25>{#f/22}* ..."
+msgstr "<27>{#f/22}* ..."
 
 msgid "<25>{#f/13}* It's strange..."
 msgstr ""
@@ -5913,7 +5913,7 @@ msgid "<25>{#f/16}* So... the least I can do is return them."
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/21}* ..."
-msgstr "<25>{#p/asriel1}{#f/21}* ..."
+msgstr "<27>{#p/asriel1}{#f/21}* ..."
 
 msgid ""
 "<25>{#f/21}* Well, anyway.\n"
@@ -6053,7 +6053,7 @@ msgid "Comfort him"
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/25}* ...!"
-msgstr "<25>{#p/asriel1}{#f/25}* !.."
+msgstr "<27>{#p/asriel1}{#f/25}* !.."
 
 msgid "<25>{#f/21}* Frisk, I..."
 msgstr ""
@@ -6071,10 +6071,10 @@ msgid "<25>{#f/23}{#i/4}* I don't want to let go..."
 msgstr ""
 
 msgid "<32>{#p/human}* (It sounds like someone is crying...)"
-msgstr "<32>{#p/human}* (Вы слышите чей-то плач...)"
+msgstr "<34>{#p/human}* (Вы слышите чей-то плач...)"
 
 msgid "<25>{#p/asriel1}{#f/13}* Frisk..."
-msgstr "<25>{#p/asriel1}{#f/13}* Фриск..."
+msgstr "<27>{#p/asriel1}{#f/13}* Фриск..."
 
 msgid "<25>{#f/15}* Whatever you do..."
 msgstr ""
@@ -6193,7 +6193,7 @@ msgid "<32>* I just need to see him before he's... gone for good."
 msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
-msgstr "<32>{#s/phone}{#p/event}* Звонок..."
+msgstr "<34>{#s/phone}{#p/event}* Звонок..."
 
 msgid "<18>{#p/papyrus}{#f/6}SORRY IF YOU TRIED TO CALL US BEFORE..."
 msgstr ""
@@ -6260,7 +6260,7 @@ msgid "<25>{#p/undyne}{#f/1}* Enjoy the solitude!!"
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/event}* Click..."
-msgstr "<32>{#s/equip}{#p/event}* Щелчок..."
+msgstr "<34>{#s/equip}{#p/event}* Щелчок..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}HEY, HUMAN!\n"
@@ -6507,7 +6507,7 @@ msgid "<26>{#f/17}* You must be so tired after all of this."
 msgstr ""
 
 msgid "<25>{#f/13}* ..."
-msgstr "<25>{#f/13}* ..."
+msgstr "<27>{#f/13}* ..."
 
 msgid "<25>{#f/13}* Maybe, by the time you wake up..."
 msgstr ""
@@ -6534,7 +6534,7 @@ msgid "<25>{#p/asgore}{#f/1}* Howdy."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/5}* ..."
-msgstr "<25>{#p/toriel}{#f/5}* ..."
+msgstr "<27>{#p/toriel}{#f/5}* ..."
 
 msgid "<25>{#p/asgore}{#f/6}* Toriel, I..."
 msgstr ""
@@ -7041,7 +7041,7 @@ msgid "<18>{#p/papyrus}{#f/5}JUST... NICE."
 msgstr ""
 
 msgid "<32>{#p/napstablook}* hey everyone..."
-msgstr "<32>{#p/napstablook}* эй народ..."
+msgstr "<34>{#p/napstablook}* эй народ..."
 
 msgid ""
 "<32>{#p/napstablook}* i hope i'm not intruding on you guys or anything..."
@@ -7166,7 +7166,7 @@ msgid "<25>{#p/undyne}{#f/17}* Gee, thanks MOM."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/3}* ..."
-msgstr "<25>{#p/toriel}{#f/3}* ..."
+msgstr "<27>{#p/toriel}{#f/3}* ..."
 
 msgid ""
 "<25>{#p/toriel}{#f/4}* I do not know how to feel about that...\n"
@@ -7453,7 +7453,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You hear footsteps fading into the distance.)"
-msgstr "<32>{#p/human}* (Вы слышите шаги вдалеке.)"
+msgstr "<34>{#p/human}* (Вы слышите шаги вдалеке.)"
 
 msgid ""
 "<32>{#p/basic}{#x1}* Huh?\n"
@@ -7590,7 +7590,7 @@ msgid "<32>{#p/basic}* The countertop is clear."
 msgstr ""
 
 msgid "<32>{#p/human}* (You feel the inviting warmth of the fireplace...)"
-msgstr ""
+msgstr "<34>{#p/human}* (Вы ощущаете живительную теплоту камина...)"
 
 msgid "* (Crawl inside?)"
 msgstr "* (Сделать глупость?)"
@@ -7604,24 +7604,24 @@ msgid ""
 msgstr ""
 
 msgid "<32>* You could probably crawl in."
-msgstr "<32>* Вы могли бы в него залезть."
+msgstr "<34>* Вы могли бы в него залезть."
 
 msgid "<32>{#p/human}* (You chose not to crawl in.)"
-msgstr "<32>{#p/human}* (Вы не решаетесь залезать.)"
+msgstr "<34>{#p/human}* (Вы не решаетесь залезать.)"
 
 msgid ""
 "<32>{#p/human}* (You crawl into the fireplace and let its warmth engulf "
 "you.)"
-msgstr "<32>{#p/human}* (Вы залезаете внутрь, тепло окутывает вас.)"
+msgstr "<34>{#p/human}* (Вы залезаете внутрь, тепло окутывает вас.)"
 
 msgid "<32>{#p/human}* (You are very comfortable.)"
-msgstr ""
+msgstr "<34>{#p/human}* (Вам очень уютно.)"
 
 msgid "<25>{#p/asriel1}{#f/13}* I'll just, uh, wait for you to get out."
-msgstr "<25>{#p/asriel1}{#f/13}* Я подожду, пока ты вылезешь оттуда."
+msgstr "<27>{#p/asriel1}{#f/13}* Я подожду, пока ты вылезешь оттуда."
 
 msgid "<25>{#p/asriel2}{#f/15}* I'll just, uh, wait for you to get out..."
-msgstr "<25>{#p/asriel2}{#f/15}* Я подожду, пока ты вылезешь оттуда..."
+msgstr "<27>{#p/asriel2}{#f/15}* Я подожду, пока ты вылезешь оттуда..."
 
 msgid "<32>{#p/basic}* Be careful in there, munchkin!"
 msgstr ""
@@ -7695,10 +7695,10 @@ msgid "* (Take a Chocolate Bar?)"
 msgstr ""
 
 msgid "<32>{#p/human}* (You decide not to take anything.)"
-msgstr "<32>{#p/human}* (Вы решили ничего не брать.)"
+msgstr "<34>{#p/human}* (Вы решили ничего не брать.)"
 
 msgid "<32>{#p/human}* (You got the Chocolate Bar.)"
-msgstr "<32>{#p/human}* (Вы получили шоколадку.)"
+msgstr "<34>{#p/human}* (Вы получили шоколадку.)"
 
 msgid "<25>{#p/alphys}{#g/alphysInquisitive}* Hey, are you coming?"
 msgstr ""
@@ -7911,7 +7911,7 @@ msgid "<25>{#f/7}{#v/0}* Maybe you'd like that."
 msgstr ""
 
 msgid "<25>{#f/6}{#v/0}* ..."
-msgstr "<25>{#f/6}{#v/0}* ..."
+msgstr "<27>{#f/6}{#v/0}* ..."
 
 msgid "<25>{#f/8}* See ya at the force field, idiot."
 msgstr ""
@@ -8079,7 +8079,7 @@ msgid "<32>{#p/human}{#v/5}{@fill=#00c000}* Hello?"
 msgstr ""
 
 msgid "<32>{#p/human}* (You're carrying too much.)"
-msgstr ""
+msgstr "<34>{#p/human}* (Вы не можете нести больше.)"
 
 msgid "<32>{#p/human}* (You're carrying too much to take that.)"
 msgstr "<40>{#p/human}* (Вы несёте слишком много груза.)"
@@ -8159,7 +8159,7 @@ msgid "<32>{#p/basic}* The seat of the kingdom."
 msgstr ""
 
 msgid "<32>{#p/basic}* It's out of service."
-msgstr "<32>{#p/basic}* Сломано."
+msgstr "<34>{#p/basic}* Сломано."
 
 msgid ""
 "<32>{#p/human}* (You activate the terminal.)\n"
@@ -8497,7 +8497,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Dialing..."
-msgstr "<32>{#s/phone}{#p/event}* Набор номера..."
+msgstr "<34>{#s/phone}{#p/event}* Набор номера..."
 
 msgid ""
 "<32>{#p/human}{#v/2}{@fill=#ff993d}* Hello?\n"
@@ -9171,10 +9171,10 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/basic}* It's a bookshelf."
-msgstr "<32>{#p/basic}* Книжный шкаф."
+msgstr "<34>{#p/basic}* Книжный шкаф."
 
 msgid "<32>{#p/human}* (You pick out a book...)"
-msgstr "<32>{#p/human}* (Вы берёте одну из книг...)"
+msgstr "<34>{#p/human}* (Вы берёте одну из книг...)"
 
 msgid "<32>{#p/basic}* This book is labelled \"Grand Library Brochure.\""
 msgstr ""
@@ -9211,25 +9211,25 @@ msgid "<32>{#p/basic}* This book has been signed by \"Toriel Dreemurr.\""
 msgstr ""
 
 msgid "<32>{#p/basic}* \"Dreemurr Family Recipes: Snail Pie\""
-msgstr "<32>{#p/basic}* «Рецепты семьи Дримур: улиточный пирог»."
+msgstr "<34>{#p/basic}* «Рецепты семьи Дримур: улиточный пирог»."
 
 msgid ""
 "<32>* \"Snail Pie is a coveted tradition among members of the Dreemurr "
 "family line.\""
-msgstr "<32>* «Улиточный пирог — давняя традиция семьи Дримур»."
+msgstr "<34>* «Улиточный пирог — давняя традиция семьи Дримур»."
 
 msgid ""
 "<32>* \"Making it is a simple process, and can be broken down into five "
 "steps.\""
 msgstr ""
-"<32>* «Готовка пирога — очень простой процесс, его можно разделить на пять "
+"<34>* «Готовка пирога — очень простой процесс, его можно разделить на пять "
 "шагов»."
 
 msgid ""
 "<32>* \"First, prepare the bottom crust by laying it on top of a pie "
 "plate.\""
 msgstr ""
-"<32>* «Сначала подготовьте нижнюю корочку, положив её сверху на тарелку»."
+"<34>* «Сначала подготовьте нижнюю корочку, положив её сверху на тарелку»."
 
 msgid ""
 "<32>* \"Next, whisk evaporated milk, eggs, and spices together in a bowl "
@@ -9246,23 +9246,23 @@ msgstr ""
 "добавьте их в смесь»."
 
 msgid "<32>* \"After that, pour the contents of the bowl into the bottom crust.\""
-msgstr "<32>* «После чего вылейте содержимое миски на основу пирога»."
+msgstr "<34>* «После чего вылейте содержимое миски на основу пирога»."
 
 msgid ""
 "<32>* \"Last, prepare the top crust by cutting sheet into strips and forming"
 " a lattice.\""
 msgstr ""
-"<32>* «А для верхней корочки нарежьте тесто на полоски и выложите их в форме "
+"<34>* «А для верхней корочки нарежьте тесто на полоски и выложите их в форме "
 "решётки»."
 
 msgid "<32>* \"Then just bake the pie!\""
-msgstr "<32>* «Затем поместите пирог в духовку»."
+msgstr "<34>* «Затем поместите пирог в духовку»."
 
 msgid ""
 "<32>* \"Once the pie is ready, take it out of the oven, let it cool, and "
 "serve!\""
 msgstr ""
-"<32>* «После готовности выньте пирог из духовки, дайте остыть и подавайте "
+"<34>* «После готовности выньте пирог из духовки, дайте остыть и подавайте "
 "его на стол»."
 
 msgid "<32>{#p/basic}* It's a casualty report."
@@ -9302,10 +9302,10 @@ msgid "<32>* \"The boy is a hometown hero.\""
 msgstr ""
 
 msgid "<32>{#p/human}* (You note the fairly large size of the dining chair.)"
-msgstr "<32>{#p/human}* (Вы подмечаете весьма большой размер стула.)"
+msgstr "<34>{#p/human}* (Вы подмечаете весьма большой размер стула.)"
 
 msgid "<32>{#p/basic}* A larger dining chair."
-msgstr "<32>{#p/basic}* Большой обеденный стул."
+msgstr "<34>{#p/basic}* Большой обеденный стул."
 
 msgid ""
 "<32>{#p/basic}* One of Asgore's dining chairs.\n"
@@ -9313,10 +9313,10 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You note the small size of the dining chair.)"
-msgstr "<32>{#p/human}* (Вы подмечаете стул небольшого размера.)"
+msgstr "<34>{#p/human}* (Вы подмечаете стул небольшого размера.)"
 
 msgid "<32>{#p/basic}* A smaller dining chair."
-msgstr "<32>{#p/basic}* Малый обеденный стул."
+msgstr "<34>{#p/basic}* Малый обеденный стул."
 
 msgid ""
 "<32>{#p/basic}* One of Asgore's dining chairs.\n"
@@ -9348,10 +9348,10 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You note the exceptional size of the dining chair.)"
-msgstr "<32>{#p/human}* (Вы отмечаете необычный размер обеденного стула.)"
+msgstr "<34>{#p/human}* (Вы отмечаете необычный размер обеденного стула.)"
 
 msgid "<32>{#p/basic}* A king-sized dining chair."
-msgstr "<32>{#p/basic}* Королевский обеденный стул."
+msgstr "<34>{#p/basic}* Королевский обеденный стул."
 
 msgid ""
 "<32>{#p/basic}* One of Asgore's dining chairs.\n"
@@ -9502,14 +9502,14 @@ msgid "<32>{#p/basic}* Smells like marinara sauce."
 msgstr ""
 
 msgid "<32>{#p/human}* (You can't make out what's in the trash...)"
-msgstr "<32>{#p/human}* (Вы не можете понять, что лежит в мусорке...)"
+msgstr "<34>{#p/human}* (Вы не можете понять, что лежит в мусорке...)"
 
 msgid "<32>{#p/basic}* Surprisingly, the trash is completely empty."
 msgstr ""
 
 msgid ""
 "<32>{#p/human}* (The sign describes the room within as being incomplete.)"
-msgstr "<32>{#p/human}* (Табличка гласит, что комната не завершена.)"
+msgstr "<34>{#p/human}* (Табличка гласит, что комната не завершена.)"
 
 msgid ""
 "<25>{#p/asriel1}{#f/3}* If she hadn't left, that would be Mom's room..."
@@ -9519,7 +9519,7 @@ msgid "<25>{#f/4}* It's a bummer it was never finished."
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/13}* ..."
-msgstr "<25>{#p/asriel1}{#f/13}* ..."
+msgstr "<27>{#p/asriel1}{#f/13}* ..."
 
 msgid "<25>{#f/15}* When Mom left, it... hurt him pretty bad."
 msgstr ""
@@ -9539,10 +9539,10 @@ msgid "<25>{#p/asriel1}{#f/23}* ... oh, Dad..."
 msgstr ""
 
 msgid "<32>{#p/basic}* \"Room under renovations.\""
-msgstr "<32>{#p/basic}* «Комната на ремонте»."
+msgstr "<34>{#p/basic}* «Комната на ремонте»."
 
 msgid "<25>{#p/asriel1}{#f/24}* It's us..."
-msgstr "<25>{#p/asriel1}{#f/24}* Это мы..."
+msgstr "<27>{#p/asriel1}{#f/24}* Это мы..."
 
 msgid "<32>{#p/basic}* Despite everything..."
 msgstr ""
@@ -9551,7 +9551,7 @@ msgid "<32>* ... is it really you?"
 msgstr ""
 
 msgid "<32>{#p/basic}* It's you."
-msgstr "<32>{#p/basic}* Это ты."
+msgstr "<34>{#p/basic}* Это ты."
 
 msgid ""
 "<99>{#p/basic}* Despite skipping over most of\n"
@@ -9626,13 +9626,13 @@ msgstr ""
 msgid ""
 "<32>{#p/human}* (You can't find anything in here besides several of the "
 "exact same outfit.)"
-msgstr "<32>{#p/human}* (Здесь нет ничего кроме одинаковой одежды.)"
+msgstr "<34>{#p/human}* (Здесь нет ничего кроме одинаковой одежды.)"
 
 msgid "<32>{#p/basic}* A cabinet full of clothes."
 msgstr ""
 
 msgid "<32>{#p/basic}* A cabinet full of blue and yellow striped shirts."
-msgstr "<32>{#p/basic}* Шкаф наполнен сине-жёлтыми полосатыми рубашками."
+msgstr "<34>{#p/basic}* Шкаф наполнен сине-жёлтыми полосатыми рубашками."
 
 msgid "<32>{#p/basic}* Some things never change..."
 msgstr ""
@@ -10072,7 +10072,7 @@ msgid "<32>* \"Hopefully those kinds of questions will soon be answered.\""
 msgstr ""
 
 msgid "<32>{#p/human}* (There are no more written entries here.)"
-msgstr "<32>{#p/human}* (Больше записей нет.)"
+msgstr "<34>{#p/human}* (Больше записей нет.)"
 
 msgid "<32>{#p/human}* (You look inside the bureau...)"
 msgstr ""
@@ -10140,7 +10140,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/human}* (You peek inside.)"
-msgstr "<32>{#p/human}* (Вы заглянули внутрь.)"
+msgstr "<34>{#p/human}* (Вы заглянули внутрь.)"
 
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Frisk...\n"
@@ -10158,7 +10158,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/15}* ..."
-msgstr "<25>{#p/asriel1}{#f/15}* ..."
+msgstr "<27>{#p/asriel1}{#f/15}* ..."
 
 msgid "<32>{#p/basic}* Nothing left for you here."
 msgstr ""
@@ -11377,7 +11377,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/story}* ..."
-msgstr "<32>{#p/story}* ..."
+msgstr "<34>{#p/story}* ..."
 
 msgid "<32>{#p/story}* A faint resonance echoes from within Asriel's body."
 msgstr ""
@@ -11743,7 +11743,7 @@ msgid "<32>{#p/human}* (You flirt with the Lost Soul.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* Suddenly...!"
-msgstr "<32>{#p/basic}* Внезапно!.."
+msgstr "<34>{#p/basic}* И вдруг!.."
 
 msgid ""
 "<32>{#p/human}* (You flirt with the Lost Soul.)\n"
@@ -13569,7 +13569,7 @@ msgid "Candy"
 msgstr "Конфета"
 
 msgid "<32>{#p/human}* (You throw away the Monster Candy.)"
-msgstr "<32>{#p/human}* (Вы выбросили монстроконфету.)"
+msgstr "<34>{#p/human}* (Вы выбросили монстроконфету.)"
 
 msgid "<32>{#p/human}* (4 HP.)"
 msgstr ""
@@ -13578,7 +13578,7 @@ msgid "Monster Candy"
 msgstr "Монстроконфета"
 
 msgid "<32>{#p/human}* (You eat the Monster Candy.)"
-msgstr "<32>{#p/human}* (Вы съели монстроконфету.)"
+msgstr "<34>{#p/human}* (Вы съели монстроконфету.)"
 
 msgid "5 HP."
 msgstr ""
@@ -13641,7 +13641,7 @@ msgid "<32>{#p/human}* (You throw away the Heal-pak.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (8 HP.)"
-msgstr "<32>{#p/human}* (8 ОЗ.)"
+msgstr "<34>{#p/human}* (8 ОЗ.)"
 
 msgid "<32>{#p/human}* (You use the Heal-pak.)"
 msgstr ""
@@ -13699,7 +13699,7 @@ msgid "<32>{#p/human}* (You throw away the Starling Tea.)"
 msgstr ""
 
 msgid "<32>{#p/human}* (99 HP.)"
-msgstr "<32>{#p/human}* (99 ОЗ.)"
+msgstr "<34>{#p/human}* (99 ОЗ.)"
 
 msgid ""
 "<32>{#p/basic}* \"Starling Tea\" Heals 99 HP\n"
