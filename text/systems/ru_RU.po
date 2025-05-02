@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 12:51+0000\n"
-"PO-Revision-Date: 2025-04-27 20:13+0000\n"
+"PO-Revision-Date: 2025-05-01 23:13+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/ru/>\n"
@@ -76,7 +76,7 @@ msgid ""
 "<32>{#p/story}* YOU WON!\n"
 "* You earned $(x) EXP and $(y)G."
 msgstr ""
-"<32>{#p/story}* ПОБЕДА!\n"
+"<34>{#p/story}* ПОБЕДА!\n"
 "* Получено $(x) ОП и $(y) М."
 
 msgid ""
@@ -84,7 +84,7 @@ msgid ""
 "* You earned $(x) EXP and $(y)G.\n"
 "* Your LOVE increased."
 msgstr ""
-"<32>{#p/story}* ПОБЕДА!\n"
+"<34>{#p/story}* ПОБЕДА!\n"
 "* Получено $(x) ОП и $(y) М.\n"
 "* УР повышен."
 
@@ -105,10 +105,10 @@ msgstr ""
 "отошлите скриншот разработчику."
 
 msgid "CONTROL"
-msgstr ""
+msgstr "УПРАВЛЕНИЕ"
 
 msgid "GENERAL"
-msgstr ""
+msgstr "ОБЩИЕ"
 
 msgid "BATTLE"
 msgstr "БИТВА"
@@ -120,19 +120,19 @@ msgid "FixPlayer"
 msgstr ""
 
 msgid "InfiniteG"
-msgstr ""
+msgstr "Беск. М"
 
 msgid "Interact"
-msgstr ""
+msgstr "Взаимодейст."
 
 msgid "Input"
-msgstr ""
+msgstr "Ввод"
 
 msgid "Movement"
-msgstr ""
+msgstr "Движение"
 
 msgid "Noclip"
-msgstr ""
+msgstr "Сквозь стены"
 
 msgid "Save"
 msgstr "Сохранить"
@@ -141,10 +141,10 @@ msgid "SkipText"
 msgstr "ПропускТекста"
 
 msgid "Freecam"
-msgstr ""
+msgstr "Св. камера"
 
 msgid "CanAssist"
-msgstr ""
+msgstr "Вкл. Помощь"
 
 msgid "ClearBox"
 msgstr ""
@@ -159,34 +159,34 @@ msgid "ResetMenu"
 msgstr ""
 
 msgid "CanFlee"
-msgstr ""
+msgstr "Вкл. Сбежать"
 
 msgid "InfiniteHP"
-msgstr ""
+msgstr "Беск. ОЗ"
 
 msgid "PacifyAll"
-msgstr ""
+msgstr "Пощад. всех"
 
 msgid "Suicide"
-msgstr ""
+msgstr "Самоубийство"
 
 msgid "WeakenAll"
 msgstr ""
 
 msgid "$(x) FPS"
-msgstr ""
+msgstr "$(x) FPS"
 
 msgid "Halt"
 msgstr ""
 
 msgid "GAME SPEED"
-msgstr ""
+msgstr "ИГРОВАЯ СКОРОСТЬ"
 
 msgid "More"
-msgstr ""
+msgstr "Больше+"
 
 msgid "Less"
-msgstr ""
+msgstr "Меньше-"
 
 msgid "$(x)s/frame"
 msgstr ""
@@ -195,16 +195,16 @@ msgid "GODHOME"
 msgstr ""
 
 msgid "ROOM"
-msgstr ""
+msgstr "КОМНАТА"
 
 msgid "Teleport"
-msgstr ""
+msgstr "Телепорт"
 
 msgid "ENCOUNTER"
-msgstr ""
+msgstr "ПРОТИВНИК"
 
 msgid "Start"
-msgstr ""
+msgstr "В бой"
 
 msgid "ARMOR"
 msgstr "БРОНЯ"
@@ -2253,7 +2253,7 @@ msgid "* (HP fully restored.)"
 msgstr "* (Все ОЗ восстановлены.)"
 
 msgid "* (You recovered $(x) HP.)"
-msgstr ""
+msgstr "* (Восстановлено $(x) ОЗ.)"
 
 msgid "* (You lost $(x) HP.)"
 msgstr ""
@@ -2701,7 +2701,7 @@ msgid "DF"
 msgstr "ЗЩТ:"
 
 msgid "GOLD"
-msgstr "МОНЕТЫ"
+msgstr "МОНЕТ"
 
 msgid "NEXT"
 msgstr "ДО УР"
@@ -2712,11 +2712,11 @@ msgid ""
 "timeline."
 msgstr ""
 "§fill=#ff0§Внимание:\n"
-"Не канон.\n"
+"Не канонич.\n"
 "линия."
 
 msgid "KILLS"
-msgstr ""
+msgstr "УБИТО"
 
 msgid "BULLY"
 msgstr ""
@@ -2734,7 +2734,7 @@ msgid ""
 "<24>{#p/storyteller}Long ago, two species ruled the solar system: HUMANS and"
 " MONSTERS.{^35}{}"
 msgstr ""
-"<25>{#p/storyteller}Давным-давно расы ЛЮДЕЙ и МОНСТРОВ правили Солнечной "
+"<27>{#p/storyteller}Давным-давно расы ЛЮДЕЙ и МОНСТРОВ правили Солнечной "
 "системой.{^35}{}"
 
 msgid "<24>As time passed, a war broke out between the two species.{^35}{}"
