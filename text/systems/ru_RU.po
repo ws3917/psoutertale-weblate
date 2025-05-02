@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-19 12:51+0000\n"
-"PO-Revision-Date: 2025-05-01 23:13+0000\n"
+"PO-Revision-Date: 2025-05-02 19:19+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "0-systems/ru/>\n"
@@ -132,13 +132,13 @@ msgid "Movement"
 msgstr "Движение"
 
 msgid "Noclip"
-msgstr "Сквозь стены"
+msgstr "Ноуклип"
 
 msgid "Save"
 msgstr "Сохранить"
 
 msgid "SkipText"
-msgstr "ПропускТекста"
+msgstr "Скип текста"
 
 msgid "Freecam"
 msgstr "Св. камера"
@@ -147,10 +147,10 @@ msgid "CanAssist"
 msgstr "Вкл. Помощь"
 
 msgid "ClearBox"
-msgstr ""
+msgstr "Удал. пули"
 
 msgid "Exit"
-msgstr ""
+msgstr "Выход"
 
 msgid "ResetBox"
 msgstr ""
@@ -171,7 +171,7 @@ msgid "Suicide"
 msgstr "Самоубийство"
 
 msgid "WeakenAll"
-msgstr ""
+msgstr "Ослабить"
 
 msgid "$(x) FPS"
 msgstr "$(x) FPS"
