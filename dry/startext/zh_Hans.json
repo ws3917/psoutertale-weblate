@@ -8,9 +8,9 @@
     "e00117335a1e4e72bd369a9c0f26f24b": "* 查看",
     "4eed1b14ffb962181f6e93a16f0cb178": "* 你想要查看，\n  但实体阻止了你。",
     "be824c64e4bf484fa39945edffaac686": "* 闻起来像烧焦的橡胶。",
-    "266d7a742e318dd8d27a796b09f76ac7": "* Eraserhead想要调整眼镜，\n\t但够不着。",
+    "266d7a742e318dd8d27a796b09f76ac7": "* Eraserhead想要调整眼镜，\n  但它够不着。",
     "ff9b1aca0abb9ce249def414e8235d17": "* Eraserhead的力量正在消散。",
-    "6e592348dee0afca918aae3f114669c5": "* Penceller的身体要撕裂了。",
+    "6e592348dee0afca918aae3f114669c5": "* Penceller的身体要裂开了。",
     "9520a45f3ad699f91f0d3ce2a8836a42": "* Penceller和Eraserhead拦住了去路！",
     "7f355dea86b78f47ee404ee0172ec4e0": "* Penceller正试着削铅笔。",
     "e0dc227686e2acb812e84f4cd3d39836": "* 一对铅笔拦住了去路！",
@@ -29,5 +29,6 @@
     "5292fce9be2b02c0430ff06edcca46aa": "* 俩木头脑袋拦住了去路！",
     "6e6360d95bf53e9fe21ba5a0bfd4778a": "* 通过防御可以积攒你的TP。",
     "90b8aadfe723e237a1f4cc102e26bd6e": "* 当你拥有足够的TP时，\n  就可以使用[color=yellow]行动[/color]中的[color=yellow]逮捕[/color]\n  对敌人实行捕获。",
-    "255260ed0d04c6856b7c042935870087": "* 但要注意，当逮捕敌人时，\n  他们会尝试挣脱。\n* 血量越高的敌人就越容易挣脱。"
+    "255260ed0d04c6856b7c042935870087": "* 但要注意，当逮捕敌人时，\n  他们会尝试逃脱。\n* 血量越高的敌人将越容易逃脱。",
+    "78148e0656b6f17b71445354dd668a1a": "* 使用Cole的[color=yellow]枪击制伏[/color]\n  可以削减敌人的血量，\n  同时可以防止他们逃脱。"
 }
