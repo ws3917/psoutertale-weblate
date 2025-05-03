@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-02 23:13+0000\n"
+"PO-Revision-Date: 2025-05-03 16:07+0000\n"
 "Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -397,9 +397,8 @@ msgstr ""
 msgid "<32>{#p/asriel2}* Mercy, huh?"
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/asriel2}* Mercy... I think I like that word."
-msgstr "<34>{#p/asriel2}* Пощада...Мне нравится это слово."
+msgstr "<34>{#p/asriel2}* Пощада... Мне нравится это слово."
 
 #, fuzzy
 msgid "<32>{#p/asriel2}* Let's show him some \"Mercy.\""
@@ -453,17 +452,15 @@ msgstr ""
 "<15>{#p/papyrus}{#e/papyrus/27}САНС!\n"
 "ТЫ РАНЕН!"
 
-#, fuzzy
 msgid "<20>{#p/sans}papyrus, didn't i tell you to stay at home?"
-msgstr "<20>{#p/sans}папирус, разве я не говорил тебе остаться дома?"
+msgstr "<20>{#p/sans}папирус, разве я не говорил тебе оставаться дома?"
 
 #, fuzzy
 msgid "{*}{#e/papyrus/21}{%}"
 msgstr "{*}{#e/papyrus/21}{%}"
 
-#, fuzzy
 msgid "<20>{#p/sans}... don't worry bro, it's just yamok sauce."
-msgstr "<20>{#p/sans}...не бойся, бро, это всего лишь соус «ямок»."
+msgstr "<20>{#p/sans}...не бойся, бро, это всего лишь соус чили."
 
 #, fuzzy
 msgid "{*}{#e/papyrus/26}{%}"
@@ -7674,7 +7671,7 @@ msgid "<25>{#f/0}* for now, i'll just hang around here."
 msgstr "<27>{#f/0}* а сейчас я буду паясничать здесь."
 
 msgid "<25>{#p/sans}* quick, to the gravometric inverter."
-msgstr "<27>{#p/sans}* быстрее, к гравометрическому инвертору."
+msgstr "<27>{#p/sans}* быстрее, к гравоинвертору."
 
 msgid "<25>{#p/sans}* 'sup, bro?"
 msgstr "<27>{#p/sans}* прив, бро."
@@ -7698,7 +7695,7 @@ msgid "<18>NOTHING!"
 msgstr "<18>НИЧЕГО!"
 
 msgid "<25>{#p/sans}* actually, i'm playing with this gravometric thingy."
-msgstr "<27>{#p/sans}* вообще-то я играю с гравометрической штуковиной."
+msgstr "<27>{#p/sans}* вообще-то, я играю с гравоштуковиной."
 
 msgid "<25>* it's really cool."
 msgstr "<27>* это вообще улёт."
