@@ -139,7 +139,7 @@
     "609a04a127749cbcbf481bb804f54493": "* 你摘下了帽子。",
     "addea2fe0c262ed3d2f608110ca7d858": "* 没东西可看。",
     "39171a2a4baf4eda381a0887677c0625": "* 孤寂之时莫彷徨，\n  伙伴并肩于身旁。",
-    "49116bd4a7e9414d2a290255c7b97617": "* 你现在可以使用[color=yellow]菜单[/color]里的\n  [color=yellow]交谈[/color]来与你的伙伴对话。",
+    "49116bd4a7e9414d2a290255c7b97617": "* 你现在可以使用[color=yellow]菜单[/color]里的\n  [color=yellow]交谈[/color]来与你的伙伴对话了。",
     "5f591f28d2ce0ee8f68ca3e99d7e129a": "[color=black].",
     "33a37412d52aace1b333b1d41c51bb4d": "\n--\n",
     "392658215e898c73b5ed90b50ced94ec": "\n-----\n",
@@ -230,7 +230,7 @@
     "79a9ba2e1b5293dbd32de8709b2310f9": "* 不过是帮吾找几个[color=yellow]罪犯[/color]。",
     "c75d68aebc042aaa5441ed4511e4de16": "* 因吾为暗之民，\n  吾不能离开这个世界。",
     "e7301b777446d8a5f79cfa6e2ec6991f": "* 但我需要汝辈帮我\n  处理点事。",
-    "abb400438ddf2ff830cdd911e6dae500": "* [color=yellow]某人[/color]把他们放了。",
+    "abb400438ddf2ff830cdd911e6dae500": "* 被[color=yellow]某人[/color]给放跑了。",
     "1944fd1a6ceee46ef574ef4a8b378fd7": "* [color=yellow]黑暗世界[/color]中\n  最为穷凶极恶的罪犯\n  所关押之处。",
     "e42f3924fab2addb05f7b670b72ed3fc": "* 你在跟谁说话？",
     "8c2ae4852fab264b625d40347ca3b133": "* 看起来最近刚倒过。",
@@ -337,5 +337,7 @@
     "39f6354e59ba4f67fac382751166ec94": "* 不-不，你说得对。",
     "8df9091819c17f0b2dcd46a5381aa31f": "* 我们什么都没做错。\n* 是他自己选了这条不归路。",
     "a31da9ca8327ca68b77dc9b119474f04": "* Cole，我相信你的决断。",
-    "dd73223f05b7b1b9dc4e5cdc0fafe8b9": "* 继续前进吧。"
+    "dd73223f05b7b1b9dc4e5cdc0fafe8b9": "* 继续前进吧。",
+    "1121c46a19786be42c03f9496b254683": "* 有时，你的伙伴可以\n  帮助你完善[color=yellow]行动[/color]。",
+    "a4b124476663e523103e4a117f15382a": "* 在他们的[color=yellow]魔法[/color]菜单中，\n  可以查看到其[color=yellow]X-行动[/color]的作用。"
 }
