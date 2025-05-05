@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-03 16:07+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-05-06 15:13+0000\n"
+"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -7839,23 +7839,30 @@ msgid ""
 "* before you go out there on your own..."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#f/3}* you should know the royal guard's on the lookout for you."
-msgstr ""
+msgstr "<25>{#f/3}* ты должен знать, что стражники разыскивают тебя."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* don't worry, though.\n"
 "* all they've got out here are the canines."
 msgstr ""
+"<25>{#f/0}* хотя, не волнуйся.\n"
+"* всё, что у них есть — лишь собаки."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* since you're a human, you should know what dogs love, right?"
-msgstr ""
+msgstr "<25>{#f/0}* как человек, ты должен знать, что любят собаки, правда?"
 
+#, fuzzy
 msgid "<25>{#f/2}* they're almost as harmless as papyrus."
-msgstr ""
+msgstr "<25>{#f/2}* они почти безобидны как папирус."
 
+#, fuzzy
 msgid "<32>{#p/human}* (It appears this joke book has no clear ending.)"
-msgstr ""
+msgstr "<32>{#p/human}* (У этой книги-шутки нет ясного конца.)"
 
 msgid ""
 "<32>{#p/basic}* It's a book about non-euclidian geometry.\n"
@@ -8138,8 +8145,9 @@ msgstr ""
 msgid "<25>{#p/sans}{#f/0}* am i wrong?"
 msgstr ""
 
+#, fuzzy
 msgid "<26>{#p/sans}{#f/0}* all sorts of attacks."
-msgstr ""
+msgstr "<26>{#p/sans}{#f/0}* все виды атак."
 
 msgid "<25>{#p/sans}* by the way..."
 msgstr ""
@@ -8166,7 +8174,7 @@ msgid "<25>* if you happen to run into my brother..."
 msgstr ""
 
 msgid "<25>{#f/3}* ..."
-msgstr ""
+msgstr "<25>{#f/3}* ..."
 
 #, fuzzy
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Don't even try it."
@@ -8205,20 +8213,25 @@ msgstr ""
 msgid "<23>(\"NOTE: I WOULD HAVE SAID MORE, BUT THERE'S NOT ENOUGH ROOM.\")"
 msgstr ""
 
+#, fuzzy
 msgid "<23>{#p/papyrus}{#f/30}\"YOU OBSERVE THE WELL- CRAFTED SENTRY STATION.\""
-msgstr ""
+msgstr "<23>{#p/papyrus}{#f/30}«ВЫ СОЗЕРЦАЕТЕ ХОРОШО СДЕЛАННЫЙ ПУНКТ ОХРАНЫ»."
 
+#, fuzzy
 msgid "<23>\"WHO COULD HAVE BUILT THIS, YOU PONDER...?\""
-msgstr ""
+msgstr "<23>\"КТО МОГ ЭТО ПОСТРОИТЬ, ВЫ РАЗМЫШЛЯЕТЕ?..\""
 
+#, fuzzy
 msgid "<23>\"I BET IT WAS THAT VERY FAMOUS ROYAL GUARDSMAN!\""
-msgstr ""
+msgstr "<23>«КЛЯНУСЬ, ЭТО БЫЛ ОЧЕНЬ ИЗВЕСТНЫЙ СТРАЖНИК!»"
 
+#, fuzzy
 msgid "<32>{#p/basic}* The last line was crossed out."
-msgstr ""
+msgstr "<32>{#p/basic}* Последняя строка вычеркнута."
 
+#, fuzzy
 msgid "<23>(\"NOTE: NOT YET A VERY FAMOUS ROYAL GUARDSMAN.\")"
-msgstr ""
+msgstr "<23>(«ЗАМЕЧУ: ЕЩЁ НЕ ОЧЕНЬ ИЗВЕСТНЫЙ СТРАЖ».)"
 
 #, fuzzy
 msgid "<25>{#p/sans}{#f/0}* admiring my bro's handiwork, are we?"
@@ -8343,8 +8356,9 @@ msgid ""
 "stockpiled here."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's an unsettling reminder."
-msgstr ""
+msgstr "<32>{#p/basic}* Это неудобное напоминание."
 
 msgid "<32>{#p/basic}* It's an unholy quantity of food toppings."
 msgstr ""
@@ -8362,13 +8376,14 @@ msgid ""
 msgstr ""
 
 msgid "Nothing"
-msgstr ""
+msgstr "Ничего"
 
 msgid "Sleep"
-msgstr ""
+msgstr "Спать"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Continually fighting Papyrus has exhausted you."
-msgstr ""
+msgstr "<32>{#p/basic}* Длительный бой с Папирусом утомил вас."
 
 msgid "<32>{#p/human}* (You let the doggy bed be.)"
 msgstr ""
@@ -8379,39 +8394,48 @@ msgstr ""
 msgid "<32>{#p/alphys}* And you say they're in here?"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/sans}{#f/7}* yup.\n"
 "* my brother made that pretty clear."
 msgstr ""
+"<32>{#p/sans}{#f/7}* ага.\n"
+"* мой брат дал ясно понять."
 
 msgid ""
 "<32>{#p/alphys}* O-okay...\n"
 "* Here goes nothing..."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (It sounds like a door is opening.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Похоже, дверь открывается.)"
 
 msgid "<32>{#p/alphys}* ..."
-msgstr ""
+msgstr "<32>{#p/alphys}* ..."
 
 msgid "<32>{#p/alphys}* Well, there they are."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/sans}{#f/7}* c'mon, let's make this quick."
-msgstr ""
+msgstr "<32>{#p/sans}{#f/7}* давай, сделаем это быстро."
 
+#, fuzzy
 msgid "<32>{#p/sans}{#f/7}* i doubt it'll be long before undyne shows up."
-msgstr ""
+msgstr "<32>{#p/sans}{#f/7}* уверен, что андайн быстро осознает."
 
+#, fuzzy
 msgid "<32>{#p/alphys}* Going as f-fast as I can!"
-msgstr ""
+msgstr "<32>{#p/alphys}* Бегу как могу!"
 
+#, fuzzy
 msgid "<32>{#p/human}* (It feels like someone is trying to carry you.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Похоже, что кто-то пытается вас нести.)"
 
+#, fuzzy
 msgid "<32>{#p/alphys}* Oh god, w-were humans always this heavy!?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Боже мой, люди всегда настолько тяжёлые?!"
 
 msgid ""
 "<32>{#p/basic}* Huh?\n"
@@ -8459,25 +8483,33 @@ msgid ""
 "* The mice inside are concerned for your sanity."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a bounce lamp."
-msgstr ""
+msgstr "<32>{#p/basic}* Это — прыгучая лампа."
 
+#, fuzzy
 msgid "<32>{#p/basic}* A bouncy, bouncy lamp."
-msgstr ""
+msgstr "<32>{#p/basic}* Прыгучая-попрыгучая лампа."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Such bounce.\n"
 "* Very lamp."
 msgstr ""
+"<32>{#p/basic}* Такой прыжок.\n"
+"* Очень лампово."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Lamp, bounce, lamp, bounce..."
-msgstr ""
+msgstr "<32>{#p/basic}* Лампа, прыжок, лампа, прыжок..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* The lamp bounces up and down."
-msgstr ""
+msgstr "<32>{#p/basic}* Лампа скачет вверх и вниз."
 
+#, fuzzy
 msgid "<32>{#p/basic}* ... the bouncing never stops."
-msgstr ""
+msgstr "<32>{#p/basic}* ...прыжки неостановимы."
 
 msgid "<32>{#p/basic}* It's a little thing called perpetual motion."
 msgstr ""
@@ -8485,52 +8517,74 @@ msgstr ""
 msgid "<32>{#p/human}* (You observe the strange lamp bouncing up and down.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* Just a lamp."
-msgstr ""
+msgstr "<32>{#p/basic}* Просто лампа."
 
+#, fuzzy
 msgid "<25>{#p/asriel1}{#f/13}* I guess Alphys never did fix this thing."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* Я полагаю, что Альфис никогда не чинила эту штуку."
 
+#, fuzzy
 msgid ""
 "<25>{#f/16}* I don't blame her.\n"
 "* That ruleset is kind of a nightmare."
 msgstr ""
+"<25>{#f/16}* Я не виню её.\n"
+"* Не набор правил, а какой-то кошмар."
 
+#, fuzzy
 msgid "<25>{#f/20}* Also, it kind of relies on Sans being there."
-msgstr ""
+msgstr "<25>{#f/20}* Также она надеется на труд Санса."
 
+#, fuzzy
 msgid "<25>{#f/15}* Getting him to participate is... kind of impossible."
-msgstr ""
+msgstr "<25>{#f/15}* Заставить его работать...практически невозможно."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Yeah... Sans.\n"
 "* Great sense of humor, but not very active."
 msgstr ""
+"<25>{#p/asriel1}{#f/17}* Да...Санс.\n"
+"* Хорошее чувство юмора, но не очень активный."
 
+#, fuzzy
 msgid "<25>{#f/13}* And by active, I mean physically."
-msgstr ""
+msgstr "<25>{#f/13}* И активность я имею в виду физическую."
 
+#, fuzzy
 msgid "<25>{#f/15}* And by physically, I mean he doesn't like to move."
-msgstr ""
+msgstr "<25>{#f/15}* Он просто не любит перемещаться."
 
+#, fuzzy
 msgid "<25>{#f/16}* And by move, I mean get up and walk around."
-msgstr ""
+msgstr "<25>{#f/16}* То есть ходить пешком и подниматься."
 
+#, fuzzy
 msgid ""
 "<25>{#f/13}* Yeah.\n"
 "* He usually just takes some kind of shortcut."
 msgstr ""
+"<25>{#f/13}* Да.\n"
+"* Он обычно находит какой-нибудь срез."
 
+#, fuzzy
 msgid "<25>{#f/15}* I still have no idea how those things work."
-msgstr ""
+msgstr "<25>{#f/15}* Я всё ещё ума не приложу, как это у него работает."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel1}{#f/17}* Guess you could say Alphys's choice to not fix this"
 " puzzle..."
 msgstr ""
+"<25>{#p/asriel1}{#f/17}* Можно сказать, что решение Альфис не чинить эту "
+"головоломку..."
 
+#, fuzzy
 msgid "<25>{#f/20}* Was a little shortcut of her own."
-msgstr ""
+msgstr "<25>{#f/20}* ...было её собственным срезом."
 
 msgid ""
 "<25>{#p/asriel1}{#f/20}* ... maybe my sense of humor could use some work."
@@ -21365,22 +21419,31 @@ msgstr ""
 msgid "Starton - Moon Rock Road"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (The starlight dims.)\n"
 "* (Somehow, this fills you with determination.)"
 msgstr ""
+"<32>{#p/human}* (Звёздный свет меркнет.)\n"
+"* (Почему-то это вас наполняет решимостью.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (The starlight has faded.)\n"
 "* (Indeed, this fills you with determination.)"
 msgstr ""
+"<32>{#p/human}* (Звёздный свет угас.)\n"
+"* (Определённо, вы преисполнились решимости.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (The frivolous arguments once had in this room have ceased.)"
 msgstr ""
+"<32>{#p/human}* (Разнообразные споры, что некогда были здесь, остановились.)"
 
+#, fuzzy
 msgid "<32>* (This fills you with determination.)"
-msgstr ""
+msgstr "<32>* (Это наполняет вас решимостью.)"
 
 msgid ""
 "<32>{#p/human}* (Moon rock merchants argue frivolously in the foreground.)"
@@ -21389,29 +21452,37 @@ msgstr ""
 msgid "Starton - Spaghetti Junction"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (A plate of spaghetti defying the laws of physics fills you "
 "with determination.)"
 msgstr ""
+"<32>{#p/human}* (Тарелка спагетти, что отринула законы физики, наполняет вас "
+"решимостью.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (The spaghetti no longer defies the laws of physics.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Спагетти больше не отрицает законы физики.)"
 
 msgid "<32>{#p/human}* (This fills you with determination.)"
 msgstr "<34>{#p/human}* (...наполняет вас решимостью.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (The spaghetti is no more.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Больше нет спагетти.)"
 
 msgid "Starton - Town"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (The town may be abandoned, but its cuteness remains.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Хотя городок и заброшен, его очарование сохранилось.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (A shadow looms over town, filling you with determination.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Тень нависает над городком, наполняя вас решимостью.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (This cute little town fills you with determination.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Этот маленький городок наполняет вас решимостью.)"
