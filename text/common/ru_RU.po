@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-06 15:13+0000\n"
+"PO-Revision-Date: 2025-05-08 15:12+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "6-common/ru/>\n"
@@ -1287,7 +1287,7 @@ msgid "<18>{#p/papyrus}{#f/3}... ALL THOSE ROYAL GUARDS..."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/31}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/31}..."
 
 msgid "<18>{#p/papyrus}{#f/5}DOGGO TOOK THE NEWS PRETTY HARD."
 msgstr ""
@@ -7812,7 +7812,7 @@ msgid "<25>{#p/alphys}{#f/8}* ... until next time."
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/1}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/1}* ..."
 
 msgid "<25>{#p/asgore}{#f/1}* Howdy, young one."
 msgstr ""
@@ -7980,7 +7980,7 @@ msgid "<18>{#p/papyrus}{#f/6}THAT'S GOT TO COUNT FOR SOMETHING, RIGHT?"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}..."
 
 msgid "<18>{#p/papyrus}{#f/5}TRUTH BE TOLD... IT HASN'T BEEN EASY FOR US."
 msgstr ""
@@ -8064,7 +8064,7 @@ msgid "<18>{#p/papyrus}{#f/5}I'LL... HAND THE PHONE BACK TO YOU, NOW."
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/2}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/2}* ..."
 
 msgid "<25>{#p/asgore}{#f/2}* He is correct."
 msgstr ""
@@ -12962,7 +12962,7 @@ msgid "<25>{#f/6}* \"How do you do!\""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* ..."
 
 msgid "<25>{#f/5}* At this rate, I am going to run out of greetings."
 msgstr ""
