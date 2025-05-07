@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-07 17:13+0000\n"
+"PO-Revision-Date: 2025-05-08 15:12+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "3-foundry/ru/>\n"
@@ -1185,11 +1185,13 @@ msgstr "<34>{#p/human}* (Вы получили $(x).)"
 msgid "* (Buy the $(x) for $(y)G?)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (You don't have enough G.)"
-msgstr ""
+msgstr "<32>{#p/human}* (У вас недостаточно М.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You decide not to buy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы решили не покупать.)"
 
 msgid "<32>{#p/human}* (You decide not to make anything.)"
 msgstr "<34>{#p/human}* (Вы решили ничего не делать.)"
@@ -1865,7 +1867,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/3}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/3}* ..."
 
 msgid "<25>{#f/3}* It is... a long story."
 msgstr ""
@@ -1995,7 +1997,7 @@ msgid "<25>{#p/asriel2}{#f/3}* I sure did."
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/1}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/1}* ..."
 
 msgid "<25>{#f/16}* You know, I have been wondering."
 msgstr ""
@@ -2082,13 +2084,13 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/2}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/2}* ..."
 
 msgid "<25>{#f/4}* You..."
 msgstr ""
 
 msgid "<25>{#f/2}* ..."
-msgstr ""
+msgstr "<25>{#f/2}* ..."
 
 msgid ""
 "<25>{#f/6}* You know what, Asriel?\n"
@@ -2298,7 +2300,7 @@ msgid "<25>{#p/asriel2}{#f/6}* Killing Undyne is quickly becoming our hobby."
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/6}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* ..."
 
 msgid "<25>{#p/asriel2}{#f/13}* Uh, you can take the lead, $(name)."
 msgstr ""
@@ -2656,7 +2658,7 @@ msgid "<25>{#p/asriel2}{#f/8}* Whatever you say."
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/8}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* ..."
 
 msgid "<25>{#p/asriel2}{#f/8}* Tch."
 msgstr ""
