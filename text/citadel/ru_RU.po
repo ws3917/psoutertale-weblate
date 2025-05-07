@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 06:04+0000\n"
-"PO-Revision-Date: 2025-05-07 17:13+0000\n"
+"PO-Revision-Date: 2025-05-08 15:12+0000\n"
 "Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/ru/>\n"
@@ -1089,7 +1089,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/1}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/1}* ..."
 
 msgid "<25>{#p/asgore}{#f/1}* So it is true..."
 msgstr ""
@@ -1189,7 +1189,7 @@ msgid "<25>{#p/asriel2}{#f/6}* Really?"
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/6}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/6}* ..."
 
 msgid ""
 "<25>{#p/asriel2}{#f/15}* And we're back here again.\n"
@@ -1205,7 +1205,7 @@ msgid "<25>{#p/asriel2}{#f/8}* This is really starting to get annoying."
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/8}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/8}* ..."
 
 msgid "<25>{#p/asriel2}{#f/15}* $(name), we were almost to the end."
 msgstr ""
@@ -1252,7 +1252,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/15}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* ..."
 
 msgid "<25>{#p/asriel2}{#f/15}* $(name)?"
 msgstr ""
@@ -3119,7 +3119,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/5}* ..."
 
 msgid "<25>{#p/asgore}{#f/6}* Well."
 msgstr ""
