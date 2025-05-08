@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-08 15:12+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"PO-Revision-Date: 2025-05-08 21:17+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "3-foundry/ru/>\n"
 "Language: ru_RU\n"
@@ -5329,8 +5329,9 @@ msgid ""
 "<32>{#p/human}* (This sentry station strikes you as rather unnecessary.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a sentry station."
-msgstr ""
+msgstr "<32>{#p/basic}* Сторожевой пост."
 
 msgid "<32>{#p/basic}* Sans's second sentry station..."
 msgstr ""
@@ -6333,11 +6334,13 @@ msgid ""
 "utility.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* \"This is a box.\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Это сундук.»"
 
+#, fuzzy
 msgid "<32>* \"You can put an item inside or take an item out.\""
-msgstr ""
+msgstr "<32>* «Вы можете положить в него вещи, или забрать их.»"
 
 msgid ""
 "<32>* \"Why would you, though??\"\n"
@@ -10625,8 +10628,9 @@ msgstr ""
 msgid "<32>{#p/story}* Smells like a jell-o store."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Almost dead."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Почти мёртв."
 
 msgid "<32>{#p/kidding}* Gelata isn't looking good..."
 msgstr ""
