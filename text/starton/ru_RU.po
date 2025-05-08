@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-08 15:12+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-05-08 21:17+0000\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -12326,86 +12326,117 @@ msgstr "<32>{#p/human}* (Вы снова смогли дотянуться до 
 msgid "<32>{#p/asriel2}* You've GOT to be kidding me."
 msgstr "<32>{#p/asriel2}* Да ты ИЗДЕВАЕШЬСЯ надо мной."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's possible that you may have a problem."
-msgstr ""
+msgstr "<32>{#p/basic}* Скорее всего, у вас проблема."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (Canis Minor is unpettable, but appreciates the attempt.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Малого Пса нельзя погладить, но он ценит попытку)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Stop."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Хватит."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Perhaps mankind was not meant to pet this much."
 msgstr ""
+"<32>{#p/basic}* Вероятно, человечество не создано для столь больших "
+"поглаживаний."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Please stop."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Пожалуйста, остановись."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It continues."
-msgstr ""
+msgstr "<32>{#p/basic}* Это продолжается."
 
+#, fuzzy
 msgid "<32>{#p/human}* (But Canis Minor was beyond your reach.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Но Малый Пёс за пределами вашей досягаемости.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Okay, it's over.\n"
 "* Now kill this idiot already."
 msgstr ""
+"<32>{#p/asriel2}* Ладно, этого достаточно.\n"
+"* Убей же этого идиота в конце-то концов."
 
+#, fuzzy
 msgid "<32>{#p/human}* (Really now.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Серьёзно.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* ... really now."
-msgstr ""
+msgstr "<32>{#p/basic}* ...Серьёзно."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Really now..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Серьёзно..."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Canis Minor."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Малый Пёс."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor appears."
-msgstr ""
+msgstr "<32>{#p/story}* Появляется Малый Пёс."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor tilts its head to one side."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс наклоняет голову в сторону."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor thinks your weapon is a dog treat."
 msgstr ""
+"<32>{#p/story}* Малый Пёс думает, что ваше оружие - это собачье лакомство."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor is not really paying attention."
-msgstr ""
+msgstr "<32>{#p/story}* По правде говоря, Малый Пёс не обращает внимания."
 
+#, fuzzy
 msgid "<32>{#p/story}* Smells like dog chow."
-msgstr ""
+msgstr "<32>{#p/story}* Пахнет собачьей жратвой."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor is barking excitedly."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс взволнованно лает."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor is overstimulated."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс перестимулирован."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor shows no signs of stopping."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс не показывает признаков остановки."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor is lowering."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс снижается."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor learns to code."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс учится кодированию."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor is whining because it can't see you."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс скулит, потому что не видит вас."
 
+#, fuzzy
 msgid "<32>{#p/story}* Hello there."
-msgstr ""
+msgstr "<32>{#p/story}* О, привет."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor is questioning your life choices."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс ставит под сомнения ваши жизненные выборы."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor has gone where no dog has gone before."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс попал туда, куда не ступала ни одна собака."
 
 msgid ""
 "<32>{#p/asriel2}* Dogamy, the pathetic dog.\n"
