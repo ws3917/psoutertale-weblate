@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-08 21:17+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -736,7 +736,7 @@ msgstr ""
 
 #, fuzzy
 msgid "<32>{#p/basic}* It's a \"gravometric inverter.\""
-msgstr "<32>{#p/basic}* Это — гравометрический инвертор."
+msgstr "<32>{#p/basic}* Это «гравометрический инвертор»."
 
 #, fuzzy
 msgid "<32>* Whatever that means."
@@ -1028,11 +1028,13 @@ msgstr ""
 msgid "<32>{#p/human}* (You approach the vending machine.)"
 msgstr "<34>{#p/human}* (Вы подходите к торговому автомату.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's an exoberry-exclusive vending machine."
-msgstr ""
+msgstr "<32>{#p/basic}* Эксклюзивный автомат для продажи космоягод."
 
+#, fuzzy
 msgid "* (Buy the Exoberries for 8G?)"
-msgstr ""
+msgstr "* (Купить космоягоды за 8М?)"
 
 #, fuzzy
 msgid "<32>{#p/human}* (You don't have enough G.)"
@@ -1302,10 +1304,13 @@ msgstr ""
 "<32>{#p/basic}* Что-то двинулось?\n"
 "* Или это моё воображение?"
 
+#, fuzzy
 msgid ""
 "<32>* If something WAS moving...\n"
 "* For example, a human..."
 msgstr ""
+"<32>* Если кто-то двигался...\n"
+"* Например, человек..."
 
 msgid "<32>* I'll make sure it never leaves my sight again!"
 msgstr ""
@@ -7754,42 +7759,57 @@ msgstr ""
 msgid "<32>{#p/basic}* It's in sleep mode."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Hello.\n"
 "* I am a builder bot."
 msgstr ""
+"<32>{#p/basic}* Здравствуйте.\n"
+"* Я бот-строитель."
 
+#, fuzzy
 msgid ""
 "<32>* I want to see the galaxy...\n"
 "* But I cannot move."
 msgstr ""
+"<32>* Я хочу увидеть галактику...\n"
+"* Но не могу двигаться."
 
+#, fuzzy
 msgid "<32>* If you would be so kind, traveler, please..."
-msgstr ""
+msgstr "<32>* Путешественник, пожалуйста..."
 
+#, fuzzy
 msgid ""
 "<32>* Take one of my computer chips and bring it to another computer very "
 "far away."
 msgstr ""
+"<32>* Возьмите мой жёсткий диск и вставьте его в компьютер на другой планете."
 
+#, fuzzy
 msgid "* (Take a chip?)"
-msgstr ""
+msgstr "* (Взять жёсткий диск?)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* If you would be so kind, traveler, please..."
-msgstr ""
+msgstr "<32>{#p/basic}* Путешественник, пожалуйста..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Thank you... good luck!"
-msgstr ""
+msgstr "<32>{#p/basic}* Спасибо вам... И удачи!"
 
+#, fuzzy
 msgid "<32>{#s/equip}{#p/human}* (You got the Computer Chip.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Вы получили жёсткий диск.)"
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/9}* Pfft, that's adorable."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/9}* Пфф, какая прелесть."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel2}{#f/13}* This robot has no idea what's going on here..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/13}* Этот робот понятия не имеет, что происходит..."
 
 msgid "<32>{#p/basic}* It seems you do not have enough room for me."
 msgstr ""
@@ -7802,8 +7822,9 @@ msgstr ""
 msgid "<32>{#p/basic}* Thank you for taking care of me."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/4}* It's alright, we don't need any more for now."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Не волнуйся, нам больше ничего не нужно."
 
 msgid ""
 "<32>{#p/basic}* How am I doing?\n"
@@ -8616,8 +8637,9 @@ msgid ""
 "<32>{#p/human}* (This sentry station strikes you as rather unimportant.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a sentry station."
-msgstr ""
+msgstr "<32>{#p/basic}* Сторожевой пост."
 
 msgid "<32>{#p/basic}* Sans's sentry station..."
 msgstr ""
@@ -9325,18 +9347,22 @@ msgstr ""
 msgid "<32>{#p/human}* (The sign espouses the many benefits of boxes.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* \"This is a box.\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Это сундук.»"
 
+#, fuzzy
 msgid "<32>* \"You can put an item inside or take an item out.\""
-msgstr ""
+msgstr "<32>* «Вы можете положить в него вещи, или забрать их.»"
 
+#, fuzzy
 msgid ""
 "<32>* \"The same box will appear later, so don't worry about coming back.\""
-msgstr ""
+msgstr "<32>* «Не волнуйтесь, потом вы встретите точно такой-же.»"
 
+#, fuzzy
 msgid "<32>* \"Sincerely, a box fan.\""
-msgstr ""
+msgstr "<32>* «С уважением, ваш фанат сундуков.»"
 
 msgid ""
 "<32>{#p/human}* (The interior wall of this doghouse appears to be covered in"
@@ -9564,9 +9590,12 @@ msgid ""
 "forgotten."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* A derelict terminal once used to direct hovercar landings."
 msgstr ""
+"<32>{#p/basic}* Старый терминал, использовавшийся для управления посадкой "
+"летающих машин."
 
 msgid ""
 "<32>{#p/human}* (The sign describes the broken state of the display tower's "
@@ -10039,32 +10068,43 @@ msgstr "<34>{#s/phone}{#p/event}* Набор номера..."
 msgid "<32>{#p/human}* (No connection.)"
 msgstr "<34>{#p/human}* (Нет связи.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a note."
-msgstr ""
+msgstr "<32>{#p/basic}* Здесь лежит записка..."
 
+#, fuzzy
 msgid ""
 "<32>* \"Call me!\"\n"
 "* \"Here's my number!\""
 msgstr ""
+"<32>* «Позвони мне!»\n"
+"* «Вот мой номер!»"
 
 msgid "<32>{#p/basic}* The call went straight to voice-mail."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Hello, lonely caller!\"\n"
 "* \"Would you like to escape the outpost with me?\""
 msgstr ""
+"<32>{#p/basic}* «Привет, одинокий абонент!»\n"
+"* «Хочешь сбежать с Аванпоста вместе со мной?»"
 
 msgid "<32>{#s/equip}{#p/event}* Click..."
 msgstr "<34>{#s/equip}{#p/event}* Щелчок..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Hello, lonely caller!\"\n"
 "* \"I'm so sorry I couldn't be here to greet you~\""
 msgstr ""
+"<32>{#p/basic}* «Привет, одинокий абонент!»\n"
+"«Прости, что я не смог поздороваться с тобой~»"
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/10}* ... weird."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/10}* Странно..."
 
 msgid "<32>{#p/basic}* A series of cotton balls in the way of the closet."
 msgstr ""
@@ -11049,8 +11089,9 @@ msgid ""
 "* Jerry came too."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* The teenage idiot squad."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Отряд малолетних идиотов."
 
 msgid "<32>{#p/story}* Chilldrake and Astro Serf pose like bad guys."
 msgstr ""
@@ -11073,16 +11114,20 @@ msgstr ""
 msgid "<32>{#p/story}* Just Astro now."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Jerry."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Джерри."
 
 msgid "<32>{#p/story}* Jerry."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* The teenage idiot squad.\n"
 "* Also, Jerry."
 msgstr ""
+"<32>{#p/asriel2}* Отряд малолетних идиотов.\n"
+"* А ещё Джерри."
 
 msgid "<32>{#p/story}* Jerry and friends appear!"
 msgstr ""
@@ -11097,8 +11142,9 @@ msgid ""
 "* Jerry."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Two left."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Двое осталось."
 
 msgid "<32>{#p/story}* Astro Serf and Chilldrake remain steady."
 msgstr ""
@@ -11127,15 +11173,21 @@ msgid ""
 "* Jerry."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Chilldrake, the teen rebel.\n"
 "* Nothing more pointless than a rebel without a cause."
 msgstr ""
+"<32>{#p/asriel2}* Хладоцып, подросток-бунтарь.\n"
+"* Его бунт — бессмыслен и беспощаден."
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Stardrake, the comedian.\n"
 "* A bigger joke than he himself could ever hope to tell."
 msgstr ""
+"<32>{#p/asriel2}* Звездоцып, комик.\n"
+"* Его имя смешнее, чем все его шутки вместе взятые."
 
 msgid ""
 "<33>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
@@ -11192,8 +11244,9 @@ msgstr ""
 msgid "<32>{#p/asriel2}* Chilldrake."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Stardrake."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Звездоцып."
 
 msgid "<32>{#p/story}* Chilldrake is puffed up..."
 msgstr ""
@@ -11255,8 +11308,9 @@ msgid ""
 "utterly crushed..."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Almost dead."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Почти мёртв."
 
 msgid "<32>{#p/story}* Chilldrake is flaking apart."
 msgstr ""
@@ -11439,20 +11493,26 @@ msgstr ""
 msgid "<32>{#p/story}* Stardrake flutters forth!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<33>{#p/asriel2}* Jerry, the undisputable jerk.\n"
 "* I refuse to believe one flirt could have that much influence."
 msgstr ""
+"<33>{#p/asriel2}* Джерри, самый главный придурок.\n"
+"* Сколько не заигрывай с ним, он не изменится."
 
 msgid ""
 "<32>{#p/story}* JERRY - ATK 0 DEF 30\n"
 "* A born-again monster, awakened with the power of friendship!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Jerry, the undisputable jerk.\n"
 "* A worthless piece of garbage, nothing more, nothing less."
 msgstr ""
+"<32>{#p/asriel2}* Джерри, самый главный придурок.\n"
+"* Ничтожный кусок мусора, ни больше, ни меньше.."
 
 msgid ""
 "<32>{#p/story}* JERRY - ATK 0 DEF 30\n"
@@ -11540,8 +11600,9 @@ msgid ""
 "Just saying."
 msgstr ""
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}So like, what are you even doing?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Что ты делаешь?"
 
 msgid "<08>{#p/basic}{~}Wouldn't trade ya for the galaxy."
 msgstr ""
@@ -11606,10 +11667,13 @@ msgstr ""
 msgid "<32>{#p/basic}* The other monsters celebrate Jerry's disappearance."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Whizkarat, the homeless cat.\n"
 "* Lost its purpose in life a long time ago."
 msgstr ""
+"<32>{#p/asriel2}* Мышеус, бездомный кот.\n"
+"* Давно потерял смысл жизни."
 
 msgid ""
 "<33>{#p/story}* WHIZKARAT - ATK 16 DEF 8\n"
@@ -21917,8 +21981,9 @@ msgstr ""
 msgid "<18>{#p/papyrus}{#f/6}STOP WORRYING!!"
 msgstr ""
 
+#, fuzzy
 msgid "Starton - Landing Zone"
-msgstr ""
+msgstr "Звездоград: Зона приземления"
 
 msgid "<32>{#p/human}* (Missing skeletons fill you with determination.)"
 msgstr ""
