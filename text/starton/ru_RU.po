@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-08 15:12+0000\n"
-"Last-Translator: Бенедикт Капустин <capewearer98@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -11735,406 +11735,582 @@ msgstr ""
 msgid "<32>{#p/story}* Whizkarat arrives!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Doggo, the unsightly dog.\n"
 "* How exactly did this idiot get a job again?"
 msgstr ""
+"<32>{#p/asriel2}* Догго, слепая псина.\n"
+"* Как этот идиот вообще устроился на работу?"
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGGO - ATK 13 DEF 7\n"
 "* Easily excited by movement.\n"
 "* Hobbies include: Cuddles."
 msgstr ""
+"<32>{#p/story}* ДОГГО: АТК 13, ЗЩТ 7.\n"
+"* Легко взвинчивается от движения.\n"
+"* Хобби: Обнимашки."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGGO - ATK 13 DEF 7\n"
 "* Struggling to even see itself..."
 msgstr ""
+"<32>{#p/story}* ДОГГО: АТК 13, ЗЩТ 7.\n"
+"* Ему сложно разглядеть даже самого себя..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGGO - ATK 13 DEF 7\n"
 "* A very excited dog, currently enjoying a hobby."
 msgstr ""
+"<32>{#p/story}* ДОГГО: АТК 13, ЗЩТ 7.\n"
+"* Очень взвинченный пёс, наслаждается своим хобби."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGGO - ATK 13 DEF 7\n"
 "* This dog strikes you as being lonely in life."
 msgstr ""
+"<32>{#p/story}* ДОГГО: АТК 13, ЗЩТ 7.\n"
+"* Этот пёс кажется вам одиноким по жизни."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You flirt with Doggo.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с Догго.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You cuddle Doggo closely.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы крепко обнимаете Догго.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (The dog runs to get it.)\n"
 "* (You play fetch for a while.)"
 msgstr ""
+"<32>{#p/human}* (Вы кинули гаечный ключ.)\n"
+"* (Пёс побежал за ним.)\n"
+"* (Вы немного поиграли в «апорт».)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}HUH!! A FUN WRENCH APPEARS!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}ХА!! ЗАБАВНЫЙ ГАЕЧНЫЙ КЛЮЧ!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}HUH!! THERE IT IS AGAIN!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}О!! ОН ПОЯВИЛСЯ СНОВА!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}WHERE'D IT GO!?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}КУДА ОН ПРОПАЛ?!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}WHERE'S MY WRENCH NOW!?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}ГДЕ МОЙ ГАЕЧНЫЙ КЛЮЧ?!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Blushes uncontrol- lably)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Неконтролируемо краснеет)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* He's vulnerable."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Он уязвим."
 
+#, fuzzy
 msgid "<32>{#p/story}* Doggo has lost sight of you."
-msgstr ""
+msgstr "<32>{#p/story}* Догго потерял вас."
 
+#, fuzzy
 msgid "* Doggo"
-msgstr ""
+msgstr "* Догго"
 
+#, fuzzy
 msgid "<32>{#p/story}* Doggo loves fetch!"
-msgstr ""
+msgstr "<32>{#p/story}* Догго любит играть в «апорт»!"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (But the dog was too busy looking for the spanner to be "
 "pet.)"
 msgstr ""
+"<32>{#p/human}* (Но пёс был очень занят поиском гаечного ключа, чтобы быть "
+"поглаженным.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (But the dog was too busy looking for the spanner to hear "
 "you.)"
 msgstr ""
+"<32>{#p/human}* (Но пёс был очень занят поиском гаечного ключа, чтобы "
+"услышать вас.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (But the dog was too busy looking for the spanner to be "
 "cuddled.)"
 msgstr ""
+"<32>{#p/human}* (Но пёс был очень занят поиском гаечного ключа, чтобы быть "
+"обнятым.)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Doggo."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Догго."
 
+#, fuzzy
 msgid "<32>{#p/story}* Doggo knows you're here."
-msgstr ""
+msgstr "<32>{#p/story}* Догго знает о вашем присутствии."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pet Doggo.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы гладите Догго.)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* ... again?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* ...опять?"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* It's not THAT funny..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Это не ОЧЕНЬ то и забавно..."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* ... or is it?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* ...или ты считаешь иначе?"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* This is so stupid."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Это так тупо."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Do you really need to do this?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Тебе и вправду нужно этим заниматься?"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* ... do you?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* ...так ведь?"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* I guess so."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Полагаю, что это так."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* ..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* ..."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* This is getting out of hand..."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Это начинает выходить из-под контроля..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Still?\n"
 "* Come on..."
 msgstr ""
+"<32>{#p/asriel2}* Всё ещё продолжаешь?\n"
+"* Да ладно..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Wow.\n"
 "* Just wow."
 msgstr ""
+"<32>{#p/asriel2}* Вау.\n"
+"* Просто вау."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* You are enjoying this way too much."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Ты чересчур наслаждаешься этим."
 
+#, fuzzy
 msgid ""
 "<11>{#p/basic}{~}CUDDLES!?!?\n"
 "WELL, AT LEAST I KNOW WHERE IT IS!"
 msgstr ""
+"<11>{#p/basic}{~}ОБНИМАШКИ?!?!\n"
+"НУ, ХОТЯ БЫ Я ЗНАЮ ГДЕ ОНО!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}AGAIN!?!?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}ОПЯТЬ?!?!"
 
+#, fuzzy
 msgid "<32>{#p/story}* Doggo has been pet."
-msgstr ""
+msgstr "<32>{#p/story}* Догго был поглажен."
 
+#, fuzzy
 msgid ""
 "<11>{#p/basic}{~}WHAT!!!\n"
 "I'VE BEEN PET!"
 msgstr ""
+"<11>{#p/basic}{~}ЧТО!!!\n"
+"Я БЫЛ ПОГЛАЖЕН!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}WHERE'S THAT COMING FROM!?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}ОТКУДА ЭТО?!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}THERE'S NO END TO IT!!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}ЭТОМУ НЕТ КОНЦА!!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}WELL, THIS IS THOROUGH!!!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}ЧТО Ж, ЭТО ПРЕВОСХОДНО!!!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Dies)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Умирает)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Comes back to life)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Воскресает)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}IT JUST KEEPS COMING!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}ЭТО ПРОДОЛЖАЕТСЯ!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}AND COMING!!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}И ПРОДОЛЖАЕТСЯ!!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}AND COMINGGG!!!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}И ПРОДОЛЖАЕТСЯЯЯ!!!"
 
+#, fuzzy
 msgid ""
 "<11>{#p/basic}{~}OK.\n"
 "That's enough."
 msgstr ""
+"<11>{#p/basic}{~}ТАК.\n"
+"Достаточно."
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}I said \"that's enough!\""
-msgstr ""
+msgstr "<11>{#p/basic}{~}Я сказал «достаточно»!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}Oh my god, it just doesn't stop!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}О боже мой, оно просто не останавливается!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}OH MY GOD, IT REALLY DOESN'T STOP!!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}О БОЖЕ МОЙ, ОНО И ВПРАВДУ НЕ ОСТАНАВЛИВАЕТСЯ!!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}AHHHHHHH!!!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}AХХХХХХХ!!!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}No escape!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Не сбежать!"
 
+#, fuzzy
 msgid ""
 "<11>{*}{#p/basic}{~}Ha!\n"
 "It moved!\n"
 "It couldn't NOT move!{^30}{%}"
 msgstr ""
+"<11>{*}{#p/basic}{~}Ха!\n"
+"Оно двинулось!\n"
+"Оно не могло НЕ двинуться!{^30}{%}"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}Will it move this time?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}Двинется ли оно в этот раз?"
 
+#, fuzzy
 msgid "<32>{#p/story}* Doggo blocks the way!"
-msgstr ""
+msgstr "<32>{#p/story}* Догго преграждает путь!"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Doggo is too suspicious of your actions."
-msgstr ""
+msgstr "<32>{#p/basic}* Догго слишком подозрителен к вашим действиям."
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Canis Minor, the ignorant dog.\n"
 "* It probably doesn't even know why it's here."
 msgstr ""
+"<32>{#p/asriel2}* Малый Пёс, невежественная псина.\n"
+"* Скорее всего, он даже не знает, почему он здесь."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CANIS MINOR - ATK 12 DEF 2\n"
 "* Wields a shiny dogger made of fido-nium."
 msgstr ""
+"<32>{#p/story}* МАЛЫЙ ПЁС: АТК 12, ЗЩТ 2.\n"
+"* Владеет блестящим клинком типа «кошкодёр», сделанного из фидония. РЕДАКТ"
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CANIS MINOR - ATK 12 DEF 2\n"
 "* Scarred for life, this puppy wants to turn tail and run."
 msgstr ""
+"<32>{#p/story}* МАЛЫЙ ПЁС: АТК 12, ЗЩТ 2.\n"
+"* Травмированный на всю жизнь, этот щенок хочет поджать хвост и убежать."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CANIS MINOR - ATK 12 DEF 2\n"
 "* It's necks-in-line for the galaxy's tallest monster."
 msgstr ""
+"<32>{#p/story}* МАЛЫЙ ПЁС: АТК 12, ЗЩТ 2.\n"
+"* Этот длинношеий монстр самый высокий в галактике."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CANIS MINOR - ATK 12 DEF 2\n"
 "* Trying its best to decipher your advanced petting."
 msgstr ""
+"<32>{#p/story}* МАЛЫЙ ПЁС: АТК 12, ЗЩТ 2.\n"
+"* Старается изо всех сил расшифровать ваше продвинутое поглаживание."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CANIS MINOR - ATK 12 DEF 2\n"
 "* The journey for this puppy has only just begun."
 msgstr ""
+"<32>{#p/story}* МАЛЫЙ ПЁС: АТК 12, ЗЩТ 2.\n"
+"* Приключение только началось для этого щенка."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You tell Canis Minor you love it by petting it in morse "
 "code.)"
 msgstr ""
+"<32>{#p/human}* (Вы сказали Малому Псу, что любите его, при помощи азбуки "
+"Морзе в виде поглаживания.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You place your hand on Canis Minor's head, shaking and "
 "ruffling its fur to the core.)"
 msgstr ""
+"<32>{#p/human}* (Вы кладёте руку на голову Малого Пса, встряхивая и ероша "
+"его шерсть до самого основания.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You pet Canis Minor and ask it who's a good dog. It barks "
 "its answer excitedly.)"
 msgstr ""
+"<32>{#p/human}* (Вы гладите Малого Пса и спрашивайте: «кто хороший пёсик?». "
+"В ответ он взволнованно тявкает.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You tickle Canis Minor's sides, thereby petting it.)\n"
 "* (It's a frenzy of excitement.)"
 msgstr ""
+"<32>{#p/human}* (Вы щекочете бока Малого Пса, поглаживая его.)\n"
+"* (Это вызывает неистовое взвинчивание.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (The dog elongates its neck to reach it.)"
 msgstr ""
+"<32>{#p/human}* (Вы кинули гаечный ключ.)\n"
+"* (Пёс вытягивает свою шею, чтобы поймать его.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You play fetch for a while.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы немного поиграли в «апорт».)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* But why though?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Но зачем?"
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor loves fetch!"
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс любит играть в «апорт»!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Pants fast)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Быстро пыхтит)"
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Minor tucks its tail between its legs."
-msgstr ""
+msgstr "<32>{#p/story}* Малый Пёс прячет хвост между ног."
 
+#, fuzzy
 msgid "* Canis Minor"
-msgstr ""
+msgstr "* Малый Пёс"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Pant pant)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Фух, фух)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Tiny bark)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Крошечный гав)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Wag wag)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Виль-виль)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Thinks of food)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Думает о еде)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Pant! Pant!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Фух! Фух!)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Excited noises)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Взволнованные звуки)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Motor revving)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Рёв мотора)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Plane takeoff)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Взлёт самолёта)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Kettle whistle)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Свист чайника)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(...)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(...)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Faraway bark)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Отдалённый гав)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Bark)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Гав)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You barely lift your hand.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы едва поднимаете руку.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* How exciting!"
-msgstr ""
+msgstr "<32>{#p/basic}* Как волнительно!"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You lightly touch the dog.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы слегка прикасаетесь к псу.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's already overexcited..."
-msgstr ""
+msgstr "<32>{#p/basic}* А он уже перевзвинчен..."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Dogs do love to be pet."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Собаки очень любят быть поглаженными."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pet Canis Minor.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы гладите Малого Пса.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's raising its head to meet your hand."
-msgstr ""
+msgstr "<32>{#p/basic}* Он поднимает голову, чтобы встретиться с вашей рукой."
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Okay, you've pet it.\n"
 "* There's really no reason to keep going."
 msgstr ""
+"<32>{#p/asriel2}* Хорошо, ты погладил его.\n"
+"* Больше нет причин продолжать."
 
+#, fuzzy
 msgid "<32>{#p/basic}* It was a good dog."
-msgstr ""
+msgstr "<32>{#p/basic}* Он был хорошим псом."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* No reason to keep going?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Нет причин продолжать?"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Its excitement knows no bounds..."
-msgstr ""
+msgstr "<32>{#p/basic}* Его взвинчивание не знает границ..."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* No reason to keep going."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Нет причин продолжать."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Critical pet!\n"
 "* Dog excitement increased."
 msgstr ""
+"<32>{#p/basic}* Критическое поглаживание!\n"
+"* Взвинчивание пса повышено."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Golly, $(name)."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Божечки, $(name)."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You have to jump up to pet the dog.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вам приходиться прыгать, чтобы погладить пса.)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* We can't do this all day."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Мы не можем заниматься этим весь день."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pet Canis Minor without even reaching it.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы гладите Малого Пса, даже не доставая до него.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* It gets more excited."
-msgstr ""
+msgstr "<32>{#p/basic}* Он взвинчивается ещё больше."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* We CAN do this all day...?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* Мы МОЖЕМ заниматься этим весь день?.."
 
+#, fuzzy
 msgid "<32>{#p/basic}* There is no way to stop this madness."
-msgstr ""
+msgstr "<32>{#p/basic}* Это безумие невозможно остановить."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Many small pets for a dog, one giant neck amongst dog-kind."
 msgstr ""
+"<32>{#p/basic}* Маленькие поглаживания для собаки, одна гигантская шея для "
+"собачьего рода."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Why are we still here."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Мы всё ещё здесь."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You call Canis Minor, but it cannot hear you.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы зовёте Малого Пса, но он не может вас услышать.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* There.\n"
 "* It's totally out of reach now."
 msgstr ""
+"<32>{#p/asriel2}* Наконец-то.\n"
+"* Теперь до него точно не достать."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* ???"
-msgstr ""
+msgstr "<32>{#p/asriel2}* ???"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You can reach Canis Minor again.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы снова смогли дотянуться до Малого Пса.)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* You've GOT to be kidding me."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Да ты ИЗДЕВАЕШЬСЯ надо мной."
 
 msgid "<32>{#p/basic}* It's possible that you may have a problem."
 msgstr ""
