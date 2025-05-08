@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-08 21:17+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -7887,7 +7887,7 @@ msgid ""
 "<99>* {@spacing=2.25/0}Don't you know how to{@spacing=}\n"
 "  {@spacing=2.25/0}greet a new pal?"
 msgstr ""
-"<99>* {@spacing=2.25/0}Разве ты не знаешь как{@spacing=}\n"
+"<99>* {@spacing=2.25/0}Разве ты не знаешь, как{@spacing=}\n"
 "  {@spacing=2.25/0}встречать нового друга?"
 
 msgid ""
@@ -7905,17 +7905,17 @@ msgstr ""
 "* что с лицом?"
 
 msgid "<25>{#p/sans}{#f/2}* ... didn't you like my whoopee cushion?"
-msgstr "<27>{#p/sans}{#f/2}* ...не нравится моя подушка-пердушка?"
+msgstr "<25>{#p/sans}{#f/2}* ...не нравится моя подушка-пердушка?"
 
 msgid ""
 "<25>{#f/0}* ... eh.\n"
 "* to each their own."
 msgstr ""
-"<27>{#f/0}* ...ох.\n"
-"* каждому — своё."
+"<27>{#f/0}* ...хех.\n"
+"* каждому своё."
 
 msgid "<25>{#p/sans}{#f/4}* heheh... nothin' like a good whoopee cushion."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/4}* хе-хех... старый добрый трюк с подушкой-пердушкой."
 
 msgid "<25>{#f/0}* anyway, you're a human, right?"
 msgstr "<27>{#f/0}* ты же человек, да?"
@@ -8802,41 +8802,38 @@ msgid ""
 "* The mice inside are concerned for your sanity."
 msgstr ""
 
-#, fuzzy
 msgid "<32>{#p/basic}* It's a bounce lamp."
-msgstr "<32>{#p/basic}* Это — прыгучая лампа."
+msgstr "<32>{#p/basic}* Это прыгучая лампа."
 
-#, fuzzy
 msgid "<32>{#p/basic}* A bouncy, bouncy lamp."
-msgstr "<32>{#p/basic}* Прыгучая-попрыгучая лампа."
+msgstr "<40>{#p/basic}* Это прыгуче-попрыгучая лампа."
 
-#, fuzzy
 msgid ""
 "<32>{#p/basic}* Such bounce.\n"
 "* Very lamp."
 msgstr ""
-"<32>{#p/basic}* Такой прыжок.\n"
+"<32>{#p/basic}* Вот это прыжок!\n"
 "* Очень лампово."
 
-#, fuzzy
 msgid "<32>{#p/basic}* Lamp, bounce, lamp, bounce..."
-msgstr "<32>{#p/basic}* Лампа, прыжок, лампа, прыжок..."
+msgstr "<40>{#p/basic}* Лампа-прыжок, лампа-прыжок..."
 
-#, fuzzy
 msgid "<32>{#p/basic}* The lamp bounces up and down."
-msgstr "<32>{#p/basic}* Лампа скачет вверх и вниз."
+msgstr "<32>{#p/basic}* Лампа скачет вверх-вниз."
 
-#, fuzzy
 msgid "<32>{#p/basic}* ... the bouncing never stops."
-msgstr "<32>{#p/basic}* ...прыжки неостановимы."
+msgstr "<32>{#p/basic}* ...нескончаемые прыжки."
 
 msgid "<32>{#p/basic}* It's a little thing called perpetual motion."
 msgstr ""
+"<40>{#p/basic}* Это называют колебательным\n"
+"  движением."
 
 msgid "<32>{#p/human}* (You observe the strange lamp bouncing up and down.)"
 msgstr ""
+"<40>{#p/human}* (Вы заприметили странную парящую\n"
+"  лампу.)"
 
-#, fuzzy
 msgid "<32>{#p/basic}* Just a lamp."
 msgstr "<32>{#p/basic}* Просто лампа."
 
