@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-08 15:12+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -370,10 +370,14 @@ msgstr "<15>{#p/papyrus}{#e/papyrus/21}Я ОТВЕТИЛ НА ЗВОНОК, СТ
 msgid "<15>{#p/papyrus}{#e/papyrus/19}AND THIS IS WHERE IT LEADS ME!?"
 msgstr "<15>{#p/papyrus}{#e/papyrus/19}...И ВОТ КУДА ОН МЕНЯ ПРИВЁЛ?!"
 
+#, fuzzy
 msgid ""
 "<15>{#p/papyrus}{#e/papyrus/14}I'LL HAVE YOU KNOW, I'M A SHOE-IN FOR THE "
 "ROYAL GUARD."
 msgstr ""
+"<15>{#p/papyrus}{#e/papyrus/14}ЧТОБ ТЫ ЗНАЛ,\n"
+"Я ВХОЖУ В РЯДЫ\n"
+"КОРОЛЕВСКОЙ ГВАРДИИ"
 
 #, fuzzy
 msgid "<15>{#p/papyrus}{#e/papyrus/15}SO, WHATEVER YOU TWO ARE PLANNING..."
@@ -428,7 +432,7 @@ msgstr ""
 
 #, fuzzy
 msgid "<15>{#p/papyrus}{#e/papyrus/20}SO, WHAT ARE WE DOING HERE ANYWAY?"
-msgstr "<15>{#p/papyrus}{#e/papyrus/20}ТАК, ЧТО МЫ ДЕЛАЕМ ЗДЕСЬ И СЕЙЧАС?"
+msgstr "<15>{#p/papyrus}{#e/papyrus/20}ТАК, ЧТО БУДЕМ ДЕЛАТЬ?"
 
 msgid "<32>{#p/asriel2}* Ready, $(name)?"
 msgstr "<34>{#p/asriel2}* Готов, $(name)?"
@@ -461,7 +465,7 @@ msgstr "<34>{#p/asriel2}* Пощада... Мне нравится это сло�
 
 #, fuzzy
 msgid "<32>{#p/asriel2}* Let's show him some \"Mercy.\""
-msgstr "<34>{#p/asriel2}* Давай продемонстрируем ему «пощаду»."
+msgstr "<34>{#p/asriel2}* Давай «пощадим» его."
 
 #, fuzzy
 msgid ""
@@ -562,7 +566,7 @@ msgstr "<20>обещай, что ты будешь в-{^5}великим."
 
 #, fuzzy
 msgid "<20>after all..."
-msgstr "<20>после всего..."
+msgstr "<20>в конце концов..."
 
 #, fuzzy
 msgid "<20>{|}{#p/sans}you're the... great p-{^5}papyrus.{^20}{%}"
@@ -1385,40 +1389,50 @@ msgstr ""
 msgid "<25>{#p/asriel2}{#f/9}* Just follow my lead..."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/16}* This way."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/16}* За мной."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel2}{#f/2}* Well, well... if it isn't the great Papyrus standing"
 " just ahead."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/2}* Хм, смотри, кажется, там стоит великий Папирус."
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/3}* Well, well... here we go again."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Что-ж... не опять, а снова."
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/1}* Let's go introduce ourselves, shall we?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Пошли поздороваемся с ним."
 
 msgid "<25>{#p/asriel2}{#f/4}* You know the drill by now."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{*}{#p/asriel2}{#f/5}* Howdy!{^5}{%}"
-msgstr ""
+msgstr "<25>{*}{#p/asriel2}{#f/5}* Приветик!{^5}{%}"
 
+#, fuzzy
 msgid "<18>{*}{#p/papyrus}{#f/1}WHAT THE- {%}"
-msgstr ""
+msgstr "<18>{*}{#p/papyrus}{#f/1}ЧТО ЗА- {%}"
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/13}* ... $(name), do you..."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/13}* $(name), ты..."
 
+#, fuzzy
 msgid "<25>{#f/17}* Do you think you could take over from here?"
-msgstr ""
+msgstr "<25>{#f/17}* Ты сможешь вести нас дальше?"
 
+#, fuzzy
 msgid "<25>{#f/15}* Not that anything's wrong with me, but..."
-msgstr ""
+msgstr "<25>{#f/15}* Не то чтобы мне что-то угрожало, но..."
 
+#, fuzzy
 msgid "<25>{#f/16}* I just think you'd be better at this than I am."
-msgstr ""
+msgstr "<25>{#f/16}* Я думаю, что ты лучше справишься с этим."
 
 msgid ""
 "<25>{#f/17}* Yeah, that's it.\n"
