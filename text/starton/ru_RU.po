@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-12 04:13+0000\n"
-"Last-Translator: Čaročka Drömurr <capewearer98@gmail.com>\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -524,8 +524,9 @@ msgstr "<32>{#p/human}{#npc}* (Вы получили Горячих Гриллб
 msgid "<32>{#p/human}{#npc}* (You got the Sliders.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}{#npc}* (You're carrying too much.)"
-msgstr ""
+msgstr "<32>{#p/human}{#npc}* (Вы несёте слишком много.)"
 
 #, fuzzy
 msgid "<25>{#p/sans}{#f/0}* finally."
@@ -589,32 +590,40 @@ msgstr "<25>{#p/sans}{#f/0}* та-а-а-к... что думаешь?"
 msgid "<25>{#f/3}* i call it the \"trash planet.\""
 msgstr "<25>{#f/3}* я назвал это «планетой хлама»."
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* ... actually, this thing's been growing in size for quite a "
 "while."
-msgstr ""
+msgstr "<25>{#f/0}* ... вообще, эта штука росла в размере уже долго."
 
+#, fuzzy
 msgid "<25>{#f/0}* if it gets any larger, well..."
-msgstr ""
+msgstr "<25>{#f/0}* если станет ещё больше, то..."
 
 msgid ""
 "<25>{#f/2}* let's just say we'd be in a {@fill=#ff0}world{@fill=#fff} of "
 "trouble."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* don't worry, though.\n"
 "* with your help, it'll be gone in no time."
 msgstr ""
+"<25>{#f/0}* но не волнуйся.\n"
+"* с твоей помощью, она пропадёт в миг."
 
 #, fuzzy
 msgid "<25>{#f/2}* i even found you some music to keep you motivated."
 msgstr "<25>{#f/2}* я даже нашёл мотивирующую музыку."
 
+#, fuzzy
 msgid ""
 "* Press [Z] repeatedly to shake\n"
 "  out all the trash!"
 msgstr ""
+"* Жми [Z] повторно что-бы вытрясить\n"
+"  весь мусор!"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* wow.\n"
