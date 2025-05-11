@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-12 04:13+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: Čaročka Drömurr <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -991,17 +991,20 @@ msgstr "<32>{#p/human}* (Вы решили не покупать.)"
 msgid "<32>{#p/human}* (You look behind the station and find a key.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#s/equip}{#p/human}* (The Rusty Key was added to your keyring.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Ржавй ключ теперь добавлен на ключницу.)"
 
+#, fuzzy
 msgid "<32>* (Check your CELL to see all acquired keys.)"
-msgstr ""
+msgstr "<32>* (Проверьте ваш СОТОВЫЙ, чтобы увидеть все ключи.)РЕДАКТ"
 
 msgid "<32>{#p/human}* (You look behind the station.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* Nothing new back here."
-msgstr ""
+msgstr "<32>{#p/basic}* Ничего нового нет."
 
 msgid "<25>{#p/sans}* oh, hey there."
 msgstr ""
@@ -1113,8 +1116,9 @@ msgstr ""
 "<25>{#p/sans}* что? правда, чувак?\n"
 "* это простое тасование циферок?"
 
+#, fuzzy
 msgid "<25>{#f/4}* that's for baby bones."
-msgstr ""
+msgstr "<25>{#f/4}* Так это ж для детишек."
 
 #, fuzzy
 msgid "<18>{#p/papyrus}{#f/4}UN. BELIEVABLE."
@@ -1391,8 +1395,9 @@ msgid ""
 "* I'll, uh... let you take over now."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/15}* So, uh... onwards?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/15}* Ну что, {^10}вперёд?"
 
 msgid "<25>{#p/asriel2}{#f/15}* ..."
 msgstr "<25>{#p/asriel2}{#f/15}* ..."
@@ -1592,8 +1597,9 @@ msgstr ""
 msgid "<25>{#p/asriel2}{#f/8}* ..."
 msgstr "<25>{#p/asriel2}{#f/8}* ..."
 
+#, fuzzy
 msgid "<25>{|}{#p/asgore}{#f/3}* Look, son, I simply- {%}"
-msgstr ""
+msgstr "<25>{|}{#p/asgore}{#f/3}* Слушай, сын, я просто- {%}"
 
 #, fuzzy
 msgid ""
@@ -1987,8 +1993,9 @@ msgstr "<18>{#f/0}ВЫ ГОТОВЫ СЛОМАТЬ СВОИ МОЗГИ?!"
 msgid "<18>{#p/papyrus}{#f/6}..."
 msgstr "<18>{#p/papyrus}{#f/6}..."
 
+#, fuzzy
 msgid "<18>{|}{#f/5}WELL, HERE ARE THE RULES OF THE- {%}"
-msgstr ""
+msgstr "<18>{|}{#f/5}ХОРОШО, ВОТ ПРАВИЛА- {%}"
 
 #, fuzzy
 msgid "<25>{#p/asriel2}{#f/7}* We already know the rules, idiot."
@@ -2033,27 +2040,37 @@ msgstr ""
 msgid "<18>{#f/31}YOUR... MERCY..."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel2}{#f/2}* ...\n"
 "* Oh, you sweet stellar star child..."
 msgstr ""
+"<25>{#p/asriel2}{#f/2}* ...\n"
+"* Ох, моё милое звёздное дитя..."
 
+#, fuzzy
 msgid "<25>{#f/1}* I lost those things a LONG time ago."
-msgstr ""
+msgstr "<25>{#f/1}* Я лишился этого ДАВНЫМ-ДАВНО."
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/31}BUT...\n"
 "I DON'T GET IT..."
 msgstr ""
+"<18>{#p/papyrus}{#f/31}НО...\n"
+"Я НЕ ПОЙМУ..."
 
+#, fuzzy
 msgid "<18>{#f/5}HOW CAN A MONSTER SO PURE OF MIND..."
-msgstr ""
+msgstr "<18>{#f/5}КАК СТОЛЬ НЕВИННЫЙ МОНСТР..."
 
+#, fuzzy
 msgid "<18>{#f/31}... BE TURNED SO COMPLETELY TO THE DARK SIDE?"
-msgstr ""
+msgstr "<18>{#f/31}...МОЖЕТ ОБРАТИТЬСЯ НА СТОРОНУ ТЬМЫ?"
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/1}* You really wanna know?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Ты правда хочешь знать?"
 
 msgid "<18>{#f/3}YES..."
 msgstr "<18>{#f/3}ДА..."
@@ -2082,7 +2099,7 @@ msgid ""
 "WITH AN EXOBERRY ON TOP, DAMN IT!"
 msgstr ""
 "<18>{#p/papyrus}{#f/7}ДА!\n"
-"С ЭКЗОВИШЕНКОЙ НА ТОРТЕ, ЧЁРТ ВОЗЬМИ!"
+"С ЭКЗОВИШЕНКОЙ НА ТОРТЕ, ЧЁРТ ВОЗЬМИ!РЕДАКТ"
 
 #, fuzzy
 msgid "<25>{#p/asriel2}{#f/1}* Hee hee hee..."
@@ -2136,16 +2153,21 @@ msgstr ""
 msgid "<18>{#f/7}YOU ARE THE ONE WHO'S FED ME LIE AFTER LIE."
 msgstr ""
 
+#, fuzzy
 msgid "<18>{#f/9}BUT I, PAPYRUS..."
-msgstr ""
+msgstr "<18>{#f/9}НО Я, ПАПИРУС..."
 
+#, fuzzy
 msgid "<18>{#f/9}FINALLY UNDERSTAND THE {@fill=#f00}REAL TRUTH{@fill=#fff}."
-msgstr ""
+msgstr "<18>{#f/9}НАКОНЕЦ-ТО УЗРЕЛ {@fill=#f00}ИСТИНУ{@fill=#fff}."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel2}{#f/13}* Oh?\n"
 "* And what's that?"
 msgstr ""
+"<25>{#p/asriel2}{#f/13}* О?\n"
+"* И что же?"
 
 #, fuzzy
 msgid "<18>{#p/papyrus}{#f/34}YOU'RE NOT {@fill=#f00}ASRIEL{@fill=#fff}."
@@ -2207,19 +2229,25 @@ msgid ""
 "<25>{#f/1}* You'll realize that I was right, and that HE died for nothing."
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#f/1}* How does that sound?"
-msgstr ""
+msgstr "<25>{#f/1}* Как звучит?"
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/9}...\n"
 "I ACCEPT."
 msgstr ""
+"<18>{#p/papyrus}{#f/9}...\n"
+"Я СОГЛАСЕН."
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/3}* Splendid."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Чудесно."
 
+#, fuzzy
 msgid "<25>{#f/4}* See you never."
-msgstr ""
+msgstr "<25>{#f/4}* Больше не увидимся."
 
 msgid "<32>{#p/human}* (You place your hands on the heavily scratched door.)"
 msgstr ""
@@ -2239,8 +2267,9 @@ msgstr ""
 msgid "<32>{#p/human}* (But there was nobody here.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* Nobody's home."
-msgstr ""
+msgstr "<32>{#p/basic}* Никого нет дома."
 
 msgid "<32>{#p/human}* (You can't seem to find a way in.)"
 msgstr ""
@@ -2250,8 +2279,9 @@ msgid ""
 "* Starton's premier hotel!"
 msgstr ""
 
+#, fuzzy
 msgid "<32>* One night will cost you 60G."
-msgstr ""
+msgstr "<32>* Одна ночь будет стоить 60М."
 
 msgid "* (Get a room?)"
 msgstr ""
@@ -2345,11 +2375,13 @@ msgstr ""
 msgid "<25>{#p/kidd}{#f/1}* What's up?"
 msgstr ""
 
+#, fuzzy
 msgid "<25>{#p/kidd}{#f/1}* Yo, howzzitgoin?"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Йо, как жиза?"
 
+#, fuzzy
 msgid "<25>{#p/kidd}{#f/1}* Hey, hey!"
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/1}* Эй-эй!"
 
 msgid "<25>{#p/kidd}{#f/1}* Nice to see you, haha."
 msgstr ""
