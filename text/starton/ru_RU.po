@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-12 17:13+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -12972,155 +12972,220 @@ msgstr "<11>{#p/basic}{~}«Апорт» - это так весело!"
 msgid "<11>{#p/basic}{~}Fetch with another pup!?"
 msgstr "<11>{#p/basic}{~}«Апорт» с другой собачкой?!"
 
+#, fuzzy
 msgid ""
 "<32>{#p/asriel2}* Dogaressa, the rowdy dog.\n"
 "* Without her hubby, she'd lose herself completely."
 msgstr ""
+"<32>{#p/asriel2}* Догаресса, буйная псина.\n"
+"* Потеряв своего муженька, она совсем освирепела."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGARESSA - ATK 14 DEF 5\n"
 "* This puppy finds her hubby lovely. SMELLS ONLY?"
 msgstr ""
+"<32>{#p/story}* ДОГАРЕССА: АТК 14, ЗЩТ 5.\n"
+"* Эта собачонка находит своего муженька очаровательным. ТОЛЬКО ЗАПАХ?"
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGARESSA - ATK 14 DEF 5\n"
 "* This puppy misses her hubby dearly. KILLS ONLY?"
 msgstr ""
+"<32>{#p/story}* ДОГАРЕССА: АТК 14, ЗЩТ 5.\n"
+"* Эта собачонка очень скучает по своему муженьку. ТОЛЬКО УБИВАЕТ?"
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGARESSA - ATK 14 DEF 5\n"
 "* Things are going quite alright for this puppy."
 msgstr ""
+"<32>{#p/story}* ДОГАРЕССА: АТК 14, ЗЩТ 5.\n"
+"* Дела обстоят прекрасно для этой собачонки."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGARESSA - ATK 14 DEF 5\n"
 "* Her hubby isn't the only thing this puppy finds lovely."
 msgstr ""
+"<32>{#p/story}* ДОГАРЕССА: АТК 14, ЗЩТ 5.\n"
+"* Её муженёк - не единственный, кого эта собачонка находит очаровательным."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* DOGAMY - ATK 14 DEF 5\n"
 "* This puppy is afraid for her hubby's safety."
 msgstr ""
+"<32>{#p/story}* ДОГАРЕССА: АТК 14, ЗЩТ 5.\n"
+"* Эта собачонка беспокоится за безопасность своего муженька."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Dogaressa takes it and smashes it to pieces.)"
 msgstr ""
+"<32>{#p/human}* (Вы кинули гаечный ключ.)\n"
+"* (Догаресса поймала его, и разломала вдребезги.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Hey! Knock it off!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Эй! А ну перестань!)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(This just gets weirder and weirder.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Это становится страннее и страннее.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(... flirt with me! Ugh!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(...заигрывал со мной! Фи!)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(I think it loves me. A lot.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Кажется он меня любит. Очень сильно.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You flirt with Dogaressa.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с Догарессой.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Your... pheromones, reach Dogaressa's snout."
-msgstr ""
+msgstr "<32>{#p/basic}* Ваши... феромоны, достигли носа Догарессы."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Dogaressa's expression is unchanged."
-msgstr ""
+msgstr "<32>{#p/basic}* Выражение Догарессы остаётся неизменным."
 
+#, fuzzy
 msgid "<32>{#p/story}* Dogamy is brokenhearted."
-msgstr ""
+msgstr "<32>{#p/story}* Сердце Догамия разбито."
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Misery awaits you.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Тебя ждут мучения.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(You'll suffer for this.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Ты будешь страдать за это.)"
 
+#, fuzzy
 msgid "* Dogaressa"
-msgstr ""
+msgstr "* Догаресса"
 
+#, fuzzy
 msgid "<32>{#p/story}* Dogamy is looking for affection."
-msgstr ""
+msgstr "<32>{#p/story}* Догамий ищет внимания."
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(That's not your husband, OK?)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Он не твой муж, лады?)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Well, don't leave me out!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(И про меня тогда уж не забудь!)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Beware of dog.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Остерегайся собаки.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(A dog that pets dogs... amazing!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Собака гладящая собак... изумительно!)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(You're the best!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Ты лучший!)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pet Dogaressa.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы гладите Догарессу.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You try to pet Dogaressa, but she just growls at you.)"
 msgstr ""
+"<32>{#p/human}* (Вы попытались погладить Догарессу, но она огрызается на "
+"вас.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Indeed.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Определённо.)"
 
+#, fuzzy
 msgid ""
 "<12>{#p/basic}{~}(Don't,\n"
 "actually...)"
 msgstr ""
+"<12>{#p/basic}{~}(Не стоит,\n"
+"правда...)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Far enough.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Все границы дозволенного.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(He means me.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Это он про меня.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(By force, if necessary.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Силой, если придётся.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Of course we were first.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Конечно же мы были первыми.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Time's up.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Время вышло.)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Do humans have tails?)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Разве у людей есть хвосты?)"
 
+#, fuzzy
 msgid ""
 "<11>{#p/basic}{~}(Is that what you wanted??)\n"
 "(Huh?)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(И это то, чего ты хотел??)"
 
+#, fuzzy
 msgid ""
 "<33>{#p/human}* (You encourage Dogaressa to sniff you, and she forcefully "
 "shoves her snout in your face.)"
 msgstr ""
+"<33>{#p/human}* (Вы просите Догарессу обнюхать вас, и она насильно утыкается "
+"мордой в ваше лицо.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You roll around in Dogamy's remains.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы валяетесь в прахе Догамия.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Dogaressa looks even angrier than before."
 msgstr ""
+"<32>{#p/basic}* Догаресса ещё никогда не испытывала такой всплеск ярости и "
+"злобы."
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(A smell mystery...)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Запах загадочности...)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(Are you actually a little puppy!?)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Так ты и вправду маленький щенок?!)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(The smell of a weird puppy!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Запах странного щенка!)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(We love to play fetch.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Мы любим команду «апорт».)"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}(This dog can do anything!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Эта собака может всё!)"
 
 msgid ""
 "<33>{#p/asriel2}* Canis Major, the brainless dog.\n"
