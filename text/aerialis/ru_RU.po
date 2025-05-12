@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 06:04+0000\n"
-"PO-Revision-Date: 2025-05-12 04:13+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-05-12 17:13+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "4-aerialis/ru/>\n"
 "Language: ru_RU\n"
@@ -1036,8 +1036,9 @@ msgstr ""
 msgid "<32>{#p/basic}* It's empty."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* ... but everybody ran."
-msgstr ""
+msgstr "<32>{#p/basic}* Но все убежали..."
 
 msgid "<32>{#p/basic}* ... but nobody came."
 msgstr "<34>{#p/basic}* Но никто не пришёл..."
@@ -19846,23 +19847,29 @@ msgstr ""
 msgid "<09>{#p/basic}{#k/4}Sorry, that was one of a kind."
 msgstr ""
 
+#, fuzzy
 msgid "Take"
-msgstr ""
+msgstr "Взять"
 
+#, fuzzy
 msgid "Steal"
-msgstr ""
+msgstr "Украсть"
 
+#, fuzzy
 msgid "Read"
-msgstr ""
+msgstr "Прочитать"
 
+#, fuzzy
 msgid "Buy"
-msgstr ""
+msgstr "Купить"
 
+#, fuzzy
 msgid "Sell"
-msgstr ""
+msgstr "Продать"
 
+#, fuzzy
 msgid "Talk"
-msgstr ""
+msgstr "Поговорить"
 
 msgid "<23>{#p/basic}{#k/5}* Heyyyy little bully."
 msgstr ""
