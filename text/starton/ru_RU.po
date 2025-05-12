@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-12 04:13+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"PO-Revision-Date: 2025-05-12 17:13+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -1455,30 +1455,40 @@ msgstr "<25>{#p/asriel2}{#f/4}* Пустая трата времени."
 msgid "<25>{#p/asriel2}{#f/3}* Huh."
 msgstr ""
 
+#, fuzzy
 msgid "<26>{#p/asriel2}{#f/3}* Well, that's the canine unit gone."
-msgstr ""
+msgstr "<26>{#p/asriel2}{#f/3}* Вот и всё, собачьего подразделения больше нет."
 
+#, fuzzy
 msgid "<26>{#p/asriel2}{#f/4}* Only one bridge left between us and town."
 msgstr ""
+"<26>{#p/asriel2}{#f/4}* Между нами и Звездоградом остался всего один мост. "
+"РЕДАКТ"
 
+#, fuzzy
 msgid "<25>{#f/1}* ... stay behind me."
-msgstr ""
+msgstr "<25>{#f/1}* ... Иди за мной."
 
 msgid "<25>{#p/asriel2}{#f/3}* Into town we go..."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel2}{#f/6}* Okay, $(name).\n"
 "* The town's all yours."
 msgstr ""
+"<25>{#p/asriel2}{#f/6}* И так, $(name).\n"
+"* Теперь это твой город."
 
+#, fuzzy
 msgid ""
 "<25>{#f/7}* In the meantime, I have to do something that'll be important "
 "later."
-msgstr ""
+msgstr "<25>{#f/7}* Мне нужно будет отлучиться по некоторым важным делам."
 
+#, fuzzy
 msgid "<25>{#f/1}* I'll be back before you know it."
-msgstr ""
+msgstr "<25>{#f/1}* Я успею раньше, чем ты успеешь моргнуть."
 
 msgid "<25>{#p/asriel2}{#f/1}* See you around the back of town."
 msgstr ""
@@ -2033,22 +2043,29 @@ msgstr "<18>{#p/papyrus}{#f/3}АЗРИЭЛЬ."
 msgid "<25>{#p/asriel2}{#f/6}* Papyrus."
 msgstr "<25>{#p/asriel2}{#f/6}* Папирус."
 
+#, fuzzy
 msgid "<18>{#f/31}WHY?"
-msgstr ""
+msgstr "<18>{#f/31}ЗАЧЕМ?"
 
+#, fuzzy
 msgid "<18>{#f/31}WHY WOULD YOU DO THIS?"
-msgstr ""
+msgstr "<18>{#f/31}ЗАЧЕМ ТЕБЕ ВСЁ ЭТО?"
 
+#, fuzzy
 msgid "<18>{#f/3}MONSTERS AREN'T SUPPOSED TO BE LIKE THIS..."
-msgstr ""
+msgstr "<18>{#f/3}МОНСТРЫ НЕ ДОЛЖНЫ СЕБЯ ТАК ВЕСТИ..."
 
+#, fuzzy
 msgid ""
 "<18>{#f/5}WHERE'S YOUR LOVE?\n"
 "YOUR COMPASSION?"
 msgstr ""
+"<18>{#f/5}ГДЕ ТВОЯ ЛЮБОВЬ?\n"
+"ТВОЯ ЭМПАТИЯ?"
 
+#, fuzzy
 msgid "<18>{#f/31}YOUR... MERCY..."
-msgstr ""
+msgstr "<18>{#f/31}ТВОЁ... МИЛОСЕРДИЕ..."
 
 #, fuzzy
 msgid ""
@@ -2157,11 +2174,13 @@ msgstr "<18>{#f/3}...НЕТ..."
 msgid "<18>{#p/papyrus}{#f/7}NO, YOU'RE WRONG."
 msgstr "<18>{#p/papyrus}{#f/7}НЕТ, ТЫ НЕПРАВ."
 
+#, fuzzy
 msgid "<18>{#f/7}YOU ARE THE ONE WHO'S BEEN TRYING TO BRING ME DOWN."
-msgstr ""
+msgstr "<18>{#f/7}ТЫ ТОТ, КТО ПЫТАЛСЯ УБИТЬ МЕНЯ."
 
+#, fuzzy
 msgid "<18>{#f/7}YOU ARE THE ONE WHO'S FED ME LIE AFTER LIE."
-msgstr ""
+msgstr "<18>{#f/7}ТЫ ТОТ, КТО ЛГАЛ МНЕ РАЗ ЗА РАЗОМ."
 
 #, fuzzy
 msgid "<18>{#f/9}BUT I, PAPYRUS..."
@@ -2201,15 +2220,15 @@ msgstr "<18>{#f/31}ОН ВЕРИЛ В ЧЕЛОВЕЧЕСТВО ПРЕЖДЕ ВС
 
 #, fuzzy
 msgid "<18>{#f/4}YOU, ON THE OTHER HAND..."
-msgstr "<18>{#f/4}ТЫ, С ДРУГОЙ СТОРОНЫ..."
+msgstr "<18>{#f/4}ТЫ ЖЕ..."
 
 #, fuzzy
 msgid "<18>{#f/7}YOU JUST WANT TO USE THEM FOR YOUR OWN ENDS!"
-msgstr "<18>{#f/7}ТЫ ИСПОЛЬЗУЕШЬ ЕГО ДЛЯ СОБСТВЕННЫХ ЦЕЛЕЙ!"
+msgstr "<18>{#f/7}ТЫ ИСПОЛЬЗУЕШЬ ЕГО ДЛЯ СВОИХ ЦЕЛЕЙ!"
 
 #, fuzzy
 msgid "<18>{#f/4}AND FRANKLY, I DON'T CARE WHAT YOU HAVE TO SAY."
-msgstr "<18>{#f/4}И, ЧЕСТНО, МЕНЯ НЕ ЗАБОТИТ, ЧТО ТЫ СКАЖЕШЬ."
+msgstr "<18>{#f/4}И, ЧЕСТНО, МЕНЯ НЕ ВОЛНУЕТ, ЧТО ТЫ ОТВЕТИШЬ."
 
 #, fuzzy
 msgid "<18>{#f/9}I STILL HAVE HOPE FOR THAT HUMAN."
@@ -2217,11 +2236,11 @@ msgstr "<18>{#f/9}Я ВСЁ ЕЩЁ НАДЕЮСЬ НА ЧЕЛОВЕКА."
 
 #, fuzzy
 msgid "<25>{#p/asriel2}{#f/8}* Well, if you've got so much faith in them..."
-msgstr "<25>{#p/asriel2}{#f/8}* Ладно, если у тебя столько веры в него..."
+msgstr "<25>{#p/asriel2}{#f/8}* Ладно, если ты настолько в него веришь..."
 
 #, fuzzy
 msgid "<25>{#f/7}* Then prove me wrong."
-msgstr "<25>{#f/7}* Докажи мою неправоту."
+msgstr "<25>{#f/7}* Докажи мне что я не прав."
 
 #, fuzzy
 msgid "<25>{#f/3}* I'll let you take them on, one on one."
@@ -2229,19 +2248,20 @@ msgstr "<25>{#f/3}* Я оставлю вас один-на-один."
 
 #, fuzzy
 msgid "<25>{#f/3}* If they spare you, then I'll admit I was wrong."
-msgstr "<25>{#f/3}* Если он пощадит тебя, тогда я буду неправ."
+msgstr "<25>{#f/3}* Если он пощадит тебя, тогда я признаю свою ошибку."
 
 #, fuzzy
 msgid "<25>{#f/4}* But if they kill you, which they inevitably will..."
 msgstr "<25>{#f/4}* Но если он убьёт тебя, что неизбежно..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* You'll realize that I was right, and that HE died for nothing."
-msgstr ""
+msgstr "<25>{#f/1}* Ты поймёшь, что я был прав, и что ОН умер ЗРЯ."
 
 #, fuzzy
 msgid "<25>{#f/1}* How does that sound?"
-msgstr "<25>{#f/1}* Как звучит?"
+msgstr "<25>{#f/1}* Как тебе такая идея?"
 
 #, fuzzy
 msgid ""
@@ -2265,8 +2285,9 @@ msgstr ""
 msgid "<32>{#p/basic}* The door is covered in cat- claw scratches."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* ... but everybody ran."
-msgstr ""
+msgstr "<32>{#p/basic}* Но все убежали..."
 
 msgid "<32>{#p/basic}* ... but nobody came."
 msgstr "<34>{#p/basic}* Но никто не пришёл..."
@@ -4952,8 +4973,9 @@ msgid ""
 "worth protecting and serving.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/human}* (You activate the terminal.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы включили терминал.)"
 
 msgid ""
 "<32>{#p/human}* (The note describes reducing the total to zero by adding or "
@@ -7796,14 +7818,17 @@ msgstr ""
 msgid "<18>{#p/papyrus}{#f/0}OKAY, HERE WE GO!"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* There is a log of previous modifications..."
-msgstr ""
+msgstr "<32>{#p/basic}* Появился журнал истории обновлений..."
 
+#, fuzzy
 msgid "<32>* \"Pattern last modified by user: ALPHYS\""
-msgstr ""
+msgstr "<32>* «Изначальный шаблон создан пользователем: АЛЬФИС»."
 
+#, fuzzy
 msgid "<32>* \"Pattern last modified by user: COOLSKELETON95\""
-msgstr ""
+msgstr "<32>* «Последнее изменение внесено пользователем: КРУТОЙСКЕЛЕТ95»."
 
 msgid "<25>{#p/asriel2}{#f/13}* She's been against us the whole time..."
 msgstr ""
@@ -7811,8 +7836,9 @@ msgstr ""
 msgid "<32>{#p/basic}* \"Would you like to view the pattern?\""
 msgstr ""
 
+#, fuzzy
 msgid "* (View the pattern?)"
-msgstr ""
+msgstr "* (Посмотреть шаблон?)"
 
 msgid "<32>{#p/human}* (The robot appears to be asleep.)"
 msgstr ""
@@ -8971,8 +8997,9 @@ msgstr ""
 msgid "<32>{#p/basic}* It's un-activated."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* What an unfortunate outcome."
-msgstr ""
+msgstr "<32>{#p/basic}* Какая досада."
 
 msgid "<32>{#p/human}* (The sign mentions an escape.)"
 msgstr ""
@@ -9512,10 +9539,13 @@ msgstr ""
 msgid "<32>{#p/human}* (The signed letter inside looks to have been ignored.)"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Inside, on the floor, is a signed Royal Guard letter about "
 "tactical retreat."
 msgstr ""
+"<32>{#p/basic}* Внутри лежит письмо королевской гвардии о тактическом "
+"отступлении."
 
 msgid "<32>{#p/basic}* The \"treat\" in \"retreat\" was nibbled off..."
 msgstr ""
@@ -9595,8 +9625,10 @@ msgstr ""
 msgid "<25>{#p/asriel1}{#f/19}* This one seems like just your size."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* There is nothing special about this barstool."
 msgstr ""
+"<32>{#p/basic}* В этой структуре, напоминающее дерево, нет ничего особенного."
 
 msgid "<32>{#p/basic}* Something tells me this barstool is very special."
 msgstr ""
@@ -9661,10 +9693,13 @@ msgid ""
 "quantum randomizer.)"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"ATTENTION: The quantum randomizer in this display tower is"
 " still broken.\""
 msgstr ""
+"<32>{#p/basic}* «ВНИМАНИЕ: Квантовый рандомайзер в этой медиабашне всё ещё "
+"сломан.»"
 
 msgid "<32>{#p/human}* (You put your hands on window.)"
 msgstr ""
@@ -10112,10 +10147,13 @@ msgid ""
 "<32>{#p/human}* (You can't help but smile at the contents of this sign.)"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"AWARE OF DOG\"\n"
 "* \"... pleas pet dog...\""
 msgstr ""
+"<32>{#p/basic}* «ОСТОРОЖНО, ЗЛАЯ СОБАКА!»\n"
+"* «пожалуста погладьте собаку...»"
 
 msgid ""
 "<32>{#p/human}* (The note requests that you call a certain phone number.)"
@@ -15118,23 +15156,29 @@ msgstr ""
 msgid "<09>{#p/napstablook}{#k/0}oh... i don't have any more..."
 msgstr ""
 
+#, fuzzy
 msgid "Take"
-msgstr ""
+msgstr "Взять"
 
+#, fuzzy
 msgid "Steal"
-msgstr ""
+msgstr "Украсть"
 
+#, fuzzy
 msgid "Read"
-msgstr ""
+msgstr "Прочитать"
 
+#, fuzzy
 msgid "Buy"
-msgstr ""
+msgstr "Купить"
 
+#, fuzzy
 msgid "Sell"
-msgstr ""
+msgstr "Продать"
 
+#, fuzzy
 msgid "Talk"
-msgstr ""
+msgstr "Поговорить"
 
 msgid "<23>{#p/napstablook}{#k/3}* have a look around..."
 msgstr ""
@@ -15159,11 +15203,13 @@ msgstr ""
 msgid "<23>{#p/basic}* ... but nobody came."
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* There's no note here."
-msgstr ""
+msgstr "<32>{#p/basic}* Здесь лежит записка..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* There's a note here."
-msgstr ""
+msgstr "<32>{#p/basic}* Здесь лежит записка..."
 
 msgid "<32>{#p/napstablook}* \"it's all your fault...\""
 msgstr ""
@@ -15680,8 +15726,9 @@ msgstr ""
 msgid "<33>{#p/basic}* \"I'm sorry I couldn't come back.\""
 msgstr ""
 
+#, fuzzy
 msgid "<33>{#p/basic}* \"Please don't hurt my family.\""
-msgstr ""
+msgstr "<33>{#p/basic}* «Пожалуйста, пощадите мою семью»."
 
 msgid "<30>{#p/human}* (You took 758G from behind the counter.)"
 msgstr ""
