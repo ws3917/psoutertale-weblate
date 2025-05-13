@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-13 15:40+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"Last-Translator: Čaročka Drömurr <capewearer98@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -2240,7 +2240,7 @@ msgstr "<25>{#p/asriel2}{#f/8}* Ладно, если ты настолько в 
 
 #, fuzzy
 msgid "<25>{#f/7}* Then prove me wrong."
-msgstr "<25>{#f/7}* Докажи мне что я не прав."
+msgstr "<25>{#f/7}* Докажи, что я не прав."
 
 #, fuzzy
 msgid "<25>{#f/3}* I'll let you take them on, one on one."
@@ -2320,8 +2320,9 @@ msgstr ""
 msgid "<32>{#p/basic}{#npc/a}* Changed your mind?"
 msgstr ""
 
+#, fuzzy
 msgid "<32>* Remember, one night is 60G."
-msgstr ""
+msgstr "<32>* Помни, одна ночь — 60М."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Back again?\n"
@@ -2336,18 +2337,20 @@ msgid ""
 "* Well, stay as long as you like!"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}{#npc/a}* ... you don't even have 60G?"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* ...нет даже 60М?"
 
 msgid ""
 "<32>* Oh! You poor thing.\n"
 "* I can only imagine what you've been through."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>* One of the rooms upstairs is empty, you can sleep there for free, "
 "okay?"
-msgstr ""
+msgstr "<32>* Одна из комнат наверху пустует, можешь поспать там даром, хорошо?"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Here's your room key.\n"
@@ -15274,28 +15277,36 @@ msgstr "Продать"
 msgid "Talk"
 msgstr "Поговорить"
 
+#, fuzzy
 msgid "<23>{#p/napstablook}{#k/3}* have a look around..."
-msgstr ""
+msgstr "<23>{#p/napstablook}{#k/3}* оглянись вокруг..."
 
+#, fuzzy
 msgid "<23>{#p/napstablook}{#k/3}* i hope you find what you're looking for..."
-msgstr ""
+msgstr "<23>{#p/napstablook}{#k/3}* надеюсь, ты найдёшь, что ищешь..."
 
+#, fuzzy
 msgid ""
 "<23>{#p/napstablook}{#k/3}* have a look around... or not... it's your "
 "choice..."
 msgstr ""
+"<23>{#p/napstablook}{#k/3}* оглянись вокруг...или нет...это твой выбор..."
 
+#, fuzzy
 msgid "<23>{#p/napstablook}{#k/3}* have a look around, i guess..."
-msgstr ""
+msgstr "<23>{#p/napstablook}{#k/3}* оглянись вокруг, наверное..."
 
+#, fuzzy
 msgid "<23>{#p/napstablook}{#k/0}* feel free to leave at any time..."
-msgstr ""
+msgstr "<23>{#p/napstablook}{#k/0}* можешь уйти когда угодно..."
 
+#, fuzzy
 msgid "<23>{#p/basic}* ... but everybody ran."
-msgstr ""
+msgstr "<23>{#p/basic}* ...Но все убежали."
 
+#, fuzzy
 msgid "<23>{#p/basic}* ... but nobody came."
-msgstr ""
+msgstr "<23>{#p/basic}* ...Но никто не пришёл."
 
 #, fuzzy
 msgid "<32>{#p/basic}* There's no note here."
