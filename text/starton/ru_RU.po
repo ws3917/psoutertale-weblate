@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-13 15:40+0000\n"
-"Last-Translator: Čaročka Drömurr <capewearer98@gmail.com>\n"
+"PO-Revision-Date: 2025-05-14 07:35+0000\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -12404,7 +12404,7 @@ msgstr ""
 
 #, fuzzy
 msgid "<32>{#p/basic}* It was a good dog."
-msgstr "<32>{#p/basic}* Он был хорошим псом."
+msgstr "<32>{#p/basic}* Он был хорошим пёсиком."
 
 #, fuzzy
 msgid "<32>{#p/asriel2}* No reason to keep going?"
@@ -12546,7 +12546,7 @@ msgstr "<32>{#p/asriel2}* Малый Пёс."
 
 #, fuzzy
 msgid "<32>{#p/story}* Canis Minor appears."
-msgstr "<32>{#p/story}* Появляется Малый Пёс."
+msgstr "<32>{#p/story}* Малый Пёс появился."
 
 #, fuzzy
 msgid "<32>{#p/story}* Canis Minor tilts its head to one side."
@@ -13281,118 +13281,166 @@ msgstr "<32>{#p/story}* Большой Пёс медленно пыхтит."
 msgid "<32>{#p/story}* Canis Major just wants some affection."
 msgstr "<32>{#p/story}* Большой Пёс просто нуждается в небольшой ласке."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major is making puppy-dog eyes."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс строит щенячьи глазки."
 
+#, fuzzy
 msgid "* Canis Major"
-msgstr ""
+msgstr "* Большой Пёс"
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major loves fetch!"
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс любит команду «апорт»!"
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major is patting the ground with its front paws."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс шкребёт землю передними лапками."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major wants some TLC."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс хочет любви и заботы."
 
+#, fuzzy
 msgid "<32>{#p/story}* Pet capacity now at forty percent."
-msgstr ""
+msgstr "<32>{#p/story}* Уровень поглаживания достиг сорока процентов."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major is contented."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс удовлетворён."
 
+#, fuzzy
 msgid "<32>{#p/human}* (But Canis Major was too far away to pet.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Но Большой Пёс слишком далеко от вас.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (Canis Major curls up in your lap as it is pet by you.)"
 msgstr ""
+"<32>{#p/human}* (Большой Пёс свернулся в клубок на ваших коленях, когда вы "
+"его гладили.)"
 
+#, fuzzy
 msgid "<32>* (It gets so comfortable that it falls asleep.)"
-msgstr ""
+msgstr "<32>* (Ему стало так уютно, что он заснул.)"
 
+#, fuzzy
 msgid "<32>* (The dog snores, and snores some more...)"
-msgstr ""
+msgstr "<32>* (Пёсик похрапывает и сопит...)"
 
+#, fuzzy
 msgid "<32>* (... until eventually, it wakes up.)"
-msgstr ""
+msgstr "<32>* (...и вскоре он просыпается.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Canis Major's excitement begins rising without warning!"
 msgstr ""
+"<32>{#p/basic}* Взвинчивание Большого Пса повышается без предупреждения!"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You try to pet the dog...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы попытались погладить пёсика...)"
 
+#, fuzzy
 msgid ""
 "<32>* (... but its excitement is generating an energy field that prevents "
 "petting.)"
 msgstr ""
+"<32>* (...но его взвинченность создаёт энергетическое поле, мешающие "
+"поглаживанию.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You pet the dog.)\n"
 "* (It sinks its entire weight into you.)"
 msgstr ""
+"<32>{#p/human}* (Вы гладите пёсика.)\n"
+"* (Он укладывается всем своим весом на вас.)"
 
+#, fuzzy
 msgid "<32>* (Your movement slows, but you still haven't pet enough.)"
-msgstr ""
+msgstr "<32>* (Ваши движения замедлились, но вы ещё недостаточно погладили.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You pet decisively.)\n"
 "* (Pet capacity now at one- hundred percent.)"
 msgstr ""
+"<32>{#p/human}* (Вы решительно гладите пёсика.)\n"
+"* (Уровень поглаживания достиг ста процентов.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Canis Major flops over with its legs hanging in the air."
 msgstr ""
+"<32>{#p/basic}* Большой Пёс плюхается на спину, болтая лапками в воздухе."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You give the dog a tummy rub.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы поглаживаете пёсику животик.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Canis Major is whining in bliss..."
-msgstr ""
+msgstr "<32>{#p/basic}* Большой Пёс поскуливает от блаженства..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (But Canis Major was not excited enough to play with yet.)"
 msgstr ""
+"<32>{#p/human}* (Но Большой Пёс ещё недостаточно взвинчен, чтобы играть.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You conjure a hologram for the dog to chase after.)"
 msgstr ""
+"<32>{#p/human}* (Вы создали голограмму для пёсика, чтобы он погонялся за "
+"ней.)"
 
+#, fuzzy
 msgid "<32>* (Eventually, the hologram loses cohesion and dissipates.)"
-msgstr ""
+msgstr "<32>* (Вскоре голограмма теряет связь и рассеивается.)"
 
+#, fuzzy
 msgid ""
 "<32>* (Canis Major collects all the residual energy in the area and brings "
 "it to you.)"
 msgstr ""
+"<32>* (Большой Пёс собирает все энергетические остатки поблизости и приносит "
+"вам.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Canis Major, tired, rests its head on you..."
-msgstr ""
+msgstr "<32>{#p/basic}* Устав, Большой Пёс положил голову на вас..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Canis Major is too tired to play."
-msgstr ""
+msgstr "<32>{#p/basic}* Большой Пёс слишком устал для игр."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (But Canis Major was already in the middle of playing "
 "fetch.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Но Большой Пёс уже был занят игрой в «апорт».)"
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major appears."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс появился."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major is watching you intently."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс пристально смотрит на вас."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major is waiting for your command."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс ожидает вашей команды."
 
+#, fuzzy
 msgid "<32>{#p/story}* Smells like fresh-squeezed puppy juice."
-msgstr ""
+msgstr "<32>{#p/story}* Пахнет как свежевыжатый собачий сок."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Canis Major moves closer."
-msgstr ""
+msgstr "<32>{#p/basic}* Большой Пёс приблизился."
 
 msgid "<32>{#p/human}* (You flirt with Papyrus.)"
 msgstr ""
