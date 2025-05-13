@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-12 17:13+0000\n"
+"PO-Revision-Date: 2025-05-13 15:40+0000\n"
 "Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -13187,67 +13187,96 @@ msgstr "<11>{#p/basic}{~}(Мы любим команду «апорт».)"
 msgid "<11>{#p/basic}{~}(This dog can do anything!)"
 msgstr "<11>{#p/basic}{~}(Эта собака может всё!)"
 
+#, fuzzy
 msgid ""
 "<33>{#p/asriel2}* Canis Major, the brainless dog.\n"
 "* The biggest and dumbest dog of the bunch."
 msgstr ""
+"<33>{#p/asriel2}* Большой Пёс, безмозглая псина.\n"
+"* Наибольшая и наитупейшая шавка среди всех."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CANIS MAJOR - ATK 15 DEF 8\n"
 "* It's so excited that it thinks fighting is just play."
 msgstr ""
+"<32>{#p/story}* БОЛЬШОЙ ПЁС: АТК 15, ЗЩТ 8.\n"
+"* Он так взволнован, что думает о сражении как об игре."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CANIS MAJOR - ATK 15 DEF 8\n"
 "* Desperate for some love and attention..."
 msgstr ""
+"<32>{#p/story}* БОЛЬШОЙ ПЁС: АТК 15, ЗЩТ 8.\n"
+"* Ему очень хочется любви и внимания..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CANIS MAJOR - ATK 15 DEF 8\n"
 "* All tuckered out."
 msgstr ""
+"<32>{#p/story}* БОЛЬШОЙ ПЁС: АТК 15, ЗЩТ 8.\n"
+"* Полностью вымотан."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You flirt with Canis Major.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с Большим Псом.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Canis Major awkwardly cocks its head to one side."
-msgstr ""
+msgstr "<32>{#p/basic}* Большой Пёс неловко наклонил голову набок."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You call Canis Major.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы подзываете Большого Пса.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Canis Major bounds towards you, flecking slobber into your "
 "face."
 msgstr ""
+"<32>{#p/basic}* Большой Пёс подскочил к вам, обрызгивая ваше лицо слюнями."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Canis Major."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Большой Пёс."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major seeks affection."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс ищет внимания."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You call Canis Major.)\n"
 "* (Only the dog's ears perk up.)"
 msgstr ""
+"<32>{#p/human}* (Вы подзываете Большого Пса.)\n"
+"* (Уши пса навострились.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Canis Major decides you are too boring."
-msgstr ""
+msgstr "<32>{#p/basic}* Вы наскучили Большому Псу."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Canis Major absorbs it and carries on with its life.)"
 msgstr ""
+"<32>{#p/human}* (Вы кинули гаечный ключ.)\n"
+"* (Большой Пёс поглотил его и решил оставить у себя на всю жизнь.)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Yeah... that makes sense."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Да... возможно в этом есть смысл."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major is panting slowly."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс медленно пыхтит."
 
+#, fuzzy
 msgid "<32>{#p/story}* Canis Major just wants some affection."
-msgstr ""
+msgstr "<32>{#p/story}* Большой Пёс просто нуждается в небольшой ласке."
 
 msgid "<32>{#p/story}* Canis Major is making puppy-dog eyes."
 msgstr ""
