@@ -5,7 +5,7 @@
     "3-multiple": "<p:player>（一把电钻，还剩一半电量。）",
     "4-multiple": "<p:player>（一把电钻，没电了。）",
     "5-multiple": "<p:player>（带上一个作伴也没什么害处。）",
-    "6-multiple": "戴上它\n什么都不做",
+    "6-multiple": "戴上\n算了",
     "7-multiple": "<p:player><f:sigh>（走你。）",
     "8-multiple": "<p:player><f:wink>（一个毛绒玩偶，我正戴着它呢。）",
     "9-multiple": "拿下来\n算了",
