@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-14 07:35+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"PO-Revision-Date: 2025-05-15 03:48+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -796,7 +796,7 @@ msgid ""
 "<32>{#p/basic}* It's just a lonely table.\n"
 "* Smells like frosting."
 msgstr ""
-"<32>{#p/basic}* Просто одинокий стол.\n"
+"<32>{#p/basic}* Одинокий стол.\n"
 "* Пахнет инеем."
 
 #, fuzzy
@@ -8880,8 +8880,9 @@ msgid ""
 "* (It's a tad saucy.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a dispenser of some kind."
-msgstr ""
+msgstr "<32>{#p/basic}* Что-то похожее на дозатор."
 
 msgid ""
 "<32>{#p/basic}* It's a mouse hole.\n"
@@ -9108,9 +9109,10 @@ msgstr ""
 msgid "<32>{#p/human}* (You wonder if the Dog chow is edible for humans.)"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* It's a table for 4-D poker, plus complimentary dog chow."
-msgstr ""
+msgstr "<32>{#p/basic}* Столик для игры в 4D покер и бесплатный собачий корм."
 
 msgid ""
 "<32>{#p/human}* (You glance at the table.)\n"
@@ -9589,11 +9591,13 @@ msgstr "<32>* В самый раз для Санса."
 msgid "<32>{#p/human}* (You can't make out what's under the tray table...)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* It's a tray table."
-msgstr ""
+msgstr "<32>{#p/basic}* Столик-поднос."
 
+#, fuzzy
 msgid "<32>* The camera on the underside has been taken away."
-msgstr ""
+msgstr "<32>* Камера на тыльной стороне была снята."
 
 msgid "<32>* There's a camera hidden on its underside."
 msgstr ""
@@ -9634,12 +9638,15 @@ msgid ""
 "<32>{#p/basic}* A few of the beverages on this shelf have been used up."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* A shelf full of various party beverages and sickly liquids."
 msgstr ""
+"<32>{#p/basic}* Большой барный шкаф, наполненный коктейлями и напитками."
 
+#, fuzzy
 msgid "<32>{#p/basic}* And a single bottle of water labelled \"fire hazard.\""
-msgstr ""
+msgstr "<32>{#p/basic}* И одна бутылка воды с пометкой «огнеопасно»."
 
 msgid "<25>{#p/asriel1}{#f/20}* That one's definitely too tall for you."
 msgstr ""
@@ -9744,7 +9751,7 @@ msgstr "<32>{#p/human}* (Книга на полке сравнивает про�
 
 #, fuzzy
 msgid "<32>{#p/basic}* This bookshelf is labelled \"Then and Now.\""
-msgstr "<32>{#p/basic}* Полка проименована как «Тогда и сейчас»."
+msgstr "<32>{#p/basic}* На книжном шкафу подпись: «Тогда и сейчас»."
 
 msgid ""
 "<32>{#p/basic}* \"Before the war, monsters were taught magic on a regular, "
@@ -9832,8 +9839,9 @@ msgid ""
 "<32>{#p/human}* (You observe the dust gathering on this check-out book.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* The librarby's check-out book."
-msgstr ""
+msgstr "<32>{#p/basic}* Книга учёта библеотеки."
 
 msgid ""
 "<32>{#p/human}* (The books on this bookshelf consist of information, some of"
@@ -9993,84 +10001,125 @@ msgid ""
 "monster homeworld.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* This bookshelf is labelled \"Homeworld History.\""
-msgstr ""
+msgstr "<32>{#p/basic}* На книжном шкафу подпись: «История родного мира»."
 
+#, fuzzy
 msgid "<32>{#p/basic}* \"Each day on our homeworld was a sight to behold.\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Каждый день на нашей родной планете был незабываем»."
 
+#, fuzzy
 msgid ""
 "<32>* \"To start the morning, bright spires of magical energy pierced the "
 "skies.\""
 msgstr ""
+"<32>* «На рассвете небеса рассекали сверкающие иглы магической энергии»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Throughout the day, these magical formations began to resonate "
 "together...\""
 msgstr ""
+"<32>* «В течение дня эти магические пласты резонировали друг с другом...»"
 
+#, fuzzy
 msgid ""
 "<32>* \"All leading to a dazzling release that sent the planet into "
 "darkness.\""
 msgstr ""
+"<32>* «Всё это приводило к ослепительным выбросам, что погружали нашу "
+"планету во тьму»."
 
+#, fuzzy
 msgid ""
 "<32>* \"At nightfall, the process of magical coalescense would begin anew.\""
 msgstr ""
+"<32>* «С наступлением ночи, процесс магической коагуляции начинался вновь»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Bolts of magical energy previously released struck back down from "
 "above.\""
 msgstr ""
+"<32>* «Выпущенные ранее сгустки магической энергии обрушались с небес "
+"подобно молниям»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Once enough energy hit the ground, the spires would rise again...\""
 msgstr ""
+"<32>* «Как только достаточное количество энергии попадёт обратно в землю...»"
+"\n"
+"[ADD}<32>* «...шпили вновь поднимутся, знаменуя собой начало нового дня»."
 
+#, fuzzy
 msgid "<32>* \"Such was the cycle that once governed our days and nights.\""
-msgstr ""
+msgstr "<32>* «Таков был цикл, что когда-то управлял закатами и рассветами»."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Monsters didn't always have such an organized structure, "
 "you know?\""
-msgstr ""
+msgstr "<32>{#p/basic}* «Но монстры не всегда были цивилизованны»."
 
+#, fuzzy
 msgid "<32>* \"Long, long ago... thousands of years ago, in fact...\""
-msgstr ""
+msgstr "<32>* «Давным-давно... тысячи лет назад, на самом деле...»"
 
+#, fuzzy
 msgid ""
 "<32>* \"Our race frolicked wild and free, with no sense of order or "
 "direction.\""
 msgstr ""
+"<32>* «Наша раса была подобна аборигенам, что существовали без порядка и "
+"закона»."
 
+#, fuzzy
 msgid "<32>* \"Heck, we didn't even wear clothing back then!\""
-msgstr ""
+msgstr "<32>* «Чёрт возьми, мы тогда даже не носили одежду!»"
 
+#, fuzzy
 msgid ""
 "<32>* \"But as time passed, we yearned for more.\"\n"
 "* \"We wanted to evolve...\""
 msgstr ""
+"<32>* «Но время шло, и мы жаждали большего».\n"
+"* «Мы хотели развиваться...»"
 
+#, fuzzy
 msgid ""
 "<32>* \"During the great renaissance, even the very essence of our magic "
 "came into focus.\""
 msgstr ""
+"<32>* «Во время эпохи великого возрождения, в центре внимания была суть "
+"нашей магии»."
 
+#, fuzzy
 msgid ""
 "<32>* \"These developments begat our society, and eventually, our way of "
 "life.\""
 msgstr ""
+"<32>* «Наша магия стала основной общества монстров, основой нашего "
+"менталитета»."
 
+#, fuzzy
 msgid ""
 "<32>* \"... I still can't believe we just ran around naked for two thousand "
 "years.\""
 msgstr ""
+"<32>* «Честно говоря, я до сих пор не могу поверить, что мы бегали голыми "
+"две тысячи лет...»"
 
+#, fuzzy
 msgid ""
 "<32>* \"Where's the class in that?\"\n"
 "* \"Where's the fashion?\"\n"
 "* \"Unbelievable.\""
 msgstr ""
+"<32>* «И где тут мода?»\n"
+"* «А как же шик?»\n"
+"* «Скукота.»"
 
 msgid ""
 "<32>{#p/basic}* \"When monsterkind first met with humanity, Erogot was "
@@ -15398,11 +15447,13 @@ msgstr ""
 msgid "<32>{#p/napstablook}* \"we had no choice...\""
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/napstablook}* \"sorry, i had to go...\""
-msgstr ""
+msgstr "<32>{#p/napstablook}* «простите, мне пришлось уйти...»"
 
+#, fuzzy
 msgid "<30>{#p/human}* (You took 42G from behind the counter.)"
-msgstr ""
+msgstr "<30>{#p/human}* (Вы забрали 42М из под прилавка.)"
 
 msgid "<30>{#p/napstablook}{#k/2}* oh... you're trying to steal from me..."
 msgstr ""
@@ -15921,8 +15972,9 @@ msgstr ""
 msgid "<33>{#p/basic}* \"Please don't hurt my family.\""
 msgstr "<33>{#p/basic}* «Пожалуйста, пощадите мою семью»."
 
+#, fuzzy
 msgid "<30>{#p/human}* (You took 758G from behind the counter.)"
-msgstr ""
+msgstr "<30>{#p/human}* (Вы забрали 758М из под прилавка.)"
 
 msgid ""
 "<30>{#p/basic}{#k/1}* Huh?\n"
