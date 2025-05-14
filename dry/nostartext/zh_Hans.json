@@ -249,7 +249,7 @@
     "3834639185038355ecd0da67537f9080": "backColor:0.5,1,1",
     "bba4003c3ae1f47ee8e4e54fdfc05bf3": "text:嘿 瞌睡虫！\n\n昨晚睡着了吗？我的脑袋还在为昨天的事晕乎乎的呢。\n\n特意写信提醒你别睡过头！我这就来接你，等着我哦！\n[right]- Kanako",
     "24f08a2ce02b8f80891fb191e8c46b15": "sound:null",
-    "1c4e5c742475e8e8474c25d4bd338384": "text:科尔，\\n\\n我们接到通知，你再次未经许可在规定时间外敲响校钟。\\n我知道你们这些孩子喜欢搞这种\"恶作剧\"，但已经有居民因此搬离小镇了。\\n请不要再这样做，否则我不得不找玛特莱特谈谈。\\n\\n[right]- 斯塔罗市长",
+    "1c4e5c742475e8e8474c25d4bd338384": "text:Cole，\n\n我们接到通知，你再次未经许可在规定时间外敲响校钟。\n我知道你们这些孩子喜欢搞这种“恶作剧”，但已经有居民因此搬离小镇了。\n不要再这样做了，否则我将去找Martlet谈谈。\n\n[right]- Starlo市长",
     "591c0fbafb4335ccb966b853611519a6": "backColor:0.8,0.8,0.8",
     "962d402764b89105bc802277bc24b7d8": "text:放学后我们回黑暗监狱吧。\n\n典狱长可能知道其他黑暗世界的下落。",
     "7dc5399a6c45b084a30306cf10fe6843": "missflag:SchoolFountainSealed",
@@ -259,5 +259,7 @@
     "e413d5aa02fe8c51d34c9b531d0dcf17": "deadFlag:PeniltonDEAD",
     "e6dd0514fbf16656e1fddb09267b1eeb": "captureFlag:LuncherCaught",
     "d128ccdf29f1c4fce8e3c0ad606e0e5f": "deadFlag:LuncherDEAD",
-    "96af74e92244544a4ee0156e92c6b9b2": "deadFlag:99999"
+    "96af74e92244544a4ee0156e92c6b9b2": "deadFlag:99999",
+    "774206b997bcecbaa87d461bf529f3c4": "deadFlag:BearingDEAD",
+    "c46408a3ee466c32567c6839ba7e1f1b": "MartletHouse;Martlet家"
 }
