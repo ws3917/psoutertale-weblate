@@ -86,7 +86,7 @@
     "adc34e1f7b2fa584442f10f37295a176": "我还以为\n我们是朋友的...！",
     "a60d96a23fd17e1492cd9f79a34dbf31": "你真是个差劲的朋友！",
     "c7a787283fffb3ba7ff8a6017fa50bf4": "嗯，我看得出来。",
-    "bb8670e77c4e82f0d5efa8e89da58d26": "被我天下第一的实力惊呆了吧？",
+    "bb8670e77c4e82f0d5efa8e89da58d26": "被我天下第一的\n实力惊到了吗？",
     "ad7bf236228705e7e33a62b2ea659819": "哎哟，你把这弄脏了！",
     "02592d16292fd5924b9390d6be8a4ecd": "竟然把我撞凹了，\n你得付出代价！",
     "9434e99218e2bc78cb554978d8e71f8f": "[shake]求求你...",
@@ -255,11 +255,13 @@
     "7dc5399a6c45b084a30306cf10fe6843": "missflag:SchoolFountainSealed",
     "4c8a297de9344393f511b92e9a9e942a": "captureFlag:BearingCaught",
     "93772d989c288cf48ac949609d24c39a": "captureFlag:PenniltonCaught",
-    "ca839ef546ada8485eda02941f37dd28": "WildEastMain;城镇",
+    "ca839ef546ada8485eda02941f37dd28": "WildEastMain;小镇",
     "e413d5aa02fe8c51d34c9b531d0dcf17": "deadFlag:PeniltonDEAD",
     "e6dd0514fbf16656e1fddb09267b1eeb": "captureFlag:LuncherCaught",
     "d128ccdf29f1c4fce8e3c0ad606e0e5f": "deadFlag:LuncherDEAD",
     "96af74e92244544a4ee0156e92c6b9b2": "deadFlag:99999",
     "774206b997bcecbaa87d461bf529f3c4": "deadFlag:BearingDEAD",
-    "c46408a3ee466c32567c6839ba7e1f1b": "MartletHouse;Martlet家"
+    "c46408a3ee466c32567c6839ba7e1f1b": "MartletHouse;Martlet家",
+    "bdac24047f91099a186218095a8854e2": "Pennilton无人能敌，\n宝贝！",
+    "f4a22ee10ee21e80fc64a74f4a6bc777": "此乃天下第一之力！"
 }
