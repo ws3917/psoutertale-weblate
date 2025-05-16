@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-15 19:13+0000\n"
+"PO-Revision-Date: 2025-05-17 00:13+0000\n"
 "Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -7358,26 +7358,33 @@ msgstr ""
 msgid "<18>... HEH?"
 msgstr ""
 
+#, fuzzy
 msgid "<23>{#p/papyrus}{#f/30}HUMAN."
-msgstr ""
+msgstr "<23>{#p/papyrus}{#f/30}ЧЕЛОВЕК."
 
+#, fuzzy
 msgid "<23>ALLOW ME TO TELL YOU ABOUT SOME COMPLEX FEELINGS."
-msgstr ""
+msgstr "<23>ПОЗВОЛЬ МНЕ РАССКАЗАТЬ ТЕБЕ О НЕКОТОРЫХ СЛОЖНЫХ ЧУВСТВАХ."
 
+#, fuzzy
 msgid "<23>FEELINGS LIKE..."
-msgstr ""
+msgstr "<23>ЧУВСТВА, КАК..."
 
+#, fuzzy
 msgid "<23>THE SADNESS OF LOSING SOMEONE SPECIAL."
-msgstr ""
+msgstr "<23>ТОСКА ОТ ПОТЕРИ КОГО-ТО ВАЖНОГО."
 
+#, fuzzy
 msgid "<23>THE GUILT OF NOT BEING ABLE TO SAVE THEM."
-msgstr ""
+msgstr "<23>ВИНА ПЕРЕД ТЕМИ, КОГО НЕ УДАЛОСЬ СПАСТИ."
 
+#, fuzzy
 msgid "<23>THE DESIRE TO SEE THEM ONE LAST TIME."
-msgstr ""
+msgstr "<23>ЖЕЛАНИЕ УВИДЕТЬ ИХ В ПОСЛЕДНИЙ РАЗ."
 
+#, fuzzy
 msgid "<23>THESE FEELINGS..."
-msgstr ""
+msgstr "<23>ЭТИ ЧУВСТВА..."
 
 msgid "<23>THE STRESS OF KNOWING SO MANY PEOPLE HAVE BEEN KILLED."
 msgstr ""
@@ -7397,50 +7404,65 @@ msgstr ""
 msgid "<23>THE DESIRE TO HAVE A COOL, SMART PERSON THINK YOU ARE COOL."
 msgstr ""
 
+#, fuzzy
 msgid "<18>{#f/31}THEY MUST BE WHAT YOU ARE FEELING, RIGHT NOW."
-msgstr ""
+msgstr "<18>{#f/31}НАВЕРНОЕ, ЭТО ТО, ЧТО ТЫ ИСПЫТЫВАЕШЬ СЕЙЧАС."
 
+#, fuzzy
 msgid "<18>{#f/32}I CAN HARDLY IMAGINE WHAT THAT MUST FEEL LIKE..."
-msgstr ""
+msgstr "<18>{#f/32}СТРАШНО ПРЕДСТАВИТЬ, КАК ТЕБЕ ТЯЖЕЛО..."
 
+#, fuzzy
 msgid "<18>{#f/6}AFTER ALL, I AM VERY... GREAT..."
-msgstr ""
+msgstr "<18>{#f/6}В КОНЦЕ КОНЦОВ, Я... ВЕЛИКИЙ..."
 
+#, fuzzy
 msgid "<18>{#f/32}{#x1}..."
-msgstr ""
+msgstr "<18>{#f/32}{#x1}..."
 
+#, fuzzy
 msgid "<18>{#f/31}DESPITE EVERYTHING THAT HAS HAPPENED, I STILL..."
-msgstr ""
+msgstr "<18>{#f/31}ДАЖЕ ПОСЛЕ ВСЕГО, ЧТО СЛУЧИЛОСЬ, Я ВСЁ ЕЩЁ..."
 
+#, fuzzy
 msgid "<18>{#f/5}I STILL BELIEVE IN YOU, HUMAN."
-msgstr ""
+msgstr "<18>{#f/5}Я ВСЁ ЕЩЁ ВЕРЮ В ТЕБЯ, ЧЕЛОВЕК."
 
+#, fuzzy
 msgid "<18>{#f/31}I KNOW YOU CAN DO BETTER."
-msgstr ""
+msgstr "<18>{#f/31}Я ЗНАЮ, ТЫ МОЖЕШЬ СТАТЬ ЛУЧШЕ."
 
+#, fuzzy
 msgid "<18>{#f/31}I KNOW YOU HAVE IT IN YOU TO CHANGE."
-msgstr ""
+msgstr "<18>{#f/31}Я ЗНАЮ, ЧТО ТЫ МОЖЕШЬ ИЗМЕНИТЬСЯ."
 
+#, fuzzy
 msgid "<18>{#f/4}NO MATTER WHAT RIDICULOUS THING 'ASRIEL' SAYS..."
-msgstr ""
+msgstr "<18>{#f/4}ЧТО БЫ НЕ ГОВОРИЛ ЭТОТ «АЗРИЭЛЬ»..."
 
+#, fuzzy
 msgid "<18>{#f/5}NO MATTER HOW IRREDEEMABLE YOU THINK YOU ARE..."
-msgstr ""
+msgstr "<18>{#f/5}КАКИМ БЫ ТЫ НЕИСКУПИМЫМ СЕБЯ НЕ СЧИТАЛ..."
 
+#, fuzzy
 msgid "<18>{#f/6}{#x2}I KNOW, DEEP DOWN, THERE'S STILL GOOD IN YOU!"
-msgstr ""
+msgstr "<18>{#f/6}{#x2}Я ВЕРЮ, ВНУТРИ ТЕБЯ ЕЩЁ ОСТАЛАСЬ ЧАСТИЧКА ДОБРА!"
 
+#, fuzzy
 msgid "<18>{#f/0}SO LET ME HELP YOU FIND THAT GOODNESS."
-msgstr ""
+msgstr "<18>{#f/0}ПОЗВОЛЬ МНЕ НАПРАВИТЬ ТЕБЯ НА ПРАВЕДНЫЙ ПУТЬ."
 
+#, fuzzy
 msgid "<18>{#f/0}LET ME HELP YOU DISCOVER YOUR TRUE POTENTIAL."
-msgstr ""
+msgstr "<18>{#f/0}ПОЗВОЛЬ МНЕ РАСКРЫТЬ ТВОЙ ИСТИННЫЙ ПОТЕНЦИАЛ."
 
+#, fuzzy
 msgid "<18>{#f/4}AND MOST OF ALL..."
-msgstr ""
+msgstr "<18>{#f/4}И САМОЕ ВАЖНОЕ..."
 
+#, fuzzy
 msgid "<18>{#f/9}LET ME SHOW YOU THAT YOU CAN STILL BE GREAT!!!"
-msgstr ""
+msgstr "<18>{#f/9}ПОЗВОЛЬ ПОКАЗАТЬ, КАКИМ ВЕЛИКИМ ТЫ МОЖЕШЬ БЫТЬ!!!"
 
 msgid "<18>{#f/0}I, PAPYRUS, WELCOME YOU WITH OPEN ARMS!"
 msgstr ""
@@ -8939,8 +8961,9 @@ msgstr ""
 "<40>{#p/human}* (Вы заметили странную парящую\n"
 "  лампу.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Just a lamp."
-msgstr "<32>{#p/basic}* Просто лампа."
+msgstr "<32>{#p/basic}* Простой фонарь."
 
 #, fuzzy
 msgid "<25>{#p/asriel1}{#f/13}* I guess Alphys never did fix this thing."
@@ -9740,7 +9763,7 @@ msgstr ""
 
 #, fuzzy
 msgid "<32>{#p/human}* (You put your hands on window.)"
-msgstr "<32>{#p/human}* (Вы полоэжили ладони на окно.)"
+msgstr "<32>{#p/human}* (Вы положили ладони на окно.)"
 
 #, fuzzy
 msgid "<32>{#p/basic}* Smells like paint."
@@ -9756,32 +9779,47 @@ msgstr "<32>{#p/human}* (Книга на полке сравнивает про�
 msgid "<32>{#p/basic}* This bookshelf is labelled \"Then and Now.\""
 msgstr "<32>{#p/basic}* На книжном шкафу подпись: «Тогда и сейчас»."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Before the war, monsters were taught magic on a regular, "
 "day-to-day basis.\""
-msgstr ""
+msgstr "<32>{#p/basic}* «До войны монстров учили магии регулярно, каждый день»."
 
+#, fuzzy
 msgid "<32>* \"When most of our race died, so too did many of our teachers.\""
 msgstr ""
+"<32>* «Но потом, с гибелью большей части нашего народа, погибли и многие "
+"учителя»."
 
+#, fuzzy
 msgid "<32>* \"To account for this, monsters started learning in larger groups.\""
-msgstr ""
+msgstr "<32>* «Мы извлеки уроки, и стали обучаться в больших классах»."
 
+#, fuzzy
 msgid ""
 "<32>* \"These new teaching methods were focused on skills to help us survive"
 " on the outpost.\""
 msgstr ""
+"<32>* «Мы ввели новую образовательную программу в наших школах».\n"
+"[ADD]<32>* «Теперь мы изучали те навыки, что помогали нам выживать на "
+"аванпосте»."
 
+#, fuzzy
 msgid ""
 "<32>* \"By now, the population woes play a much smaller factor in our "
 "lives.\""
 msgstr ""
+"<32>* «К сегодняшнему дню мы смогли частично восстановить популяцию "
+"монстров»."
 
+#, fuzzy
 msgid "<32>* \"Though, we still stick to the new methods, because...\""
 msgstr ""
+"<32>* «Тем не менее, мы до сих пор продолжаем следовать новой программе...»"
 
+#, fuzzy
 msgid "<32>* \"... we're honestly just too lazy to change back.\""
-msgstr ""
+msgstr "<32>* «Наверное потому, что нам слишком лень что-то менять»."
 
 msgid ""
 "<32>{#p/basic}* \"Once upon a time, monsters used a wide variety of "
@@ -9914,10 +9952,13 @@ msgid ""
 "shut.)"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* A random ladder.\n"
 "* That's all there is to it."
 msgstr ""
+"<32>{#p/basic}* Случайная лестница.\n"
+"* И больше ничего."
 
 msgid ""
 "<32>{#p/human}* (The books on this bookshelf consist of various facts about "
@@ -10149,32 +10190,45 @@ msgid ""
 "devised by monsters.)"
 msgstr ""
 
+#, fuzzy
 msgid "<32>{#p/basic}* This bookshelf is labelled \"Monster Technology.\""
-msgstr ""
+msgstr "<32>{#p/basic}* На книжном шкафу подпись: «Технологии монстров»."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* \"Gerson says the outpost used to just be a small space "
 "station.\""
 msgstr ""
+"<32>{#p/basic}* «По рассказам Герсона, раньше аванпост был небольшой "
+"космической станцией»."
 
+#, fuzzy
 msgid ""
 "<32>* \"Then, after twenty years of suffering, someone looked at the force "
 "field and said...\""
 msgstr ""
+"<32>* «Но потом, после двадцати лет страданий, кто-то посмотрел на силовое "
+"поле и сказал...»"
 
+#, fuzzy
 msgid "<32>* \"'Couldn't WE harvest some of that energy?'\""
-msgstr ""
+msgstr "<32>* «“Почему бы нам не собрать немного этой энергии?„»"
 
+#, fuzzy
 msgid "<32>* \"A simple but brilliant idea!\""
-msgstr ""
+msgstr "<32>* «Простая, но гениальная идея!»"
 
+#, fuzzy
 msgid ""
 "<32>* \"As a result, the CORE was built, and with it came a stable power "
 "supply.\""
 msgstr ""
+"<32>* «В итоге, мы построили ЯДРО, и смогли обеспечить аванпост стабильной "
+"энергией»."
 
+#, fuzzy
 msgid "<32>* \"We're still using it to this very day!\""
-msgstr ""
+msgstr "<32>* «Мы пользуем им до сих пор!»"
 
 msgid "<32>{#p/basic}* \"Ah, the wonders of artificial intelligence...\""
 msgstr ""
@@ -14073,20 +14127,28 @@ msgstr ""
 msgid "<18>{#p/papyrus}{#f/27}..."
 msgstr ""
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/27}YOU WISH TO REMAIN WITH ME... FOREVER?"
 msgstr ""
+"<15>{#p/papyrus}{#f/27}ТЫ ХОЧЕШЬ\n"
+"ОСТАТЬСЯ...\n"
+"СО МНОЙ?.."
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/21}HMM..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}ХМ..."
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/27}SOMETHING IS TRYING TO TEAR OUR LOVE APART?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}КТО-ТО ПЫТАЕТСЯ РАЗРУШИТЬ НАШУ ЛЮБОВЬ?"
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/21}I WONDER..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}Я ДУМАЮ..."
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/27}SO YOU -DON'T- WISH TO REMAIN WITH ME?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}ТАК ТЫ -НЕ- ХОЧЕШЬ БЫТЬ СО МНОЙ?"
 
 msgid ""
 "<15>{#p/papyrus}{#f/14}BUT THEN... WHY WON'T YOU ACCEPT MY MERCY AND LEAVE "
@@ -14097,13 +14159,16 @@ msgid ""
 "<15>{#p/papyrus}{#f/25}UH, I DON'T THINK WE'VE GOTTEN -THAT- FAR YET..."
 msgstr ""
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/15}... BUT WE CAN SURE TRY LATER!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/15}...НО МЫ МОЖЕМ ПОПРОБОВАТЬ ПОЗЖЕ!"
 
+#, fuzzy
 msgid ""
 "<15>{#p/papyrus}{#f/27}WAIT, ARE -YOU- THE ONE WHO'S TRYING TO TEAR OUR LOVE"
 " APART?"
 msgstr ""
+"<15>{#p/papyrus}{#f/27}ПОДОЖДИ, ЭТО -ТЫ- ПЫТАЕШЬСЯ РАЗРУШИТЬ НАШУ ЛЮБОВЬ?"
 
 msgid ""
 "<15>{#p/papyrus}{#f/24}WAIT, ARE YOU SUGGESTING SOME KIND OF... LOVE "
@@ -14136,16 +14201,20 @@ msgid ""
 "ALL!?"
 msgstr ""
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/14}WAIT... I THINK I GET IT NOW!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/14}ПОДОЖДИ... КАЖЕТСЯ, Я ПОНЯЛ!"
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/15}THE PRINCE IS JEALOUS OF YOUR AFFECTION FOR ME!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/15}ПРИНЦ РЕВНУЕТ ТЕБЯ КО МНЕ!"
 
+#, fuzzy
 msgid ""
 "<15>{#p/papyrus}{#f/24}SO... HE SPRUNG A TRAP TO PREVENT US FROM BEING "
 "TOGETHER!"
 msgstr ""
+"<15>{#p/papyrus}{#f/24}ОН ЗАГНАЛ НАС В ЛОВУШКУ, ЧТОБЫ ПОМЕШАТЬ НАШЕЙ ЛЮБВИ!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/27}NO?\n"
@@ -14184,31 +14253,41 @@ msgid ""
 "MERCY TO ME!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<15>{#p/papyrus}{#f/14}WELL.\n"
 "THIS SIMPLY WILL NOT STAND!"
 msgstr ""
+"<15>{#p/papyrus}{#f/14}ЧТО Ж.\n"
+"НЕЛЬЗЯ ЭТОГО ДОПУСТИТЬ!"
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/20}IN FACT, I HAVE THE PERFECT SOLUTION ALREADY!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}У МЕНЯ ЕСТЬ ЕСТЬ РЕШЕНИЕ ЭТОЙ ПРОБЛЕМЫ!"
 
+#, fuzzy
 msgid ""
 "<15>{#p/papyrus}{#f/10}TO AVOID ANY ROMANTIC DRAMA, I'LL LEAVE POLITELY."
 msgstr ""
+"<15>{#p/papyrus}{#f/10}ЧТОБЫ ИЗБЕЖАТЬ ЛЮБОВНОГО ТРЕУГОЛЬНИКА, Я СПРЯЧУСЬ."
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/24}THEN, WHEN YOU'RE ALONE WITH HIM ONCE AGAIN..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}И КОГДА ТЫ СНОВА ОКАЖЕШЬСЯ С НИМ..."
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/25}YOU'LL BE IN THE PERFECT POSITION..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/25}ТЫ ОКАЖЕШЬСЯ В НЕПЛОХОМ ПОЛОЖЕНИИ..."
 
+#, fuzzy
 msgid ""
 "<15>{#p/papyrus}{#f/15}TO ENSURE HE DOES NOT GET IN THE WAY OF YOUR "
 "FEELINGS!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/15}ЕМУ НЕ ПРИДЁТСЯ ВСТРЕЧАТЬ ОБЪЕКТА ТВОЕЙ ЛЮБВИ!"
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/20}NYEH HEH HEH HEH HEH HEH HEH HEH HEH HEH!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}НЬЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ!"
 
 msgid "<15>{#p/papyrus}{#f/20}FRET NOT, HUMAN!"
 msgstr ""
