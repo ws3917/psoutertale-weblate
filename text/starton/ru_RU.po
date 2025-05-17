@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-17 00:13+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"PO-Revision-Date: 2025-05-18 07:11+0000\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -11353,8 +11353,9 @@ msgstr ""
 msgid "<32>{#p/asriel2}* Jerry."
 msgstr "<32>{#p/asriel2}* Джерри."
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry."
-msgstr ""
+msgstr "<32>{#p/story}* Джерри."
 
 #, fuzzy
 msgid ""
@@ -11736,10 +11737,13 @@ msgstr ""
 "<33>{#p/asriel2}* Джерри, неоспоримый дурачок.\n"
 "* Сколько не заигрывай с ним, он не изменится."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* JERRY - ATK 0 DEF 30\n"
 "* A born-again monster, awakened with the power of friendship!"
 msgstr ""
+"<32>{#p/story}* ДЖЕРРИ: АТК 0, ЗЩТ 30.\n"
+"* Благодаря силе дружбы, у этого монстра появились новые взгляды на жизнь!"
 
 #, fuzzy
 msgid ""
@@ -11749,158 +11753,215 @@ msgstr ""
 "<32>{#p/asriel2}* Джерри, самый главный придурок.\n"
 "* Ничтожный кусок мусора, ни больше, ни меньше.."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* JERRY - ATK 0 DEF 30\n"
 "* Everyone knows Jerry.\n"
 "* Makes attacks last longer."
 msgstr ""
+"<32>{#p/story}* ДЖЕРРИ: АТК 0, ЗЩТ 30.\n"
+"* Все знают Джерри.\n"
+"* Продлевает время атак."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You flirt with Jerry.)\n"
 "* (It appreciates the compliment.)"
 msgstr ""
+"<32>{#p/human}* (Вы заигрываете с Джерри.)\n"
+"* (Он чтит ваш комплимент.)"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You call on your experience, and deliver a life-changing "
 "flirt.)"
 msgstr ""
+"<32>{#p/human}* (Вы вспоминаете весь свой опыт, и преподносите изменяющий "
+"жизнь комплимент.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You flirt with Jerry.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы заигрываете с Джерри.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Jerry seems to like you a little too much now."
-msgstr ""
+msgstr "<32>{#p/basic}* Кажется вы нравитесь Джерри чересчур сильно."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You ditch Jerry.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы удрали от Джерри.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You kiss Jerry.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы поцеловали Джерри.)"
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry's redemption arc begins."
-msgstr ""
+msgstr "<32>{#p/story}* Искупление Джерри начинается."
 
+#, fuzzy
 msgid "<32>{#p/story}* This is wrong on so many levels."
-msgstr ""
+msgstr "<32>{#p/story}* Это так неправильно."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}You... y-you..."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ты... т-ты..."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Just for you, I'll..."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ради тебя, я..."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}I'll be the best person I can be!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Я стану лучшим настолько, насколько смогу стать!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}\\x00*licks lips*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*облизывает губы*"
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry is wounded."
-msgstr ""
+msgstr "<32>{#p/story}* Джерри ранен."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}I'm so glad we're here!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Как здорово, что все мы здесь сегодня собрались!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Aren't you guys BORED?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ребят, вам разве не СКУЧНО?"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Can we do this more often??"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Не могли бы мы заниматься этим почаще??"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Why are we doing this?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Зачем мы этим занимаемся?"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Hey, you guys are the BEST!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Эй ребята, вы ЛУЧШИЕ!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Wow, you guys SUCK at this."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Вау, вы, ребята - полный ОТСТОЙ в этом."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Does anyone want a hug?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Кто хочет обнимашек?"
 
+#, fuzzy
 msgid ""
 "<08>{#p/basic}{~}SHHHH!\n"
 "Let me think, guys!!"
 msgstr ""
+"<08>{#p/basic}{~}ТСССС!\n"
+"Ребят, дайте подумать!!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Thanks for being here!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Спасибо за то, что ты рядом!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Awkwarrd."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Неловко."
 
+#, fuzzy
 msgid ""
 "<08>{#p/basic}{~}You're awesome!\n"
 "Just saying."
 msgstr ""
+"<08>{#p/basic}{~}Ты прекрасен!\n"
+"Просто к слову."
 
 #, fuzzy
 msgid "<08>{#p/basic}{~}So like, what are you even doing?"
-msgstr "<08>{#p/basic}{~}Что ты делаешь?"
+msgstr "<08>{#p/basic}{~}Типа, чем ты вообще занимаешься?"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Wouldn't trade ya for the galaxy."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Не променял бы тебя даже за галактику."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}The signal here sucks."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Сигнал тут отстой."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}I love humans!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Я люблю людей!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Must be nice being HUMAN.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Вероятно, хорошо быть ЧЕЛОВЕКОМ.."
 
+#, fuzzy
 msgid "* Jerry"
-msgstr ""
+msgstr "* Джерри"
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry is living care-free."
-msgstr ""
+msgstr "<32>{#p/story}* Джерри проживает беззаботной жизнью."
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry eats powdery food and licks its hands proudly."
 msgstr ""
+"<32>{#p/story}* Джерри ест рассыпчатую еду и горделиво облизывает пальцы."
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry giggles from happiness."
-msgstr ""
+msgstr "<32>{#p/story}* Джерри похихикивает от счастья."
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry sneezes without covering its nose."
-msgstr ""
+msgstr "<32>{#p/story}* Джерри чихает, не прикрывая лицо."
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry lets out a squeal of excitement."
-msgstr ""
+msgstr "<32>{#p/story}* Джерри восторженно визжит."
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry lets out a yawn."
-msgstr ""
+msgstr "<32>{#p/story}* Джерри зевает."
 
+#, fuzzy
 msgid "<32>{#p/story}* Smells like...... Jerry?"
-msgstr ""
+msgstr "<32>{#p/story}* Пахнет как...... Джерри?"
 
+#, fuzzy
 msgid "<32>{#p/story}* Smells like...... Jerry."
-msgstr ""
+msgstr "<32>{#p/story}* Пахнет как...... Джерри."
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry clings to you!"
-msgstr ""
+msgstr "<32>{#p/story}* Джерри прицепился к вам!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Wow..."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ух ты..."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}A kiss from my very best friend!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Поцелуй от лучшего друга!"
 
 msgid "<32>{#p/story}* ..."
 msgstr "<34>{#p/story}* ..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* The other monster can't bear to watch..."
-msgstr ""
+msgstr "<32>{#p/basic}* Другому монстру противно на это смотреть..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* The other monsters can't bear to watch..."
-msgstr ""
+msgstr "<32>{#p/basic}* Другим монстрам противно на это смотреть..."
 
+#, fuzzy
 msgid "<32>{#p/basic}* The other monster celebrates Jerry's disappearance."
-msgstr ""
+msgstr "<32>{#p/basic}* Другой монстр празднует исчезновение Джерри."
 
+#, fuzzy
 msgid "<32>{#p/basic}* The other monsters celebrate Jerry's disappearance."
-msgstr ""
+msgstr "<32>{#p/basic}* Другие монстры празднуют исчезновение Джерри."
 
 #, fuzzy
 msgid ""
