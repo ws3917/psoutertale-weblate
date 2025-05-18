@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-18 07:11+0000\n"
+"PO-Revision-Date: 2025-05-19 09:10+0000\n"
 "Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -11227,8 +11227,9 @@ msgstr ""
 msgid "UNDYNEFAN10"
 msgstr ""
 
+#, fuzzy
 msgid "(Unknown)"
-msgstr ""
+msgstr "(Неизвестный)"
 
 msgid "New High Score!"
 msgstr ""
@@ -11267,54 +11268,76 @@ msgstr ""
 msgid "<25>{#p/asriel2}{#f/4}* Too bad this won't save her when she's dead."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<25>{#p/sans}* didja seriously just put in all that effort tryna beat my "
 "score?"
 msgstr ""
+"<25>{#p/sans}* ты щас серьёзно приложил все свои усилия в попытке побить мой "
+"счёт?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/3}* wow.\n"
 "* you're even more stubborn than my bro."
 msgstr ""
+"<25>{#f/3}* ого.\n"
+"* да ты поупрямей моего бро."
 
+#, fuzzy
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Too bad he's dead, huh?"
 msgstr ""
+"<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Какая досада, что он мёртв, да?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/0}* i'd give you a special reward, but i'm still looking for toriel."
 msgstr ""
+"<25>{#f/0}* я б дал тебе особую награду, но я всё ещё пытаюсь найти ториэль."
 
+#, fuzzy
 msgid "<25>{#f/0}* i'd give you a special reward, but i'm on break right now."
-msgstr ""
+msgstr "<25>{#f/0}* я б дал тебе особую награду, но я щас на перерыве."
 
+#, fuzzy
 msgid "<25>{#f/0}* no hard feelings."
-msgstr ""
+msgstr "<25>{#f/0}* без обид."
 
+#, fuzzy
 msgid "<25>{#f/2}* instead, i'll just send ya some pocket change."
-msgstr ""
+msgstr "<25>{#f/2}* поэтому я просто перешлю тебе немного мелочи."
 
+#, fuzzy
 msgid "<32>{#s/equip}{#p/human}* (You got 10000G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Вы получили 10000 М.)"
 
+#, fuzzy
 msgid "<25>{#p/asriel1}{#f/13}* ... you actually beat the high score?"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* ...Ты и вправду побил наивысший счёт?"
 
+#, fuzzy
 msgid ""
 "<25>{#f/17}* Wow.\n"
 "* I under-estimated you."
 msgstr ""
+"<25>{#f/17}* Вау.\n"
+"* Я тебя недооценил."
 
+#, fuzzy
 msgid "<25>{#f/20}* Very cool, Frisk."
-msgstr ""
+msgstr "<25>{#f/20}* Очень круто, Фриск."
 
+#, fuzzy
 msgid "Score: $(x)"
-msgstr ""
+msgstr "Счёт: $(x)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Dogamy and Dogaressa."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Догамий и Догаресса."
 
+#, fuzzy
 msgid "<32>{#p/story}* Dogi assault you!"
-msgstr ""
+msgstr "<32>{#p/story}* Доги атакуют вас!"
 
 msgid "<32>{#p/asriel2}* Tacky hats and fickle friends."
 msgstr ""
@@ -11971,143 +11994,197 @@ msgstr ""
 "<32>{#p/asriel2}* Мышеус, бездомный кот.\n"
 "* Давно потерял смысл жизни."
 
+#, fuzzy
 msgid ""
 "<33>{#p/story}* WHIZKARAT - ATK 16 DEF 8\n"
 "* This posh city cat wishes only to live the simple life."
 msgstr ""
+"<33>{#p/story}* МЫШЕУС: АТК 16, ЗЩТ 8.\n"
+"* Этот роскошный городской кот мечтает о простой жизни."
 
+#, fuzzy
 msgid ""
 "<33>{#p/story}* WHIZKARAT - ATK 16 DEF 8\n"
 "* This posh city cat regrets going where it doesn't belong."
 msgstr ""
+"<33>{#p/story}* МЫШЕУС: АТК 16, ЗЩТ 8.\n"
+"* Этот роскошный городской кот жалеет о том, что пошёл туда, где ему не "
+"место."
 
+#, fuzzy
 msgid ""
 "<33>{#p/story}* WHIZKARAT - ATK 16 DEF 8\n"
 "* This reformed country mouse is quite pleased with itself."
 msgstr ""
+"<33>{#p/story}* МЫШЕУС: АТК 16, ЗЩТ 8.\n"
+"* Эта видоизменившаяся деревенская мышь довольна собой."
 
+#, fuzzy
 msgid ""
 "<33>{#p/story}* WHIZKARAT - ATK 16 DEF 8\n"
 "* This reformed country mouse has taken a liking to you."
 msgstr ""
+"<33>{#p/story}* МЫШЕУС: АТК 16, ЗЩТ 8.\n"
+"* Вы понравились этой видоизменившейся деревенской мыши."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You tell Whizkarat a mouse fact.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы рассказали Мышеусу мышиный факт.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You tell Whizkarat everything you know about mice.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы рассказали Мышеусу всё, что знаете о мышах.)"
 
 msgid "<32>{#p/basic}* Suddenly...!"
 msgstr "<34>{#p/basic}* И вдруг!.."
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You try to tell Whizkarat more, but it's already found its "
 "way.)"
 msgstr ""
+"<32>{#p/human}* (Вы попытались рассказать Мышеусу ещё, но он уже "
+"самоутвердился.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pluck a whisker from Whizkarat's face.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы выдернули ус из морды Мышеуса.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Whizkarat lets out a gnarly hiss!"
-msgstr ""
+msgstr "<32>{#p/basic}* Мышеус ворчливо шипит!"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You pluck another whisker from Whizkarat's face.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы выдернули ещё один ус из морды Мышеуса.)"
 
+#, fuzzy
 msgid "<32>{#p/basic}* Whizkarat scurries away!"
-msgstr ""
+msgstr "<32>{#p/basic}* Мышеус суетливо убегает!"
 
+#, fuzzy
 msgid ""
 "<32>{#p/human}* (You try to pluck a whisker, but Whizkarat pretends it has "
 "none.)"
 msgstr ""
+"<32>{#p/human}* (Вы попытались выдернуть ус, но Мышеус притворяется, что у "
+"него их нет.)"
 
+#, fuzzy
 msgid "<32>{#p/human}* (You make a cute remark and scratch Whizkarat's neck.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы сделали милый комментарий и почесали шею Мышеусу.)"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Whizkarat."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Мышеус."
 
+#, fuzzy
 msgid "<32>{#p/story}* Whizkarat is losing its cool."
-msgstr ""
+msgstr "<32>{#p/story}* Мышеус теряет самообладание"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Keep your paws off me..!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Держи свои лапы подальше от меня!.."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}No pussy- cats allowed."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Никаких кисок."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}\\x00*purrs gently*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*нежно мурлычет*"
 
+#, fuzzy
 msgid "<32>{#p/story}* Whizkarat is nearing demise."
-msgstr ""
+msgstr "<32>{#p/story}* Мышеус близок к кончине."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}What food do they eat?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Какую еду они едят?"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Where do they hide?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Где они прячутся?"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}How do they speak?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Как они пищат?"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Do they dream?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Видят ли они сны?"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Alas, here I stand."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Увы, я стою здесь."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Oh, how I lose myself.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ох, как я себя потерял.."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}The si- tuation is not ideal."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ситуация неидеальна."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Could you help me?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Не могли бы вы помочь?"
 
+#, fuzzy
 msgid "* Whizkarat"
-msgstr ""
+msgstr "* Мышеус"
 
+#, fuzzy
 msgid "<32>{#p/story}* Whizkarat fantasizes about getting down on all fours."
-msgstr ""
+msgstr "<32>{#p/story}* Мышеус фантазирует о вставании на четвереньки."
 
+#, fuzzy
 msgid "<32>{#p/story}* Whizkarat scans the area."
-msgstr ""
+msgstr "<32>{#p/story}* Мышеус осматривает окружение."
 
+#, fuzzy
 msgid "<32>{#p/story}* Whizkarat is trying to pretend that it is small."
-msgstr ""
+msgstr "<32>{#p/story}* Мышеус пытается притвориться маленьким."
 
+#, fuzzy
 msgid "<32>{#p/story}* Smells like top-twenty-cheese."
-msgstr ""
+msgstr "<32>{#p/story}* Пахнет как топ двадцатка сыров."
 
+#, fuzzy
 msgid "<32>{#p/story}* Whizkarat just needs a little more help."
-msgstr ""
+msgstr "<32>{#p/story}* Мышеусу нужно ещё немного помощи."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Live in holes, do they..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Они живут в норках, так ведь?.."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Squeak like toys, do they..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Они пищат как игрушки, так ведь?.."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}From now on, I shall live as a mouse."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Начиная с этого момента, я буду жить как мышь."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* It's vulnerable."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Он уязвим."
 
+#, fuzzy
 msgid "<32>{#p/story}* Whizkarat has found its way."
-msgstr ""
+msgstr "<32>{#p/story}* Мышеус самоутвердился."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Wonder- ful..."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Велико- лепно..."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}Simply splen- did..."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Просто чудесно..."
 
+#, fuzzy
 msgid "<32>{#p/story}* Whizkarat arrives!"
-msgstr ""
+msgstr "<32>{#p/story}* Прибывает Мышеус!"
 
 msgid ""
 "<32>{#p/asriel2}* Doggo, the unsightly dog.\n"
