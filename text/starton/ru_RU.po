@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-19 09:10+0000\n"
+"PO-Revision-Date: 2025-05-20 11:51+0000\n"
 "Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -11339,38 +11339,49 @@ msgstr "<32>{#p/asriel2}* Догамий и Догаресса."
 msgid "<32>{#p/story}* Dogi assault you!"
 msgstr "<32>{#p/story}* Доги атакуют вас!"
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Tacky hats and fickle friends."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Убогие шляпы и сомнительные друзья."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* Astro Serf saunters in!\n"
 "* Jerry came too."
 msgstr ""
+"<32>{#p/story}* Шипонавт встретился по пути!\n"
+"* Джерри тоже."
 
 #, fuzzy
 msgid "<32>{#p/asriel2}* The teenage idiot squad."
 msgstr "<32>{#p/asriel2}* Отряд малолетних идиотов."
 
+#, fuzzy
 msgid "<32>{#p/story}* Chilldrake and Astro Serf pose like bad guys."
-msgstr ""
+msgstr "<32>{#p/story}* Хладоцып и шипонавт строят из себя плохих парней."
 
+#, fuzzy
 msgid "<32>{#p/story}* Stardrake and Astro Serf pose like bad guys."
-msgstr ""
+msgstr "<32>{#p/story}* Звездоцып и шипонавт строят из себя плохих парней."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* One left."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Один остался."
 
+#, fuzzy
 msgid "<32>{#p/story}* Chilldrake remains steady."
-msgstr ""
+msgstr "<32>{#p/story}* Хладоцып остаётся неизменным."
 
+#, fuzzy
 msgid "<32>{#p/story}* Stardrake remains steady."
-msgstr ""
+msgstr "<32>{#p/story}* Звездоцып остаётся неизменным."
 
+#, fuzzy
 msgid "<32>{#p/story}* Astro Serf remains steady."
-msgstr ""
+msgstr "<32>{#p/story}* Шипонавт остаётся неизменным."
 
+#, fuzzy
 msgid "<32>{#p/story}* Just Astro now."
-msgstr ""
+msgstr "<32>{#p/story}* Остался лишь шип."
 
 #, fuzzy
 msgid "<32>{#p/asriel2}* Jerry."
@@ -11388,49 +11399,69 @@ msgstr ""
 "<32>{#p/asriel2}* Отряд малолетних идиотов.\n"
 "* А ещё Джерри."
 
+#, fuzzy
 msgid "<32>{#p/story}* Jerry and friends appear!"
-msgstr ""
+msgstr "<32>{#p/story}* Появляются Джерри и друзья!"
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* Astro Serf and Chilldrake confront you, sighing.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Шипонавт и хладоцып противостоят вам, вздыхая.\n"
+"* Джерри."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* Astro Serf and Stardrake confront you, sighing.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Шипонавт и Звездоцып противостоят вам, вздыхая.\n"
+"* Джерри."
 
 #, fuzzy
 msgid "<32>{#p/asriel2}* Two left."
 msgstr "<32>{#p/asriel2}* Двое осталось."
 
+#, fuzzy
 msgid "<32>{#p/story}* Astro Serf and Chilldrake remain steady."
-msgstr ""
+msgstr "<32>{#p/story}* Шипонавт и хладоцып остаются неизменными."
 
+#, fuzzy
 msgid "<32>{#p/story}* Astro Serf and Stardrake remain steady."
-msgstr ""
+msgstr "<32>{#p/story}* Шипонавт и Звездоцып остаются неизменными."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* Astro Serf remains steady.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Шипонавт остаётся неизменным.\n"
+"* Джерри."
 
+#, fuzzy
 msgid "<32>{#p/story}* Chilldrake and Jerry remain steady!"
-msgstr ""
+msgstr "<32>{#p/story}* Хладоцып и Джерри остаются неизменными!"
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* Chilldrake remains steady.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Хладоцып остаётся неизменным.\n"
+"* Джерри."
 
+#, fuzzy
 msgid "<32>{#p/story}* Stardrake and Jerry remain steady!"
-msgstr ""
+msgstr "<32>{#p/story}* Звездоцып и Джерри остаются неизменными!"
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* Stardrake remains steady.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Звездоцып остаётся неизменным.\n"
+"* Джерри."
 
 #, fuzzy
 msgid ""
