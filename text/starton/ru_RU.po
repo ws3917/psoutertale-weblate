@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-20 11:51+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -52,10 +52,11 @@ msgstr ""
 "<27>{#p/kidd}{#f/3}* Вот.\n"
 "* Возьми-ка."
 
+#, fuzzy
 msgid ""
 "<32>{#s/equip}{#p/human}* (The Premium Membership Voucher was added to your "
 "keyring.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Вы положили VIP-пропуск в свою ключницу.)"
 
 msgid ""
 "<25>{#p/kidd}{#f/7}* Now you can use ANY telescope, even the \"premium\" "
@@ -88,10 +89,13 @@ msgstr "<27>{#p/kidd}{#f/1}* Я буду в городе!"
 msgid "<25>{#p/asriel1}{#f/17}* See anything you like?"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Stargazing in space...\n"
 "* Truly, this is some outside- the-box thinking."
 msgstr ""
+"<32>{#p/basic}* Наблюдение за звёздами в космосе...\n"
+"* Действительно, нестандартное мышление."
 
 msgid "<32>{#p/basic}* ..."
 msgstr "<34>{#p/basic}* ..."
@@ -134,9 +138,10 @@ msgstr "<32>{#p/human}* (Вы слышите вздох.)"
 msgid "<32>{#p/basic}* ... uh, let's just get back to what we were doing."
 msgstr "<32>{#p/basic}* ...ух, давай вернёмся к делу."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* It doesn't seem like there's anything interesting to watch."
-msgstr ""
+msgstr "<32>{#p/basic}* Похоже, тут ничего интересного."
 
 msgid "<32>{#p/basic}* Not bad for your first try..."
 msgstr "<32>{#p/basic}* Неплохо для первой попытки..."
@@ -150,15 +155,21 @@ msgstr "<32>{#p/basic}* Ты можешь и лучше..."
 msgid "<32>{#p/basic}* You can do better than that."
 msgstr "<32>{#p/basic}* Ты можешь и лучше."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* You beat the top scorer...?\n"
 "* I don't think I've ever seen anyone do that..."
 msgstr ""
+"<32>{#p/basic}* Ты превзошел лучшего игрока?..\n"
+"* В жизни такого не видел..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* You beat the top scorer?\n"
 "* I don't think I've ever seen anyone do that!"
 msgstr ""
+"<32>{#p/basic}* Ты превзошел лучшего игрока?..\n"
+"* В жизни такого не видел!"
 
 msgid "<33>{#p/basic}* You seem pretty good at this..."
 msgstr "<33>{#p/basic}* У тебя хорошо получается..."
@@ -172,15 +183,21 @@ msgstr "<32>{#p/basic}* Ты побил свой рекорд?.."
 msgid "<32>{#p/basic}* Look at that, new high score!"
 msgstr "<32>{#p/basic}* Посмотри — новый рекорд!"
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* For a second, I thought you were going to beat the top "
 "scorer..."
 msgstr ""
+"<32>{#p/basic}* На мгновение, мне показалось, что ты превзойдёшь лучшего "
+"игрока..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Woah, you could've beaten the top scorer!\n"
 "* Can you go all the way?"
 msgstr ""
+"<32>{#p/basic}* Вау, ты мог стать лучшим игроком!\n"
+"* Дойдешь до конца?"
 
 msgid "<32>{#p/basic}* Looks like you could use some practice..."
 msgstr "<32>{#p/basic}* Похоже, что тебе нужна практика..."
@@ -217,10 +234,13 @@ msgstr "<32>{#p/basic}* Весьма неплохо для первой попы
 msgid "<32>{#p/basic}* You keep getting so close..."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Darn, you almost beat the top scorer again...\n"
 "* You can do it!"
 msgstr ""
+"<32>{#p/basic}* Блин, чуть-чуть не хватило до лучшего игрока...\n"
+"* Ты сможешь!"
 
 msgid "<32>{#p/human}* (It doesn't seem to be powered on anymore.)"
 msgstr ""
