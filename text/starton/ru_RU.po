@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-20 11:51+0000\n"
-"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
+"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -34,7 +34,6 @@ msgstr "Нет"
 msgid "<25>{#p/kidd}{#f/2}* You do stargazing??"
 msgstr "<27>{#p/kidd}{#f/2}* За звёздами наблюдаешь??"
 
-#, fuzzy
 msgid "<25>{#p/kidd}{#f/1}* Yo... I bet you just saw something really cool."
 msgstr "<27>{#p/kidd}{#f/1}* Йоу... держу пари, ты увидел что-нибудь крутецкое."
 
@@ -8521,13 +8520,14 @@ msgid ""
 msgstr "<27>{#p/sans}* как человек, ты, наверное, никогда не слышал о Ч.З.Х."
 
 msgid "<25>{#f/2}* that's short for \"wide- area troposphere framework.\""
-msgstr "<27>{#f/2}* это сокращение для «чрезмерно зажигательного химиката»."
+msgstr "<27>{#f/2}* это сокращение для «частотно-защитного хабитата»."
 
 msgid ""
 "<25>{#p/sans}* if the W.T.F. were to drop, the air around us would "
 "disappear."
 msgstr ""
-"<27>{#p/sans}* если сюда сбросить Ч.З.Х., воздух вокруг нас пропадёт вовсе."
+"<27>{#p/sans}* если с Ч.З.Х. что-то случится, воздух вокруг нас пропадёт "
+"вовсе."
 
 msgid ""
 "<25>{#f/3}* don't worry, though.\n"
@@ -8537,7 +8537,7 @@ msgstr ""
 "* чтобы язык у меня {@fill=#ff0}отсох{@fill=#fff}, если это случалось раньше."
 
 msgid "<25>{#p/sans}{#f/2}* wide-area troposphere framework."
-msgstr "<27>{#p/sans}{#f/2}* чрезмерно зажигательный химикат."
+msgstr "<27>{#p/sans}{#f/2}* частотно-защитный хабитат."
 
 msgid "<25>{#p/sans}* actually, that spaghetti from earlier..."
 msgstr ""
