@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-21 12:13+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -11265,7 +11265,7 @@ msgstr "<32>{#p/story}* Хладоцып и шипонавт строят из �
 
 #, fuzzy
 msgid "<32>{#p/story}* Stardrake and Astro Serf pose like bad guys."
-msgstr "<32>{#p/story}* Звездоцып и шипонавт строят из себя плохих парней."
+msgstr "<32>{#p/story}* Луноцып и шипонавт строят из себя плохих парней."
 
 #, fuzzy
 msgid "<32>{#p/asriel2}* One left."
@@ -11277,7 +11277,7 @@ msgstr "<32>{#p/story}* Хладоцып остаётся неизменным."
 
 #, fuzzy
 msgid "<32>{#p/story}* Stardrake remains steady."
-msgstr "<32>{#p/story}* Звездоцып остаётся неизменным."
+msgstr "<32>{#p/story}* Луноцып остаётся неизменным."
 
 #, fuzzy
 msgid "<32>{#p/story}* Astro Serf remains steady."
@@ -11320,7 +11320,7 @@ msgid ""
 "<32>{#p/story}* Astro Serf and Stardrake confront you, sighing.\n"
 "* Jerry."
 msgstr ""
-"<32>{#p/story}* Шипонавт и Звездоцып противостоят вам, вздыхая.\n"
+"<32>{#p/story}* Шипонавт и луноцып противостоят вам, вздыхая.\n"
 "* Джерри."
 
 #, fuzzy
@@ -11333,7 +11333,7 @@ msgstr "<32>{#p/story}* Шипонавт и хладоцып остаются н
 
 #, fuzzy
 msgid "<32>{#p/story}* Astro Serf and Stardrake remain steady."
-msgstr "<32>{#p/story}* Шипонавт и Звездоцып остаются неизменными."
+msgstr "<32>{#p/story}* Шипонавт и луноцып остаются неизменными."
 
 #, fuzzy
 msgid ""
@@ -11357,14 +11357,14 @@ msgstr ""
 
 #, fuzzy
 msgid "<32>{#p/story}* Stardrake and Jerry remain steady!"
-msgstr "<32>{#p/story}* Звездоцып и Джерри остаются неизменными!"
+msgstr "<32>{#p/story}* Луноцып и Джерри остаются неизменными!"
 
 #, fuzzy
 msgid ""
 "<32>{#p/story}* Stardrake remains steady.\n"
 "* Jerry."
 msgstr ""
-"<32>{#p/story}* Звездоцып остаётся неизменным.\n"
+"<32>{#p/story}* Луноцып остаётся неизменным.\n"
 "* Джерри."
 
 #, fuzzy
@@ -11380,7 +11380,7 @@ msgid ""
 "<32>{#p/asriel2}* Stardrake, the comedian.\n"
 "* A bigger joke than he himself could ever hope to tell."
 msgstr ""
-"<32>{#p/asriel2}* Звездоцып, комик.\n"
+"<32>{#p/asriel2}* Луноцып, комик.\n"
 "* Его имя смешнее, чем все его шутки вместе взятые."
 
 msgid ""
