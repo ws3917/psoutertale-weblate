@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-21 12:13+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"PO-Revision-Date: 2025-05-23 20:13+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -7289,23 +7289,29 @@ msgstr "<23>ЖЕЛАНИЕ УВИДЕТЬ ИХ В ПОСЛЕДНИЙ РАЗ."
 msgid "<23>THESE FEELINGS..."
 msgstr "<23>ЭТИ ЧУВСТВА..."
 
+#, fuzzy
 msgid "<23>THE STRESS OF KNOWING SO MANY PEOPLE HAVE BEEN KILLED."
-msgstr ""
+msgstr "<23>СТРЕСС ОТ ОСОЗНАНИЯ ТОГО, КАК МНОГО МОНСТРОВ БЫЛО УБИТО."
 
+#, fuzzy
 msgid "<23>THE HOPELESSNESS OF THINKING YOU CAN'T DO ANYTHING TO STOP IT."
-msgstr ""
+msgstr "<23>ОТЧАЯНИЕ ИЗ ЗА НЕВОЗМОЖНОСТИ ПОМЕШАТЬ ЭТОМУ."
 
+#, fuzzy
 msgid "<23>THE DESIRE TO MAKE A CHANGE FOR THE BETTER."
-msgstr ""
+msgstr "<23>ЖЕЛАНИЕ ИЗМЕНИТЬ СИТУАЦИЮ К ЛУЧШЕМУ."
 
+#, fuzzy
 msgid "<23>THE JOY OF FINDING ANOTHER PASTA LOVER."
-msgstr ""
+msgstr "<23>РАДОСТЬ ОТ ВСТРЕЧИ ЕЩЁ ОДНОГО ЛЮБИТЕЛЯ СПАГГЕТИ."
 
+#, fuzzy
 msgid "<23>THE ADMIRATION FOR ANOTHER'S PUZZLE- SOLVING SKILLS."
-msgstr ""
+msgstr "<23>ВОСХИЩЕНИЕ ОТ ТОГО, КАК ХОРОШО ОН РЕШАЕТ ГОЛОВОЛОМКИ."
 
+#, fuzzy
 msgid "<23>THE DESIRE TO HAVE A COOL, SMART PERSON THINK YOU ARE COOL."
-msgstr ""
+msgstr "<23>ЖЕЛАНИЕ, ЧТОБЫ ОН СЧИТАЛ ТЕБЯ ТАКИМ ЖЕ КРУТЫМ."
 
 #, fuzzy
 msgid "<18>{#f/31}THEY MUST BE WHAT YOU ARE FEELING, RIGHT NOW."
@@ -7345,7 +7351,7 @@ msgstr "<18>{#f/4}ЧТО БЫ НЕ ГОВОРИЛ ЭТОТ «АЗРИЭЛЬ»...
 
 #, fuzzy
 msgid "<18>{#f/5}NO MATTER HOW IRREDEEMABLE YOU THINK YOU ARE..."
-msgstr "<18>{#f/5}КАКИМ БЫ ТЫ НЕИСКУПИМЫМ СЕБЯ НЕ СЧИТАЛ..."
+msgstr "<18>{#f/5}КАКИМ БЫ БЕЗНАДЁЖНЫМ ТЫ СЕБЯ НЕ СЧИТАЛ..."
 
 #, fuzzy
 msgid "<18>{#f/6}{#x2}I KNOW, DEEP DOWN, THERE'S STILL GOOD IN YOU!"
@@ -7361,111 +7367,153 @@ msgstr "<18>{#f/0}ПОЗВОЛЬ МНЕ РАСКРЫТЬ ТВОЙ ИСТИННЫ
 
 #, fuzzy
 msgid "<18>{#f/4}AND MOST OF ALL..."
-msgstr "<18>{#f/4}И САМОЕ ВАЖНОЕ..."
+msgstr "<18>{#f/4}И САМОЕ ГЛАВНОЕ..."
 
 #, fuzzy
 msgid "<18>{#f/9}LET ME SHOW YOU THAT YOU CAN STILL BE GREAT!!!"
 msgstr "<18>{#f/9}ПОЗВОЛЬ ПОКАЗАТЬ, КАКИМ ВЕЛИКИМ ТЫ МОЖЕШЬ БЫТЬ!!!"
 
+#, fuzzy
 msgid "<18>{#f/0}I, PAPYRUS, WELCOME YOU WITH OPEN ARMS!"
 msgstr ""
+"<18>{#f/0}Я, ПАПИРУС...\n"
+"[ADD]<18>{#f/0}ВСТРЕЧАЮ ТЕБЯ С РАСПРОСТЁРТЫМИ ОБЪЯТИЯМИ!"
 
+#, fuzzy
 msgid "<18>{#f/0}THEY MUST BE WHAT YOU ARE FEELING RIGHT NOW!!"
-msgstr ""
+msgstr "<18>{#f/0}НАВЕРНОЕ, ЭТО ТО, ЧТО ТЫ ЧУВСТВУЕШЬ ПРЯМО СЕЙЧАС!!!"
 
+#, fuzzy
 msgid "<18>{#f/4}I CAN HARDLY IMAGINE WHAT THAT MUST FEEL LIKE."
-msgstr ""
+msgstr "<18>{#f/4}МНЕ ТЯЖЕЛО ПРЕДСТАВИТЬ, КАКОВО ТЕБЕ СЕЙЧАС."
 
+#, fuzzy
 msgid "<18>{#f/4}AFTER ALL, I AM VERY GREAT."
-msgstr ""
+msgstr "<18>{#f/4}В КОНЦЕ КОНЦОВ, Я ОЧЕНЬ ВЕЛИКИЙ."
 
+#, fuzzy
 msgid "<18>I NEVER WONDER WHAT HAVING MANY FRIENDS IS LIKE."
-msgstr ""
+msgstr "<18>Я ДАЖЕ НЕ ДУМАЛ О ТОМ, ЧТО ЗНАЧИТ ИМЕТЬ МНОГО ДРУЗЕЙ."
 
+#, fuzzy
 msgid "<18>{#f/5}I PITY YOU, LONELY HUMAN..."
-msgstr ""
+msgstr "<18>{#f/5}МНЕ ЖАЛЬ ТЕБЯ, ОДИНОКИЙ ЧЕЛОВЕК..."
 
+#, fuzzy
 msgid ""
 "<18>{#f/0}BUT WORRY NOT!!!\n"
 "YOU SHALL BE LONELY NO LONGER!"
 msgstr ""
+"<18>{#f/0}НО НЕ ВОЛНУЙСЯ!!!\n"
+"ТЫ БОЛЬШЕ НЕ БУДЕШЬ ОДИНОК!"
 
+#, fuzzy
 msgid "<18>{#f/9}FOR I, THE GREAT PAPYRUS, WILL BE YOUR..."
-msgstr ""
+msgstr "<18>{#f/9}Я, ВЕЛИКИЙ ПАПИРУС, СТАНУ ТВОИМ..."
 
 msgid "<18>{#f/5}{#x1}..."
-msgstr ""
+msgstr "<18>{#f/5}{#x1}..."
 
+#, fuzzy
 msgid "<18>NO..."
-msgstr ""
+msgstr "<18>НЕТ..."
 
+#, fuzzy
 msgid "<18>{#f/7}{#x2}NO, THIS IS ALL WRONG!"
-msgstr ""
+msgstr "<18>{#f/7}{#x2}НЕТ, ТАК ВЕДЬ НЕЛЬЗЯ!"
 
+#, fuzzy
 msgid "<18>I CAN'T BE YOUR \"FRIEND...\""
-msgstr ""
+msgstr "<18>Я НЕ МОГУ БЫТЬ ТВОИМ «ДРУГОМ»..."
 
+#, fuzzy
 msgid ""
 "<18>YOU ARE A HUMAN!\n"
 "I MUST CAPTURE YOU!!!"
 msgstr ""
+"<18>ТЫ ЧЕЛОВЕК!\n"
+"Я ДОЛЖЕН ПОЙМАТЬ ТЕБЯ!!!"
 
+#, fuzzy
 msgid "<18>{#f/9}THEN, I CAN FULFILL MY LIFELONG DREAM!!!"
-msgstr ""
+msgstr "<18>{#f/9}ТОГДА Я СМОГУ ОСУЩЕСТВИТЬ МЕЧТУ ВСЕЙ МОЕЙ ЖИЗНИ!!!"
 
+#, fuzzy
 msgid ""
 "<18>POWERFUL!\n"
 "POPULAR!\n"
 "PRESTIGIOUS!!!"
 msgstr ""
+"<18>МОГУЧИЙ!\n"
+"ПОПУЛЯРНЫЙ!\n"
+"АВТОРИТЕТНЫЙ!!!"
 
+#, fuzzy
 msgid "<18>THAT'S PAPYRUS!!!"
-msgstr ""
+msgstr "<18>ТАКОВ ПАПИРУС!!!"
 
+#, fuzzy
 msgid "<18>{#f/4}THE NEWEST MEMBER..."
-msgstr ""
+msgstr "<18>{#f/4}НОВЫЙ ЧЛЕН..."
 
+#, fuzzy
 msgid "<18>{#f/9}OF THE ROYAL GUARD!!!"
-msgstr ""
+msgstr "<18>{#f/9}КОРОЛЕВСКОЙ ГВАРДИИ!!!"
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/0}WOWIE!\n"
 "YOU DID IT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/0}ВАУШКИ!\n"
+"ТЫ СДЕЛАЛ ЭТО!"
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/5}YOU DIDN'T DO A VIOLENCE!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ТЫ НЕ ПОСТУПИЛ ЖЕСТОКО!"
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/6}TO BE HONEST, I WAS A LITTLE AFRAID..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}ЧЕСТНО ГОВОРЯ, Я НЕМНОГО БОЯЛСЯ..."
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/0}BUT YOU'RE ALREADY TAKING STEPS TO REDEEM YOURSELF!"
 msgstr ""
+"<18>{#p/papyrus}{#f/0}НО Я ВИЖУ, ТЫ СДЕЛАЛ ПЕРВЫЙ ШАГ К ПУТИ ИСКУПЛЕНИЯ!"
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/8}I'M SO PROUD OF YOU, HUMAN!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/8}Я ТАК ГОРЖУСЬ ТОБОЙ, ЧЕЛОВЕК!"
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/4}... WAIT, WASN'T I SUPPOSED TO CAPTURE YOU?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}... ПОДОЖДИ, РАЗВЕ Я НЕ ДОЛЖЕН ПОЙМАТЬ ТЕБЯ?"
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/0}OH WELL.\n"
 "IT'S NOT IMPORTANT RIGHT NOW."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}НУ...\n"
+"СЕЙЧАС ЭТО НЕ ИМЕЕТ ЗНАЧЕНИЯ."
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/0}I JUST WANT YOU TO BE THE BEST PERSON YOU CAN BE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}Я ПРОСТО ХОЧУ, ЧТОБЫ ТЫ СТАЛ ЛУЧШЕ."
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/5}LET'S LET BYBONES BE BYBONES, HUH?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}КАК ГОВОРИТСЯ: «ВИДИТ ОКО — КОСТЬ ЗА КОСТЬ»!"
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/9}I'LL EVEN GIVE YOU DIRECTIONS TO THE EXIT!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}Я РАССКАЖУ ТЕБЕ КАК ВЫБРАТЬСЯ ОТСЮДА!"
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/5}NYOO HOO HOO..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}НЬОО ХО ХО..."
 
 msgid "<18>I WASN'T STRONG ENOUGH TO STOP YOU..."
 msgstr ""
@@ -14346,17 +14394,17 @@ msgstr ""
 
 #, fuzzy
 msgid "<15>{#p/papyrus}{#f/24}THEN, WHEN YOU'RE ALONE WITH HIM ONCE AGAIN..."
-msgstr "<15>{#p/papyrus}{#f/24}И КОГДА ТЫ СНОВА ОКАЖЕШЬСЯ С НИМ..."
+msgstr "<15>{#p/papyrus}{#f/24}И КОГДА ТЫ СНОВА ВСТРЕТИШЬСЯ С НИМ..."
 
 #, fuzzy
 msgid "<15>{#p/papyrus}{#f/25}YOU'LL BE IN THE PERFECT POSITION..."
-msgstr "<15>{#p/papyrus}{#f/25}ТЫ ОКАЖЕШЬСЯ В НЕПЛОХОМ ПОЛОЖЕНИИ..."
+msgstr "<15>{#p/papyrus}{#f/25}ОН НИЧЕГО НЕ ПОЙМЁТ..."
 
 #, fuzzy
 msgid ""
 "<15>{#p/papyrus}{#f/15}TO ENSURE HE DOES NOT GET IN THE WAY OF YOUR "
 "FEELINGS!"
-msgstr "<15>{#p/papyrus}{#f/15}ЕМУ НЕ ПРИДЁТСЯ ВСТРЕЧАТЬ ОБЪЕКТА ТВОЕЙ ЛЮБВИ!"
+msgstr "<15>{#p/papyrus}{#f/15}И ЕМУ НЕ ПРИДЁТСЯ ВСТРЕЧАТЬ ОБЪЕКТА ТВОЕЙ ЛЮБВИ!"
 
 #, fuzzy
 msgid "<15>{#p/papyrus}{#f/20}NYEH HEH HEH HEH HEH HEH HEH HEH HEH HEH!"
