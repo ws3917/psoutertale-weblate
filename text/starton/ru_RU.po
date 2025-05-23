@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-23 20:13+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -223,8 +223,9 @@ msgstr "<32>{#p/basic}* Весьма неплохо для первой попы
 msgid "<32>{#p/basic}* For a first try, that's pretty good!"
 msgstr "<32>{#p/basic}* Весьма неплохо для первой попытки!"
 
+#, fuzzy
 msgid "<32>{#p/basic}* You keep getting so close..."
-msgstr ""
+msgstr "<32>{#p/basic}* Ты очень близок..."
 
 msgid ""
 "<32>{#p/basic}* Darn, you almost beat the top scorer again...\n"
