@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
 "PO-Revision-Date: 2025-05-25 08:13+0000\n"
-"Last-Translator: Vish <poolkol34@gmail.com>\n"
+"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -11591,78 +11591,115 @@ msgstr ""
 "<32>{#p/asriel2}* Луноцып, комик.\n"
 "* Его имя смешнее, чем все его шутки вместе взятые."
 
+#, fuzzy
 msgid ""
 "<33>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
 "* Rebels against everything!!\n"
 "* On the lookout for Starry."
 msgstr ""
+"<33>{#p/story}* ХЛАДОЦЫП: АТК 12, 7.\n"
+"* Бунтует против всего и всех!\n"
+"* Пытается найти Луни."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* STARDRAKE - ATK 12 DEF 7\n"
 "* This teen comedian fights to keep a captive audience."
 msgstr ""
+"<32>{#p/story}* ЛУНОЦЫП: АТК 12, ЗЩТ 7.\n"
+"* Этот молодой комик борется за удержание аудитории."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
 "* Rebels against everything!!\n"
 "* Looking for a way out."
 msgstr ""
+"<32>{#p/story}* ХЛАДОЦЫП: АТК 12, ЗЩТ 7.\n"
+"* Бунтует против всего и всех!\n"
+"* Пытается слинять отсюда."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* STARDRAKE - ATK 12 DEF 7\n"
 "* This teen isn't taking your punchline very well."
 msgstr ""
+"<32>{#p/story}* ЛУНОЦЫП: АТК 12, ЗЩТ 7.\n"
+"* Этому подростку не по душе от вашего чёрного юмора."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
 "* Rebels against everything!!\n"
 "* Especially flirting!!"
 msgstr ""
+"<32>{#p/story}* ХЛАДОЦЫП: АТК 12, ЗЩТ 7.\n"
+"* Бунтует против всего и всех!\n"
+"* Особенно против заигрываний!"
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* STARDRAKE - ATK 12 DEF 7\n"
 "* Flirting is no joke for this teen comedian."
 msgstr ""
+"<32>{#p/story}* ЛУНОЦЫП: АТК 12, ЗЩТ 7.\n"
+"* Этот молодой комик не видит шутки в заигрываниях."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
 "* The rebellion is fading..."
 msgstr ""
+"<32>{#p/story}* ХЛАДОЦЫП: АТК 12, ЗЩТ 7.\n"
+"* Бунт подавляется..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/story}* STARDRAKE - ATK 12 DEF 7\n"
 "* Things are looking up for this teen comedian."
 msgstr ""
+"<32>{#p/story}* ЛУНОЦЫП: АТК 12, ЗЩТ 7.\n"
+"* Дела процветают у этого молодого комика."
 
+#, fuzzy
 msgid "<32>{#p/human}* (You make a romantic joke.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Вы рассказали романтическую шутку.)"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}You're weird."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ты странный."
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}You're mean AND weird."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ты недружелюбный И странный."
 
+#, fuzzy
 msgid "<32>{#p/asriel2}* Chilldrake."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Хладоцып."
 
 #, fuzzy
 msgid "<32>{#p/asriel2}* Stardrake."
-msgstr "<32>{#p/asriel2}* Звездоцып."
+msgstr "<32>{#p/asriel2}* Луноцып."
 
+#, fuzzy
 msgid "<32>{#p/story}* Chilldrake is puffed up..."
-msgstr ""
+msgstr "<32>{#p/story}* Хладоцып обиделся..."
 
+#, fuzzy
 msgid "<32>{#p/story}* Stardrake is puffed up..."
-msgstr ""
+msgstr "<32>{#p/story}* Луноцып обиделся..."
 
+#, fuzzy
 msgid ""
 "<08>{#p/basic}{~}No!!\n"
 "This is the way!"
 msgstr ""
+"<08>{#p/basic}{~}Нет!!!\n"
+"Здесь самое место!"
 
+#, fuzzy
 msgid "<08>{#p/basic}{~}THIS won't be funny either!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}ЭТО не смешно!"
 
 msgid "<08>{#p/basic}{~}Filthy law- obider."
 msgstr ""
