@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-25 08:13+0000\n"
-"Last-Translator: LazyGuy <w.dgaster2021@gmail.com>\n"
+"PO-Revision-Date: 2025-05-26 09:13+0000\n"
+"Last-Translator: Vish <poolkol34@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -6919,69 +6919,93 @@ msgstr ""
 msgid "<18>{#f/9}HUMAN! YOU MAY THINK YOU'RE SAFE OUT HERE..."
 msgstr "<18>{#f/9}ЧЕЛОВЕК! ТЫ ДУМАЕШЬ, ЧТО ЗДЕСЬ БЕЗОПАСНО..."
 
+#, fuzzy
 msgid "<18>{#f/9}BUT I, THE GREAT PAPYRUS, INTEND TO CHANGE THAT!"
-msgstr ""
+msgstr "<18>{#f/9}НО Я, ВЕЛИКИЙ ПАПИРУС, ДОКАЖУ ТЕБЕ ОБРАТНОЕ!"
 
+#, fuzzy
 msgid "<18>{#f/4}FIRST, I'LL DAZZLE YOU WITH DR. ALPHYS' PUZZLES..."
-msgstr ""
+msgstr "<18>{#f/4}СНАЧАЛА, Я ДАМ ТЕБЕ ГОЛОВОЛОМКИ ОТ ДОКТОРА АЛЬФИС."
 
+#, fuzzy
 msgid "<18>{#f/4}AND THEN, WHEN YOU LEAST EXPECT IT..."
-msgstr ""
+msgstr "<18>{#f/4}И ТОГДА, В САМЫЙ НЕОЖИДАННЫЙ ДЛЯ ТЕБЯ МОМЕНТ..."
 
+#, fuzzy
 msgid ""
 "<19>{#f/9}WHAM!\n"
 "CAPTURED!\n"
 "OFF TO THE CITADEL!"
 msgstr ""
+"<19>{#f/9}БАМС!\n"
+"ТЫ В ПЛЕНУ!\n"
+"И В ЦИТАДЕЛЬ!"
 
+#, fuzzy
 msgid "<18>{#f/9}OUR BATTLE WILL BE AS LEGENDARY AS THEY COME!"
-msgstr ""
+msgstr "<18>{#f/9}НАША БИТВА БУДЕТ ВОИСТИНУ ЛЕГЕНДАРНОЙ!"
 
+#, fuzzy
 msgid "<18>{#f/9}CONTINUE... ONLY IF YOU DARE!!!"
-msgstr ""
+msgstr "<18>{#f/9}ПРОДОЛЖАЙ СВОЙ ПУТЬ... ЕСЛИ ХВАТИТ МУЖЕСТВА!!!"
 
+#, fuzzy
 msgid "<18>{#f/0}NYEH HEH HEH HEH HEH HEH HEH HEH!!!"
-msgstr ""
+msgstr "<18>{#f/0}НЬЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ!!!"
 
+#, fuzzy
 msgid "<25>{#p/sans}* well, that went well."
-msgstr ""
+msgstr "<25>{#p/sans}* ну, всё прошло хорошо."
 
+#, fuzzy
 msgid "<25>* don't sweat it, bud."
-msgstr ""
+msgstr "<25>* дружище, не парься."
 
+#, fuzzy
 msgid "<25>{#f/2}* i'll keep an eyesocket out for ya."
-msgstr ""
+msgstr "<25>{#f/2}* я присмотрю за тобой своей глазницей."
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/5}H-HUMAN?\n"
 "IS THAT YOU...?"
 msgstr ""
+"<18>{#p/papyrus}{#f/5}Ч-ЧЕЛОВЕК?\n"
+"ЭТО ТЫ?.."
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/1}OH MY GOD!!!\n"
 "IT REALLY IS YOU, ISN'T IT!?!?"
 msgstr ""
+"<18>{#p/papyrus}{#f/1}БОЖЕ МОЙ!!!\n"
+"ЭТО ПРАВДА ТЫ?!?!"
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/0}I'VE BEEN EXCITED TO MEET YOU SINCE I HEARD ABOUT YOU!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}УЗНАВ О ТЕБЕ, Я СРАЗУ ЗАХОТЕЛ ВСТРЕТИТЬСЯ!"
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/4}... AS FOR WHY I'M ONLY HERE NOW?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}...НО ПОЧЕМУ ТОЛЬКО СЕЙЧАС?"
 
+#, fuzzy
 msgid "<18>{#p/papyrus}{#f/6}WELL, I HAVE REASON TO BELIEVE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}НУ, У МЕНЯ ЕСТЬ ВСЕ ПРИЧИНЫ ПОЛАГАТЬ..."
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/5}... MY BROTHER HAS BEEN TRYING TO KEEP YOU FROM ME."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}...ТО, ЧТО МОЙ БРАТ ПРЯЧЕТ ТЕБЯ ОТ МЕНЯ."
 
 msgid "<18>{#p/papyrus}{#f/7}TYPICAL!!!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "<18>{#p/papyrus}{#f/0}BUT OUR LITTLE ALLIANCE CAN BE OUR LITTLE SECRET."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}ПУСТЬ НАШ НЕБОЛЬШОЙ СОЮЗ ОСТАНЕТСЯ СЕКРЕТОМ."
 
 msgid "<18>{#p/papyrus}{#f/9}HE DOESN'T HAVE TO KNOW A -DAMN- THING ABOUT IT!"
 msgstr ""
