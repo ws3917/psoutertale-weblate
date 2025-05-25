@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
 "PO-Revision-Date: 2025-08-08 07:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "3-foundry/es/>\n"
 "Language: es_ES\n"
@@ -2057,7 +2057,7 @@ msgid "<25>{#p/asriel2}{#f/3}* I sure did."
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/1}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/1}* ..."
 
 msgid "<25>{#f/16}* You know, I have been wondering."
 msgstr ""
@@ -2144,7 +2144,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/2}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/2}* ..."
 
 msgid "<25>{#f/4}* You..."
 msgstr ""
@@ -4049,7 +4049,7 @@ msgid "<32>* Please... help me..."
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/13}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* ..."
 
 msgid ""
 "<32>{#p/basic}* I think there's a b-b-b-bogey comin' towards me as we "
@@ -4107,7 +4107,7 @@ msgid "<32>* But, like, wouldn't we be able to wake ourselves up?"
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/15}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/15}* ..."
 
 msgid ""
 "<23>{#p/papyrusnt}UNDYNE, ARE YOU THERE?\n"
@@ -10204,7 +10204,7 @@ msgid "<25>{#p/kidd}{#f/8}* You can't get over that gap alone, dude..."
 msgstr ""
 
 msgid "<25>{#p/kidd}{#f/8}* ..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/8}* ..."
 
 msgid "<25>{#p/kidd}{#f/5}* ... let me help."
 msgstr ""
