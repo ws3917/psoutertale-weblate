@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-05-04 20:13+0000\n"
-"Last-Translator: Chistosito <souzadecarvalhofabio1@gmail.com>\n"
+"PO-Revision-Date: 2025-05-25 08:13+0000\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "3-foundry/es/>\n"
 "Language: es_ES\n"
@@ -2919,10 +2919,10 @@ msgid "ALPHYS"
 msgstr "ALPHYS"
 
 msgid "lazybones."
-msgstr ""
+msgstr "lazybones."
 
 msgid "(Unknown)"
-msgstr ""
+msgstr "(Desconocido)"
 
 msgid "Ghost Rave.kwac"
 msgstr ""
@@ -14657,7 +14657,7 @@ msgid "1000G - tem pay 4 colleg"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Salida"
 
 msgid "0G - tem flake"
 msgstr ""
@@ -14761,22 +14761,22 @@ msgid "<09>{#p/tem}{#k/2}not for sale..."
 msgstr ""
 
 msgid "Take"
-msgstr ""
+msgstr "Tomar"
 
 msgid "Steal"
-msgstr ""
+msgstr "Robar"
 
 msgid "Read"
-msgstr ""
+msgstr "Leer"
 
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgid "Sell"
-msgstr ""
+msgstr "Vender"
 
 msgid "Talk"
-msgstr ""
+msgstr "Hablar"
 
 msgid ""
 "<23>{#p/tem}{#k/0}* hOI!\n"
