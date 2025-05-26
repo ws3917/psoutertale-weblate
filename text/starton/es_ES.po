@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-05-25 08:13+0000\n"
+"PO-Revision-Date: 2025-05-27 10:13+0000\n"
 "Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -2556,7 +2556,7 @@ msgid "<18>{#p/papyrus}{#x2}{#f/7}WHERE DO YOU THINK YOU'RE GOING!?"
 msgstr ""
 
 msgid "<25>{#p/sans}{#f/0}* seriously?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* ¿en serio?"
 
 msgid "<18>{#p/papyrus}{#x2}{#f/7}GET BACK HERE!!"
 msgstr ""
@@ -2600,7 +2600,7 @@ msgid "<25>{#p/sans}* they could just be studying the pattern."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}(OH, TRUE.)"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}(OH, ES CIERTO.)"
 
 msgid "<18>{#f/9}IN THAT CASE, PROCEED WHEN READY!"
 msgstr ""
@@ -2697,7 +2697,7 @@ msgid "<18>{#p/papyrus}{#f/7}SANS, WE HAVE PUZZLES TO PREPARE!!"
 msgstr ""
 
 msgid "<18>COME ON!"
-msgstr ""
+msgstr "<18>¡VAMOS!"
 
 msgid "<32>{#p/basic}* I don't understand why these aren't selling..."
 msgstr ""
@@ -2823,7 +2823,7 @@ msgid "<32>{#p/basic}* Tell you what, have your first one on me."
 msgstr ""
 
 msgid "<32>{#p/basic}* Enjoy..."
-msgstr ""
+msgstr "<32>{#p/basic}* Disfruta..."
 
 msgid "<32>{#p/basic}* Well, you can always come back later."
 msgstr ""
@@ -2869,7 +2869,7 @@ msgid "<32>{#s/equip}{#p/human}* (You hand the Ice Dream to Monster Kid.)"
 msgstr ""
 
 msgid "<25>{#p/kidd}{#f/7}* AWESOME..."
-msgstr ""
+msgstr "<25>{#p/kidd}{#f/7}* ASOMBROSO..."
 
 msgid ""
 "<32>{#p/basic}* Sold out again, I'm afraid!\n"
@@ -3357,7 +3357,7 @@ msgid "<32>{#p/basic}{#npc/a}* So c-c-cold..."
 msgstr ""
 
 msgid "<32>{#p/basic}{#npc/a}* Sansyyyy..."
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* Sansitooo..."
 
 msgid "<32>{#p/basic}{#npc/a}* S-soooooo ready!"
 msgstr ""
@@ -3868,7 +3868,7 @@ msgid "<32>{#p/basic}{#npc/a}* Soon, I tell you."
 msgstr ""
 
 msgid "<32>* Soon."
-msgstr ""
+msgstr "<32>* Pronto."
 
 msgid "<32>{#p/basic}{#npc/a}* I know what you're thinking."
 msgstr ""
@@ -4413,7 +4413,7 @@ msgid "<32>{#p/basic}{#npc/a}* Then again, it was the cheapest option..."
 msgstr ""
 
 msgid "<32>{#p/basic}{#npc/a}* HEY!"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* ¡OYE!"
 
 msgid "<32>* ... you're pretty weird."
 msgstr ""
@@ -4681,7 +4681,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>* Why?"
-msgstr ""
+msgstr "<32>* ¿Por Qué?"
 
 msgid "<32>* This is our reality, so why be morose about it?"
 msgstr ""
@@ -4702,7 +4702,7 @@ msgid "<32>* That means I don't have to worry about getting beat up anymore."
 msgstr ""
 
 msgid "<32>* Haha."
-msgstr ""
+msgstr "<32>* Jaja."
 
 msgid "<32>* That means I don't have to worry about cracking jokes anymore."
 msgstr ""
@@ -5186,7 +5186,7 @@ msgid "COOLSKELETON95"
 msgstr "COOLSKELETON95"
 
 msgid "-2 FOLLOWERS"
-msgstr ""
+msgstr "-2 SEGUIDORES"
 
 msgid ""
 "THIS ACCOUNT\n"
@@ -5414,7 +5414,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}SUCH GENEROSITY!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡¡CUÁNTA GENEROSIDAD!!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}WHAT!?\n"
@@ -5448,10 +5448,10 @@ msgid "<18>{#f/5}THAT YOU'RE TRYING TO GO IN MY HOUSE AHEAD OF ME!"
 msgstr ""
 
 msgid "<18>{#f/6}THAT'S DEDICATION!"
-msgstr ""
+msgstr "<18>{#f/6}¡ESO ES DEDICACIÓN!"
 
 msgid "<18>{#p/papyrus}{#f/0}HELLO, HUMAN!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}!HOLA, HUMANO!"
 
 msgid "<18>{#f/5}I HOPE EVERYTHING IS ALRIGHT."
 msgstr ""
@@ -5493,7 +5493,7 @@ msgid "<18>{#f/0}A PLACE I LIKE TO SPEND A LOT OF TIME!!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}MY HOUSE!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡¡¡MI CASA!!!"
 
 msgid "<18>{#p/papyrus}WELCOME TO SCENIC MY HOUSE!"
 msgstr ""
@@ -21477,7 +21477,7 @@ msgid "<25>{#p/undyne}{#f/14}* What about sleeping?"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}SLEEPING???"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¿¿¿DURMIENDO???"
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}... THAT'S JUST AN EXCUSE MY BROTHER USES TO TAKE "
