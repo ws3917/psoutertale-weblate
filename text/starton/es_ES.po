@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-05-27 10:13+0000\n"
+"PO-Revision-Date: 2025-05-28 18:13+0000\n"
 "Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -5538,7 +5538,7 @@ msgid "<18>{#p/papyrus}I'LL KEEP WAITING HERE THEN!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}SO, UM..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ENTONCES, EM..."
 
 msgid "<18>{#f/5}IF YOU'VE SEEN EVERYTHING..."
 msgstr ""
@@ -5693,7 +5693,7 @@ msgid "<15>{#f/24}WAIT A SECOND."
 msgstr ""
 
 msgid "<15>{#f/24}NICE CLOTHES..."
-msgstr ""
+msgstr "<15>{#f/24}QUE BONITAS ROPAS TIENES..."
 
 msgid "<15>{#f/26}THAT OLD SPACESUIT YOU'RE WEARING..."
 msgstr ""
@@ -5817,7 +5817,7 @@ msgid "<15>{#f/10}I CAN EASILY KEEP UP WITH YOU!!!"
 msgstr ""
 
 msgid "<15>{#f/24}IN FACT..."
-msgstr ""
+msgstr "<15>{#f/24}DE HECHO..."
 
 msgid "<15>{#f/20}I ALWAYS WEAR MY \"SPECIAL\" CLOTHES..."
 msgstr ""
@@ -5835,7 +5835,7 @@ msgid "It rocks"
 msgstr ""
 
 msgid "It sucks"
-msgstr ""
+msgstr "Apesta"
 
 msgid "<15>{#p/papyrus}{#f/13}NO!!!"
 msgstr "<15>{#p/papyrus}{#f/13}¡¡¡NO!!!"
@@ -5933,7 +5933,7 @@ msgid "<15>{#f/14}N-NO, I MUST RESIST!!"
 msgstr ""
 
 msgid "<15>{#f/20}TRY AGAIN!"
-msgstr ""
+msgstr "<15>{#f/20}¡INTENTA DE NUEVO!"
 
 msgid "<15>{#p/papyrus}{#f/26}PILLOWS OR NOT, THERE'S NO SECRET TO MY LEGS."
 msgstr ""
@@ -5957,7 +5957,7 @@ msgid "<15>{#f/20}I DON'T HAVE ANY POCKETS TO HIDE THEM IN!!!"
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/24}MY SHOULDERS..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}MIS HOMBROS..."
 
 msgid "<15>{#f/10}ARE YOU ASKING FOR A PIGGYBACK RIDE??"
 msgstr ""
@@ -6100,7 +6100,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/27}W-WELL THEN..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}B-BIEN ENTONCES..."
 
 msgid "<15>{#f/27}YOU FOUND MY SECRET!"
 msgstr ""
@@ -6126,10 +6126,10 @@ msgid "* (What will you do?)"
 msgstr ""
 
 msgid "Open it"
-msgstr ""
+msgstr "Abrirlo"
 
 msgid "Do not"
-msgstr ""
+msgstr "No Abrirlo"
 
 msgid "<15>{#p/papyrus}{#f/21}YOU WON'T EVEN HARM MY DELICATE WRAPPING??"
 msgstr ""
@@ -6204,7 +6204,7 @@ msgid "<15>{#f/20}FEAST UPON MY ULTIMATE TECHNIQUE!!!"
 msgstr ""
 
 msgid "Eat it"
-msgstr ""
+msgstr "Comerlo"
 
 msgid ""
 "<32>{#p/human}* (You take a small bite.)\n"
@@ -6346,7 +6346,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#f/21}HAVE FAILED."
-msgstr ""
+msgstr "<15>{#f/21}HA FALLADO."
 
 msgid "<15>{#f/21}I FEEL JUST THE SAME AS BEFORE."
 msgstr ""
