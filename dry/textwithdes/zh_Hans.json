@@ -219,10 +219,10 @@
     "d18d05b250690621622f1042e481b864": "[img]res://Sprites/Menus/Menu Sprites/StatDef.tres[/img] 狐狸项链",
     "3e4039252a56b7c464a29f743f541154": "[img]res://Sprites/Menus/Menu Sprites/StatArrowUp.tres[/img] [color=orange]魔法启用[/color]",
     "1bdd53fdd2a5593580f47342f98fb580": "[img]res://Sprites/Menus/Menu Sprites/StatKanabo.tres[/img] 狐仙法杖",
-    "47300324a7ff5d4769bdf887628e3157": "大螺丝刀",
-    "02f79766a19246b3a8d6e6e1f93867ea": "蒸汽手套",
-    "f51c9b96d0e5ed8ce63b2e301336e3da": "机械铁拳",
-    "87819e49b79d6092c920721f53c33088": "闪亮奖牌",
+    "47300324a7ff5d4769bdf887628e3157": "[img]res://Sprites/Menus/Menu Sprites/StatKanabo.tres[/img] 大螺丝刀",
+    "02f79766a19246b3a8d6e6e1f93867ea": "[img]res://Sprites/Menus/Menu Sprites/StatGlove.tres[/img] 蒸汽手套",
+    "f51c9b96d0e5ed8ce63b2e301336e3da": "[img]res://Sprites/Menus/Menu Sprites/StatGlove.tres[/img] 机械铁拳",
+    "87819e49b79d6092c920721f53c33088": "[img]res://Sprites/Menus/Menu Sprites/StatDef.tres[/img] 闪亮奖牌",
     "518655c3bd18e10e2a1cca2b909e7cbe": "[img]res://Sprites/Menus/Menu Sprites/StatDef.tres[/img] 熊脸别针",
     "c2f21eeee9079e4fe9d9394ab1b13220": "熊脸别针",
     "b4be58b757c582fdf689bf14730559fd": "紧迫一点",
@@ -259,6 +259,6 @@
     "6f4efd48191a0276315d3b05c0a8ebf8": "红色信件",
     "d1512e71de96db366edec7c3442b5845": "[img]res://Sprites/Menus/Menu Sprites/StatDef.tres[/img] 金色铃铛",
     "0244c4396cdc9c2116b39032e83e9b09": "金色铃铛",
-    "7c1308c056aa105ec7d6eb59e0a16815": "守护手套",
+    "7c1308c056aa105ec7d6eb59e0a16815": "[img]res://Sprites/Menus/Menu Sprites/StatGlove.tres[/img] 守护手套",
     "700e9948709a41f4d4854a975f1b2f2f": "[img=13]res://Sprites/Menus/Menu Sprites/KanakoIcon.tres[/img] 恳求"
 }
