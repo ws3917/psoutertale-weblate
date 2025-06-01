@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-05-29 23:13+0000\n"
-"Last-Translator: Ruslan <rus08012004@gmail.com>\n"
+"PO-Revision-Date: 2025-06-02 03:21+0000\n"
+"Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
 "Language: ru_RU\n"
@@ -13940,8 +13940,9 @@ msgstr ""
 msgid "<15>{#p/papyrus}{#f/20}I COULD DO THIS ALL DAY!"
 msgstr "<15>{#p/papyrus}{#f/20}Я МОГУ ДЕЛАТЬ ЭТО ВЕСЬ ДЕНЬ!"
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/20}JUST LIKE THEY DO IT ON TV!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}ПРЯМ КАК НА ТВ!"
 
 #, fuzzy
 msgid "<15>{#p/papyrus}{#f/20}NYEH HEH HEH!"
@@ -13954,8 +13955,9 @@ msgstr "<15>{#p/papyrus}{#f/20}ПОКАЖИ МНЕ ТВОЁ МИЛОСЕРДИЕ
 msgid "<15>{#p/papyrus}{#f/20}..."
 msgstr "<15>{#p/papyrus}{#f/20}..."
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/27}SAY... IS IT GETTING DARK OUT HERE?"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}ПОДСКАЖИ... ТУТ ТЕМНЕЕТ?"
 
 #, fuzzy
 msgid "<15>{#f/27}MAYBE CAPTURING YOU WASN'T SUCH A GREAT IDEA..."
@@ -14023,57 +14025,79 @@ msgstr ""
 msgid "<15>{#p/papyrus}{#f/20}LOOKS LIKE YOU'RE GOING TO THE CAPTURE ZONE!!"
 msgstr ""
 
+#, fuzzy
 msgid "<15>{#f/24}... ALSO KNOWN AS THE GARAGE."
-msgstr ""
+msgstr "<15>{#f/24}... ТАКЖЕ ИЗВЕСТНУЮ КАК ГАРАЖ."
 
+#, fuzzy
 msgid "<15>{#f/20}A HEAVILY FORTIFIED GARAGE, THAT IS!"
-msgstr ""
+msgstr "<15>{#f/20}НО СИЛЬНО УКРЕПЛЁННЫЙ ГАРАЖ!"
 
+#, fuzzy
 msgid "<15>{#f/20}NYEH HEH HEH HEH HEH HEH HEH!!!"
-msgstr ""
+msgstr "<15>{#f/20}НЬЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ ХЕХ!!!"
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/24}WELL!!! YOU MAY HAVE CLEVERLY ESCAPED BEFORE..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}НУ ЧТО Ж!!! БЫТЬ МОЖЕТ ТЫ ХИТРО СБЕЖАЛ РАНЕЕ..."
 
+#, fuzzy
 msgid "<15>{#f/20}BUT THIS TIME, I'VE UPGRADED THE FACILITIES."
-msgstr ""
+msgstr "<15>{#f/20}НО В ЭТОТ РАЗ, Я УЛУЧШИЛ СООРУЖЕНИЯ."
 
+#, fuzzy
 msgid "<15>{#f/20}NOT ONLY WILL YOU BE STUCK..."
-msgstr ""
+msgstr "<15>{#f/20}ТЫ НЕ ТОЛЬКО ЗАСТРЯНЕШЬ..."
 
+#, fuzzy
 msgid "<15>{#f/15}BUT YOU WON'T EVEN WANT TO LEAVE!!!"
-msgstr ""
+msgstr "<15>{#f/15}НО И НЕ ЗАХОЧЕШЬ УЙТИ!!!"
 
+#, fuzzy
 msgid "<15>{#p/papyrus}{#f/20}YOU ARE... DETERMINED!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}ТЫ... РЕШИТЕЛЕН!"
 
+#, fuzzy
 msgid ""
 "<15>BUT!!\n"
 "IT JUST WON'T WORK ON ME!"
 msgstr ""
+"<15>ОДНАКО!!\n"
+"НА МНЕ ЭТО НЕ СРАБОТАЕТ!"
 
+#, fuzzy
 msgid "<15>I AM THE DETERMINEST!"
-msgstr ""
+msgstr "<15>Я РЕШИТЕЛНЕЙШИЙ!"
 
+#, fuzzy
 msgid ""
 "<99>{#f/24}AND IF YOU\n"
 "THINK YOU ARE\n"
 "DETERMINESTER..."
 msgstr ""
+"<99>{#f/24}И ЕСЛИ \n"
+"ДУМАЕШЬ ЧТО ТЫ\n"
+"РЕШИТЕЛЬНЕЙШЕЕ..."
 
+#, fuzzy
 msgid ""
 "<15>{#f/20}THAT IS WRONG!\n"
 "GRAMATICALLY WRONG!"
 msgstr ""
+"<15>{#f/20}ТО ЭТО НЕПРАВИЛЬНО!\n"
+"ГРАММАТИЧЕСКИ НЕПРАВИЛЬНО!"
 
+#, fuzzy
 msgid "<15>{#f/24}BECAUSE THE CORRECT FORM WOULD BE..."
-msgstr ""
+msgstr "<15>{#f/24}ПОТОМУ ЧТО ПРАВИЛЬНЫМ ПРОИЗНОШЕНИЕМ БЫЛО БЫ..."
 
+#, fuzzy
 msgid "<15>{#f/20}NOT AS DETERMINEST AS PAPYRUS, THE DETERMINESTEST!"
-msgstr ""
+msgstr "<15>{#f/20}НЕ НАСТОЛЬКО РЕШИТЕЛЬНЕЙШИЙ, КАК ПАПИРУС, РЕШИТЕЛЬНЕЙШЕЙШИЙ!"
 
+#, fuzzy
 msgid "<15>{#f/10}I HOPE YOU ENJOYED THIS LESSON."
-msgstr ""
+msgstr "<15>{#f/10}НАДЕЮСЬ, ЧТО ТЕБЕ ПОНРАВИЛОСЬ ЗАНЯТИЕ."
 
 msgid "<15>{#p/papyrus}{#f/24}ARE YOU SURE YOU CAN KEEP THIS UP?"
 msgstr ""
