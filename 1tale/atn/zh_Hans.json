@@ -357,7 +357,7 @@
     "obj_glydeb_525": "* 我一动不动^1。\n* Glyde因我不做回应而\n  大感失望。/^",
     "obj_grillbynpc_womandog_106": "* （其实还好^1，说真的。^1）\n* （这确实是“让我们一家子团圆了”。）/%%",
     "obj_heartdefeated_0_0": "  [你杀死了Niko。]/",
-    "obj_heartdefeated_0_1": "   [\\[C]。]^1\n  [The light shines\n  due to you.]/%%",
+    "obj_heartdefeated_0_1": "   [\\[C].^1]\n  [因为有你，\n  光芒才会闪耀。]/%%",
     "obj_heartdefeated_200_0": "啊哦^1，这看起来很疼.../",
     "obj_heartdefeated_200_1": "但是不要放弃！\n你可以做到的！！！\n冲冲冲！/%%",
     "obj_heartdefeated_201_0": "Niko^1！给我振作起来？！/",
