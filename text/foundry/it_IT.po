@@ -1,9 +1,24 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-08 15:42+0000\n"
+"PO-Revision-Date: 2025-06-08 15:42+0000\n"
+"Last-Translator: Francesco Aquilone <aquilonef@gmail.com>\n"
+"Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
+"3-foundry/it/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "<32>{#p/basic}* ..."
-msgstr ""
+msgstr "<32>{#p/basic}* ..."
 
 msgid "<32>{#p/basic}* I'm going to pretend you didn't just sell that locket."
 msgstr ""
