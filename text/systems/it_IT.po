@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-09 20:42+0000\n"
+"PO-Revision-Date: 2025-06-09 20:42+0000\n"
+"Last-Translator: Francesco Aquilone <aquilonef@gmail.com>\n"
+"Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
+"0-systems/it/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "(You take a deep breath.)"
 msgstr "(Fai un respiro profondo.)"
@@ -31,7 +46,7 @@ msgid "It cannot end now!"
 msgstr "Non può finire ora!"
 
 msgid "    * Escaped..."
-msgstr "    * Scappato..."
+msgstr "    * Scappo..."
 
 msgid "    * I'm outta here."
 msgstr "    * Vado via."
@@ -46,7 +61,7 @@ msgid ""
 "    * Ran away with $(x) EXP\n"
 "      and $(y)G."
 msgstr ""
-"    * Scappato con $(x) EXP\n"
+"    * Scappo con $(x) PE\n"
 "      e $(y)ORO."
 
 msgid "* Assist"
@@ -618,14 +633,13 @@ msgstr "§fill=#ff0§< SVILUPPATORE >§fill=#fff§"
 msgid "spacey_432"
 msgstr "spacey_432"
 
-msgid ""
-msgstr ""
 
 msgid "§fill=#ff0§< WRITER >§fill=#fff§"
 msgstr "§fill=#ff0§< SCRITTORI >§fill=#fff§"
 
+#, fuzzy
 msgid "Aster"
-msgstr ""
+msgstr "Aster"
 
 msgid "Balgamlı Kedi"
 msgstr "Balgamlı Kedi"
@@ -736,34 +750,40 @@ msgid "Valor52"
 msgstr "Valor52"
 
 msgid "§fill=#ff0§< ARTIST (CONTINUED) >§fill=#fff§"
-msgstr ""
+msgstr "§fill=#ff0§< ARTISTA (CONTINUA) >§fill=#fff§"
 
 msgid "Abb"
-msgstr ""
+msgstr "Abb"
 
 msgid ""
 "§fill=#808080§Created one border, fanart,\n"
 "and several sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Creatore di un bordo, fanart,\n"
+"and diversi sprite.§fill=#fff§"
 
 msgid "C-G_O_A_T"
-msgstr ""
+msgstr "C-G_O_A_T"
 
 msgid ""
 "§fill=#808080§Colored dialogue sprites for\n"
 "Alphys, Asriel, Undyne, etc.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Sprite di dialogo colorati per\n"
+"Alphys, Asriel, Undyne, ecc.§fill=#fff§"
 
 msgid "DarkFlameWeaver"
-msgstr ""
+msgstr "DarkFlameWeaver"
 
 msgid ""
 "§fill=#808080§Created battle-colored Undyne\n"
 "sprites.§fill=#fff§"
 msgstr ""
+"§fill=#808080§Creatore degli sprite\n"
+"di battaglia colorato di Unyne.§fill=#fff§"
 
 msgid "JustAnimates"
-msgstr ""
+msgstr "JustAnimates"
 
 msgid "§fill=#808080§Improved Toriel sprite art.§fill=#fff§"
 msgstr ""
