@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-06-10 07:48+0000\n"
+"PO-Revision-Date: 2025-06-12 13:42+0000\n"
 "Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -4294,7 +4294,7 @@ msgid "<32>{#p/basic}{#npc/a}* I wonder where they are..."
 msgstr ""
 
 msgid "<32>{#p/basic}{#npc/a}* Bun-bun-bun-bun-bun..."
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* Conejito-conejito-conejito-conejito..."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Ice Wolf is happy today.\n"
@@ -4590,13 +4590,13 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/basic}{#npc/a}* Politics..."
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* Política..."
 
 msgid "<32>{#p/basic}{#npc/a}* Politics."
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* Política."
 
 msgid "<32>{#p/basic}{#npc/a}* Politics?"
-msgstr ""
+msgstr "<32>{#p/basic}{#npc/a}* ¿Política?"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Long ago, I heard they didn't have such fancy things"
@@ -5231,7 +5231,7 @@ msgid "HOWDY!"
 msgstr "¡HOLA!"
 
 msgid "SAVE YOURSELVES..."
-msgstr ""
+msgstr "SALVENSE USTEDES..."
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
@@ -5344,19 +5344,19 @@ msgid "FRISK"
 msgstr "FRISK"
 
 msgid "DON'T YOU"
-msgstr ""
+msgstr "NO TE"
 
 msgid "DARE COME"
-msgstr ""
+msgstr "ATREVAS A VENIR"
 
 msgid "AFTER US"
-msgstr ""
+msgstr "DETRAS DE NOSOTROS"
 
 msgid "SORRY"
 msgstr "PERDÓN"
 
 msgid "BUT WE'RE"
-msgstr ""
+msgstr "PERO NOSOTROS ESTAMOS"
 
 msgid "OFFLINE"
 msgstr "DESCONECTADOS"
@@ -5374,7 +5374,7 @@ msgid "SETTINGS"
 msgstr "AJUSTES"
 
 msgid "LOG OUT"
-msgstr ""
+msgstr "CERRAR SESIÓN"
 
 msgid "<32>{#p/human}* (You can't seem to find anything in the couch.)"
 msgstr ""
@@ -5578,7 +5578,7 @@ msgid "<15>{#f/20}ON OUR DATE!!"
 msgstr ""
 
 msgid "<15>{#f/20}HANGING OUT!!"
-msgstr ""
+msgstr "<15>{#f/20}¡¡PASANDO EL RATO!!"
 
 msgid "<15>{#f/24}I'VE ACTUALLY NEVER DONE THIS BEFORE."
 msgstr ""
@@ -5832,7 +5832,7 @@ msgid "<15>{#p/papyrus}{#f/15}WHAT DO YOU THINK OF MY SECRET STYLE?"
 msgstr ""
 
 msgid "It rocks"
-msgstr ""
+msgstr "Es genial"
 
 msgid "It sucks"
 msgstr "Apesta"
@@ -6164,7 +6164,7 @@ msgid "<15>{#f/20}RIGHT!"
 msgstr "<15>{#f/20}¡CIERTO!"
 
 msgid "<15>{#f/15}BUT OH-SO-WRONG!"
-msgstr ""
+msgstr "<15>{#f/15}¡PERO ESTAS-TAN-EQUIVOCADO!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}NYEH HEH HEH!\n"
@@ -6248,7 +6248,7 @@ msgid "<15>{#f/12}HOW DID YOU DO THAT!?!?"
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/21}YOU MEAN..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}QUIERES DECIR..."
 
 msgid "<15>{#f/18}YOU'RE LETTING ME HAVE IT INSTEAD?"
 msgstr ""
@@ -6398,7 +6398,7 @@ msgid "<15>{#f/20}IT WOULD BE TRAGIC TO LOSE YOUR FRIENDSHIP!"
 msgstr ""
 
 msgid "<15>{#f/21}SO, PLEASE...."
-msgstr ""
+msgstr "<15>{#f/21}ASÍ QUE, POR FAVOR...."
 
 msgid "<15>{#f/21}DON'T CRY BECAUSE I CAN'T KISS YOU."
 msgstr ""
