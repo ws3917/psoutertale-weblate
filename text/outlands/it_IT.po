@@ -1,22 +1,20 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-08 15:42+0000\n"
-"PO-Revision-Date: 2025-06-08 15:42+0000\n"
+"PO-Revision-Date: 2025-06-13 19:42+0000\n"
 "Last-Translator: Francesco Aquilone <aquilonef@gmail.com>\n"
 "Language-Team: Italian <https://translate.ws3917.space/projects/ps-outertale/"
 "1-outlands/it/>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid ""
 "<25>{#p/toriel}{#f/1}* I hear there is a certain kind of fluid in "
 "Aerialis..."
@@ -1444,41 +1442,43 @@ msgid "<32>{#p/human}* (HP fully restored.)"
 msgstr "<32>{#p/human}* (HP completamente ripristinati.)"
 
 msgid "<32>{#p/human}* (You feel the inviting warmth of the fireplace...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Senti il ​​calore accogliente del camino...)"
 
 msgid "* (Crawl inside?)"
-msgstr ""
+msgstr "* (Entri dentro?)"
 
 msgid "<32>{#p/basic}* An ordinary fireplace."
-msgstr ""
+msgstr "<32>{#p/basic}* Un normale camino."
 
 msgid ""
 "<32>{#p/basic}* Toriel's fireplace.\n"
 "* It's not too hot, just pleasantly warm."
 msgstr ""
+"<32>{#p/basic}* Il camino di Toriel.\n"
+"* Non è troppo caldo, solo piacevolmete tiepido."
 
 msgid "<32>* You could probably crawl in."
-msgstr ""
+msgstr "<32>* Probabilmente potresti entrarci."
 
 msgid "<32>{#p/human}* (You chose not to crawl in.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Scegli di non entrarci)"
 
 msgid ""
 "<32>{#p/human}* (You crawl into the fireplace and let its warmth engulf "
 "you.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Entri nel camino e ti lasci avvolgere dal suo calore.)"
 
 msgid "<32>{#p/human}* (You are very comfortable.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Ti senti a tuo agio.)"
 
 msgid "<25>{#p/asriel1}{#f/13}* I'll just, uh, wait for you to get out."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Io, uh, aspetterò che tu esca."
 
 msgid "<25>{#p/asriel2}{#f/15}* I'll just, uh, wait for you to get out..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Io, uh, aspetterò che tu esca..."
 
 msgid "<25>{#p/toriel}{#f/1}{#npc/a}* Don't stay in there for too long..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/1}{#npc/a}* Non stare li troppo a lungo..."
 
 msgid "<32>{#p/basic}* ..."
 msgstr "<32>{#p/basic}* ..."
@@ -1487,36 +1487,38 @@ msgid "<32>* This is fine."
 msgstr ""
 
 msgid "<25>{#p/asriel2}{#f/10}* Something you missed back here?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/10}* C'è qualcosa che ti è sfuggito?"
 
 msgid "<25>{#p/asriel2}{#f/3}* Ah, the place where it all began."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/3}* Ah, il posto dove tuto è iniziato."
 
 msgid ""
 "<25>{#p/asriel2}{#f/4}* We've certainly come along since then, haven't we, "
 "$(name)?"
 msgstr ""
+"<25>{#p/asriel2}{#f/4}* Da allora abbiamo fatto sicuramente dei progressi, "
+"non è vero, $(name)?"
 
 msgid "<25>{#p/asriel2}{#f/3}* ..."
 msgstr "<25>{#p/asriel2}{#f/3}* ..."
 
 msgid "<25>{#p/asriel2}{#f/10}* Wasn't there a dummy here before...?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/10}* Non c'era un manichino qui prima...?"
 
 msgid "<32>{#p/basic}{#n1}* Just between you and me..."
-msgstr ""
+msgstr "<32>{#p/basic}{#n1}* Solo tra me e te..."
 
 msgid "<32>* I saw that goat lady come through here just a little while ago."
-msgstr ""
+msgstr "<32>* Ho visto quella capra passare di qui poco fa."
 
 msgid "<32>* She had groceries, so I asked her what they were for, and..."
-msgstr ""
+msgstr "<32>* Aveva della spesa, così le ho chiesto a cosa servisse e..."
 
 msgid "<32>* Well, you're in for a treat."
-msgstr ""
+msgstr "<32>* Beh, ti aspetta una sorpresa."
 
 msgid "<32>* I saw that goat lady come through here earlier."
-msgstr ""
+msgstr "<32>* Ho visto quella capra passare di qui prima."
 
 msgid "<32>* She said it was time to \"confront her fears.\""
 msgstr ""
