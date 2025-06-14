@@ -1443,7 +1443,7 @@
     "obj_shop1_slash_Draw_0_gml_240_0": "",
     "obj_shop1_slash_Draw_0_gml_507_0": "",
     "obj_shop1_slash_Draw_0_gml_395_0": "",
-    "obj_shortcut_door_slash_Other_10_gml_13_0": "",
+    "obj_shortcut_door_slash_Other_10_gml_13_0": "* (Это дверной проём.)\n* (Но почему-то вы не можете ничего в нём разглядеть...)",
     "obj_scarelancerevent_slash_Step_0_gml_49_0": "",
     "obj_scarelancerevent_slash_Step_0_gml_50_0": "",
     "obj_scarelancerevent_slash_Step_0_gml_51_0": "",
