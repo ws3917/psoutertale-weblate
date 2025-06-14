@@ -1658,7 +1658,7 @@
     "obj_shop2_slash_Draw_0_gml_415_0": "",
     "obj_shop2_slash_Draw_0_gml_416_0": "",
     "obj_shop2_slash_Draw_0_gml_481_0": "",
-    "obj_shortcut_door_slash_Other_10_gml_13_0": "",
+    "obj_shortcut_door_slash_Other_10_gml_13_0": "* (Это дверной проём.)\n* (Но почему-то вы не можете ничего в нём разглядеть...)",
     "obj_suitspuzzle_event_slash_Step_0_gml_16_0": "",
     "obj_suitspuzzle_event_slash_Step_0_gml_18_0": "",
     "obj_suitspuzzle_event_slash_Step_0_gml_20_0": "",
