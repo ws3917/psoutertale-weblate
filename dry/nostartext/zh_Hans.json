@@ -338,5 +338,7 @@
     "317bbb9a63a0c292d19e45e4a0cd2a9a": "[img]res://Sprites/Menus/Menu Sprites/StatArrowUp.tres[/img] [color=orange]生命回复[/color]",
     "1d80010951e5bd7e1ec13d72c61dda51": "[img]res://Sprites/Menus/Menu Sprites/StatArrowUp.tres[/img] [color=orange]IFRAMES 已启用[/color]",
     "fe36e3b2e8acfcf8ceb40fd254e9115c": "反光条",
-    "c9cac5c4f764ff5144f53216cf98095e": "[img]res://Sprites/Menus/Menu Sprites/StatDef.tres[/img] 安全护目镜"
+    "c9cac5c4f764ff5144f53216cf98095e": "[img]res://Sprites/Menus/Menu Sprites/StatDef.tres[/img] 安全护目镜",
+    "ee066accc99650ad48d123ac5e7051c9": "狐氏家宝",
+    "3e4039252a56b7c464a29f743f541154": "[img]res://Sprites/Menus/Menu Sprites/StatArrowUp.tres[/img] [color=orange]魔法启用[/color]"
 }
