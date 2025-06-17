@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-06-16 06:42+0000\n"
-"Last-Translator: Ariel Garcia <noezaraspe23130718@gmail.com>\n"
+"PO-Revision-Date: 2025-06-18 14:42+0000\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
@@ -2417,7 +2417,6 @@ msgstr ""
 "<32>{#p/basic}* Se está haciendo mas y mas difícil oler cosas...\n"
 "* (Se hace mas difícil ver...)"
 
-#, fuzzy
 msgid "<32>* Let's get out of here!"
 msgstr "<32>* ¡Vamonos de aquí!"
 
@@ -2484,36 +2483,42 @@ msgid ""
 msgstr "<25>{#p/sans}{#f/0}* le prometí que te lo mostraría, así que aquí está."
 
 msgid "<18>{#p/papyrus}OHO, THE HUMAN ARRIVES!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡OHO, YA LLEGÓ EL HUMANO!"
 
 msgid "<18>MY BROTHER AND I HAVE CREATED MANY PUZZLES."
-msgstr ""
+msgstr "<18>MI HERMANO Y YO HEMOS CREADO MUCHOS PUZLES."
 
 msgid "<18>{#f/9}ARE YOU UP FOR THE CHALLENGE, HUMAN!?"
-msgstr ""
+msgstr "<18>{#f/9}¿¡ESTÁS LISTO PARA EL DESAFÍO, HUMANO!?"
 
 msgid ""
 "<18>{#p/papyrus}CORRECT ANSWER!\n"
 "FOR YOU SEE..."
 msgstr ""
+"<18>{#p/papyrus}¡RESPUESTA CORRECTA!\n"
+"COMO PUEDES VER..."
 
 msgid "<18>{#x4}{#f/9}NO CRAFTSMAN HAS EVER MADE TRAPS AS FINE AS ME!"
 msgstr ""
+"<18>{#x4}{#f/9}¡NINGÚN ARTESANO HA CREADO TRAMPAS TAN BUENAS COMO LAS MIAS!"
 
 msgid "<18>{#f/0}THEY'RE PRACTICALLY IRRESISTIBLE!"
-msgstr ""
+msgstr "<18>{#f/0}¡SON PRÁCTICAMENTE IRRESISTIBLES!"
 
 msgid "<25>{#x1}{#p/sans}{#f/2}* maybe you're the one who's irresistible."
-msgstr ""
+msgstr "<25>{#x1}{#p/sans}{#f/2}* tal vez tú seas él que es irresistible."
 
 msgid "<18>{#p/papyrus}{#f/1}REALLY!?"
 msgstr "<18>{#p/papyrus}{#f/1}¿¡EN SERIO!?"
 
 msgid "<18>{#x4}{#f/9}NO HUMAN HAS EVER BESTED A PUZZLE BY THE GREAT PAPYRUS!"
 msgstr ""
+"<18>{#x4}{#f/9}¡NINGÚN HUMANO HA SUPERADO UN PUZLE CREADO POR EL GRAN "
+"PAPYRUS!"
 
 msgid "<25>{#x1}{#p/sans}{#f/4}* no human has even had the chance to, bro."
 msgstr ""
+"<25>{#x1}{#p/sans}{#f/4}* ningún humano ha tenido la oportunidad , hermano."
 
 msgid "<18>{#p/papyrus}{#x3}{#f/7}UGH, THAT'S BESIDES THE POINT!!"
 msgstr ""
