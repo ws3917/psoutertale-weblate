@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-06-18 14:42+0000\n"
-"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
+"PO-Revision-Date: 2025-06-29 15:45+0000\n"
+"Last-Translator: Ariel Garcia <noezaraspe23130718@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
@@ -2521,62 +2521,71 @@ msgstr ""
 "<25>{#x1}{#p/sans}{#f/4}* ningún humano ha tenido la oportunidad , hermano."
 
 msgid "<18>{#p/papyrus}{#x3}{#f/7}UGH, THAT'S BESIDES THE POINT!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#x3}{#f/7}AGH, ¡¡ESO ES PUNTO Y APARTE!!"
 
 msgid "<18>{#x1}{#f/0}ANYWAY, THIS HERE IS WHAT I LIKE TO CALL..."
-msgstr ""
+msgstr "<18>{#x1}{#f/0}EN FIN, ESTO ES LO QUE ME GUSTA LLAMAR..."
 
 msgid "<18>\"THE WALL OF FIRE!!\""
-msgstr ""
+msgstr "<18>\"¡¡EL MURO EN LLAMAS!!\""
 
 msgid ""
 "<25>{#p/sans}* couldn't you just call it \"the firewall?\"\n"
 "* it'd save time."
 msgstr ""
+"<25>{#p/sans}* ¿no podías solo llamarla \"firewall\"?\n"
+"* sonaría mas genial y ahorraría tiempo."
 
 msgid "<18>{#p/papyrus}{#f/4}DR. ALPHYS WOULD THINK I'M MIS- USING THE TERM."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}LA DRA. ALPHYS PENSARÍA QUE ESTOY USANDO MAL EL "
+"TERMINO."
 
 msgid ""
 "<25>{#p/sans}* i dunno bro, she's really into that kinda stuff. in fact..."
 msgstr ""
+"<25>{#p/sans}* no sé hermano, ella es una friki para esas cosas. es mas..."
 
 msgid "<30>{#f/2}* i bet she'd find it {@fill=#ff0}hot{@fill=#fff}."
 msgstr ""
+"<30>{#f/2}* de seguro ella lo encontraría {@fill=#ff0}caliente{@fill=#fff}."
 
 msgid "<18>{#p/papyrus}{#x3}{#f/7}NOT NOW, SANS!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#x3}{#f/7}¡¡AHORA NO, SANS!!"
 
 msgid "<25>{#p/sans}{#f/0}* it's called \"the firewall.\""
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* se llama \"la firewall.\""
 
 msgid ""
 "<25>{#p/sans}{#f/2}* y'know.\n"
 "* like the firewall on a computer."
 msgstr ""
+"<25>{#p/sans}{#f/2}* ya sabes.\n"
+"* como la firewall de una computadora."
 
 msgid "<25>{#p/sans}* the idea behind this one is to get to the other side."
-msgstr ""
+msgstr "<25>{#p/sans}* la idea es llegar al otro lado."
 
 msgid "<25>{#p/sans}* simple, right?"
-msgstr ""
+msgstr "<25>{#p/sans}* simple, ¿verdad?"
 
 msgid ""
 "<25>{#p/sans}{#f/3}* though, i've tested this puzzle myself, and i gotta "
 "say..."
 msgstr ""
+"<25>{#p/sans}{#f/3}* aunque, he probado este puzle yo mismo, y solo digo..."
 
 msgid "<25>{#p/sans}{#f/2}* it's not as easy as it looks."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* no es tan fácil como parece."
 
 msgid "<18>{#p/papyrus}... ANYWAY, THE IDEA BEHIND THIS PUZZLE IS SIMPLE."
-msgstr ""
+msgstr "<18>{#p/papyrus}... EN FIN, LA IDEA DEL PUZLE ES SIMPLE."
 
 msgid "<18>BECAUSE ALL YOU HAVE TO DO..."
-msgstr ""
+msgstr "<18>PORQUE TODO LO QUE TIENES QUE HACER..."
 
 msgid "<18>{#f/9}IS MAKE IT TO THE OTHER SIDE!!"
-msgstr ""
+msgstr "<18>{#f/9}¡¡ES LLEGAR AL OTRO LADO!!"
 
 msgid ""
 "<18>{#f/0}GOOD LUCK!!\n"
@@ -2596,98 +2605,111 @@ msgstr ""
 "* al menos trata de ser buena gente."
 
 msgid "<18>{#p/papyrus}{#x2}{#f/7}WHERE DO YOU THINK YOU'RE GOING!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#x2}{#f/7}¿¡A DONDE CREES QUE VAS!?"
 
 msgid "<25>{#p/sans}{#f/0}* seriously?"
 msgstr "<25>{#p/sans}{#f/0}* ¿en serio?"
 
 msgid "<18>{#p/papyrus}{#x2}{#f/7}GET BACK HERE!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#x2}{#f/7}!!VUELVE AQUÍ!!"
 
 msgid "<18>{#p/papyrus}ARE YOU AFRAID OF THE FLAMES??"
-msgstr ""
+msgstr "<18>{#p/papyrus}¿¿LE TIENES MIEDO A LAS LLAMAS??"
 
 msgid ""
 "<18>{#f/4}DON'T WORRY, THEY CAN'T ACTUALLY\n"
 "HARM YOU."
 msgstr ""
+"<18>{#f/4}NO TE PREOCUPES, NO TE PUEDEN\n"
+"HACER DAÑO."
 
 msgid "<18>{#f/0}AS SANS WOULD SAY, THEY'RE JUST \"PLEASANTLY WARM.\""
-msgstr ""
+msgstr "<18>{#f/0}COMO SANS DIRÍA, SOLO SON \"CÓMODAMENTE CALIENTES\"."
 
 msgid "<25>{#p/sans}* actually, i picked that saying up from a friend."
-msgstr ""
+msgstr "<25>{#p/sans}* realmente, se lo copié a un amigo."
 
 msgid "<18>{#p/papyrus}{#f/4}... OH."
 msgstr "<18>{#p/papyrus}{#f/4}... OH."
 
 msgid "<18>{#p/papyrus}ARE YOU ANXIOUS ABOUT FAILING THE PUZZLE??"
-msgstr ""
+msgstr "<18>{#p/papyrus}¿¿TIENES ANSIEDAD DE TEMER FALLAR EL PUZLE??"
 
 msgid "<18>IF THAT'S THE CASE, THEN YOU MUST KNOW..."
-msgstr ""
+msgstr "<18>EN ESE CASO, DEBERÍAS SABER..."
 
 msgid "<18>{#x4}{#f/9}I, THE GREAT PAPYRUS, WOULD NOT JUDGE YOU FOR IT!"
-msgstr ""
+msgstr "<18>{#x4}{#f/9}¡QUE YO, EL GRAN PAPYRUS, NO TE JUZGARÍA POR ESO!"
 
 msgid "<18>{#f/0}AS EVERY STAR CHEF KNOWS, THE THOUGHT IS WHAT COUNTS."
-msgstr ""
+msgstr "<18>{#f/0}COMO TODO CHEF ESTRELLA SABE, LA INTENCIÓN ES LO QUE CUENTA."
 
 msgid "<18>{#x1}SO GO ON, DO TRY YOUR BEST!"
-msgstr ""
+msgstr "<18>{#x1}ASÍ QUE ADELANTE, ¡HAZ LO MEJOR QUE PUEDAS!"
 
 msgid "<18>{#p/papyrus}{#f/4}(SANS, WHAT IS THE HUMAN DOING??)"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}(SANS, ¿¿QUE ESTÁ HACIENDO EL HUMANO??)"
 
 msgid "<25>{#p/sans}* they could just be studying the pattern."
-msgstr ""
+msgstr "<25>{#p/sans}* puede ser que esté estudiando el patrón."
 
 msgid "<18>{#p/papyrus}{#f/4}(OH, TRUE.)"
 msgstr "<18>{#p/papyrus}{#f/4}(OH, ES CIERTO.)"
 
 msgid "<18>{#f/9}IN THAT CASE, PROCEED WHEN READY!"
-msgstr ""
+msgstr "<18>{#f/9}EN ESE CASO, ¡AVANZA CUANDO ESTÉS LISTO!"
 
 msgid ""
 "<25>{#p/sans}{#f/0}* whoops.\n"
 "* nice try, though."
 msgstr ""
+"<25>{#p/sans}{#f/0}* ups.\n"
+"* aun así, buen intento."
 
 msgid ""
 "<18>{#p/papyrus}NYEH HEH HEH!\n"
 "WELL THEN."
 msgstr ""
+"<18>{#p/papyrus}NYEH JEH JEH!\n"
+"PARECE QUE."
 
+#, fuzzy
 msgid "<18>{#f/9}IT SEEMS YOU'VE BEEN JAPED BY THE GREAT PAPYRUS!"
 msgstr ""
+"<18>{#f/9}¡PARECE QUE HAS SIDO JAPED [ayuda no se como traducirlo xd] POR EL "
+"GRAN PAPYRUS!"
 
 msgid "<18>{#f/0}BUT FRET NOT!"
-msgstr ""
+msgstr "<18>{#f/0}¡PERO NO OS PREOCUPÉIS!"
 
 msgid "<18>FOR YOU SEE, MY TRAPS ARE NO SLOUCH."
-msgstr ""
+msgstr "<18>VERÁS, MIS TRAMPAS SON DE LA MEJOR CALIDAD."
 
 msgid "<18>{#f/9}YOU CAN'T BE BLAMED FOR FAILING ONE SO EASILY!!"
-msgstr ""
+msgstr "<18>{#f/9}¡¡NO TE PUEDO JUZGAR POR CAER EN UNA TAN FÁCILMENTE!!"
 
 msgid ""
 "<25>{#p/sans}{#f/0}* huh.\n"
 "* guess you're smarter than you look."
 msgstr ""
+"<25>{#p/sans}{#f/0}* huh.\n"
+"* eres mas listo de lo que pareces."
 
 msgid "<18>{#p/papyrus}{#f/1}WHAT!?"
 msgstr "<18>{#p/papyrus}{#f/1}¿¡QUÉ!?"
 
 msgid "<18>{#f/7}HOW DID YOU MANAGE TO DO THAT!?!?"
-msgstr ""
+msgstr "<18>{#f/7}¿¡¿¡COMO HICISTE ESO!?!?"
 
 msgid "<18>THAT WAS SUPPOSED TO BE TOTALLY IMPOSSIBLE!"
-msgstr ""
+msgstr "<18>¡SE SUPONÍA QUE SEA COMPLETAMENTE IMPOSIBLE!"
 
 msgid ""
 "<18>{#f/9}... WELL THEN!\n"
 "I SHALL HAVE TO STEP UP MY GAME!"
 msgstr ""
+"<18>{#f/9}... ¡ENTONCES!\n"
+"¡TENDRÉ QUE SUBIR EL NIVEL!"
 
 msgid "<25>{#p/sans}{#f/0}* well, that's it."
 msgstr ""
