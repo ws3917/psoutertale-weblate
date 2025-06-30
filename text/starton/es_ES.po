@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-06-29 15:45+0000\n"
+"PO-Revision-Date: 2025-07-01 08:10+0000\n"
 "Last-Translator: Ariel Garcia <noezaraspe23130718@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -2712,60 +2712,64 @@ msgstr ""
 "¡TENDRÉ QUE SUBIR EL NIVEL!"
 
 msgid "<25>{#p/sans}{#f/0}* well, that's it."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* bueno, eso era todo."
 
 msgid "<25>{#p/sans}{#f/3}* ... thanks for playing along, at least."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* ... gracias por seguirle el juego."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* in the meantime, i've got another puzzle to set up."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* mientras tanto, tengo otro puzle que preparar."
 
 msgid "<25>{#p/sans}{#f/2}* we'll be seeing each other again."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* nos vemos luego."
 
 msgid "<18>{#f/4}IN ANY CASE..."
-msgstr ""
+msgstr "<18>{#f/4}EN TODO CASO..."
 
 msgid "<18>{#f/0}I AM EXCITED FOR WHAT COMES NEXT!"
-msgstr ""
+msgstr "<18>{#f/0}¡ESTOY ANSIOSO POR LO QUE SE VENDRÁ DESPUÉS!"
 
 msgid "<18>{#f/4}A PUZZLE SO CONFOUNDING..."
-msgstr ""
+msgstr "<18>{#f/4}UN PUZLE TAN CONFUSO..."
 
 msgid "<18>{#f/1}EVEN TERRESTRIA HERSELF COULDN'T SOLVE IT!!!"
-msgstr ""
+msgstr "<18>{#f/1}¡¡¡QUE INCLUSO LA MISMÍSIMA TERRESTRIA NO PODRÍA RESOLVER!!!"
 
 msgid ""
 "<25>{#p/sans}* terrestria?\n"
 "* isn't she literally the oldest monster alive?"
 msgstr ""
+"<25>{#p/sans}* ¿terrestria?\n"
+"* ¿no es ella literalmente el monstruo mas viejo vivo?"
 
 msgid ""
 "<18>{|}{#p/papyrus}{#f/1}UH...\n"
 "WELL YES, BUT- {%}"
 msgstr ""
+"<18>{|}{#p/papyrus}{#f/1}EH...\n"
+"BUENO SI, PERO- {%}"
 
 msgid "<25>{#p/sans}* dang, i didn't know you thought THAT highly of me."
-msgstr ""
+msgstr "<25>{#p/sans}* valla, no sabía que pensabas ASÍ de mi."
 
 msgid "<18>{#p/papyrus}{#f/4}WHAT."
 msgstr "<18>{#p/papyrus}{#f/4}QUE."
 
 msgid "<25>{|}{#p/sans}* like, if even SHE can't do it, then- {%}"
-msgstr ""
+msgstr "<25>{#p/sans}* o sea, se ni siquiera ELLA puede hacerlo, entonces- {%}"
 
 msgid "<18>{#p/papyrus}{#f/7}{#x3}I GET THE POINT!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}{#x3}¡¡ENTIENDO EL PUNTO!!"
 
 msgid "<18>{#p/papyrus}{#f/7}SANS, WE HAVE PUZZLES TO PREPARE!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¡¡SANS, TENEMOS PUZLES QUE PREPARAR!!"
 
 msgid "<18>COME ON!"
 msgstr "<18>¡VAMOS!"
 
 msgid "<32>{#p/basic}* I don't understand why these aren't selling..."
-msgstr ""
+msgstr "<32>{#p/basic}* No entiendo por que no tengo ninguna venta..."
 
 msgid "<32>* It's the perfect place for something nice..."
 msgstr ""
