@@ -25,5 +25,8 @@
     "gml_Object_obj_cutscene_ending_Step_0_c_msgset_64": "* 我该说什么好呢？/%",
     "gml_Object_obj_cutscene_example_Step_0_c_msgset_98": "\\E1SANS！！^1！你去哪了！！！/%",
     "gml_Object_obj_cutscene_example_Step_0_c_msgset_115": "\\E1看来他不在这里。/",
-    "gml_Object_obj_cutscene_example_Step_0_c_msgset_134": "\\E1* 嗯，这可真不错。/%"
+    "gml_Object_obj_cutscene_example_Step_0_c_msgset_134": "\\E1* 嗯，这可真不错。/%",
+    "gml_Object_obj_cutscene_wip_Step_0_c_msgset_32": "* 嘿呀。/",
+    "gml_Object_obj_cutscene_wip_Step_0_c_msgset_48": "\\E1* ...所以^1， 额^1，你明白了吗？/",
+    "gml_Object_obj_cutscene_wip_Step_0_c_msgset_39": "\\E0* '嗨^1, 从现在起，\n  可能会出现一些\n  未完成的内容。'/"
 }
