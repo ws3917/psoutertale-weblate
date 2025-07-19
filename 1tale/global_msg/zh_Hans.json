@@ -261,7 +261,7 @@
     "gml_Object_obj_innevent1_Step_0_global_msg_79": "* （Sans更让人捉摸不透^1，\n  我永远也猜不透他在想什么。）",
     "gml_Object_obj_innevent1_Step_0_global_msg_80": "* （看Papyrus能想出什么点子\n  还挺有趣的。）/",
     "gml_Object_obj_innevent1_Step_0_global_msg_81": "* （这个小镇让人觉得..^1.\n  很舒服。）/",
-    "gml_Object_obj_innevent1_Step_0_global_msg_82": "* （...不知道为什么，Snowdin\n  总给我一种家的感觉！）/",
+    "gml_Object_obj_innevent1_Step_0_global_msg_82": "* （...不知道为什么，雪町\n  总给我一种家的感觉！）/",
     "gml_Object_obj_innevent1_Step_0_global_msg_83": "*（这里的房子、居民...\n  这里的所有东西）/",
     "gml_Object_obj_innevent1_Step_0_global_msg_84": "* （他们...都很幸福的样子。）/",
     "gml_Object_obj_innevent1_Step_0_global_msg_85": "* （...真希望我能帮上\n  他们的忙。）/",
@@ -650,7 +650,7 @@
     "gml_Object_obj_royal_catbounce_Alarm_0_global_msg_11": "* 如果你发现了有关人类的\n  任何线索^1，请立即向最近的\n  警卫报告。/%%",
     "gml_Object_obj_sans_room_Alarm_0_global_msg_14": "\\E3* 我自己平常\n  不咋来这.../",
     "gml_Object_obj_royal_catbounce_Alarm_0_global_msg_9": "* 该区域受到严格监控。/",
-    "gml_Object_obj_sign_room_Alarm_0_global_msg_19": "* 北面：雪镇郊区\n* 南面：雪镇/%%",
+    "gml_Object_obj_sign_room_Alarm_0_global_msg_19": "* 北面：雪町郊区\n* 南面：雪町/%%",
     "gml_Object_obj_townnpc_conerr_Alarm_0_global_msg_8": "* 这就是生活。/%%",
     "gml_Object_obj_royal_cat_Alarm_0_global_msg_9": "* 该区域受到严格监控。/",
     "gml_Object_obj_royal_catbounce_Alarm_0_global_msg_10": "* 这或许很难以置信^1，\n  但最近确实接收到了有人类在\n  此区域活动的目击报告。/",
@@ -673,7 +673,7 @@
     "gml_Object_obj_royal_cat_Alarm_0_global_msg_31": "* ...孩子，谢谢你。/%%",
     "gml_Object_obj_royal_cat_Alarm_0_global_msg_36": "* 我想知道她有没有还在留着\n  那件旧东西.../",
     "gml_Object_obj_royal_cat_Alarm_0_global_msg_43": "* 哦，嘿Niko！/",
-    "gml_Object_obj_sans_room_Alarm_0_global_msg_13": "* 欢迎来到雪镇郊区。/",
+    "gml_Object_obj_sans_room_Alarm_0_global_msg_13": "* 欢迎来到雪町郊区。/",
     "gml_Object_obj_royal_cat_Alarm_0_global_msg_37": "* 我那样做不是很奇怪吗？/%%",
     "gml_Object_obj_testdialouge_Alarm_0_global_msg_32": "* 操你妈的臭婊子/",
     "gml_Object_obj_testdialouge_Alarm_0_global_msg_35": "\\F7 \\Ta * 我想我老婆/",
@@ -685,5 +685,6 @@
     "gml_Object_obj_sans_room_Alarm_0_global_msg_59": "\\W* 酷的攻击。/",
     "gml_Object_obj_sleepbear_Alarm_0_global_msg_17": "* （而且^1，我可不想惊扰\n  一只正在睡觉的熊。)/%%",
     "gml_Object_obj_sleepbear_Alarm_0_global_msg_11": "* （蜂蜜快要凉了。）/%%",
-    "gml_Object_obj_sleepbear_Alarm_0_global_msg_16": "* （我应该让它接着休息。）/"
+    "gml_Object_obj_sleepbear_Alarm_0_global_msg_16": "* （我应该让它接着休息。）/",
+    "gml_Object_obj_sans_room_Alarm_0_global_msg_58": "\\D\\W*\\L ^9牛^寺^9另^5刂%/"
 }
