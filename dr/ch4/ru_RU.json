@@ -7799,7 +7799,7 @@
     "obj_zapper_enemy_slash_Step_0_gml_54_0": "       ",
     "obj_zapper_enemy_slash_Step_0_gml_124_0": "* Пуллет прячется за воображаемой подушкой.",
     "obj_zapper_enemy_slash_Step_0_gml_125_0": "* Пуллет тыкает по кнопкам у себя на груди.",
-    "obj_zapper_enemy_slash_Step_0_gml_126_0": "",
+    "obj_zapper_enemy_slash_Step_0_gml_126_0": "* Пуллет пытается в вас прицелиться.",
     "obj_zapper_enemy_slash_Step_0_gml_127_0": "* Пуллет проверяет, не наблюдает ли за ним Тенна.",
     "obj_zapper_enemy_slash_Step_0_gml_133_0": "* Кнопки пуллета стали мягче.",
     "obj_zapper_enemy_slash_Step_0_gml_139_0": "* Пуллету мерещится Ланино.",
