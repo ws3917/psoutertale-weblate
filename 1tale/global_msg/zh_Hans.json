@@ -941,5 +941,9 @@
     "gml_Object_obj_truechara_Step_0_global_msg_167": "是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你\n是因为你%",
     "gml_Object_obj_wanderparent_Alarm_0_global_msg_40": "* 延续这个循环吗？\n         \n         是         否      \\C",
     "gml_Object_obj_townnpc_sky_Alarm_0_global_msg_14": "* （我觉得...^1她看起来\n  很开心^1？那双大眼睛可能\n  代表任何意思。）/%%",
-    "gml_Object_obj_truechara_Step_0_global_msg_151": "我想看到她脸上的笑容。/"
+    "gml_Object_obj_truechara_Step_0_global_msg_151": "我想看到她脸上的笑容。/",
+    "gml_Object_obj_multitileevent_Step_0_global_msg_80": "\\TS \\F0 \\E0 \\T0 %",
+    "gml_Object_obj_multitileevent_Step_0_global_msg_83": "\\TS \\F0 \\E0 \\TM %",
+    "gml_Object_obj_papyrussign_Alarm_0_global_msg_6": "\\TS \\F0 \\F4 \\TP %",
+    "gml_Object_obj_papyrussign_Alarm_0_global_msg_8": "\\TS \\F0 \\F3 \\Ts %"
 }
