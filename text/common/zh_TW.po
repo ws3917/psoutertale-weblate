@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-23 04:13+0000\n"
-"PO-Revision-Date: 2025-07-23 04:13+0000\n"
-"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"PO-Revision-Date: 2025-07-23 04:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://"
 "translate.ws3917.space/projects/ps-outertale/6-common/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid "The player did everything they could..."
 msgstr "那個玩家，已經竭盡全力..."
 
@@ -492,7 +491,6 @@ msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr ""
 "<25>{#p/basic}（再次祝賀你！）\n"
 "（拜拜！）"
-
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr "<32>{#s/phone}{#p/event}* 鈴鈴，鈴鈴..."
