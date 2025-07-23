@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-23 04:12+0000\n"
+"PO-Revision-Date: 2025-07-23 04:12+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Japanese <https://translate.ws3917.space/projects/"
+"ps-outertale/6-common/ja/>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "The player did everything they could..."
 msgstr ""
@@ -47,7 +62,8 @@ msgstr "<18>{#p/human}＊(ぜんしょうきちは　ねたときと　おなじ
 msgid ""
 "<32>{#p/human}* (You explore every corner of the outpost for signs of life, "
 "but nobody comes.)"
-msgstr "<18>{#p/human}＊(せいめいの　ちょうこうのために　あらゆるかくを　たんけんします　しかし　だれもこなかった)"
+msgstr "<18>{#p/human}＊(せいめいの　ちょうこうのために　あらゆるかくを　"
+"たんけんします　しかし　だれもこなかった)"
 
 msgid "<32>{#p/human}* (You search again, and again, and again...)"
 msgstr "<18>{#p/human}＊(なんども　なーんども…)"
@@ -365,8 +381,6 @@ msgstr ""
 msgid "<25>{#p/basic}(Congratulations and goodbyes!)"
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "<32>{#s/phone}{#p/event}* Ring, ring..."
 msgstr ""
