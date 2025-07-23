@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-23 04:14+0000\n"
-"PO-Revision-Date: 2025-07-23 04:14+0000\n"
+"PO-Revision-Date: 2025-07-23 04:31+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Armenian <https://translate.ws3917.space/projects/"
 "ps-outertale/2-starton/hy/>\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 5.10.4\n"
 
 #
-
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
 msgstr ""
@@ -4906,7 +4905,6 @@ msgstr ""
 
 msgid "SAVE YOURSELVES..."
 msgstr ""
-
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
