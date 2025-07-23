@@ -1,12 +1,25 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-23 04:12+0000\n"
+"PO-Revision-Date: 2025-07-23 04:12+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://translate.ws3917.space/projects/ps-outertale/"
+"7-values/de/>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid "en_US"
 msgstr "de_DE"
 
-msgid ""
-msgstr ""
 
 msgid "You must choose a name."
 msgstr "Du musst einen Namen wählen."
@@ -74,8 +87,7 @@ msgstr ""
 "Möge Ihr Einfallsreichtum die Herausforderungen auf Ihrer Reise meistern."
 
 msgid "A confident mindset will take you far on your journey."
-msgstr ""
-"Eine selbstbewusste Einstellung wird Sie auf Ihrer Reise weit bringen."
+msgstr "Eine selbstbewusste Einstellung wird Sie auf Ihrer Reise weit bringen."
 
 msgid "May your inginuity surpass the challanges on your journey."
 msgstr ""
@@ -121,8 +133,7 @@ msgid "May the experience provide the sustenance you require."
 msgstr "Möge Ihnen dieses Erlebnis die nötige Kraft geben."
 
 msgid "May your story bring forth the emotion you strive to feel."
-msgstr ""
-"Möge Ihre Geschichte die Emotionen hervorrufen, die Sie spüren möchten."
+msgstr "Möge Ihre Geschichte die Emotionen hervorrufen, die Sie spüren möchten."
 
 msgid "May your choices be as effortless as they come."
 msgstr "Mögen Ihre Entscheidungen so mühelos wie möglich sein."
@@ -138,8 +149,7 @@ msgid "May your fortune carry you forward on your journey."
 msgstr "Möge Ihr Glück Sie auf Ihrer Reise weitertragen."
 
 msgid "May the tapestry of chaos and order please you on your journey."
-msgstr ""
-"Möge Ihnen das Geflecht aus Chaos und Ordnung auf Ihrer Reise gefallen."
+msgstr "Möge Ihnen das Geflecht aus Chaos und Ordnung auf Ihrer Reise gefallen."
 
 msgid ""
 "Take heart.\n"
@@ -199,8 +209,7 @@ msgid "Well... I suppose that works..."
 msgstr "Nun... ich denke, das funktioniert..."
 
 msgid "I think you should think of your own name, my child."
-msgstr ""
-"Ich denke, du solltest über deinen eigenen Namen nachdenken, mein Kind."
+msgstr "Ich denke, du solltest über deinen eigenen Namen nachdenken, mein Kind."
 
 msgid "Really..."
 msgstr "Wirklich..."
