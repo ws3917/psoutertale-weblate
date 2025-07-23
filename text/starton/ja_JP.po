@@ -1,6 +1,21 @@
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-23 04:08+0000\n"
+"PO-Revision-Date: 2025-07-23 04:08+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Japanese <https://translate.ws3917.space/projects/"
+"ps-outertale/2-starton/ja/>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
 
 msgid ""
 "<32>{#p/basic}* A standard-issue CITADEL long- range telescope, circa 261X."
@@ -4893,8 +4908,6 @@ msgstr ""
 msgid "SAVE YOURSELVES..."
 msgstr ""
 
-msgid ""
-msgstr ""
 
 msgid "FAILED TO CONNECT..."
 msgstr ""
@@ -5150,7 +5163,8 @@ msgid "<18>{#f/4}YOU MUST BE REALLY SERIOUS ABOUT THIS..."
 msgstr "<5>{#f/4}きさま、　どうやら　ホンキ　らしいな…"
 
 msgid "<18>{#f/5}I'LL HAVE TO TAKE YOU SOMEPLACE REALLY SPECIAL..."
-msgstr "<5>{#f/5}なら、　きさまを　とって　おきの　ばしょへ、　つれて　いかねば　ならん…"
+msgstr "<5>{#f/5}なら、　きさまを　とって　おきの　ばしょへ、　つれて　いかねば　"
+"ならん…"
 
 msgid "<18>{#f/0}A PLACE I LIKE TO SPEND A LOT OF TIME!!!"
 msgstr "<5>{#f/0}オレさまが　よくいく　ばしょだ！"
@@ -5174,7 +5188,8 @@ msgid "<18>{#p/papyrus}{#f/5}WOWIE, I CAN'T FEEL MY LEGS..."
 msgstr ""
 
 msgid "<18>{#f/0}THAT MUST MEAN I'M BEING A GREAT HOST!!!"
-msgstr "<5>{#f/0}ってことは　オレさまは　いま、　さいこうの　おもてなし　を　してるって　ことだな！"
+msgstr "<5>{#f/0}ってことは　オレさまは　いま、　さいこうの　おもてなし　を　"
+"してるって　ことだな！"
 
 msgid "<18>{#p/papyrus}THAT'S MY ROOM!"
 msgstr ""
@@ -5274,13 +5289,15 @@ msgid ""
 "<15>{#f/25}STEP ONE: PRESS C OR CTRL TO OPEN THE {@fill=#f00}DATING "
 "HUD{@fill=#000}."
 msgstr ""
-"<5>{#f/25}ステップ一　キーボード　で、　Ｃキーを　おすと、　{@fill=#f00}デート用　メニュー{@fill=#000}が　ひらき&ます…"
+"<5>{#f/25}ステップ一　キーボード　で、　Ｃキーを　おすと、　{@fill=#f00}"
+"デート用　メニュー{@fill=#000}が　ひらき&ます…"
 
 msgid ""
 "<15>{#f/25}STEP ONE: PRESS C OR CTRL TO OPEN THE {@fill=#f00}FRIENDSHIP "
 "HUD{@fill=#000}."
 msgstr ""
-"<5>{#f/25}ステップ一　キーボード　で、　Ｃキーを　おすと、　{@fill=#f00}まったり用　メニュー{@fill=#000}が　ひらき&ます…"
+"<5>{#f/25}ステップ一　キーボード　で、　Ｃキーを　おすと、　{@fill=#f00}"
+"まったり用　メニュー{@fill=#000}が　ひらき&ます…"
 
 msgid "<15>{#p/papyrus}{#f/24}... WAIT."
 msgstr ""
