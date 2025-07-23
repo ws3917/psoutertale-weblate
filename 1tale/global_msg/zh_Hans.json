@@ -964,10 +964,10 @@
     "gml_Object_obj_testdialougeos_Alarm_0_global_msg_83": "\\Tt * TWM^1, lalalalala/%%",
     "gml_Object_obj_townnpc_batty_Alarm_0_global_msg_11": "酷炫弹窗？？/%%",
     "gml_Object_obj_wanderparent_Alarm_0_global_msg_48": "* 这是扫地机，\n  一只可爱的清洁小精灵。/",
-    "gml_Object_obj_mewmew_boss_Step_0_global_msg_25": "",
+    "gml_Object_obj_mewmew_boss_Step_0_global_msg_25": "\\E0未使用喵~/%",
     "gml_Object_obj_testdialouge_Alarm_0_global_msg_37": "",
     "gml_Object_obj_testdialouge_Alarm_0_global_msg_33": "",
-    "gml_Object_obj_townnpc_cytra_Alarm_0_global_msg_34": "",
+    "gml_Object_obj_townnpc_cytra_Alarm_0_global_msg_34": "* 我终于能开那家\n  bepis店了。/",
     "gml_Object_obj_townnpc_Flicky_Alarm_0_global_msg_19": "",
     "gml_Object_obj_townnpc_Flicky_Alarm_0_global_msg_20": "",
     "gml_Object_obj_townnpc_shovelguy_Alarm_0_global_msg_18": "",
@@ -976,5 +976,5 @@
     "gml_Object_obj_vsflowey_heart_Create_0_global_msg_11": "",
     "gml_Object_obj_vsflowey_heart_Create_0_global_msg_9": "",
     "gml_Object_obj_vsflowey_heart_Create_0_global_msg_12": "",
-    "gml_Object_obj_sans_room_Alarm_0_global_msg_24": ""
+    "gml_Object_obj_sans_room_Alarm_0_global_msg_24": "\\E0* 真奇怪，这一切\n  就像凑巧一样\n  把这块堵住了。/%%"
 }
