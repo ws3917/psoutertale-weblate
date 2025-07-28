@@ -25,7 +25,7 @@
         "HypotheticalDescription": "<color=grey>我们做如此\n猜想...\n\n</color>"
     },
     "NewMainMenu_QuitSubMenu": {
-        "HypotheticalDescription": "<b>你确定你想要退出吗？</b>\n"
+        "HypotheticalDescription": "<b>你确定要退出吗？</b>\n"
     },
     "HypothesisName": {
         "1": "幕后琐事",
