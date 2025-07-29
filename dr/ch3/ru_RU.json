@@ -13600,7 +13600,7 @@
     "obj_dw_ch3_b3bs_zappera_trashswitch_slash_Step_0_gml_44_0": "\nЗалезть\nв мусорку",
     "obj_dw_ch3_b3bs_zappera_trashswitch_slash_Step_0_gml_45_0_b": "Оставить\nмусорку\nв покое",
     "obj_gameshow_battlemanager_slash_Draw_0_gml_129_0": "",
-    "obj_pippins_enemy_slash_Step_0_gml_324_0": "",
+    "obj_pippins_enemy_slash_Step_0_gml_324_0": "* У вас недостаточно баллов для подкупа пиппинса!",
     "obj_screen_channel_change_slash_Other_12_gml_122_0": "",
     "obj_tenna_enemy_minigametext_slash_Create_0_gml_3_0": "",
     "obj_board_npc_slash_Other_10_gml_218_0": "В ПУСТЫНЕ ПЯТЬ КЛЮЧЕЙ, НО ВАМ НУЖНО ТОЛЬКО ТРИ.",
