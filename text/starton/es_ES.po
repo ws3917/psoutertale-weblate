@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-07-30 02:38+0000\n"
+"PO-Revision-Date: 2025-07-30 19:28+0000\n"
 "Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -6168,43 +6168,44 @@ msgid "<18>{#f/5}TRUTH BE TOLD, IT'S BEEN A LITTLE LONELY TODAY..."
 msgstr "<18>{#f/5}A DECIR VERDAD, HOY HA ESTADO UN POCO SOLITARIO..."
 
 msgid "<18>{#f/5}A LOT OF PEOPLE ARE STRANGELY ABSENT..."
-msgstr "<18>{#f/5}¡UN MONTÓN DE GENTE ESTÁ EXTRAÑAMENTE AUSENTE...!"
+msgstr "<18>{#f/5}UN MONTÓN DE GENTE ESTÁ EXTRAÑAMENTE AUSENTE..."
 
 msgid "<18>{#f/0}BUT YOU'RE STILL HERE!!"
-msgstr ""
+msgstr "<18>{#f/0}¡¡PERO TÚ SIGUES AQUÍ!!"
 
 msgid "<18>{#f/0}THAT MEANS SOMETHING, RIGHT??"
-msgstr ""
+msgstr "<18>{#f/0}ESO SIGNIFICA ALGO, ¿¿CIERTO??"
 
 msgid "<18>{#f/4}YOU MUST BE REALLY SERIOUS ABOUT THIS..."
-msgstr ""
+msgstr "<18>{#f/4}DEBES ESTAR REALMENTE COMPROMETIDO CON ESTO..."
 
 msgid "<18>{#f/5}I'LL HAVE TO TAKE YOU SOMEPLACE REALLY SPECIAL..."
-msgstr ""
+msgstr "<18>{#f/5}TENDRÉ QUE LLEVARTE A UN LUGAR MUY ESPECIAL..."
 
 msgid "<18>{#f/0}A PLACE I LIKE TO SPEND A LOT OF TIME!!!"
-msgstr ""
+msgstr "<18>{#f/0}¡¡¡UN LUGAR EN EL QUE ME GUSTA PASAR MUCHO TIEMPO!!!"
 
 msgid "<18>{#p/papyrus}MY HOUSE!!!"
 msgstr "<18>{#p/papyrus}¡¡¡MI CASA!!!"
 
 msgid "<18>{#p/papyrus}WELCOME TO SCENIC MY HOUSE!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡BIENVENIDO A MI HERMOSA CASA!"
 
 msgid "<18>ENJOY AND TAKE YOUR TIME!!!"
-msgstr ""
+msgstr "<18>¡¡¡DISFRUTA Y TÓMATE TU TIEMPO!!!"
 
 msgid "<18>{#p/papyrus}WHEN YOU'RE DONE, HEAD UPSTAIRS TO MY ROOM!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡CUANDO TERMINES, SUBE A MI HABITACIÓN!"
 
 msgid "<18>{#p/papyrus}{#f/6}WOW! BEING A GOOD HOST IS A REAL WORKOUT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/6}¡GUAU! ¡SER UN BUEN ANFITRIÓN ES TODO UN EJERCICIO!"
 
 msgid "<18>{#p/papyrus}{#f/5}WOWIE, I CAN'T FEEL MY LEGS..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}GUAU, NO SIENTO MIS PIERNAS..."
 
 msgid "<18>{#f/0}THAT MUST MEAN I'M BEING A GREAT HOST!!!"
-msgstr ""
+msgstr "<18>{#f/0}¡¡¡ESO DEBE SIGNIFICAR QUE ESTOY SIENDO UN GRAN ANFITRIÓN!!!"
 
 msgid "<18>{#p/papyrus}THAT'S MY ROOM!"
 msgstr ""
