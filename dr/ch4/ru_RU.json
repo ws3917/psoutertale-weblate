@@ -7804,7 +7804,7 @@
     "obj_zapper_enemy_slash_Step_0_gml_133_0": "* Кнопки пуллета стали мягче.",
     "obj_zapper_enemy_slash_Step_0_gml_139_0": "* Пуллету мерещится Ланино.",
     "obj_zapper_enemy_slash_Step_0_gml_145_0": "* Пуллет поинфракраснел.",
-    "obj_zapper_enemy_slash_Step_0_gml_184_0": "* ПУЛЛЕТ: АТК ~1, ЗЩТ ~2.\n* Когда он переключает канал — никогда не знаешь, где очутишься.",
+    "obj_zapper_enemy_slash_Step_0_gml_184_0": "* ПУЛЛЕТ: Когда он переключает канал — никогда не знаешь, где очутишься.",
     "obj_zapper_enemy_slash_Step_0_gml_198_0": "* Вы увеличили громкость!",
     "obj_zapper_enemy_slash_Step_0_gml_207_0": "* Снаряды стали мощнее! Уворачивайтесь вплотную к ним, чтобы повысить ПН!",
     "obj_zapper_enemy_slash_Step_0_gml_230_0": "* ...",
