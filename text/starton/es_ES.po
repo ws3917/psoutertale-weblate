@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-01 02:38+0000\n"
+"PO-Revision-Date: 2025-08-01 20:58+0000\n"
 "Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -6667,7 +6667,7 @@ msgid "<15>{#f/10}ONLY HARD WORK AND PERSEVERANCE!"
 msgstr "<15>{#f/10}¡SOLO TRABAJO DURO Y PERSEVERANCIA!"
 
 msgid "<15>{#p/papyrus}{#f/24}THIS \"DRIP\" MAY BE UNDE- FEET-ABLE..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}ESTE \"ESTILO\" PUEDE SER IN-PIERNA-CIBLE..."
 
 msgid "<15>{#f/20}BUT EXPECTING A SECRET HERE IS TOTALLY UNREASONABLE!"
 msgstr "<15>{#f/20}¡PERO ESPERAR UN SECRETO AQUÍ ES TOTALMENTE IRRAZONABLE!"
@@ -6715,7 +6715,7 @@ msgid ""
 "<15>{#p/papyrus}{#f/24}IF YOUR {@fill=#f00}LV{@fill=#000} IS THIS HIGH, "
 "THEN..."
 msgstr ""
-"<15>{#p/papyrus}{#f/24}SI TU {@fill=#f00}LV{@fill=#000} ES ASÍ DE ALTO, "
+"<15>{#p/papyrus}{#f/24}SI TU {@fill=#f00}NV{@fill=#000} ES ASÍ DE ALTO, "
 "ENTONCES..."
 
 msgid ""
@@ -6736,10 +6736,10 @@ msgid "<15>{#f/24}STILL, THAT'S YOUR SECRET, NOT MINE."
 msgstr "<15>{#f/24}AÚN ASÍ, ESE ES TU SECRETO, NO EL MÍO."
 
 msgid "<15>{#p/papyrus}{#f/24}AN {@fill=#f00}LV{@fill=#000} OF TWO?"
-msgstr "<15>{#p/papyrus}{#f/24}¿UN {@fill=#f00}LV{@fill=#000} DE DOS?"
+msgstr "<15>{#p/papyrus}{#f/24}¿UN {@fill=#f00}NV{@fill=#000} DE DOS?"
 
 msgid "<15>{#f/27}DOES THAT MEAN..."
-msgstr "<15>{#f/27}¿ESO SIGNIFICA..."
+msgstr "<15>{#f/27}ESO SIGNIFICA..."
 
 msgid ""
 "<15>{#f/28}YOU HAVE A SECRET SECOND {@fill=#f00}LOVE{@fill=#000} "
@@ -6768,10 +6768,10 @@ msgstr ""
 "¡NO SUCUMBIRÉ A TUS TRUCOS!"
 
 msgid "<15>{#p/papyrus}{#f/24}AN {@fill=#f00}LV{@fill=#000} OF ONE?"
-msgstr "<15>{#p/papyrus}{#f/24}¿UN {@fill=#f00}LV{@fill=#000} DE UNO?"
+msgstr "<15>{#p/papyrus}{#f/24}¿UN {@fill=#f00}NV{@fill=#000} DE UNO?"
 
 msgid "<15>{#f/26}DOES THAT MEAN..."
-msgstr "<15>{#f/26}¿ESO SIGNIFICA..."
+msgstr "<15>{#f/26}ESO SIGNIFICA..."
 
 msgid "<15>{#f/28}THAT I'M YOUR ONE TRUE {@fill=#f00}LOVE{@fill=#000}...?"
 msgstr ""
@@ -6788,10 +6788,10 @@ msgstr ""
 "¡NO SUCUMBIRÉ A TUS TRUCOS!"
 
 msgid "<15>{#p/papyrus}{#f/24}AN {@fill=#f00}LV{@fill=#000} OF ZERO?"
-msgstr "<15>{#p/papyrus}{#f/24}¿UN {@fill=#f00}LV{@fill=#000} DE CERO?"
+msgstr "<15>{#p/papyrus}{#f/24}¿UN {@fill=#f00}NV{@fill=#000} DE CERO?"
 
 msgid "<15>{#f/26}OKAY, THAT'S WEIRD."
-msgstr "<15>{#f/26}BIEN, ES ES RARO."
+msgstr "<15>{#f/26}BIEN, ESO ES RARO."
 
 msgid ""
 "<15>{#f/21}SANS TOLD ME A HUMAN'S {@fill=#f00}LOVE{@fill=#000} STARTS AT "
@@ -6952,15 +6952,17 @@ msgid ""
 "<15>{#f/15}HUMAN!!!\n"
 "IT'S TIME TO END THIS!!"
 msgstr ""
+"<15>{#f/15}¡¡¡HUMANO!!!\n"
+"¡¡ES HORA DE TERMINAR CON ESTO!!"
 
 msgid "<15>THERE'S NO WAY THIS CAN GO ANY FURTHER!"
-msgstr ""
+msgstr "<15>¡NO HAY MANERA DE QUE ESTO CONTINÚE!"
 
 msgid "<15>{#f/20}LET'S EAT THIS SPAGHETTI TOGETHER!!!"
-msgstr ""
+msgstr "<15>{#f/20}¡¡¡COMAMOS ESTE ESPAGUETI JUNTOS!!!"
 
 msgid "<15>{#f/20}FEAST UPON MY ULTIMATE TECHNIQUE!!!"
-msgstr ""
+msgstr "<15>{#f/20}¡¡¡DELEITATE CON MI TÉCNICA DEFINITIVA!!!"
 
 msgid "Eat it"
 msgstr "Comerlo"
@@ -6969,63 +6971,67 @@ msgid ""
 "<32>{#p/human}* (You take a small bite.)\n"
 "* (You appear to be blushing from the taste.)"
 msgstr ""
+"<32>{#p/human}* (Le das un pequeño bocado.)\n"
+"* (Parece que estás sonrojándote por el sabor.)"
 
 msgid "<32>{#p/basic}* It's unbelievable...!"
-msgstr ""
+msgstr "<32>{#p/basic}* ¡Es increíble...!"
 
 msgid "<32>{#p/basic}* Papyrus seems to have enjoyed his bite just the same."
 msgstr ""
+"<32>{#p/basic}* Papyrus parece haber disfrutado de su bocado de la misma "
+"manera."
 
 msgid "<15>{#p/papyrus}{#f/10}WHAT A PASSIONATE EXPRESSION!!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/10}¡¡¡QUE EXPRESIÓN TAN APASIONADA!!!"
 
 msgid "<15>{#f/12}YOU MUST REALLY LOVE MY COOKING!"
-msgstr ""
+msgstr "<15>{#f/12}¡REALMENTE DEBES AMAR MI COCINA!"
 
 msgid "<15>{#f/12}YOU MUST REALLY LIKE MY COOKING!"
-msgstr ""
+msgstr "<15>{#f/12}¡REALMENTE DEBE GUSTARTE MI COCINA!"
 
 msgid "<15>{#f/24}WELL, I DID TOO..."
-msgstr ""
+msgstr "<15>{#f/24}BUENO, YO TAMBIÉN LO HICE..."
 
 msgid "<15>{#f/20}BUT I THINK YOU LOVED IT EVEN MORE THAN ME!!!"
-msgstr ""
+msgstr "<15>{#f/20}¡¡¡PERO CREO QUE A TI TE ENCANTÓ INCLUSO MÁS QUE A MÍ!!!"
 
 msgid "<15>{#f/20}BUT I THINK YOU LIKED IT EVEN MORE THAN ME!!!"
-msgstr ""
+msgstr "<15>{#f/20}¡¡¡PERO CREO QUE A TI TE GUSTÓ INCLUSO MÁS QUE A MÍ!!!"
 
 msgid "<15>{#f/10}AND BY EXTENSION, ME!"
-msgstr ""
+msgstr "<15>{#f/10}¡Y POR EXTENSIÓN, A MÍ!"
 
 msgid "<15>{#f/20}MAYBE EVEN MORE THAN I DO!!!"
-msgstr ""
+msgstr "<15>{#f/20}¡¡¡QUIZÁS INCLUSO MÁS QUE YO!!!"
 
 msgid "<15>{#f/27}BUT... THAT'S IMPOSSIBLE...!"
-msgstr ""
+msgstr "<15>{#f/27}PERO... ¡ESO ES IMPOSIBLE...!"
 
 msgid "<15>{#f/12}HOW DID YOU DO THAT!?!?"
-msgstr ""
+msgstr "<15>{#f/12}¿¡¿¡CÓMO HICISTE ESO!?!?"
 
 msgid "<15>{#p/papyrus}{#f/21}YOU MEAN..."
 msgstr "<15>{#p/papyrus}{#f/21}QUIERES DECIR..."
 
 msgid "<15>{#f/18}YOU'RE LETTING ME HAVE IT INSTEAD?"
-msgstr ""
+msgstr "<15>{#f/18}¿ME LO ESTÁS DANDO A MÍ EN SU LUGAR?"
 
 msgid "<15>{#f/24}I THOUGHT WHEN YOU SAID YOU WERE SHARING..."
-msgstr ""
+msgstr "<15>{#f/24}PENSÉ QUE CUANDO DIJISTE QUE IBAS A COMPARTIR..."
 
 msgid "<15>{#f/20}YOU WOULD AT LEAST WANT A LITTLE FOR YOURSELF."
-msgstr ""
+msgstr "<15>{#f/20}AL MENOS QUERRÍAS UN POCO PARA TI."
 
 msgid "<15>{#f/27}BUT NO, ALL THIS TIME..."
-msgstr ""
+msgstr "<15>{#f/27}PERO NO, TODO ESTE TIEMPO..."
 
 msgid "<15>{#f/12}YOU WANTED ME, -ME-, TO HAVE IT ALL!!!"
-msgstr ""
+msgstr "<15>{#f/12}¡¡¡QUERÍAS QUE YO, -YO-, ME LO QUEDARA TODO!!!"
 
 msgid "<15>{#f/21}EVEN AFTER WHAT YOU SAID BEFORE..."
-msgstr ""
+msgstr "<15>{#f/21}INCLUSO DESPUÉS DE LO QUE DIJISTE ANTES..."
 
 msgid "<15>{#f/21}ABOUT WANTING MY SPAGHETTI FOR YOURSELF..."
 msgstr ""
