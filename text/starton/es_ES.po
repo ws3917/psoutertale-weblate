@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-03 21:59+0000\n"
+"PO-Revision-Date: 2025-08-04 02:08+0000\n"
 "Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -8072,13 +8072,13 @@ msgid "<18>{#f/7}IS A CHALLENGE FAR TOO CONTRIVED!"
 msgstr "<18>{#f/7}¡ES UN RETO DEMASIADO ARTIFICIOSO!"
 
 msgid "<18>AWAY IT GOES!!"
-msgstr "<18>¡¡ALLA VAMOS!!"
+msgstr "<18>¡¡ALLÁ VA!!"
 
 msgid "<18>{#p/papyrus}{#f/7}WHAT ARE YOU LOOKING AT!?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¿¡QUE ESTÁS MIRANDO?!"
 
 msgid "<18>{#f/9}THIS WAS ANOTHER DECISIVE VICTORY FOR PAPYRUS!!"
-msgstr ""
+msgstr "<18>{#f/9}¡¡ESTA FUE OTRA VICTORIA DECISIVA PARA PAPYRUS!!"
 
 msgid "<18>NYEH!"
 msgstr "<18>¡NYEH!"
@@ -8093,111 +8093,114 @@ msgid "<23>{#p/papyrus}{#f/30}HUMAN."
 msgstr "<23>{#p/papyrus}{#f/30}HUMANO."
 
 msgid "<23>ALLOW ME TO TELL YOU ABOUT SOME COMPLEX FEELINGS."
-msgstr ""
+msgstr "<23>PERMÍTEME HABLARTE DE UNOS SENTIMIENTOS MUY COMPLEJOS."
 
 msgid "<23>FEELINGS LIKE..."
 msgstr "<23>SENTIMIENTOS COMO..."
 
 msgid "<23>THE SADNESS OF LOSING SOMEONE SPECIAL."
-msgstr ""
+msgstr "<23>LA TRISTEZA DE PERDER A ALGUIEN ESPECIAL."
 
 msgid "<23>THE GUILT OF NOT BEING ABLE TO SAVE THEM."
-msgstr ""
+msgstr "<23>LA CULPA DE NO SER CAPAZ DE SALVARLO."
 
 msgid "<23>THE DESIRE TO SEE THEM ONE LAST TIME."
-msgstr ""
+msgstr "<23>EL DESEO DE VERLO UNA ÚLTIMA VEZ."
 
 msgid "<23>THESE FEELINGS..."
 msgstr "<23>ESOS SENTIMIENTOS..."
 
 msgid "<23>THE STRESS OF KNOWING SO MANY PEOPLE HAVE BEEN KILLED."
-msgstr ""
+msgstr "<23>EL ESTRÉS DE SABER QUE TANTA GENTE HA SIDO ASESINADA."
 
 msgid "<23>THE HOPELESSNESS OF THINKING YOU CAN'T DO ANYTHING TO STOP IT."
-msgstr ""
+msgstr "<23>LA DESESPERANZA DE SABER QUE NO PUEDES HACER NADA PARA DETENERLO."
 
 msgid "<23>THE DESIRE TO MAKE A CHANGE FOR THE BETTER."
-msgstr ""
+msgstr "<23>EL DESEO DE HACER UN CAMBIO PARA MEJOR."
 
 msgid "<23>THE JOY OF FINDING ANOTHER PASTA LOVER."
-msgstr ""
+msgstr "<23>LA ALEGRÍA DE ENCONTRAR A OTRO AMANTE DE LA PASTA."
 
 msgid "<23>THE ADMIRATION FOR ANOTHER'S PUZZLE- SOLVING SKILLS."
-msgstr ""
+msgstr "<23>LA ADMIRACIÓN POR LAS HABILIDADES DE OTRO PARA RESOLVER PUZLES."
 
 msgid "<23>THE DESIRE TO HAVE A COOL, SMART PERSON THINK YOU ARE COOL."
 msgstr ""
+"<23>EL DESEO DE QUE UNA PERSONA GUAY E INTELIGENTE PIENSE QUE ERES GUAY."
 
 msgid "<18>{#f/31}THEY MUST BE WHAT YOU ARE FEELING, RIGHT NOW."
-msgstr ""
+msgstr "<18>{#f/31}DEBEN SER LO QUE ESTÁS SINTIENDO, AHORA MISMO."
 
 msgid "<18>{#f/32}I CAN HARDLY IMAGINE WHAT THAT MUST FEEL LIKE..."
-msgstr ""
+msgstr "<18>{#f/32}APENAS PUEDO IMAGINAR CÓMO DEBE SENTIRSE ESO..."
 
 msgid "<18>{#f/6}AFTER ALL, I AM VERY... GREAT..."
-msgstr ""
+msgstr "<18>{#f/6}DESPUÉS DE TODO, SOY MUY... GENIAL..."
 
 msgid "<18>{#f/32}{#x1}..."
 msgstr "<18>{#f/32}{#x1}..."
 
 msgid "<18>{#f/31}DESPITE EVERYTHING THAT HAS HAPPENED, I STILL..."
-msgstr ""
+msgstr "<18>{#f/31}A PESAR DE TODO LO QUE HA PASADO, AÚN..."
 
 msgid "<18>{#f/5}I STILL BELIEVE IN YOU, HUMAN."
-msgstr ""
+msgstr "<18>{#f/5}AÚN CREO EN TI, HUMANO."
 
 msgid "<18>{#f/31}I KNOW YOU CAN DO BETTER."
-msgstr ""
+msgstr "<18>{#f/31}SÉ QUE PUEDES SER MEJOR."
 
 msgid "<18>{#f/31}I KNOW YOU HAVE IT IN YOU TO CHANGE."
-msgstr ""
+msgstr "<18>{#f/31}SÉ QUE TIENES DENTRO DE TI EL PODER DE CAMBIAR."
 
 msgid "<18>{#f/4}NO MATTER WHAT RIDICULOUS THING 'ASRIEL' SAYS..."
-msgstr ""
+msgstr "<18>{#f/4}SIN IMPORTAR QUÉ RIDICULEZ DIGA 'ASRIEL'..."
 
 msgid "<18>{#f/5}NO MATTER HOW IRREDEEMABLE YOU THINK YOU ARE..."
-msgstr ""
+msgstr "<18>{#f/5}SIN IMPORTAR QUÉ TAN IRREDIMIBLE CREAS QUE ERES..."
 
 msgid "<18>{#f/6}{#x2}I KNOW, DEEP DOWN, THERE'S STILL GOOD IN YOU!"
-msgstr ""
+msgstr "<18>{#f/6}{#x2}¡SÉ QUE, EN EL FONDO, AÚN HAY BONDAD EN TI!"
 
 msgid "<18>{#f/0}SO LET ME HELP YOU FIND THAT GOODNESS."
-msgstr ""
+msgstr "<18>{#f/0}ASÍ QUE DÉJAME AYUDARTE A ENCONTRAR ESA BONDAD."
 
 msgid "<18>{#f/0}LET ME HELP YOU DISCOVER YOUR TRUE POTENTIAL."
-msgstr ""
+msgstr "<18>{#f/0}DÉJAME AYUDARTE A DESCUBRIR TU VERDADERO POTENCIAL."
 
 msgid "<18>{#f/4}AND MOST OF ALL..."
-msgstr ""
+msgstr "<18>{#f/4}Y SOBRE TODO..."
 
 msgid "<18>{#f/9}LET ME SHOW YOU THAT YOU CAN STILL BE GREAT!!!"
-msgstr ""
+msgstr "<18>{#f/9}¡¡¡DÉJAME MOSTRARTE QUE AÚN PUEDES SER GRANDIOSO!!!"
 
 msgid "<18>{#f/0}I, PAPYRUS, WELCOME YOU WITH OPEN ARMS!"
-msgstr ""
+msgstr "<18>{#f/0}¡YO, PAPYRUS, TE DOY LA BIENVENIDA CON LOS BRAZOS ABIERTOS!"
 
 msgid "<18>{#f/0}THEY MUST BE WHAT YOU ARE FEELING RIGHT NOW!!"
-msgstr ""
+msgstr "<18>{#f/0}¡¡DEBEN SER LO QUE ESTÁS SINTIENDO AHORA MISMO!!"
 
 msgid "<18>{#f/4}I CAN HARDLY IMAGINE WHAT THAT MUST FEEL LIKE."
-msgstr ""
+msgstr "<18>{#f/4}A PENAS PUEDO IMAGINAR COMO DEBE SENTIRSE ESO."
 
 msgid "<18>{#f/4}AFTER ALL, I AM VERY GREAT."
-msgstr ""
+msgstr "<18>{#f/4}DESPUÉS DE TODO, SOY MUY GENIAL."
 
 msgid "<18>I NEVER WONDER WHAT HAVING MANY FRIENDS IS LIKE."
-msgstr ""
+msgstr "<18>NUNCA ME PREGUNTO CÓMO ES TENER MUCHOS AMIGOS."
 
 msgid "<18>{#f/5}I PITY YOU, LONELY HUMAN..."
-msgstr ""
+msgstr "<18>{#f/5}TE COMPADEZCO, HUMANO SOLITARIO.."
 
 msgid ""
 "<18>{#f/0}BUT WORRY NOT!!!\n"
 "YOU SHALL BE LONELY NO LONGER!"
 msgstr ""
+"<18>{#f/0}¡¡¡PERO NO TE PREOCUPES!!!\n"
+"¡YA NO ESTARÁS SOLO!"
 
 msgid "<18>{#f/9}FOR I, THE GREAT PAPYRUS, WILL BE YOUR..."
-msgstr ""
+msgstr "<18>{#f/9} PORQUE YO, EL GRAN PAPYRUS, SERÁ TU..."
 
 msgid "<18>{#f/5}{#x1}..."
 msgstr "<18>{#f/5}{#x1}..."
@@ -8206,18 +8209,20 @@ msgid "<18>NO..."
 msgstr "<18>NO..."
 
 msgid "<18>{#f/7}{#x2}NO, THIS IS ALL WRONG!"
-msgstr ""
+msgstr "<18>{#f/7}{#x2}¡NO, TODO ESTO ESTÁ MAL!"
 
 msgid "<18>I CAN'T BE YOUR \"FRIEND...\""
-msgstr ""
+msgstr "<18>NO PUEDO SER TU \"AMIGO...\""
 
 msgid ""
 "<18>YOU ARE A HUMAN!\n"
 "I MUST CAPTURE YOU!!!"
 msgstr ""
+"<18>¡ERES UN HUMANO!\n"
+"¡¡¡DEBO CAPTURARTE!!!"
 
 msgid "<18>{#f/9}THEN, I CAN FULFILL MY LIFELONG DREAM!!!"
-msgstr ""
+msgstr "<18>{#f/9}¡¡¡ENTONCES, PODRÉ CUMPLIR MI SUEÑO DE TODA LA VIDA!!!"
 
 msgid ""
 "<18>POWERFUL!\n"
@@ -8229,85 +8234,97 @@ msgstr ""
 "¡¡¡PRESTIGIOSO!!!"
 
 msgid "<18>THAT'S PAPYRUS!!!"
-msgstr ""
+msgstr "<18>¡¡¡ESE ES PAPYRUS!!!"
 
 msgid "<18>{#f/4}THE NEWEST MEMBER..."
 msgstr "<18>{#f/4}EL NUEVO MIEMBRO..."
 
 msgid "<18>{#f/9}OF THE ROYAL GUARD!!!"
-msgstr ""
+msgstr "<18>{#f/9}¡¡¡DE LA GUARDIA REAL!!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}WOWIE!\n"
 "YOU DID IT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/0}¡GUAU!\n"
+"¡LO LOGRASTE!"
 
 msgid "<18>{#p/papyrus}{#f/5}YOU DIDN'T DO A VIOLENCE!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}¡NO FUISTE VIOLENTO!"
 
 msgid "<18>{#p/papyrus}{#f/6}TO BE HONEST, I WAS A LITTLE AFRAID..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}PARA SER HONESTO, ESTABA UN POCO ASUSTADO..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}BUT YOU'RE ALREADY TAKING STEPS TO REDEEM YOURSELF!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}¡PERO YA ESTÁS DANDO PASOS PARA REDIMIRTE!"
 
 msgid "<18>{#p/papyrus}{#f/8}I'M SO PROUD OF YOU, HUMAN!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/8}¡ESTOY TAN ORGULLOSO DE TI, HUMANO!"
 
 msgid "<18>{#p/papyrus}{#f/4}... WAIT, WASN'T I SUPPOSED TO CAPTURE YOU?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}... ESPERA, ¿NO SE SUPONÍA QUE DEBÍA CAPTURARTE?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}OH WELL.\n"
 "IT'S NOT IMPORTANT RIGHT NOW."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}OH BUENO.\n"
+"NO ES IMPORTANTE AHORA MISMO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}I JUST WANT YOU TO BE THE BEST PERSON YOU CAN BE."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}SOLO QUIERO QUE SEAS LA MEJOR PERSONA QUE PUEDAS SER."
 
 msgid "<18>{#p/papyrus}{#f/5}LET'S LET BYBONES BE BYBONES, HUH?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DEJEMOS QUE LOS HUESOS SEAN HUESOS, ¿EH?"
 
 msgid "<18>{#p/papyrus}{#f/9}I'LL EVEN GIVE YOU DIRECTIONS TO THE EXIT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/9}¡INCLUSO TE DARÉ INDICACIONES PARA LLEGAR A LA SALIDA!"
 
 msgid "<18>{#p/papyrus}{#f/5}NYOO HOO HOO..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}NYOO JOO JOO..."
 
 msgid "<18>I WASN'T STRONG ENOUGH TO STOP YOU..."
-msgstr ""
+msgstr "<18>NO FUI LO SUFICIENTEMENTE FUERTE PARA DETENERTE..."
 
 msgid "<18>I CAN'T EVEN STOP SOMEONE AS WEAK AS YOU..."
-msgstr ""
+msgstr "<18>NI SIQUIERA PUEDO DETENER A ALGUIEN TAN DÉBIL COMO TÚ..."
 
 msgid "<18>{#f/7}UNDYNE'S GOING TO BE DISAPPOINTED!"
-msgstr ""
+msgstr "<18>{#f/7}¡UNDYNE VA A ESTAR DECEPCIONADA!"
 
 msgid "<18>{#f/5}I'LL NEVER JOIN THE ROYAL GUARD... AND..."
-msgstr ""
+msgstr "<18>{#f/5}NUNCA ME UNIRÉ A LA GUARDIA REAL... Y..."
 
 msgid "<18>{#f/7}MY FRIEND QUANTITY WILL REMAIN STAGNANT!"
-msgstr ""
+msgstr "<18>{#f/7}¡MI CANTIDAD DE AMIGOS PERMANECERÁ ESTANCADA!"
 
 msgid "* (How will you respond?)"
-msgstr ""
+msgstr "* (¿Cómo responderás?)"
 
 msgid ""
 "Let's be\n"
 "friends"
 msgstr ""
+"Seamos\n"
+"amigos"
 
 msgid ""
 "What a\n"
 "loser"
 msgstr ""
+"Qué\n"
+"perdedor"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}A-ARE YOU SURE?\n"
 "YOU WANT TO BE FRIENDS WITH ME?"
 msgstr ""
+"<18>{#p/papyrus}{#f/5}¿E-ESTÁS SEGURO?\n"
+"¿QUIERES QUE SEAMOS AMIGOS?"
 
 msgid "<18>{#f/6}EVEN AFTER THAT???"
 msgstr ""
