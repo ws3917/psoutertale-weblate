@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-07-30 19:28+0000\n"
-"Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
+"PO-Revision-Date: 2025-07-31 13:33+0000\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
@@ -647,7 +647,7 @@ msgid "<25>{#p/sans}{#f/2}* use it wisely."
 msgstr "<25>{#p/sans}{#f/2}* úsala con cuidado."
 
 msgid "<32>{#p/human}* (You're carrying too much.)"
-msgstr "<32>{#p/human}* (Llevas demasiado encima.)"
+msgstr "<32>{#p/human}* (Estás llevando demasiado.)"
 
 msgid "<25>{#p/sans}{#f/3}* no room, huh?"
 msgstr "<25>{#p/sans}{#f/3}* ¿no hay sitio, eh?"
@@ -741,7 +741,7 @@ msgid "<32>{#p/human}* (...)"
 msgstr "<32>{#p/human}* (...)"
 
 msgid "<32>{#p/human}* (You're carrying too much to reach inside.)"
-msgstr "<32>{#p/human}* (Llevas demasiado para alcanzar el interior.)"
+msgstr "<32>{#p/human}* (Estás llevando demasiado para alcanzar el interior.)"
 
 msgid "<32>{#p/basic}* Mom says that we're going to a new homeworld soon."
 msgstr "<32>{#p/basic}* Mamá dice que pronto iremos a un nuevo hogar natal."
@@ -1136,7 +1136,7 @@ msgid "<18>IF THEY ALSO FIND SUDOKU SO DIFFICULT!"
 msgstr "<18>¡SI ELLOS TAMBIÉN CREEN QUE EL SUDOKU ES DIFÍCIL!"
 
 msgid "<18>{#f/9}NYEH! HEH! HEH HEH!"
-msgstr "<18>{#f/9}¡NYE! ¡JE! ¡JE ¡JE!"
+msgstr "<18>{#f/9}¡NYEH! ¡JEH! ¡JEH JEH!"
 
 msgid "<18>{#p/papyrus}{#f/9}YOU TWO ARE WEIRD!"
 msgstr "<18>{#p/papyrus}{#f/9}¡VOSOTROS DOS SOIS RAROS!"
@@ -3323,7 +3323,7 @@ msgid "<32>* He usually orders the worst item off the menu..."
 msgstr "<32>* Normalmente pide lo peor del menú..."
 
 msgid "<32>* Except for earlier today..."
-msgstr "<32>* Excepto por hoy temprano..."
+msgstr "<32>* A excepción de hoy..."
 
 msgid "<32>* ... when he ordered the SECOND worst item off the menu instead."
 msgstr "<32>* ... cuando pidió lo SEGUNDO peor del menú en su lugar."
@@ -3754,7 +3754,7 @@ msgid "<32>* I'm not the biggest fan of that guy..."
 msgstr "<32>* No soy muy fanático de ese tipo..."
 
 msgid "<32>* He loves to appear without moving."
-msgstr "<32>* Le encanta aparecer sin moverse."
+msgstr "<32>* Él siempre aparece sin moverse."
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* I've been without cuddles for so long, but finally, "
@@ -3832,7 +3832,7 @@ msgid ""
 "<32>{#npc/a}* Grillbz said he only lets Sans eat for free because he pulls "
 "in other customers."
 msgstr ""
-"<32>{#npc/a}* Grillbz dijo que solo deja comer gratis a Sans porque atrae a "
+"<32>{#npc/a}* Grillbz dijo que solo deja a Sans comer gratis porque atrae a "
 "otros clientes."
 
 msgid "<32>* I can't exactly disagree..."
@@ -5543,7 +5543,7 @@ msgid "<32>{#p/human}* (You got the Spaghetti.)"
 msgstr "<32>{#p/human}* (Conseguiste el espagueti.)"
 
 msgid "<32>{#p/human}* (You're carrying too much to take that.)"
-msgstr "<32>{#p/human}* (Llevas demasiado encima para tomar eso.)"
+msgstr "<32>{#p/human}* (Estás llevando demasiado para tomar eso.)"
 
 msgid ""
 "<32>{#p/human}* (You feel appreciative towards this plate for the food it "
@@ -5561,7 +5561,7 @@ msgstr ""
 
 msgid "<32>{#p/basic}* Once the home of a truly out- of-this-world creation."
 msgstr ""
-"<32>{#p/basic}* Antaño hogar de una creación verdaderamente fuera de este "
+"<32>{#p/basic}* Una vez hogar de una creación verdaderamente fuera de este "
 "mundo."
 
 msgid "<32>{#p/human}* (The terminal appears to have been powered off.)"
@@ -6208,95 +6208,103 @@ msgid "<18>{#f/0}THAT MUST MEAN I'M BEING A GREAT HOST!!!"
 msgstr "<18>{#f/0}¡¡¡ESO DEBE SIGNIFICAR QUE ESTOY SIENDO UN GRAN ANFITRIÓN!!!"
 
 msgid "<18>{#p/papyrus}THAT'S MY ROOM!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡ESA ES MI HABITACIÓN!"
 
 msgid "<18>{#f/4}IF YOU'VE FINISHED LOOKING AROUND, WE COULD GO IN AND..."
-msgstr ""
+msgstr "<18>{#f/4}SI YA HAS TERMINADO DE MIRAR ALREDEDOR, PODRÍAMOS ENTRAR Y..."
 
 msgid "<18>{#f/4}AND..."
 msgstr "<18>{#f/4}Y..."
 
 msgid "<18>{#f/9}DO WHATEVER PEOPLE DO WHEN THEY DATE!"
-msgstr ""
+msgstr "<18>{#f/9}¡HACER LO QUE SEA QUE LA GENTE HACE CUANDO TIENE UNA CITA!"
 
 msgid "<18>{#f/9}\"HANG OUT\" LIKE A PAIR OF VERY COOL FRIENDS!"
-msgstr ""
+msgstr "<18>{#f/9}¡\"PASAR EL RATO\" COMO UN PAR DE AMIGOS MUY GUAYS!"
 
 msgid "<18>{#p/papyrus}READY?"
 msgstr "<18>{#p/papyrus}¿LISTO?"
 
 msgid "<18>{#p/papyrus}OKAY, LET'S GO!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡BIEN, VAMOS!"
 
 msgid "<18>{#p/papyrus}I'LL KEEP WAITING HERE THEN!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡ENTONCES SEGUIRÉ ESPERANDO AQUÍ!"
 
 msgid "<18>{#p/papyrus}{#f/5}SO, UM..."
 msgstr "<18>{#p/papyrus}{#f/5}ENTONCES, EM..."
 
 msgid "<18>{#f/5}IF YOU'VE SEEN EVERYTHING..."
-msgstr ""
+msgstr "<18>{#f/5}SI YA HAS VISTO TODO..."
 
 msgid "<18>{#f/6}DO YOU WANT TO START DATING?"
-msgstr ""
+msgstr "<18>{#f/6}¿QUIERES EMPEZAR LA CITA?"
 
 msgid "<18>{#f/6}DO YOU WANT TO START HANGING OUT?"
-msgstr ""
+msgstr "<18>{#f/6}¿QUIERES EMPEZAR A PASAR EL RATO?"
 
 msgid "<18>{#p/papyrus}{#f/6}READY TO START?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¿LISTO PARA EMPEZAR?"
 
 msgid ""
 "<18>{#p/papyrus}OKAY!!!\n"
 "DATING START!!!"
 msgstr ""
+"<18>{#p/papyrus}¡¡¡BIEN!!!\n"
+"¡¡¡EMPIEZA LA CITA!!!"
 
 msgid ""
 "<18>{#p/papyrus}OKAY!!!\n"
 "LET'S HANG TEN!!!"
 msgstr ""
+"<18>{#p/papyrus}¡¡¡BIEN!!!\n"
+"¡¡¡A PASAR EL RATO!!!"
 
 msgid "<18>{#p/papyrus}TAKE YOUR TIME, I'LL WAIT FOR YOU."
-msgstr ""
+msgstr "<18>{#p/papyrus}TÓMATE TU TIEMPO, TE ESPERARÉ."
 
 msgid "<#32>{#p/story}         DATING    START!"
-msgstr ""
+msgstr "<#32>{#p/story}         ¡EMPIEZA    LA    CITA!"
 
 msgid "<#32>{#p/story}         HANGOUT   START!"
-msgstr ""
+msgstr "<#32>{#p/story}         A   PASAR   EL   RATO!"
 
 msgid "<15>{#p/papyrus}{#f/10}HERE WE ARE!!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/10}¡¡AQUÍ ESTAMOS!!"
 
 msgid "<15>{#f/20}ON OUR DATE!!"
-msgstr ""
+msgstr "<15>{#f/20}¡¡EN NUESTRA CITA!!"
 
 msgid "<15>{#f/20}HANGING OUT!!"
 msgstr "<15>{#f/20}¡¡PASANDO EL RATO!!"
 
 msgid "<15>{#f/24}I'VE ACTUALLY NEVER DONE THIS BEFORE."
-msgstr ""
+msgstr "<15>{#f/24}EN REALIDAD NUNCA HE HECHO ESTO ANTES."
 
 msgid "<15>{#f/10}BUT DON'T WORRY!!!"
-msgstr ""
+msgstr "<15>{#f/10}¡¡¡PERO NO TE PREOCUPES!!!"
 
 msgid "<15>{#f/20}PREPARATION IS MY (UNOFFICIAL) LAST NAME!"
-msgstr ""
+msgstr "<15>{#f/20}¡PREPARACIÓN ES MI SEGUNDO NOMBRE (NO OFICIAL)!"
 
 msgid "<15>{#f/20}WHAT DO I HAVE HERE, YOU ASK?"
-msgstr ""
+msgstr "<15>{#f/20}¿QUE TENGO AQUÍ, PREGUNTAS?"
 
 msgid ""
 "<15>{#p/papyrus}{#f/10}AN OFFICIAL DATING GUIDE, STRAIGHT FROM THE LIBRARBY!"
 msgstr ""
+"<15>{#p/papyrus}{#f/10}¡UNA GUÍA OFICIAL DE CITAS, DIRECTAMENTE DE LA "
+"BIBILOTECA!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/10}AN OFFICIAL HANGOUT GUIDE, STRAIGHT FROM THE "
 "LIBRARBY!"
 msgstr ""
+"<15>{#p/papyrus}{#f/10}¡UNA GUÍA OFICIAL PARA PASAR EL RATO, DIRECTAMENTE DE "
+"LA BIBILOTECA!"
 
 msgid "<15>{#f/20}WITH THIS, WE'RE BOUND TO HAVE A GREAT TIME!"
-msgstr ""
+msgstr "<15>{#f/20}¡CON ESTO, ESTAMOS DESTINADOS A PASARLA GENIAL!"
 
 msgid "<15>{#p/papyrus}{#f/25}LET'S SEE..."
 msgstr "<15>{#p/papyrus}{#f/25}VEAMOS..."
@@ -6305,47 +6313,51 @@ msgid ""
 "<15>{#f/25}STEP ONE: PRESS C OR CTRL TO OPEN THE {@fill=#f00}DATING "
 "HUD{@fill=#000}."
 msgstr ""
+"<15>{#f/25}PASO 1: PRESIONA C O CTRL PARA ABRIR EL {@fill=#f00} HUD DE "
+"CITAS{@fill=#000}."
 
 msgid ""
 "<15>{#f/25}STEP ONE: PRESS C OR CTRL TO OPEN THE {@fill=#f00}FRIENDSHIP "
 "HUD{@fill=#000}."
 msgstr ""
+"<15>{#f/25}PASO UNO: PRESIONA C O CTRL PARA ABRIR EL {@fill=#f00}HUD DE "
+"AMISTAD{@fill=#000}."
 
 msgid "<15>{#p/papyrus}{#f/24}... WAIT."
 msgstr "<15>{#p/papyrus}{#f/24}... ESPERA."
 
 msgid "<15>{#f/22}YOU ALREADY DID THAT!?!?"
-msgstr ""
+msgstr "<15>{#f/22}¿¡¿¡YA HICISTE ESO!?!?"
 
 msgid "<15>{#f/11}WOWIE, YOU MUST REALLY LOVE ME!"
-msgstr ""
+msgstr "<15>{#f/11}¡GUAU, REALMENTE DEBES AMARME!"
 
 msgid "<15>{#f/11}WOWIE, YOU MUST REALLY LIKE ME!"
-msgstr ""
+msgstr "<15>{#f/11}¡GUAU, REALMENTE DEBO AGRADARTE!"
 
 msgid "<15>{#f/10}IT'S ONTO STEP TWO, THEN!"
-msgstr ""
+msgstr "<15>{#f/10}¡ENTONCES, PASAMOS AL SEGUNDO PASO!"
 
 msgid "<15>{#p/papyrus}{#f/24}..."
 msgstr "<15>{#p/papyrus}{#f/24}..."
 
 msgid "<15>{#f/24}EH, WE DIDN'T NEED IT ANYWAY."
-msgstr ""
+msgstr "<15>{#f/24}EH, DE TODAS FORMAS NO LO NECESITÁBAMOS."
 
 msgid "<15>{#f/20}ONTO STEP TWO!"
-msgstr ""
+msgstr "<15>{#f/20}¡AL PASO DOS!"
 
 msgid "<15>{#p/papyrus}{#f/11}WOWIE, I FEEL SO INFORMED!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/11}¡GUAU, ME SIENTO TAN INFORMADO!"
 
 msgid "<15>{#f/24}IN FACT, I THINK WE'RE READY FOR STEP TWO..."
-msgstr ""
+msgstr "<15>{#f/24}DE HECHO, CREO QUE ESTAMOS LISTOS PARA EL PASO DOS..."
 
 msgid "<15>{#p/papyrus}{#f/25}STEP TWO: ASK THEM ON A DATE."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/25}PASO DOS: PÍDELE UNA CITA."
 
 msgid "<15>{#p/papyrus}{#f/25}STEP TWO: ASK THEM TO HANG OUT."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/25}PASO DOS: PÍDELE PASAR EL RATO."
 
 msgid "<15>{#f/24}\"AHEM.\""
 msgstr "<15>{#f/24}\"EJEM.\""
@@ -6354,12 +6366,14 @@ msgid ""
 "<15>{#f/20}HUMAN!\n"
 "I, THE GREAT PAPYRUS..."
 msgstr ""
+"<15>{#f/20}¡HUMANO!\n"
+"YO, EL GRAN PAPYRUS..."
 
 msgid "<15>{#f/10}WOULD LIKE TO GO ON A DATE WITH YOU!"
-msgstr ""
+msgstr "<15>{#f/10}¡ESTARÍA ENCANTADO DE TENER UNA CITA CONTIGO!"
 
 msgid "<15>{#f/10}WOULD LIKE TO HANG OUT WITH YOU!"
-msgstr ""
+msgstr "<15>{#f/10}¡ESTARÍA ENCANTADO DE PASAR EL RATO CONTIGO!"
 
 msgid "<15>{#p/papyrus}{#f/12}R-REALLY???"
 msgstr "<15>{#p/papyrus}{#f/12}¿¿¿E-ENSERIO???"
@@ -6368,23 +6382,25 @@ msgid "<15>{#f/11}WOWIE!!!"
 msgstr "<15>{#f/11}¡¡¡WOWIE!!!"
 
 msgid "<15>{#f/24}I GUESS THAT MEANS IT'S TIME FOR STEP THREE..."
-msgstr ""
+msgstr "<15>{#f/24}SUPONGO QUE ESO SIGNIFICA QUE ES HORA DEL PASO TRES..."
 
 msgid "<15>{#p/papyrus}{#f/21}OH..."
 msgstr "<15>{#p/papyrus}{#f/21}OH..."
 
 msgid "<15>{#f/27}F-FORTUNATELY, IT ONLY SAYS TO ASK."
-msgstr ""
+msgstr "<15>{#f/27}A-AFORTUNADAMENTE, SOLO DICE QUE LO PIDAS."
 
 msgid "<15>{#f/24}WELL ANYWAY, IT'S TIME FOR STEP THREE..."
-msgstr ""
+msgstr "<15>{#f/24}BUENO, DE IGUAL MANERA ES HORA DEL PASO TRES..."
 
 msgid ""
 "<15>{#p/papyrus}{#f/25}STEP THREE: PUT ON NICE CLOTHES TO SHOW YOU CARE."
 msgstr ""
+"<15>{#p/papyrus}{#f/25}PASO TRES: PONTE ROPA BONITA PARA MOSTRAR QUE TE "
+"IMPORTA."
 
 msgid "<15>{#f/24}WAIT A SECOND."
-msgstr ""
+msgstr "<15>{#f/24}ESPERA UN SEGUNDO."
 
 msgid "<15>{#f/24}NICE CLOTHES..."
 msgstr "<15>{#f/24}QUE BONITAS ROPAS TIENES..."
@@ -6393,13 +6409,13 @@ msgid "<15>{#f/26}THAT OLD SPACESUIT YOU'RE WEARING..."
 msgstr ""
 
 msgid "<15>{#f/26}THAT FANCY HALO ON YOUR HEAD..."
-msgstr ""
+msgstr "<15>{#f/26}ESE ELEGANTE ANILLO SOBRE TU CABEZA..."
 
 msgid "<15>{#f/26}THAT FORCE FIELD AROUND YOU..."
-msgstr ""
+msgstr "<15>{#f/26}ESE CAMPO DE FUERZA A TU ALREDEDOR..."
 
 msgid "<15>{#f/26}THAT ARMOR YOU'RE WEARING..."
-msgstr ""
+msgstr "<15>{#f/26}ESA ARMADURA QUE LLEVAS PUESTA..."
 
 msgid "<15>{#f/26}THAT GADGET ON YOUR HEAD..."
 msgstr ""
@@ -6411,39 +6427,41 @@ msgid "<15>{#f/26}THAT ODD DEVICE YOU'RE CARRYING..."
 msgstr ""
 
 msgid "<15>{#f/26}THAT LOCKET AROUND YOUR NECK..."
-msgstr ""
+msgstr "<15>{#f/26}ESE MEDALLÓN ALREDEDOR DE TU CUELLO..."
 
 msgid "<15>{#f/26}THAT THING ON YOUR BODY..."
-msgstr ""
+msgstr "<15>{#f/26}ESA COSA EN TU CUERPO..."
 
 msgid "<15>{#f/20}YOU'RE WEARING CLOTHING RIGHT NOW!!!"
-msgstr ""
+msgstr "<15>{#f/20}¡¡¡LLEVAS ROPA AHORA MISMO!!!"
 
 msgid "<15>{#f/24}AND NOT ONLY THAT..."
-msgstr ""
+msgstr "<15>{#f/24}Y NO SOLO ESO..."
 
 msgid "<15>{#f/20}EARLIER TODAY, YOU WERE ALSO WEARING CLOTHING!"
-msgstr ""
+msgstr "<15>{#f/20}¡ANTES, TAMBIÉN LLEVABAS ROPA!"
 
 msgid ""
 "<15>{#f/12}NO...!\n"
 "COULD IT BE???"
 msgstr ""
+"<15>{#f/12}¡NO...!\n"
+"¿¿¿PODRÍA SER???"
 
 msgid "<15>{#f/13}HAVE YOU WANTED TO DATE ME FROM THE VERY BEGINNING???"
-msgstr ""
+msgstr "<15>{#f/13}¿¿¿HAS QUERIDO TENER UNA CITA CONMIGO DESDE EL PRINCIPIO???"
 
 msgid "<15>{#f/13}HAVE YOU WANTED TO BEFRIEND ME FROM THE VERY BEGINNING???"
-msgstr ""
+msgstr "<15>{#f/13}¿¿¿HAS QUERIDO QUE SEAMOS AMIGOS DESDE EL PRINCIPIO???"
 
 msgid "<15>{#p/papyrus}{#f/22}NO!!"
 msgstr "<15>{#p/papyrus}{#f/22}¡¡NO!!"
 
 msgid "<15>{#f/22}YOU PLANNED IT ALL!!!"
-msgstr ""
+msgstr "<15>{#f/22}¡¡¡LO PLANEASTE TODO!!!"
 
 msgid "<15>{#f/22}YOU MIGHT EVEN BE BETTER AT DATING THAN I AM!!!"
-msgstr ""
+msgstr "<15>{#f/22}¡¡¡PUEDE QUE SEAS INCLUSO MEJOR EN LAS CITAS QUE YO!!!"
 
 msgid ""
 "<15>N-NOOOO!!!\n"
@@ -6451,7 +6469,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#f/22}YOU MIGHT EVEN BE BETTER AT HANGING OUT THAN I AM!!!"
-msgstr ""
+msgstr "<15>{#f/22}¡¡¡PUEDE QUE SEAS INCLUSO MEJOR EN PASAR EL RATO QUE YO!!!"
 
 msgid ""
 "<15>N-NOOOO!!!\n"
@@ -6462,16 +6480,16 @@ msgid "<15>{#p/papyrus}{#f/24}OH..."
 msgstr "<15>{#p/papyrus}{#f/24}OH..."
 
 msgid "<15>{#f/21}BUT DESPITE THAT..."
-msgstr ""
+msgstr "<15>{#f/21}PERO A PESAR DE ESO..."
 
 msgid "<15>{#f/21}YOU STILL CHOSE TO WEAR CLOTHING TODAY OF ALL DAYS...?"
-msgstr ""
+msgstr "<15>{#f/21}¿AÚN ASÍ DECIDISTE LLEVAR ROPA HOY DE TODOS LOS DÍAS...?"
 
 msgid "<15>{#f/24}IT'S ALMOST LIKE..."
-msgstr ""
+msgstr "<15>{#f/24ES CASI COMO SI..."
 
 msgid "<15>{#f/13}LIKE YOUR INTEREST IN ME WAS PREDESTINED~"
-msgstr ""
+msgstr "<15>{#f/13}COMO SI TU INTERÉS EN MÍ ESTUVIERA PREDESTINADO~"
 
 msgid ""
 "<15>{#f/22}N-NOOOO!!!\n"
@@ -6479,7 +6497,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#f/13}LIKE YOUR FRIENDSHIP WAS PREDESTINED~"
-msgstr ""
+msgstr "<15>{#f/13}COMO SI TU AMISTAD ESTUVIERA PREDESTINADA~"
 
 msgid ""
 "<15>{#f/22}N-NOOOO!!!\n"
@@ -6490,22 +6508,22 @@ msgid "<15>{#p/papyrus}{#f/15}NYEH!"
 msgstr "<15>{#p/papyrus}{#f/15}¡NYEH!"
 
 msgid "<15>{#f/15}NYEH HEH HEH!!!"
-msgstr ""
+msgstr "<15>{#f/15}¡¡¡NYEH JEH JEH!!!"
 
 msgid "<15>{#p/papyrus}{#f/15}DON'T THINK YOU'VE BESTED ME YET!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/15}¡NO CREAS QUE YA ME HAS SUPERADO!"
 
 msgid "<15>{#f/20}I, THE GREAT PAPYRUS..."
-msgstr ""
+msgstr "<15>{#f/20}YO, EL GRAN PAPYRUS..."
 
 msgid "<15>{#f/20}HAVE NEVER BEEN BEATEN AT DATING..."
-msgstr ""
+msgstr "<15>{#f/20}NUNCA HE SIDO SUPERADO EN LAS CITAS..."
 
 msgid "<15>{#f/20}HAVE NEVER BEEN BEATEN AT HANGING OUT..."
-msgstr ""
+msgstr "<15>{#f/20}NUNCA HE SIDO SUPERADO EN PASAR EL RATO..."
 
 msgid "<15>{#f/15}AND I NEVER WILL!!"
-msgstr ""
+msgstr "<15>{#f/15}¡¡Y NUNCA LO SERÉ!!"
 
 msgid "<15>{#f/10}I CAN EASILY KEEP UP WITH YOU!!!"
 msgstr ""
@@ -15173,7 +15191,7 @@ msgid "<09>{#p/napstablook}{#k/0}sorry... not enough g..."
 msgstr ""
 
 msgid "<10>{#p/human}(You're carrying too much.)"
-msgstr ""
+msgstr "<10>{#p/human}(Estás llevando demasiado.)"
 
 msgid "Take it?"
 msgstr ""
