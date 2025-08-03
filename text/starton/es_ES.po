@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-02 19:55+0000\n"
+"PO-Revision-Date: 2025-08-03 21:59+0000\n"
 "Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -1136,7 +1136,7 @@ msgid "<18>IF THEY ALSO FIND SUDOKU SO DIFFICULT!"
 msgstr "<18>¡SI ELLOS TAMBIÉN CREEN QUE EL SUDOKU ES DIFÍCIL!"
 
 msgid "<18>{#f/9}NYEH! HEH! HEH HEH!"
-msgstr "<18>{#f/9}¡NYEH! ¡JEH! ¡JEH JEH!"
+msgstr "<18>{#f/9}¡NYEH! ¡JE! ¡JE JE!"
 
 msgid "<18>{#p/papyrus}{#f/9}YOU TWO ARE WEIRD!"
 msgstr "<18>{#p/papyrus}{#f/9}¡VOSOTROS DOS SOIS RAROS!"
@@ -2584,7 +2584,7 @@ msgid ""
 "NYEH HEH HEH!!"
 msgstr ""
 "<18>{#f/0}¡¡BUENA SUERTE!!\n"
-"¡¡NYEH JEH JEH!!"
+"¡¡NYE JE JE!!"
 
 msgid "<25>{#p/sans}{#f/0}* what are you going back there for, huh?"
 msgstr "<25>{#p/sans}{#f/0}* ¿para que vuelves ahí, eh?"
@@ -2662,8 +2662,8 @@ msgid ""
 "<18>{#p/papyrus}NYEH HEH HEH!\n"
 "WELL THEN."
 msgstr ""
-"<18>{#p/papyrus}NYEH JEH JEH!\n"
-"PARECE QUE."
+"<18>{#p/papyrus}¡NYEH JE JE!\n"
+"BIEN PUES."
 
 msgid "<18>{#f/9}IT SEEMS YOU'VE BEEN JAPED BY THE GREAT PAPYRUS!"
 msgstr "<18>{#f/9}¡PARECE QUE HAS SIDO ENGAÑADO POR EL GRAN PAPYRUS!"
@@ -6509,7 +6509,7 @@ msgid "<15>{#p/papyrus}{#f/15}NYEH!"
 msgstr "<15>{#p/papyrus}{#f/15}¡NYEH!"
 
 msgid "<15>{#f/15}NYEH HEH HEH!!!"
-msgstr "<15>{#f/15}¡¡¡NYEH JEH JEH!!!"
+msgstr "<15>{#f/15}¡¡¡NYEH JE JE!!!"
 
 msgid "<15>{#p/papyrus}{#f/15}DON'T THINK YOU'VE BESTED ME YET!"
 msgstr "<15>{#p/papyrus}{#f/15}¡NO CREAS QUE YA ME HAS SUPERADO!"
@@ -6606,7 +6606,7 @@ msgid ""
 "<15>{#f/10}NYEH HEH HEH!\n"
 "THAT'S VERY SIGNIFICANT INDEED!"
 msgstr ""
-"<15>{#f/10}¡NYEH JEH JEH!\n"
+"<15>{#f/10}¡NYEH JE JE!\n"
 "¡SIN DUDA ESO ES MUY SIGNIFICATIVO!"
 
 msgid "<15>{#p/papyrus}{#f/21}OVERWHELMED BY THE SIGHT OF MY \"STELLAR\" OUTFIT?"
@@ -6925,7 +6925,7 @@ msgid ""
 "<15>{#p/papyrus}{#f/20}NYEH HEH HEH!\n"
 "THAT'S RIGHT."
 msgstr ""
-"<15>{#p/papyrus}{#f/20}¡NYEH JEH JEH!\n"
+"<15>{#p/papyrus}{#f/20}¡NYEH JE JE!\n"
 "ASÍ ES."
 
 msgid "<15>{#p/papyrus}{#f/15}YOU HAVE NO IDEA!"
@@ -7001,7 +7001,7 @@ msgid "<15>{#f/20}BUT I THINK YOU LIKED IT EVEN MORE THAN ME!!!"
 msgstr "<15>{#f/20}¡¡¡PERO CREO QUE A TI TE GUSTÓ INCLUSO MÁS QUE A MÍ!!!"
 
 msgid "<15>{#f/10}AND BY EXTENSION, ME!"
-msgstr "<15>{#f/10}¡Y POR EXTENSIÓN, A MÍ!"
+msgstr "<15>{#f/10}¡Y POR CONSIGUIENTE, A MÍ!"
 
 msgid "<15>{#f/20}MAYBE EVEN MORE THAN I DO!!!"
 msgstr "<15>{#f/20}¡¡¡QUIZÁS INCLUSO MÁS QUE YO!!!"
@@ -7116,7 +7116,7 @@ msgid ""
 "<15>{#f/21}BUT ALAS...\n"
 "I, THE GREAT PAPYRUS..."
 msgstr ""
-"<15>{#f/21}PERO AY...\n"
+"<15>{#f/21}PERO POR DESGRACIA...\n"
 "YO, EL GRAN PAPYRUS..."
 
 msgid "<15>{#f/21}HAVE FAILED."
@@ -7241,7 +7241,7 @@ msgstr ""
 "¡¡JUNTOS!!"
 
 msgid "<15>{#f/20}NYEH HEH HEH HEH HEH!!!"
-msgstr "<15>{#f/20}¡¡¡NYEH JEH JEH JEH JEH!!!"
+msgstr "<15>{#f/20}¡¡¡NYEH JE JE JE JE!!!"
 
 msgid "<15>{#f/24}OH, AND IF YOU EVER NEED TO REACH ME..."
 msgstr "<15>{#f/24}OH, Y SI ALGUNA VEZ NECESITAS CONTACTARME..."
@@ -7268,7 +7268,7 @@ msgid "<15>{#f/20}WELL, SEE YOU AT UNDYNE'S HOUSE!"
 msgstr "<15>{#f/20}¡BUENO, TE VERÉ EN LA CASA DE UNDYNE!"
 
 msgid "<15>{#f/20}NYEH HEH HEH!"
-msgstr "<15>{#f/20}¡NYEH JEH JEH!"
+msgstr "<15>{#f/20}¡NYEH JE JE!"
 
 msgid "ROMANCE"
 msgstr "ROMANCE"
@@ -7368,8 +7368,8 @@ msgid ""
 "HEHEHEH!!!"
 msgstr ""
 "<18>¡NYEH!\n"
-"¡JEH JEH!\n"
-"¡¡¡JEHJEJEH!!!"
+"¡JE JE!\n"
+"¡¡¡JEJEJE!!!"
 
 msgid ""
 "<32>{#p/human}* (The dog residue in this sink appears to be arranged in the "
@@ -7450,7 +7450,7 @@ msgid "<18>{#f/5}UM... MAYBE..."
 msgstr "<18>{#f/5}EM... TAL VEZ..."
 
 msgid "<18>{#f/6}USE THE CIRCUITS AS A GUIDE TO THE SEQUENCE???"
-msgstr "<18>{#f/6}¿¿¿USA LOS CIRCUITOS COMO GUÍA PARA LA SECUENCIA???"
+msgstr "<18>{#f/6}¿¿¿INTENTA USAR LOS CIRCUITOS COMO GUÍA PARA LA SECUENCIA???"
 
 msgid "<18>{#f/5}I'M TRYING VERY HARD NOT TO SPOIL IT..."
 msgstr "<18>{#f/5}ME ESTOY ESFORZANDO MUCHO PARA NO ARRUINARLO..."
@@ -7459,7 +7459,7 @@ msgid "<18>{#p/papyrus}{#f/6}STILL???"
 msgstr "<18>{#p/papyrus}{#f/6}¿¿¿TODAVIA???"
 
 msgid "<18>{#f/0}I MEAN, I COULD TOTALLY GIVE YOU THE SOLUTION."
-msgstr "<18>{#f/0}QUIERO DECIR, TOTALMENTE PODRÍA DARTE LA SOLUCIÓN."
+msgstr "<18>{#f/0}QUIERO DECIR, TOTALMENTE TE PODRÍA DAR LA SOLUCIÓN."
 
 msgid "<18>{#f/4}I DON'T WANT TO SPOIL THE FUN, THOUGH..."
 msgstr "<18>{#f/4}PERO NO QUIERO ARRUINARTE LA DIVERSIÓN..."
@@ -7467,7 +7467,7 @@ msgstr "<18>{#f/4}PERO NO QUIERO ARRUINARTE LA DIVERSIÓN..."
 msgid ""
 "<18>{#p/papyrus}{#f/9}DO YOU ABSOLUTELY, DAPSOLUTELY WANT THE SOLUTION???"
 msgstr ""
-"<18>{#p/papyrus}{#f/9}¿¿¿QUIERES ABSOLUTAMENTE, DAPSOLUTAMENTE LA SOLUCIÓN???"
+"<18>{#p/papyrus}{#f/9}¿¿¿QUIERES ABSOLUTAMENTE, SALUDOTAMENTE, LA SOLUCIÓN???"
 
 msgid "<18>{#p/papyrus}THE! SOLUTION! IS!"
 msgstr "<18>{#p/papyrus}¡LA! ¡SOLUCIÓN! ¡ES!"
@@ -7580,7 +7580,7 @@ msgid "<18>WILL MAKE US ALL THE PASTA WE COULD EVER WANT!"
 msgstr "<18>¡NOS HARÉ TODA LA PASTA QUE PODRÍAMOS QUERER!"
 
 msgid "<18>{#f/0}HEH HEH HEH HEH HEH HEH NYEH!"
-msgstr "<18>{#f/0}¡JEH JEH JEH JEH JEH JEH NYEH!"
+msgstr "<18>{#f/0}¡JE JE JE JE JE JE NYEH!"
 
 msgid "<18>{#f/5}WOWIE..."
 msgstr "<18>{#f/5}GUAU..."
@@ -7673,177 +7673,202 @@ msgid "<18>{#f/5}TO..."
 msgstr "<18>{#f/5}QUE..."
 
 msgid "<18>{#f/4}I'M FORGETTING SOMETHING."
-msgstr ""
+msgstr "<18>{#f/4}SE ME ESTÁ OLVIDANDO ALGO."
 
 msgid "<25>{#p/sans}{#f/2}* the speech, remember?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/2}* el discurso, ¿recuerdas?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}OH, RIGHT.\n"
 "...\"AHEM.\""
 msgstr ""
+"<18>{#p/papyrus}{#f/4}OH, CIERTO.\n"
+"...\"EJEM.\""
 
 msgid "<18>{#f/9}HUMAN! YOU MAY THINK YOU'RE SAFE OUT HERE..."
-msgstr ""
+msgstr "<18>{#f/9}¡HUMANO! PUEDE QUE CREAS QUE ESTÁS A SALVO AQUÍ FUERA..."
 
 msgid "<18>{#f/9}BUT I, THE GREAT PAPYRUS, INTEND TO CHANGE THAT!"
-msgstr ""
+msgstr "<18>{#f/9}¡PERO YO, EL GRAN PAPYRUS, TENGO LA INTENCIÓN DE CAMBIAR ESO!"
 
 msgid "<18>{#f/4}FIRST, I'LL DAZZLE YOU WITH DR. ALPHYS' PUZZLES..."
-msgstr ""
+msgstr "<18>{#f/4}PRIMERO, TE DESLUMBRARÉ CON LOS PUZLES DE LA DRA. ALPHYS..."
 
 msgid "<18>{#f/4}AND THEN, WHEN YOU LEAST EXPECT IT..."
-msgstr ""
+msgstr "<18>{#f/4}Y LUEGO, CUANDO MENOS TE LO ESPERES..."
 
 msgid ""
 "<19>{#f/9}WHAM!\n"
 "CAPTURED!\n"
 "OFF TO THE CITADEL!"
 msgstr ""
+"<19>{#f/9}¡ZAS!\n"
+"¡CAPTURADO!\n"
+"¡DIRECTO A LA CAPITAL!"
 
 msgid "<18>{#f/9}OUR BATTLE WILL BE AS LEGENDARY AS THEY COME!"
-msgstr ""
+msgstr "<18>{#f/9}¡NUESTRA BATALLA SERÁ LEGENDARIA!"
 
 msgid "<18>{#f/9}CONTINUE... ONLY IF YOU DARE!!!"
-msgstr ""
+msgstr "<18>{#f/9}CONTINÚA... ¡¡¡SOLO SI TE ATREVES!!!"
 
 msgid "<18>{#f/0}NYEH HEH HEH HEH HEH HEH HEH HEH!!!"
-msgstr ""
+msgstr "<18>{#f/0}¡¡¡NYEH JE JE JE JE JE JE JE!!!"
 
 msgid "<25>{#p/sans}* well, that went well."
-msgstr ""
+msgstr "<25>{#p/sans}* bueno, eso salió bien."
 
 msgid "<25>* don't sweat it, bud."
-msgstr ""
+msgstr "<25>* no te preocupes, colega."
 
 msgid "<25>{#f/2}* i'll keep an eyesocket out for ya."
-msgstr ""
+msgstr "<25>{#f/2}* te echaré una cuenca ocular."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}H-HUMAN?\n"
 "IS THAT YOU...?"
 msgstr ""
+"<18>{#p/papyrus}{#f/5}¿H-HUMANO?\n"
+"¿ERES TÚ...?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/1}OH MY GOD!!!\n"
 "IT REALLY IS YOU, ISN'T IT!?!?"
 msgstr ""
+"<18>{#p/papyrus}{#f/1}¡¡¡OH DIOS MÍO!!!\n"
+"¿¡¿¡REALMENTE ERES TÚ, NO ES ASÍ!?!?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}I'VE BEEN EXCITED TO MEET YOU SINCE I HEARD ABOUT YOU!"
 msgstr ""
+"<18>{#p/papyrus}{#f/0}¡HE ESTADO EMOCIONADO POR CONOCERTE DESDE QUE ESCUCHÉ "
+"HABLAR DE TI!"
 
 msgid "<18>{#p/papyrus}{#f/4}... AS FOR WHY I'M ONLY HERE NOW?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}... ¿QUE POR QUÉ APAREZCO RECIÉN AHORA?"
 
 msgid "<18>{#p/papyrus}{#f/6}WELL, I HAVE REASON TO BELIEVE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}BUENO, TENGO RAZONES PARA CREER..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}... MY BROTHER HAS BEEN TRYING TO KEEP YOU FROM ME."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}... QUE MI HERMANO HA ESTADO INTENTANDO MANTENERTE "
+"ALEJADO DE MÍ."
 
 msgid "<18>{#p/papyrus}{#f/7}TYPICAL!!!"
-msgstr "<18>{#p/papyrus}{#f/7}TIPICO!!!"
+msgstr "<18>{#p/papyrus}{#f/7}¡¡¡TÍPICO!!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}BUT OUR LITTLE ALLIANCE CAN BE OUR LITTLE SECRET."
 msgstr ""
+"<18>{#p/papyrus}{#f/0}PERO NUESTRA PEQUEÑA ALIANZA PUEDE SER NUESTRO PEQUEÑO "
+"SECRETO."
 
 msgid "<18>{#p/papyrus}{#f/9}HE DOESN'T HAVE TO KNOW A -DAMN- THING ABOUT IT!"
 msgstr ""
+"<18>{#p/papyrus}{#f/9}¡ÉL NO TIENE QUE SABER NI UNA -MALDITA- COSA AL "
+"RESPECTO!"
 
 msgid "<18>{#p/papyrus}{#f/5}GUESS I BETTER GO BEFORE HE FINDS OUT I'M HERE."
 msgstr ""
+"<18>{#p/papyrus}{#f/5}SUPONGO QUE SERÁ MEJOR QUE ME VAYA ANTES DE QUE SE "
+"ENTERE DE QUE ESTOY AQUÍ."
 
 msgid "<18>{|}{#p/papyrus}{#f/9}I'LL CATCH UP WITH YOU SOON, HU- {%}"
-msgstr ""
+msgstr "<18>{|}{#p/papyrus}{#f/9}NOS VEMOS LUEGO, HU- {%}"
 
 msgid "<32>{#p/without}* ... papyrus?"
 msgstr "<32>{#p/without}* ... ¿papyrus?"
 
 msgid "<18>{#f/4}YOU MAY HAVE HAD AN EASY TIME BEFORE."
-msgstr ""
+msgstr "<18>{#f/4}PUEDE QUE ANTES LO HAYAS TENIDO FÁCIL."
 
 msgid "<18>{#f/4}YOU MAY HAVE PASSED MY OTHER CHALLENGES."
-msgstr ""
+msgstr "<18>{#f/4}PUEDE QUE HAYAS SUPERADO MIS OTROS DESAFÍOS."
 
 msgid "<18>{#f/9}BUT NOW YOU WILL SURELY MEET YOUR WIT'S END!"
-msgstr ""
+msgstr "<18>{#f/9}¡PERO AHORA SEGURO QUE LLEGARÁS AL LÍMITE DE TU INGENIO!"
 
 msgid "<18>FOR YOU SEE, THIS PUZZLE WAS MADE BY NONE OTHER..."
-msgstr ""
+msgstr "<18>PUES VERÁS, ESTE PUZLE NO FUE HECHO POR NADIE MENOS..."
 
 msgid "<18>{#f/0}THAN THE AMAZING DR. ALPHYS!"
-msgstr ""
+msgstr "<18>{#f/0}¡QUE LA ASOMBROSA DRA. ALPHYS!"
 
 msgid "<18>THE RULES ARE QUITE SIMPLE, REALLY."
-msgstr ""
+msgstr "<18>LAS REGLAS SON BASTANTE SIMPLES, EN REALIDAD."
 
 msgid "<18>THIS DISPLAY WILL READ OUT A NUMBER AT RANDOM."
-msgstr ""
+msgstr "<18>ESTA PANTALLA LEERÁ UN NÚMERO AL AZAR."
 
 msgid "<18>{#f/9}... THE NUMBER OF SECONDS UNTIL YOU CAN PASS!"
-msgstr ""
+msgstr "<18>{#f/9}... ¡EL NÚMERO DE SEGUNDOS HASTA QUE PUEDAS PASAR!"
 
 msgid "<18>{#f/0}IF THE NUMBER IS ODD, YOU MUST DODGE PROJECTILES."
-msgstr ""
+msgstr "<18>{#f/0}SI EL NÚMERO ES IMPAR, DEBES ESQUIVAR PROYECTILES."
 
 msgid "<18>NUMBERS ENDING IN 1 GIVE YOU STAR- SHAPED ONES..."
 msgstr ""
+"<18>LOS NÚMEROS QUE ACABEN EN 1 TE DARÁN PROYECTILES CON FORMA DE ESTRELLA..."
 
 msgid "<18>NUMBERS ENDING IN 3 GIVE YOU MOON- SHAPED ONES..."
 msgstr ""
+"<18>LOS NÚMEROS QUE ACABEN EN 3 TE DARÁN PROYECTILES CON FORMA DE LUNA..."
 
 msgid "<18>{#f/4}5 GIVES YOU COMETS, 7 GIVES YOU QUASARS..."
-msgstr ""
+msgstr "<18>{#f/4}EL 5 TE DA COMETAS, EL 7 TE DA CUÁSARES..."
 
 msgid "<18>{#f/9}AND IF IT ENDS IN A 9, IT'S ENTIRELY RANDOM!"
-msgstr ""
+msgstr "<18>{#f/9}¡Y SI ACABA EN UN 9, ES COMPLETEMENTE ALEATORIO!"
 
 msgid "<18>{#f/0}IF THE NUMBER IS PRIME, THE GRAVITY WILL FLIP."
-msgstr ""
+msgstr "<18>{#f/0}SI EL NÚMERO ES PRIMO, LA GRAVEDAD SE INVERTIRÁ."
 
 msgid "<18>{#f/4}(ALTHOUGH, PRIMES BELOW TEN DON'T OFTEN TRIGGER IT.)"
 msgstr ""
+"<18>{#f/4}(AUNQUE, LOS PRIMOS POR DEBAJO DE DIEZ NO LO ACTIVAN MUY SEGUIDO.)"
 
 msgid "<18>{#f/0}IF THE NUMBER IS EVEN, YOU WILL BE FINE AT FIRST..."
-msgstr ""
+msgstr "<18>{#f/0}SI EL NÚMERO ES PAR, AL PRINCIPIO ESTARÁS BIEN..."
 
+#, fuzzy
 msgid "<18>{#f/9}BUT RANDOM MONSTER ENCOUNTERS WILL OCCUR!"
-msgstr ""
+msgstr "<18>{#f/9}¡PERO OCURRIRÁN ENCUENTROS ALEATORIOS CON MONSTRUOS!"
 
 msgid "<18>ALSO, POWERS OF TWO WILL DOUBLE THE FREQUENCY!!"
-msgstr ""
+msgstr "<18>¡¡ADEMÁS, LAS POTENCIAS DE DOS DUPLICARÁN LA FRECUENCIA!!"
 
 msgid "<18>{#f/0}IF THE NUMBER REPEATS THE SAME DIGIT TWICE..."
-msgstr ""
+msgstr "<18>{#f/0}SI EL NÚMERO REPITE EL MISMO DÍGITO DOS VECES..."
 
 msgid "<18>{#f/0}THE WAIT TIME WILL BE MULTIPLIED BY SAID DIGIT!"
-msgstr ""
+msgstr "<18>{#f/0}¡EL TIEMPO DE ESPERA SE MULTIPLICARÁ POR DICHO DÍGITO!"
 
 msgid "<18>{#f/0}IF THE NUMBER IS A RUN, I.E. 1-2-3..."
-msgstr ""
+msgstr "<18>{#f/0}SI EL NÚMERO ES UNA SECUENCIA, ES DECIR, 1-2-3..."
 
 msgid "<18>{#f/0}THE ROOM WILL SHAKE, CAUSING YOU TO STUMBLE!"
-msgstr ""
+msgstr "<18>{#f/0}¡LA HABITACIÓN TEMBLARÁ, HACIENDO TROPEZAR!"
 
 msgid "<18>{#f/0}AND IF THE NUMBER CONTAINS A 4 AT ALL..."
-msgstr ""
+msgstr "<18>{#f/0}Y SI EL NÚMERO CONTIENE UN 4..."
 
 msgid "<18>{#f/9}SANS WILL RANDOMLY LEVITATE YOU WITH BLUE MAGIC!"
-msgstr ""
+msgstr "<18>{#f/9}¡SANS TE LEVITARÁ ALEATORIAMENTE CON MAGIA AZUL!"
 
 msgid "<25>{#p/sans}{#f/6}* check it out, it's my special yellow eye."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/6}* mira esto, es mi ojo amarillo especial."
 
 msgid "<18>{#p/papyrus}{#f/7}NOT NOW, SANS!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¡¡AHORA NO, SANS!!"
 
 msgid ""
 "<25>{#p/sans}* oh, heheh.\n"
 "* guess i got a little {@fill=#ff0}carried away{@fill=#fff}, huh?"
 msgstr ""
+"<25>{#p/sans}* oh, jejej.\n"
+"* supongo que me {@fill=#ff0} dejé llevar{@fill=#fff} un poco, ¿eh?"
 
 msgid "<18>{#p/papyrus}{#f/4}YEAH, YEAH..."
 msgstr "<18>{#p/papyrus}{#f/4}CLARO, CLARO..."
@@ -7852,54 +7877,56 @@ msgid ""
 "<18>{#f/9}WELL!\n"
 "DO YOU UNDERSTAND THE EXPLANATION?"
 msgstr ""
+"<18>{#f/9}¡BUENO!\n"
+"¿ENTIENDES LA EXPLICACIÓN?"
 
 msgid "<18>{#p/papyrus}{#f/9}WELL, LET'S REVIEW THEN!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}¡BUENO, REPASEMOS ENTONCES!"
 
 msgid "<18>{#f/0}THIS DISPLAY GENERATES A RANDOM NUMBER OF SECONDS."
-msgstr ""
+msgstr "<18>{#f/0}ESTA PANTALLA GENERA UN NÚMERO ALEATORIO DE SEGUNDOS."
 
 msgid "<18>AKA, HOW LONG YOU MUST WAIT TO PASS THROUGH."
-msgstr ""
+msgstr "<18>O SEA, CUÁNTO TIEMPO DEBES ESPERAR PARA PASAR."
 
 msgid "<18>ODD NUMBERS MEAN DODGING PROJECTILES."
-msgstr ""
+msgstr "<18>LOS NÚMEROS IMPARES TE HARÁN ESQUIVAR PROYECTILES."
 
 msgid "<18>THE NUMBER'S LAST DIGIT DETERMINES THE TYPE."
-msgstr ""
+msgstr "<18>EL ÚLTIMO DÍGITO DEL NÚMERO DETERMINARÁ EL TIPO."
 
 msgid "<18>1 FOR STARS, 3 FOR MOONS, 5 FOR QUASARS, 7 FOR..."
-msgstr ""
+msgstr "<18>1 PARA ESTRELLAS, 3 PARA LUNAS, 5 PARA CUÁSARES, 7 PARA..."
 
 msgid "<18>{#f/5}WAIT, WHICH NUMBER WAS FOR QUASARS AGAIN??"
-msgstr ""
+msgstr "<18>{#f/5}¿¿ESPERA, CUÁL NÚMERO ERA PARA LOS CUÁSARES??"
 
 msgid "<18>{#f/9}UH, WELL, IF IT ENDS IN 9, THE TYPE IS RANDOM!"
-msgstr ""
+msgstr "<18>{#f/9}¡EH, BUENO, SI TERMINA EN 9, EL TIPO ES ALEATORIO!"
 
 msgid "<18>{#f/0}PRIME NUMBERS SHIFT THE GRAVITY AROUND..."
-msgstr ""
+msgstr "<18>{#f/0}LOS NÚMEROS PRIMOS CAMBIAN LA GRAVEDAD..."
 
 msgid "<18>{#f/0}EVEN NUMBERS TRIGGER RANDOM ENCOUNTERS..."
-msgstr ""
+msgstr "<18>{#f/0}LOS NÚMEROS PARES ACTIVAN ENCUENTROS ALEATORIOS..."
 
 msgid "<18>{#f/5}WAIT, DID I SAY THE GRAVITY SHIFTS!?,"
-msgstr ""
+msgstr "<18>{#f/5}ESPERA, ¿¡DIJE QUE LA GRAVEDAD CAMBIA!?,"
 
 msgid "<18>{#f/7}UGH, I MEANT TO SAY IT FLIPS!!"
-msgstr ""
+msgstr "<18>{#f/7}¡¡AGH, QUISE DECIR QUE SE INVIERTE!!"
 
 msgid "<18>{#f/0}BUT POWERS OF TWO DOUBLE THE ENCOUNTER RATE."
-msgstr ""
+msgstr "<18>{#f/0}PERO LAS POTENCIAS DE DOS DUPLICAN LA TASA DE ENCUENTROS."
 
 msgid "<18>RUNS CAUSE THE ROOM TO SHAKE, AND 4 MEANS..."
-msgstr ""
+msgstr "<18>LAS SECUENCIAS HACEN QUE LA HABITACIÓN TIEMBLE, Y EL 4 SIGNIFICA..."
 
 msgid "<18>{#f/6}UH, I THINK I FORGOT WHAT 4 MEANS."
-msgstr ""
+msgstr "<18>{#f/6}EH, CREO QUE OLVIDÉ QUE SIGNIFICA EL 4."
 
 msgid "<25>{#p/sans}* wasn't that supposed to be my cue?"
-msgstr ""
+msgstr "<25>{#p/sans}* ¿no se suponía que era mi señal?"
 
 msgid "<18>{#p/papyrus}{#f/6}MAYBE???"
 msgstr "<18>{#p/papyrus}{#f/6}¿¿¿TAL VEZ???"
@@ -7908,65 +7935,73 @@ msgid ""
 "<18>{#f/7}WHATEVER!!\n"
 "DO YOU UNDERSTAND IT NOW!?"
 msgstr ""
+"<18>{#f/7}¡¡LO QUE SEA!!\n"
+"¿¡LO ENTIENDES AHORA!?"
 
 msgid "Sure"
-msgstr "Seguro"
+msgstr "Claro"
 
 msgid "Even less"
-msgstr ""
+msgstr "Aún menos"
 
 msgid "<18>{#p/papyrus}{#f/9}WELL... THEN..."
 msgstr "<18>{#p/papyrus}{#f/9}BIEN... ENTONCES..."
 
 msgid "<18>{#f/9}YOU KNOW WHAT, I'LL LEAVE THE INSTRUCTIONS HERE!"
-msgstr ""
+msgstr "<18>{#f/9}¡SABES QUÉ, DEJARÉ LAS INSTRUCCIONES AQUÍ!"
 
 msgid "<18>{#f/0}THEN, YOU CAN READ THEM AT YOUR OWN PACE."
-msgstr ""
+msgstr "<18>{#f/0}ASÍ PODRÁS LEERLAS A TU PROPIO RITMO."
 
 msgid "<18>GOOD LUCK, HUMAN!!"
-msgstr ""
+msgstr "<18>¡¡BUENA SUERTE, HUMANO!!"
 
 msgid "<18>{#f/5}NYEH... HEH HEH..."
 msgstr "<18>{#f/5}NYEH... JE JE..."
 
 msgid "<18>{#p/papyrus}{#f/9}AWESOME SAUCE!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/9}¡GENIAL!"
 
 msgid "<18>{#f/9}WELL, WITHOUT FURTHER ADO..."
-msgstr ""
+msgstr "<18>{#f/9}BUENO, SIN MÁS PREÁMBULOS..."
 
 msgid "<18>LET'S FIND OUT WHAT OUR RANDOM NUMBER WILL BE!!"
-msgstr ""
+msgstr "<18>¡¡AVERIGÜEMOS CUÁL SERÁ NUESTRO NÚMERO ALEATORIO!!"
 
 msgid "<18>{#p/papyrus}{#f/9}HUMAN!"
 msgstr "<18>{#p/papyrus}{#f/9}¡HUMANO!"
 
 msgid "<18>{#f/9}ARE YOU READY FOR YOUR GREATEST CHALLENGE YET?"
-msgstr ""
+msgstr "<18>{#f/9}¿ESTÁS LISTO PARA TU MAYOR DESAFÍO HASTA AHORA?"
 
 msgid "<18>{#f/9}INTRODUCING... THE GAUNTLET OF DEADLY TERROR!"
-msgstr ""
+msgstr "<18>{#f/9}PRESENTANDO... ¡EL GUANTELETE DEL TERROR MORTAL!"
 
 msgid "<18>{#p/papyrus}{#f/9}ONCE I GIVE THE WORD, IT WILL FULLY ACTIVATE!"
 msgstr ""
+"<18>{#p/papyrus}{#f/9}¡UNA VEZ QUE DÉ LA ORDEN, SE ACTIVARÁ POR COMPLETO!"
 
 msgid ""
 "<18>LASERS WILL FIRE!\n"
 "COILS WILL CHARGE!\n"
 "BLADES WILL SLICE!"
 msgstr ""
+"<18>¡LÁSERES DISPARARÁN!\n"
+"¡BOBINAS CARGARÁN!\n"
+"¡CUCHILLAS CORTARÁN!"
 
 msgid "<18>ALL IN A PRECISE AND TACTICAL MANNER!"
-msgstr ""
+msgstr "<18>¡TODO DE FORMA PRECISA Y TÁCTICA!"
 
 msgid "<18>{#f/4}WITHOUT PERFECT ACCURACY, YOU WILL SURELY FAIL."
-msgstr ""
+msgstr "<18>{#f/4}SIN UNA PRECISIÓN PERFECTA, SEGURAMENTE FALLARÁS."
 
 msgid ""
 "<18>{#f/9}NOW!!!\n"
 "ARE YOU READY!?!?"
 msgstr ""
+"<18>{#f/9}¡¡¡AHORA!!!\n"
+"¿¡¿¡ESTÁS LISTO!?!?"
 
 msgid "<18>BECAUSE!"
 msgstr "<18>¡PORQUE!"
@@ -7987,25 +8022,27 @@ msgid ""
 "<25>{#p/sans}* well?\n"
 "* are we doing this thing or what?"
 msgstr ""
+"<25>{#p/sans}* ¿y bien?\n"
+"* ¿vamos a hacer esto o qué?"
 
 msgid "<18>{#p/papyrus}{#f/7}..."
 msgstr "<18>{#p/papyrus}{#f/7}..."
 
 msgid ""
 "<25>{#p/sans}{#f/3}* that annoying dog's going to get impatient up there."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* ese perro molesto se va a impacientar ahí arriba."
 
 msgid "<18>{#p/papyrus}{#f/7}ANY SECOND NOW!"
 msgstr "<18>{#p/papyrus}{#f/7}¡EN CUALQUIER SEGUNDO!"
 
 msgid "<25>{#p/sans}* ready when you are."
-msgstr ""
+msgstr "<25>{#p/sans}* listo cuando tú lo estés."
 
 msgid "<18>{#p/papyrus}{#f/6}I..."
 msgstr "<18>{#p/papyrus}{#f/6}YO..."
 
 msgid "<18>{#f/6}I'M STARTING TO THINK THAT..."
-msgstr ""
+msgstr "<18>{#f/6}ESTOY EMPEZANDO A PENSAR QUE..."
 
 msgid "<18>{#f/6}MAYBE..."
 msgstr "<18>{#f/6}TAL VEZ..."
@@ -8017,22 +8054,22 @@ msgid "<18>{#f/6}..."
 msgstr "<18>{#f/6}..."
 
 msgid "<18>{#f/4}... WAS A BIT OF A BAD IDEA."
-msgstr ""
+msgstr "<18>{#f/4}... FUE UNA IDEA UN POCO MALA."
 
 msgid "<18>{#f/5}TO THINK I CREATED SUCH A HARMFUL CHALLENGE..."
-msgstr ""
+msgstr "<18>{#f/5}PENSAR QUE CREÉ UN DESAFÍO TAN PELIGROSO..."
 
 msgid "<18>{#f/9}BUT, HAVE NO FEAR!"
-msgstr ""
+msgstr "<18>{#f/9}¡PERO, NO TEMAS!"
 
 msgid "<18>{#f/9}I AM A SKELETON WITH STANDARDS!"
-msgstr ""
+msgstr "<18>{#f/9}¡SOY UN ESQUELETO CON ESTÁNDARES!"
 
 msgid "<18>{#f/4}AND, FRANKLY, A CHALLENGE YOU CANNOT SURVIVE..."
-msgstr ""
+msgstr "<18>{#f/4}Y, FRANCAMENTE, UN DESAFÍO AL QUE NO PUEDES SOBREVIVIR..."
 
 msgid "<18>{#f/7}IS A CHALLENGE FAR TOO CONTRIVED!"
-msgstr ""
+msgstr "<18>{#f/7}¡ES UN RETO DEMASIADO ARTIFICIOSO!"
 
 msgid "<18>AWAY IT GOES!!"
 msgstr "<18>¡¡ALLA VAMOS!!"
