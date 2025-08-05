@@ -13680,5 +13680,11 @@
     "scr_monstersetup_slash_scr_monstersetup_gml_2058_0": "Flirt",
     "scr_credit_slash_scr_credit_gml_255_0": "Monami Katayama [セールス部]",
     "obj_room_ranking_b_slash_Draw_0_gml_47_0": "NO MORE GOLD",
-    "scr_credit_slash_scr_credit_gml_38_0": "Robert Sephazon (Producer)"
+    "scr_credit_slash_scr_credit_gml_38_0": "Robert Sephazon (Producer)",
+    "obj_npc_room_slash_Other_10_gml_1953_0": "* Mumble... no more characters... all gone...",
+    "obj_npc_room_slash_Other_10_gml_1954_0": "* What? You want to find them?",
+    "obj_npc_room_slash_Other_10_gml_1956_0": "* ... the ticket... it's under the ball machine...",
+    "obj_npc_room_slash_Other_10_gml_1962_0": "* ... the ticket... it's under the ball machine...",
+    "obj_room_ranking_b_slash_Step_0_gml_12_0_b": "* (You thought you saw something on the ground... but you must've already had it.)",
+    "obj_npc_room_slash_Other_10_gml_1955_0": "* No, no, they already went nowhere..."
 }
