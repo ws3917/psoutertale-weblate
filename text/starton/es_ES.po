@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-04 03:35+0000\n"
+"PO-Revision-Date: 2025-08-05 03:40+0000\n"
 "Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -8359,6 +8359,7 @@ msgstr "<18>{#p/papyrus}{#f/5}¿EH? ¿¿¿ESTÁS... INTENTANDO REPRENDERME???"
 
 msgid "<18>{#f/6}YOU THINK I'M NOT STRONG ENOUGH TO BE YOUR FRIEND?"
 msgstr ""
+"<18>{#f/6}¿CREES QUE NO SOY LO SUFICIENTEMENTE FUERTE PARA SER TU AMIGO?"
 
 msgid "<18>{#f/5}... N-NO..."
 msgstr "<18>{#f/5}... N-NO..."
@@ -8367,63 +8368,71 @@ msgid ""
 "<18>{#f/7}NO, WHAT AM I SAYING!!\n"
 "OF COURSE I AM!"
 msgstr ""
+"<18>{#f/7}¡¡NO, QUÉ ESTOY DICIENDO!!\n"
+"¡CLARO QUE LO SOY!"
 
 msgid "<18>{#f/9}AND... I'LL PROVE IT BY BEING YOUR FRIEND ANYWAY!"
-msgstr ""
+msgstr "<18>{#f/9}Y... ¡LO PROBARÉ SIENDO TU AMIGO DE TODAS FORMAS!"
 
 msgid "<18>{#p/papyrus}{#f/1}HUH? WHY WOULD YOU BERATE YOURSELF SO LOUDLY???"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}¿EH? ¿¿¿POR QUÉ TE REPRENDERÍAS TAN FUERTE???"
 
 msgid "<18>{#f/4}IS IT BECAUSE..."
-msgstr ""
+msgstr "<18>{#f/4}ES PORQUE..."
 
 msgid "<18>{#f/7}YOU DON'T THINK YOU'RE GOOD ENOUGH TO BE MY FRIEND?"
 msgstr ""
+"<18>{#f/7}¿NO CREES SER LO SUFICIENTEMENTE BUENO COMO PARA SER MI AMIGO?"
 
 msgid ""
 "<18>{#f/9}NO, YOU'RE GREAT!\n"
 "I'LL BE YOUR FRIEND!!!"
 msgstr ""
+"<18>{#f/9}¡NO, ERES GENIAL!\n"
+"¡¡¡SERÉ TU AMIGO!!!"
 
 msgid "<18>{#f/0}WOWIE!!"
-msgstr "<18>{#f/0}¡¡WOW!!"
+msgstr "<18>{#f/0}¡¡GUAU!!"
 
 msgid "<18>I FOUND A NEW FRIEND!!!"
-msgstr ""
+msgstr "<18>¡¡¡ENCONTRÉ A UN NUEVO AMIGO!!!"
 
 msgid "<18>{#f/4}AND WHO KNEW THAT ALL I NEEDED TO DO IT..."
-msgstr ""
+msgstr "<18>{#f/4}Y QUIÉN DIRÍA QUE TODO LO QUE TENÍA QUE HACER..."
 
 msgid "<18>{#f/0}WE HAVEN'T EVEN HAD OUR FIRST DATE..."
-msgstr ""
+msgstr "<18>{#f/0}NI SIQUIERA HEMOS TENIDO NUESTRA PRIMERA CITA..."
 
 msgid "<18>{#f/0}AND I'VE ALREADY MANAGED TO HIT THE FRIEND ZONE!!!"
-msgstr ""
+msgstr "<18>{#f/0}¡¡¡Y YA HE CONSEGUIDO LLEGAR A LA FRIEND ZONE!!!"
 
 msgid "<18>{#f/4}WHO KNEW THAT ALL I HAD TO DO..."
-msgstr ""
+msgstr "<18>{#f/4}QUIÉN DIRÍA QUE TODO LO QUE TENÍA QUE HACER..."
 
 msgid "<18>{#f/0}WAS TO GIVE PEOPLE AWFUL PUZZLES AND THEN FIGHT THEM?"
 msgstr ""
+"<18>{#f/0}¿ERA DARLE A LA GENTE PUZLES HORRIBLES Y LUEGO PELEAR CONTRA ELLOS?"
 
 msgid "<18>YOU TAUGHT ME A LOT, HUMAN."
-msgstr ""
+msgstr "<18>ME HAS ENSEÑADO MUCHO, HUMANO."
 
 msgid "<18>{#f/9}I HEREBY GRANT YOU PERMISSION TO PASS THROUGH!"
-msgstr ""
+msgstr "<18>{#f/9}¡POR LA PRESENTE TE CONCEDO EL PERMISO PARA PASAR!"
 
 msgid "<18>{#f/0}AND I'LL GIVE YOU DIRECTIONS TO THE EXIT."
-msgstr ""
+msgstr "<18>{#f/0}Y TE DARÉ INDICACIONES PARA LLEGAR A LA SALIDA."
 
 msgid "<18>CONTINUE FORWARD UNTIL YOU REACH THE CITADEL."
-msgstr ""
+msgstr "<18>SIGUE ADELANTE HASTA LLEGAR A LA CAPITAL."
 
 msgid ""
 "<18>THEN, HOP IN A CRAFT AND CROSS THE {@fill=#ff0}FORCE FIELD{@fill=#fff}."
 msgstr ""
+"<18>LUEGO, SUBE A UNA NAVE Y CRUZA EL {@fill=#ff0}CAMPO DE "
+"FUERZA{@fill=#fff}."
 
 msgid "<18>{#f/4}THAT'S THE THING TRAPPING US ALL ON THE OUTPOST."
-msgstr ""
+msgstr "<18>{#f/4}ESO ES LO QUE NOS MANTIENE ATRAPADOS EN LA ZONA ESPACIAL."
 
 msgid "<18>ANYONE CAN ENTER THROUGH IT, BUT NOBODY CAN EXIT..."
 msgstr ""
