@@ -13680,5 +13680,11 @@
     "scr_monstersetup_slash_scr_monstersetup_gml_2058_0": "Флирт",
     "scr_credit_slash_scr_credit_gml_255_0": "Monami Katayama [セールス部]",
     "obj_room_ranking_b_slash_Draw_0_gml_47_0": "КУША НЕ БУДЕТ",
-    "scr_credit_slash_scr_credit_gml_38_0": "Robert Sephazon (Продюсер)"
+    "scr_credit_slash_scr_credit_gml_38_0": "Robert Sephazon (Продюсер)",
+    "obj_npc_room_slash_Other_10_gml_1953_0": "* Бу-бу-бу... никого здесь больше нет... все ушли...",
+    "obj_npc_room_slash_Other_10_gml_1954_0": "* Что? Хочешь их отыскать?",
+    "obj_npc_room_slash_Other_10_gml_1956_0": "* Билет... он под автоматом с призами...",
+    "obj_npc_room_slash_Other_10_gml_1962_0": "* Билет... он под автоматом с призами...",
+    "obj_room_ranking_b_slash_Step_0_gml_12_0_b": "* (Вам показалось, что на полу что-то лежит... но оно уже давно было у вас.)",
+    "obj_npc_room_slash_Other_10_gml_1955_0": "* Нет, нет, они уже ушли в никуда..."
 }
