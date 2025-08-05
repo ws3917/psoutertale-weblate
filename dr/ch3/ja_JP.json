@@ -13680,5 +13680,11 @@
     "scr_monstersetup_slash_scr_monstersetup_gml_2058_0": "口説く",
     "scr_credit_slash_scr_credit_gml_255_0": "Monami Katayama [セールス部]",
     "obj_room_ranking_b_slash_Draw_0_gml_47_0": "NO MORE GOLD",
-    "scr_credit_slash_scr_credit_gml_38_0": "Robert Sephazon [プロデューサー]"
+    "scr_credit_slash_scr_credit_gml_38_0": "Robert Sephazon [プロデューサー]",
+    "obj_npc_room_slash_Other_10_gml_1953_0": "＊ ブツブツ^1…　キャラクターたちは\n　 もう　いない^1…\n　 みんな　いなくなった…",
+    "obj_npc_room_slash_Other_10_gml_1954_0": "＊ なんじゃと？　キャラクターたちを\n　 さがしている？",
+    "obj_npc_room_slash_Other_10_gml_1956_0": "＊ …切符は…\n　 ボールマシンの下じゃ…",
+    "obj_npc_room_slash_Other_10_gml_1962_0": "＊ …切符は…\n　 ボールマシンの下じゃ…",
+    "obj_room_ranking_b_slash_Step_0_gml_12_0_b": "＊ (床に　なにかが落ちているように\n　 見えた^1…が^1…\n　 もう　持っていたようだ)",
+    "obj_npc_room_slash_Other_10_gml_1955_0": "＊ ダメじゃ^1…ダメじゃ^1…\n　 みんな　ドコデモナイへ\n　 行ってしまった…"
 }
