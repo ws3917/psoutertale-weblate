@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-06 19:09+0000\n"
+"PO-Revision-Date: 2025-08-07 15:07+0000\n"
 "Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -9277,155 +9277,179 @@ msgid "<25>{#p/sans}{#f/2}* wide-area troposphere framework."
 msgstr "<25>{#p/sans}{#f/2}* marco rectangular dimensional."
 
 msgid "<25>{#p/sans}* actually, that spaghetti from earlier..."
-msgstr ""
+msgstr "<25>{#p/sans}* en realidad, ese espagueti de antes..."
 
 msgid "<25>{#f/3}* it wasn't too bad for my brother."
-msgstr ""
+msgstr "<25>{#f/3}* no estuvo tan mal para mi hermano."
 
 msgid ""
 "<25>{#f/0}* since he started cooking lessons, he's been improving a lot."
 msgstr ""
+"<25>{#f/0}* desde que empezó sus lecciones de cocina, ha estado mejorando "
+"mucho."
 
 msgid "<25>{#f/4}* i bet if he keeps it up, he'll even impress the king."
-msgstr ""
+msgstr "<25>{#f/4}* apuesto a que si sigue así, incluso impresionará al rey."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* ... sure would be a good way for him to get away from "
 "you."
 msgstr ""
+"<25>{#p/sans}{#f/2}* ... seguramente sería una buena manera de que se aleje "
+"de ti."
 
 msgid "<25>{#p/sans}{#f/2}* ... the man up top's a sucker for spaghetti."
 msgstr ""
+"<25>{#p/sans}{#f/2}* ... el de allá arriba es un fanático del espagueti."
 
 msgid "<25>{#p/sans}{#f/0}* i hope you liked that last puzzle i set for you."
 msgstr ""
+"<25>{#p/sans}{#f/0}* espero que te haya gustado ese último puzle que preparé "
+"para ti."
 
 msgid ""
 "<25>{#f/3}* i was kind of in a hurry, but papyrus insisted i prepare it."
 msgstr ""
+"<25>{#f/3}* tenía algo de prisa, pero papyrus insistió en que lo preparara."
 
 msgid "<25>{#p/sans}{#f/3}* i hear the area's being evacuated right now..."
 msgstr ""
+"<25>{#p/sans}{#f/3}* escuché que la zona está siendo evacuada ahora mismo..."
 
 msgid "<25>{#f/0}* if i were you, i'd be afraid for my life."
-msgstr ""
+msgstr "<25>{#f/0}* si yo fuera tú, temería por mi vida."
 
 msgid "<25>{#p/sans}{#f/3}* i don't know what my brother's going to do now."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* no sé que es lo que va a hacer mi hermano ahora."
 
 msgid ""
 "<25>{#f/0}* if i were you, i would make sure i understand "
 "{@fill=#ff993d}orange attacks{@fill=#fff}."
 msgstr ""
+"<25>{#f/0}* si yo fuera tú, me aseguraría de entender los {@fill=#ff993d}"
+"ataques naranjas{@fill=#fff}."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* what?\n"
 "* can you blame me?"
 msgstr ""
+"<25>{#p/sans}{#f/0}* ¿qué?\n"
+"* ¿puedes culparme?"
 
 msgid ""
 "<25>{#f/3}* it's hard to get ANYTHING done when i have you to consider."
-msgstr ""
+msgstr "<25>{#f/3}* es difícil hacer NADA cuando tengo que pensar en ti."
 
 msgid ""
 "<25>{#p/sans}{#f/0}* thankfully, i have someone who cares about my well-"
 "being."
 msgstr ""
+"<25>{#p/sans}{#f/0}* por suerte, tengo a alguien que se preocupa por mi "
+"bienestar."
 
 msgid "<25>{#f/2}* no matter what happens, i know he'll be there for me."
-msgstr ""
+msgstr "<25>{#f/2}* no importa lo que pase, sé que estará aquí para mí."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* oh, and maybe {@fill=#00a2e8}blue attacks{@fill=#fff}, "
 "too."
 msgstr ""
+"<25>{#p/sans}{#f/2}* oh, y quizás también los {@fill=#00a2e8}ataques "
+"azules{@fill=#fff}."
 
 msgid "<25>{#p/sans}{#f/3}* oh well."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/3}* oh bueno."
 
 msgid "<25>{#p/sans}{#f/0}* am i wrong?"
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* ¿me equivoco?"
 
 msgid "<26>{#p/sans}{#f/0}* all sorts of attacks."
-msgstr ""
+msgstr "<26>{#p/sans}{#f/0}* todo tipo de ataques."
 
 msgid "<25>{#p/sans}* by the way..."
-msgstr ""
+msgstr "<25>{#p/sans}* por cierto..."
 
 msgid "<25>* i know i've been harsh on you lately..."
-msgstr ""
+msgstr "<25>* sé que he sido duro contigo últimamente..."
 
 msgid "<25>{#f/3}* but thanks for trying to be a better person."
-msgstr ""
+msgstr "<25>{#f/3}* pero gracias por intentar ser una mejor persona."
 
 msgid "<25>{#f/2}* keep it up, ok?"
-msgstr ""
+msgstr "<25>{#f/2}* sigue así, ¿está bien?"
 
 msgid "<25>* i know you're still going around hurting people..."
-msgstr ""
+msgstr "<25>* sé que sigues por ahí lastimando a la gente..."
 
 msgid "<25>{#f/3}* but i appreciate the effort not to outright kill them."
-msgstr ""
+msgstr "<25>{#f/3}* pero aprecio el esfuerzo por no matarlos del todo."
 
 msgid "<25>{#f/2}* it's something, right?"
-msgstr ""
+msgstr "<25>{#f/2}* es algo, ¿cierto?"
 
 msgid "<25>* if you happen to run into my brother..."
-msgstr ""
+msgstr "<25>* si te cruzas con mi hermano..."
 
 msgid "<25>{#f/3}* ..."
 msgstr "<25>{#f/3}* ..."
 
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Don't even try it."
-msgstr ""
+msgstr "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Ni siquiera lo intentes."
 
 msgid "<25>* i know it's kind of silly at times..."
-msgstr ""
+msgstr "<25>* sé que es un poco tonto a veces..."
 
 msgid ""
 "<25>{#f/3}* but thanks for going along with my brother's crazy schemes."
 msgstr ""
+"<25>{#f/3}* pero gracias por seguirle el juego a los locos planes de mi "
+"hermano."
 
 msgid "<25>{#f/2}* you're a champion."
-msgstr ""
+msgstr "<25>{#f/2}* eres un campeón."
 
 msgid "<25>* i know you've been going around hurting people..."
-msgstr ""
+msgstr "<25>* sé que has estado por ahí lastimando a la gente..."
 
 msgid ""
 "<32>{#p/human}* (The narration on this sentry station predicts the future "
 "fame of its creator.)"
 msgstr ""
+"<32>{#p/human}* (La narración en esta estación de centinela predice la "
+"futura fama de su creador.)"
 
 msgid "<32>{#p/basic}* There's some narration on this cardboard box."
-msgstr ""
+msgstr "<32>{#p/basic}* Hay una narración en esta caja de cartón."
 
 msgid "<23>{#p/papyrus}{#f/30}\"PLEASE DO NOT DESTROY MY SENTRY STATION.\""
 msgstr ""
+"<23>{#p/papyrus}{#f/30}\"POR FAVOR NO DESTRUYAS MI ESTACIÓN DE CENTINELA.\""
 
 msgid "<23>\"I WORKED VERY HARD ON IT, AND IT'D BE A SHAME IF IT WERE RUINED.\""
-msgstr ""
+msgstr "<23>\"TRABAJÉ MUY DURO EN ELLA, Y SERÍA UNA PENA SI FUERA ARRUINADA.\""
 
 msgid "<23>\"... THAT IS ALL.\""
-msgstr ""
+msgstr "<23>\"... ESO ES TODO.\""
 
 msgid "<23>(\"NOTE: I WOULD HAVE SAID MORE, BUT THERE'S NOT ENOUGH ROOM.\")"
-msgstr ""
+msgstr "<23>(\"NOTA: HABRÍA DICHO MÁS, PERO NO HAY SUFICIENTE ESPACIO.\")"
 
 msgid "<23>{#p/papyrus}{#f/30}\"YOU OBSERVE THE WELL- CRAFTED SENTRY STATION.\""
 msgstr ""
+"<23>{#p/papyrus}{#f/30}"
+"\"OBSERVAS LA MUY BIEN CONSTRUIDA ESTACIÓN DE CENTINELA.\""
 
 msgid "<23>\"WHO COULD HAVE BUILT THIS, YOU PONDER...?\""
-msgstr ""
+msgstr "<23>\"¿QUIÉN PUDO HABER CONSTRUIDO ESTO, TE PREGUNTAS...?\""
 
 msgid "<23>\"I BET IT WAS THAT VERY FAMOUS ROYAL GUARDSMAN!\""
-msgstr ""
+msgstr "<23>\"¡APUESTO A QUE FUE ESE GUARDIA REAL MUY FAMOSO!\""
 
 msgid "<32>{#p/basic}* The last line was crossed out."
-msgstr ""
+msgstr "<32>{#p/basic}* La última linea fue tachada."
 
 msgid "<23>(\"NOTE: NOT YET A VERY FAMOUS ROYAL GUARDSMAN.\")"
-msgstr ""
+msgstr "<23>(\"NOTA: TODAVÍA NO ES UN GUARDIA REAL MUY FAMOSO.\")"
 
 msgid "<25>{#p/sans}{#f/0}* admiring my bro's handiwork, are we?"
 msgstr ""
