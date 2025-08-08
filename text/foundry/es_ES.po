@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-08 21:48+0000\n"
+"PO-Revision-Date: 2025-08-09 15:14+0000\n"
 "Last-Translator: Valentina Yerena <valentinaiyerenar@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "3-foundry/es/>\n"
@@ -635,7 +635,7 @@ msgid "<32>* thanks for trying, though......"
 msgstr "<32>* de todas formas, gracias por intentarlo..."
 
 msgid "<32>{#p/napstablook}* well, that was that"
-msgstr ""
+msgstr "<32>{#p/napstablook}* bueno, eso fue todo."
 
 msgid "<32>* ............"
 msgstr "<32>* ............"
@@ -645,36 +645,39 @@ msgid ""
 "* feel free to join me...\n"
 "* or not..."
 msgstr ""
+"<32>{#p/napstablook}* estaré afuera...\n"
+"* siéntete libre de acompañarme...\n"
+"* o no..."
 
 msgid "<32>* it's up to you..."
-msgstr ""
+msgstr "<32>* depende de ti..."
 
 msgid "<32>{#p/human}* (You reach for the sound system...)"
-msgstr ""
+msgstr "<32>{#p/human}* (Te acercas al sistema de sonido...)"
 
 msgid "<32>{#p/basic}* There is currently no music playing."
-msgstr ""
+msgstr "<32>{#p/basic}* Actualmente no hay música reproduciéndose."
 
 msgid "* (Play a song?)"
-msgstr ""
+msgstr "* (¿Poner una canción?)"
 
 msgid "Spooktune"
-msgstr ""
+msgstr "Canciospectro"
 
 msgid "Spookwave"
-msgstr ""
+msgstr "Espantonda"
 
 msgid "Spookwaltz"
-msgstr ""
+msgstr "Fantasvals"
 
 msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "<32>{*}{#p/human}* (You turn the dial...){^40}{%}"
-msgstr ""
+msgstr "<32>{*}{#p/human}* (Giras la perilla...){^40}{%}"
 
 msgid "<32>{#p/human}* (It sounds like a song is currently playing.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Parece que está sonando una canción.)"
 
 msgid "<32>{#p/basic}* Currently playing \"Spooktune\""
 msgstr ""
@@ -686,7 +689,7 @@ msgid "<32>{#p/basic}* Currently playing \"Spookwaltz\""
 msgstr ""
 
 msgid "* (Stop playback?)"
-msgstr ""
+msgstr "* (¿Detener la reproducción?)"
 
 msgid ""
 "<32>{#p/napstablook}* oh...\n"
@@ -694,24 +697,26 @@ msgid ""
 msgstr ""
 
 msgid "<32>* they really don't make music like this anymore..."
-msgstr ""
+msgstr "<32>* ya no hacen música como esta..."
 
 msgid "<32>{#p/napstablook}* dang, that ambience..."
-msgstr ""
+msgstr "<32>{#p/napstablook}* vaya, ese ambiente..."
 
 msgid "<32>* it's like my whole body is being spooked"
-msgstr ""
+msgstr "<32>* es como si todo mi cuerpo estuviera asustado."
 
 msgid "<32>{#p/napstablook}* this one's kinda slow..."
-msgstr ""
+msgstr "<32>{#p/napstablook}* esta es algo lenta..."
 
 msgid "<32>* but once you get into the groove, it's pretty good"
-msgstr ""
+msgstr "<32>* pero una vez que agarras el ritmo, está bastante buena."
 
 msgid ""
 "<32>{#p/napstablook}* hey...\n"
 "* you really like listening to that old playlist, huh"
 msgstr ""
+"<32>{#p/napstablook}* oye...\n"
+"* realmente te gusta escuchar esa vieja lista, eh"
 
 msgid ""
 "<32>* i mean......\n"
