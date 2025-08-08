@@ -1,5 +1,8 @@
 {
     "gml_Object_obj_battlecontroller_Step_0.gml:31:3f32bf65-dd0a-42c9-ba95-4c4a43df34bc": "&* 一滴泪珠滑落。",
     "gml_Object_obj_battlecontroller_Step_0.gml:33:b1bab33e-0af8-4a1d-8bbd-e970aafcd9f0": "&* Niko感到麻木。",
-    "[\"gml_Object_obj_dogetrigger1_Step_0.gml:74:81d773dd-174f-469b-8fec-9502f8f170a5\", \"gml_Object_obj_forcedright_Step_0.gml:109:9537961d-cbbc-450d-af02-756fa124e0d5\"]": "\\F0* （LOVE消解了Niko的痛苦。）/%%"
+    "[\"gml_Object_obj_dogetrigger1_Step_0.gml:74:81d773dd-174f-469b-8fec-9502f8f170a5\", \"gml_Object_obj_forcedright_Step_0.gml:109:9537961d-cbbc-450d-af02-756fa124e0d5\"]": "\\F0* （LOVE消解了Niko的痛苦。）/%%",
+    "gml_Object_obj_battlecontroller_Step_0.gml:35:3c5fb83e-5c1d-4e97-8195-10ba627c81cd": "&* Niko敛起一丝笑容。",
+    "gml_Object_obj_battlecontroller_Step_0.gml:37:7d33c7d3-02d9-442e-a9ee-03cabca48d37": "&* Niko发出一阵轻笑。",
+    "gml_Object_obj_battlecontroller_Step_0.gml:39:35be5f21-aa58-4c78-b066-63c92d748c83": "&\\K* 我变得更强了。\\W"
 }
