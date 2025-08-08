@@ -1,4 +1,5 @@
 {
     "gml_Object_obj_battlecontroller_Step_0.gml:31:3f32bf65-dd0a-42c9-ba95-4c4a43df34bc": "&* 一滴泪珠滑落。",
-    "gml_Object_obj_battlecontroller_Step_0.gml:33:b1bab33e-0af8-4a1d-8bbd-e970aafcd9f0": "&* Niko感到麻木。"
+    "gml_Object_obj_battlecontroller_Step_0.gml:33:b1bab33e-0af8-4a1d-8bbd-e970aafcd9f0": "&* Niko感到麻木。",
+    "[\"gml_Object_obj_dogetrigger1_Step_0.gml:74:81d773dd-174f-469b-8fec-9502f8f170a5\", \"gml_Object_obj_forcedright_Step_0.gml:109:9537961d-cbbc-450d-af02-756fa124e0d5\"]": "\\F0* （LOVE消解了Niko的痛苦。）/%%"
 }
