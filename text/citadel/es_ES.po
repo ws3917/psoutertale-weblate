@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-25 08:13+0000\n"
 "PO-Revision-Date: 2025-08-08 07:57+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "5-citadel/es/>\n"
 "Language: es_ES\n"
@@ -6073,7 +6073,7 @@ msgid "Comfort him"
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/25}* ...!"
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/25}* ¡...!"
 
 msgid "<25>{#f/21}* Frisk, I..."
 msgstr ""
@@ -6280,7 +6280,7 @@ msgid "<25>{#p/undyne}{#f/1}* Enjoy the solitude!!"
 msgstr ""
 
 msgid "<32>{#s/equip}{#p/event}* Click..."
-msgstr ""
+msgstr "<32>{#s/equip}{#p/event}* Click..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}HEY, HUMAN!\n"
@@ -6554,7 +6554,7 @@ msgid "<25>{#p/asgore}{#f/1}* Howdy."
 msgstr ""
 
 msgid "<25>{#p/toriel}{#f/5}* ..."
-msgstr ""
+msgstr "<25>{#p/toriel}{#f/5}* ..."
 
 msgid "<25>{#p/asgore}{#f/6}* Toriel, I..."
 msgstr ""
@@ -6705,7 +6705,7 @@ msgid "<25>{#p/asgore}{#f/2}* I understand."
 msgstr ""
 
 msgid "<25>{#p/asgore}{#f/20}* ..."
-msgstr ""
+msgstr "<25>{#p/asgore}{#f/20}* ..."
 
 msgid "<25>{#p/asgore}{#f/4}* ... thank you."
 msgstr ""
@@ -6818,7 +6818,7 @@ msgid "<18>{#p/papyrus}{#f/9}IT'S ALL AROUND US, IN FACT!"
 msgstr ""
 
 msgid "<25>{#p/sans}{#f/0}* hmm..."
-msgstr ""
+msgstr "<25>{#p/sans}{#f/0}* hmm..."
 
 msgid ""
 "<25>{#p/sans}{#f/2}* so would you say you're {@fill=#ff0}shooting for the "
@@ -9530,7 +9530,7 @@ msgid "<25>{#f/4}* It's a bummer it was never finished."
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/13}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* ..."
 
 msgid "<25>{#f/15}* When Mom left, it... hurt him pretty bad."
 msgstr ""
@@ -10169,7 +10169,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/asriel1}{#f/15}* ..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/15}* ..."
 
 msgid "<32>{#p/basic}* Nothing left for you here."
 msgstr ""
