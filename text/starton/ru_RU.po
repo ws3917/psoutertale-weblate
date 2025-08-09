@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 16:56+0000\n"
-"PO-Revision-Date: 2025-08-09 15:14+0000\n"
+"PO-Revision-Date: 2025-08-09 19:34+0000\n"
 "Last-Translator: wildering pasta <supe204784@gmail.com>\n"
 "Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/ru/>\n"
@@ -1330,19 +1330,27 @@ msgstr ""
 "<32>{#p/basic}* Вы двое меня разыгрываете?\n"
 "* Очень смешно, ребята."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Big lug?\n"
 "* Is that you?\n"
 "* Come on..."
 msgstr ""
+"<32>{#p/basic}* Здоровяк?\n"
+"* Это ты?\n"
+"* Ну же..."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Well, it's not the tall skeleton...\n"
 "* He's too loud."
 msgstr ""
+"<32>{#p/basic}* Ну, это не высокий скелет...\n"
+"* Он слишком громкий."
 
+#, fuzzy
 msgid "<32>{#p/basic}* Whoever you are, knock it off!!!"
-msgstr ""
+msgstr "<32>{#p/basic}* Кем бы ты ни был, прекрати!!!"
 
 msgid "<32>{#p/basic}* (Snore... snore...)"
 msgstr "<34>{#p/basic}* (храп... храп...)"
@@ -1363,8 +1371,9 @@ msgstr ""
 "<32>* У меня даже слов нет...\n"
 "* Пошел вон!"
 
+#, fuzzy
 msgid "<32>{#p/basic}* You know, you're lucky I'm busy advertising."
-msgstr ""
+msgstr "<32>{#p/basic}* Знаешь, тебе повезло что я занят рекламой."
 
 #, fuzzy
 msgid ""
@@ -1402,8 +1411,9 @@ msgstr "<25>{#p/asriel2}{#f/3}* Что-ж... не опять, а снова."
 msgid "<25>{#p/asriel2}{#f/1}* Let's go introduce ourselves, shall we?"
 msgstr "<25>{#p/asriel2}{#f/1}* Пошли поздороваемся с ним."
 
+#, fuzzy
 msgid "<25>{#p/asriel2}{#f/4}* You know the drill by now."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/4}* Ты уже знаешь."
 
 #, fuzzy
 msgid "<25>{*}{#p/asriel2}{#f/5}* Howdy!{^5}{%}"
@@ -1429,10 +1439,13 @@ msgstr "<25>{#f/15}* Не то чтобы мне что-то угрожало, �
 msgid "<25>{#f/16}* I just think you'd be better at this than I am."
 msgstr "<25>{#f/16}* Я думаю, что ты лучше справишься с этим."
 
+#, fuzzy
 msgid ""
 "<25>{#f/17}* Yeah, that's it.\n"
 "* You're better at this sort of thing."
 msgstr ""
+"<25>{#f/17}* Вот и всё.\n"
+"* Ты лучше в этом деле."
 
 msgid ""
 "<25>{#p/asriel2}{#f/16}* Okay, yeah.\n"
@@ -1539,29 +1552,39 @@ msgstr ""
 msgid "<25>{#f/10}* ..."
 msgstr "<27>{#f/10}* ..."
 
+#, fuzzy
 msgid ""
 "<25>{#f/4}* Golly, $(name), I didn't think you'd kill him THAT quickly."
-msgstr ""
+msgstr "<25>{#f/4}* Божечки, $(name), я не думал что ты так быстро его убьешь."
 
+#, fuzzy
 msgid ""
 "<25>{#f/1}* It's about time that bonehead paid the price for his mercy."
-msgstr ""
+msgstr "<25>{#f/1}* Этому глупцу уже пора отдать долг за пощаду."
 
+#, fuzzy
 msgid ""
 "<25>{#f/13}* Golly.\n"
 "* He wanted SO badly to forgive you."
 msgstr ""
+"<25>{#f/13}* Божечки.\n"
+"* Он так сильно хотел простить тебя."
 
+#, fuzzy
 msgid "<25>{#f/16}* But, let's be honest with ourselves here..."
-msgstr ""
+msgstr "<25>{#f/16}* Но давай будем откровенны..."
 
+#, fuzzy
 msgid "<25>{#f/1}* We've got bigger fish to fry."
-msgstr ""
+msgstr "<25>{#f/1}* Всегда найдётся рыба крупней."
 
+#, fuzzy
 msgid ""
 "<25>{#p/asriel2}{#f/13}* Oh well.\n"
 "* The skeleton died for nothing again."
 msgstr ""
+"<25>{#p/asriel2}{#f/13}* Ну ладно.\n"
+"* Этот скелет опять умер ни за что."
 
 msgid ""
 "<25>{#p/asriel2}{#f/13}* You know, they say the third time's the charm..."
