@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-11 05:58+0000\n"
+"PO-Revision-Date: 2025-08-12 05:17+0000\n"
 "Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -10321,55 +10321,63 @@ msgstr ""
 "<25>{#p/asriel1}{#f/16}* He aquí, la tragedia del pastel de queso abandonado."
 
 msgid "<32>{#p/basic}* There's an empty pie tin inside the stove."
-msgstr ""
+msgstr "<32>{#p/basic}* Hay un molde para tarta vacío dentro de la estufa."
 
 msgid "<18>{#p/papyrus}MY BROTHER ALWAYS GOES OUT TO EAT."
-msgstr ""
+msgstr "<18>{#p/papyrus}MI HERMANO SIEMPRE SALE A COMER."
 
 msgid "<18>{#f/4}BUT RECENTLY, HE TRIED 'BAKING' SOMETHING..."
-msgstr ""
+msgstr "<18>{#f/4}PERO RECIENTEMENTE, INTENTÓ \"HORNEAR\" ALGO..."
 
 msgid "<18>{#f/5}I THINK IT WAS... A CHEESECAKE?"
-msgstr ""
+msgstr "<18>{#f/5}CREO QUE ERA... ¿UN PASTEL DE QUESO?"
 
 msgid "<18>{#f/6}I'M NOT QUITE SURE."
-msgstr ""
+msgstr "<18>{#f/6}NO ESTOY MUY SEGURO."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* Basically, Sans had created a cheesecake so "
 "sweet..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* Básicamente, Sans había creado un pastel de queso "
+"tan dulce..."
 
 msgid "<25>{#f/16}* Anyone who tried it would become addicted to it."
-msgstr ""
+msgstr "<25>{#f/16}* Cualquiera que lo probara se volvería adicto a él."
 
 msgid "<25>{#f/3}* If he wanted, he could have the outpost all to himself."
 msgstr ""
+"<25>{#f/3}* Si quisiera, podría quedarse con cada cliente de la Zona "
+"Espacial."
 
 msgid "<25>{#f/3}* The cheesecake, it would seem..."
-msgstr ""
+msgstr "<25>{#f/3}* El pastel de queso, al parecer..."
 
 msgid "<25>{#f/4}* Was a pathway to success Papyrus could never approve of."
 msgstr ""
+"<25>{#f/4}* Fue un camino al éxito el cual Papyrus jamás podría aprobar."
 
 msgid "<32>{#p/basic}* It's a squeaky chew toy labelled 'special attack.'"
 msgstr ""
+"<32>{#p/basic}* Es un juguete chirriante para masticar etiquetado como "
+"'ataque especial'."
 
 msgid "<32>{#p/human}* (The sign espouses the many benefits of boxes.)"
-msgstr ""
+msgstr "<32>{#p/human}* (El letrero expone los muchos beneficios de las cajas.)"
 
 msgid "<32>{#p/basic}* \"This is a box.\""
-msgstr ""
+msgstr "<32>{#p/basic}* \"Esto es una caja.\""
 
 msgid "<32>* \"You can put an item inside or take an item out.\""
-msgstr ""
+msgstr "<32>* \"Puedes meter un objeto dentro o sacar un objeto.\""
 
 msgid ""
 "<32>* \"The same box will appear later, so don't worry about coming back.\""
 msgstr ""
+"<32>* \"La misma caja aparecerá luego, así que no te preocupes por volver.\""
 
 msgid "<32>* \"Sincerely, a box fan.\""
-msgstr ""
+msgstr "<32>* \"Sinceramente, un fanático de las cajas.\""
 
 msgid ""
 "<32>{#p/human}* (The interior wall of this doghouse appears to be covered in"
