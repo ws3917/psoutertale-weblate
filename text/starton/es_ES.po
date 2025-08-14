@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-10 05:41+0000\n"
+"PO-Revision-Date: 2025-08-12 05:17+0000\n"
 "Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
@@ -10186,164 +10186,198 @@ msgstr "<32>{#p/human}* (No puedes distinguir nada en la basura...)"
 
 msgid "<32>{#p/human}* (The food in this fridge seems decent enough.)"
 msgstr ""
+"<32>{#p/human}* (La comida de este refrigerador parece lo bastante decente.)"
 
 msgid "<32>{#p/basic}* It's been gutted."
-msgstr ""
+msgstr "<32>{#p/basic}* Ha sido vaciado."
 
 msgid "<32>{#p/basic}* Oops, all spaghetti."
-msgstr ""
+msgstr "<32>{#p/basic}* Ups, todo es espagueti."
 
 msgid ""
 "<18>{#p/papyrus}{#f/9}AH-HA!\n"
 "INTERESTED IN MY FOOD MUSEUM?"
 msgstr ""
+"<18>{#p/papyrus}{#f/9}¡A-JÁ!\n"
+"¿INTERESADO EN MI MUSEO DE COMIDA?"
 
 msgid "<18>{#f/0}PLEASE, FEEL FREE TO PERUSE MY CULINARY ARTSHOW."
 msgstr ""
+"<18>{#f/0}POR FAVOR, SIÉNTETE LIBRE DE EXAMINAR MI EXPOSICIÓN DE ARTE "
+"CULINARIO."
 
 msgid ""
 "<32>{#p/basic}* Half of the fridge is filled with containers all labelled "
 "\"spaghetti.\""
 msgstr ""
+"<32>{#p/basic}* La mitad del refrigerador está llena de recipientes, todos "
+"etiquetados como \"espagueti.\""
 
 msgid ""
 "<32>* The other half contains nothing but an empty bottle of orange soda."
 msgstr ""
+"<32>* La otra mitad no contiene nada más que una botella vacía de refresco "
+"de naranja."
 
 msgid "<18>{#p/papyrus}GREAT FRIDGE, ISN'T IT?"
-msgstr ""
+msgstr "<18>{#p/papyrus}ES UN GRAN REFRIGERADOR, ¿NO?"
 
 msgid "<32>{#p/basic}* The bottle is labelled as property of \"ALPHYS.\""
 msgstr ""
+"<32>{#p/basic}* La botella está etiquetada como propiedad de \"ALPHYS.\""
 
 msgid "<32>{#p/human}* (You doubt the stardust is actually edible.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Dudas que el polvo estelar sea realmente comestible.)"
 
 msgid "<18>{#p/papyrus}AH YES, THE DINING TABLE."
-msgstr ""
+msgstr "<18>{#p/papyrus}AH SÍ, LA MESA DEL COMEDOR."
 
 msgid "<18>{#f/5}WE USED TO KEEP A PET MOON ROCK THERE..."
-msgstr ""
+msgstr "<18>{#f/5}SOLÍAMOS TENER A ROCA LUNAR DE MASCOTA AHÍ..."
 
 msgid "<18>{#f/7}UNTIL ONE DAY, IT TOTALLY VANISHED!"
-msgstr ""
+msgstr "<18>{#f/7}¡HASTA QUE UN DÍA, DESAPARECIÓ POR COMPLETO!"
 
 msgid "<18>{#f/4}AT FIRST, I BLAMED THAT MEDDLING CANINE..."
-msgstr ""
+msgstr "<18>{#f/4}AL PRINCIPIO, CULPÉ A ESE ENTROMETIDO CANINO..."
 
 msgid "<18>{#f/7}BUT THEN I FOUND THAT SANS HAD USED IT TO TEST HIS..."
 msgstr ""
+"<18>{#f/7}PERO LUEGO ME ENTERÉ DE QUE SANS LA HABÍA USADO PARA PROBAR SU..."
 
 msgid ""
 "<18>{#f/6}HIS... ACTUALLY USEFUL GADGET.\n"
 "WOWIE..."
 msgstr ""
+"<18>{#f/6}SU... REALMENTE ÚTIL APARATO.\n"
+"GUAU..."
 
 msgid "<18>{#f/0}YOU KNOW WHAT, I'LL GIVE IT TO HIM."
-msgstr ""
+msgstr "<18>{#f/0}SABES QUÉ, LO RECONOCERÉ."
 
 msgid "<18>{#f/0}HE GENUINELY TRIED PUTTING EFFORT INTO SOMETHING."
-msgstr ""
+msgstr "<18>{#f/0}GENUINAMENTE INTENTÓ PONER ESFUERZO EN ALGO."
 
 msgid "<18>{#f/4}EVEN IF IT COST US A VALUABLE MOON ROCK."
-msgstr ""
+msgstr "<18>{#f/4}INCLUSO SI NOS COSTÓ UNA VALIOSA ROCA LUNAR."
 
 msgid ""
 "<18>{#f/0}YEAH!!\n"
 "'E' FOR EFFORT!!"
 msgstr ""
+"<18>{#f/0}¡¡SÍ!!\n"
+"¡¡'E' DE ESFUERZO!!"
 
 msgid "<32>{#p/basic}* It's covered in edible stardust."
-msgstr ""
+msgstr "<32>{#p/basic}* Está cubierto de polvo estelar comestible."
 
 msgid "<25>{#p/asriel1}{#f/13}* Tell me, Frisk..."
-msgstr ""
+msgstr "<25>{#p/asriel1}{#f/13}* Dime, Frisk..."
 
 msgid ""
 "<25>{#f/13}* Have you ever heard the tragedy of the abandoned cheesecake?"
 msgstr ""
+"<25>{#f/13}* ¿Alguna vez has escuchado de la tragedia del pastel de queso "
+"abandonado?"
 
 msgid "<25>{#f/16}* Right here in this pie tin, a confection was created..."
 msgstr ""
+"<25>{#f/16}* Justo aquí, en este molde para tarta, se creó una confección..."
 
 msgid "<25>{#f/3}* Something beyond what its baker forsaw."
-msgstr ""
+msgstr "<25>{#f/3}* Algo más allá de lo que su panadero había previsto."
 
 msgid "<25>{#p/asriel1}{#f/3}* See, Sans had created a cheesecake so sweet..."
 msgstr ""
+"<25>{#p/asriel1}{#f/3}* Verás, Sans había creado un pastel de queso tan "
+"dulce..."
 
 msgid "<25>{#f/4}* Anyone who tried it would become addicted to it."
-msgstr ""
+msgstr "<25>{#f/4}* Cualquiera que lo probara se volvería adicto a él."
 
 msgid ""
 "<25>{#f/15}* If he wanted, he could take every customer on the outpost."
 msgstr ""
+"<25>{#f/15}* Si quisiera, podría quedarse con cada cliente de la Zona "
+"Espacial."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* In the end, Sans knew he'd upstage his brother..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* Al final, Sans supo que eclipsaría a su hermano..."
 
 msgid ""
 "<25>{#f/15}* And that, by simply creating the cheescake, he'd gone too far."
 msgstr ""
+"<25>{#f/15}* Y que, por el simple hecho de crear el pastel de queso, había "
+"ido demasiado lejos."
 
 msgid "<25>{#f/16}* So he stashed it away to avoid taking the responsibility."
-msgstr ""
+msgstr "<25>{#f/16}* Así que lo escondió para evitar asumir la responsabilidad."
 
 msgid ""
 "<25>{#p/asriel1}{#f/16}* Alas, the tragedy of the abandoned cheesecake."
 msgstr ""
+"<25>{#p/asriel1}{#f/16}* He aquí, la tragedia del pastel de queso abandonado."
 
 msgid "<32>{#p/basic}* There's an empty pie tin inside the stove."
-msgstr ""
+msgstr "<32>{#p/basic}* Hay un molde para tarta vacío dentro de la estufa."
 
 msgid "<18>{#p/papyrus}MY BROTHER ALWAYS GOES OUT TO EAT."
-msgstr ""
+msgstr "<18>{#p/papyrus}MI HERMANO SIEMPRE SALE A COMER."
 
 msgid "<18>{#f/4}BUT RECENTLY, HE TRIED 'BAKING' SOMETHING..."
-msgstr ""
+msgstr "<18>{#f/4}PERO RECIENTEMENTE, INTENTÓ \"HORNEAR\" ALGO..."
 
 msgid "<18>{#f/5}I THINK IT WAS... A CHEESECAKE?"
-msgstr ""
+msgstr "<18>{#f/5}CREO QUE ERA... ¿UN PASTEL DE QUESO?"
 
 msgid "<18>{#f/6}I'M NOT QUITE SURE."
-msgstr ""
+msgstr "<18>{#f/6}NO ESTOY MUY SEGURO."
 
 msgid ""
 "<25>{#p/asriel1}{#f/13}* Basically, Sans had created a cheesecake so "
 "sweet..."
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* Básicamente, Sans había creado un pastel de queso "
+"tan dulce..."
 
 msgid "<25>{#f/16}* Anyone who tried it would become addicted to it."
-msgstr ""
+msgstr "<25>{#f/16}* Cualquiera que lo probara se volvería adicto a él."
 
 msgid "<25>{#f/3}* If he wanted, he could have the outpost all to himself."
 msgstr ""
+"<25>{#f/3}* Si quisiera, podría quedarse con cada cliente de la Zona "
+"Espacial."
 
 msgid "<25>{#f/3}* The cheesecake, it would seem..."
-msgstr ""
+msgstr "<25>{#f/3}* El pastel de queso, al parecer..."
 
 msgid "<25>{#f/4}* Was a pathway to success Papyrus could never approve of."
 msgstr ""
+"<25>{#f/4}* Fue un camino al éxito el cual Papyrus jamás podría aprobar."
 
 msgid "<32>{#p/basic}* It's a squeaky chew toy labelled 'special attack.'"
 msgstr ""
+"<32>{#p/basic}* Es un juguete chirriante para masticar etiquetado como "
+"'ataque especial'."
 
 msgid "<32>{#p/human}* (The sign espouses the many benefits of boxes.)"
-msgstr ""
+msgstr "<32>{#p/human}* (El letrero expone los muchos beneficios de las cajas.)"
 
 msgid "<32>{#p/basic}* \"This is a box.\""
-msgstr ""
+msgstr "<32>{#p/basic}* \"Esto es una caja.\""
 
 msgid "<32>* \"You can put an item inside or take an item out.\""
-msgstr ""
+msgstr "<32>* \"Puedes meter un objeto dentro o sacar un objeto.\""
 
 msgid ""
 "<32>* \"The same box will appear later, so don't worry about coming back.\""
 msgstr ""
+"<32>* \"La misma caja aparecerá luego, así que no te preocupes por volver.\""
 
 msgid "<32>* \"Sincerely, a box fan.\""
-msgstr ""
+msgstr "<32>* \"Sinceramente, un fanático de las cajas.\""
 
 msgid ""
 "<32>{#p/human}* (The interior wall of this doghouse appears to be covered in"
