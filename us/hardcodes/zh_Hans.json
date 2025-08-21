@@ -4,5 +4,8 @@
     "[\"gml_Object_obj_dogetrigger1_Step_0.gml:74:81d773dd-174f-469b-8fec-9502f8f170a5\", \"gml_Object_obj_forcedright_Step_0.gml:109:9537961d-cbbc-450d-af02-756fa124e0d5\"]": "\\F0* （LOVE消解了Niko的痛苦。）/%%",
     "gml_Object_obj_battlecontroller_Step_0.gml:35:3c5fb83e-5c1d-4e97-8195-10ba627c81cd": "&* Niko敛起一丝笑容。",
     "gml_Object_obj_battlecontroller_Step_0.gml:37:7d33c7d3-02d9-442e-a9ee-03cabca48d37": "&* Niko发出一阵轻笑。",
-    "gml_Object_obj_battlecontroller_Step_0.gml:39:35be5f21-aa58-4c78-b066-63c92d748c83": "&\\K* 我变得更强了。\\W"
+    "gml_Object_obj_battlecontroller_Step_0.gml:39:35be5f21-aa58-4c78-b066-63c92d748c83": "&\\K* 我变得更强了。\\W",
+    "gml_Object_obj_nikoupevent_Collision_0.gml:327:22617ca8-e6ff-4746-94d7-6856cea76bc1": "\\F8\\E5\\T0\\W* 为啥啊...？？/%%",
+    "gml_Object_obj_switch_room_Step_0.gml:14:c5a58de4-7a20-4d01-9fa2-12d59e3b0b7f": "\\F9\\E7\\T0\\W* 费尽所有的力气&  就为了触发这个开关。/%%",
+    "gml_Object_obj_nikoupevent_Collision_0.gml:346:efff56c4-2b9f-4500-9f9e-7db4bd7a0069": "\\F8\\E5\\T0\\W* 今天真是倒霉透了..^1./%%"
 }
