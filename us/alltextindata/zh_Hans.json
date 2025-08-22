@@ -2743,5 +2743,16 @@
     "SCR_TEXT_9736": "\\E5* 但我在这看不到任何人.../",
     "SCR_TEXT_9737": "\\E1* 也许他们走了？/",
     "SCR_TEXT_9740": "\\F9\\E2* 谁..^1. 在那？/%%",
-    "SCR_TEXT_9750": "\\F9\\E2* 额..^1. 你好？/%%"
+    "SCR_TEXT_9750": "\\F9\\E2* 额..^1. 你好？/%%",
+    "obj_darkplant_64": "* （没有枯树枝可折断。）/%%",
+    "obj_darksans1_187": "\\F3\\E1\\Ts* 嘿嘿...在掌心藏屁垫的\n  经典整蛊恶作剧。/",
+    "obj_darksans1_193": "\\F3\\E1\\Ts* 呵^1，把屁垫放在掌心\n  老套的恶作剧了.../",
+    "obj_darksans1_194": "\\E1* 嘿^1，讲真^1，我是不是在哪\n  见过你？/",
+    "obj_darksans1_195": "\\F9\\E2\\T0* 我...不太确定？/",
+    "obj_darksans1_196": "\\F3\\E0\\Ts* ...不管怎么说^1。\n* 你是个人类^1，对吧？/",
+    "obj_darksans1_199": "\\E1* 其实我现在应该在  \n  搜寻人类才对。/",
+    "obj_darksans1_204": "\\F3\\Ts\\E1* 嘿^1，你看^1，那边那个\n  应该就是他了。/",
+    "obj_darksans1_210,obj_darksans1_212_1,obj_lastsans_trigger_532,obj_lastsans_trigger_553,obj_lastsans_trigger_578,obj_lastsans_trigger_752,obj_lastsans_trigger_759,obj_sans_room_147": "\\F3\\E0\\Ts* .../",
+    "obj_darksans1_215": "\\Ts\\F3\\E0* .../",
+    "obj_darksans1_457": "\\F3\\E0\\Ts* 咋的啦^1，哥们？/"
 }
