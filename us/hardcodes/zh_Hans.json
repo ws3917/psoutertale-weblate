@@ -7,5 +7,8 @@
     "gml_Object_obj_battlecontroller_Step_0.gml:39:35be5f21-aa58-4c78-b066-63c92d748c83": "&\\K* 我变得更强了。\\W",
     "gml_Object_obj_nikoupevent_Collision_0.gml:327:22617ca8-e6ff-4746-94d7-6856cea76bc1": "\\F8\\E5\\T0\\W* 为啥啊...？？/%%",
     "gml_Object_obj_switch_room_Step_0.gml:14:c5a58de4-7a20-4d01-9fa2-12d59e3b0b7f": "\\F9\\E7\\T0\\W* 费尽所有的力气&  就为了触发这个开关。/%%",
-    "gml_Object_obj_nikoupevent_Collision_0.gml:346:efff56c4-2b9f-4500-9f9e-7db4bd7a0069": "\\F8\\E5\\T0\\W* 今天真是倒霉透了..^1./%%"
+    "gml_Object_obj_nikoupevent_Collision_0.gml:346:efff56c4-2b9f-4500-9f9e-7db4bd7a0069": "\\F8\\E5\\T0\\W* 今天真是倒霉透了..^1./%%",
+    "gml_Object_obj_nikoupevent_Collision_0.gml:367:3ae8626b-e06f-418f-95c9-a1140574aea9": "\\F9\\E2\\T0\\W* 这看起来很像..^1.&  Toriel的房子？/%%",
+    "gml_Object_obj_finalelevatorpanel_Draw_0.gml:343:bc7102d1-c58e-4563-ae38-4764f7a9fd78": "\\F9\\E0\\T0* ..^1. 嗯^2- %%",
+    "gml_Object_obj_finalelevatorpanel_Draw_0.gml:354:05f43fec-0b1e-477b-85d8-45f6b9db4dcf": "\\F8\\E8\\T0* 哇发生啥     %%"
 }
