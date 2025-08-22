@@ -2382,5 +2382,15 @@
     "obj_floweytrigger2_272_9": "* ...那这事肯定\n  和这小鬼没关系。/",
     "obj_floweytrigger2_272_10": "\\E4\\W* 所以，看来是\\Y你\\W喽，\n  没错吧？/",
     "obj_readable_room2_141": "\\F8\\E5* 我是真馋这薄煎饼^1，\n  不过.../",
-    "obj_readable_room2_142": "\\F9\\E1* 还是先想办法出去吧。/%%"
+    "obj_readable_room2_142": "\\F9\\E1* 还是先想办法出去吧。/%%",
+    "obj_mettboss_event_254_0": "* 其实，我并没有伤害人类\n  的想法。\n* 永远也不会有。/",
+    "obj_mettboss_event_254_1": "\\F8\\E5\\T0* （除了我以外。）/",
+    "obj_mettboss_event_255": "\\F0\\TM* 我唯一的愿望\n  就是给大家带来快乐。/",
+    "obj_mettboss_event_304": "* 这-这-这扇门\n  自己锁上了！/",
+    "obj_mettboss_event_305": "\\F8\\E8\\T0* A^1-Alphys？！/%%",
+    "obj_mettboss_event_321": "\\F0\\TM\\M1* 抱歉^1，各位观众^1！\n* 原来的计划取消了！！！/",
+    "obj_mettboss_event_339": "\\F8\\E8\\T0* 哇啊啊啊啊啊啊啊啊啊\n  好高啊！！！/",
+    "obj_mettboss_event_340": "\\F0\\TM* 你拥有成为明星\n  的潜力^1，亲爱的！！/",
+    "obj_mettboss_event_341": "\\F0\\TM\\M5* 真正的扣人心弦！！\n* 真正的惊险刺激！！\n* 真正的腥风血雨！！/",
+    "obj_mettboss_event_450": "\\M0* ..^1. 啊。/"
 }
