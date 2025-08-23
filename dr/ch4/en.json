@@ -15470,5 +15470,12 @@
     "obj_room_castle_tv_zone_minigame_slash_Step_0_gml_466_0": "* (Resisted the temptation of Michael.)",
     "obj_room_castle_tv_zone_minigame_slash_Step_0_gml_474_0": "* (You pressed in the letters\nM I C H A E L !)",
     "obj_titan_spawn_enemy_slash_Step_0_gml_143_0": "* The atmosphere feels tense...\n* (You can use \\cYBANISH\\c0!)",
-    "obj_micmenu_slash_Draw_0_gml_172_0": "~1 [Also Not Recommended]"
+    "obj_micmenu_slash_Draw_0_gml_172_0": "~1 [Also Not Recommended]",
+    "scr_weaponinfo_slash_scr_weaponinfo_gml_716_0": "$ +5%",
+    "scr_weaponinfo_slash_scr_weaponinfo_gml_739_0": "Vampire",
+    "scr_armorinfo_slash_scr_armorinfo_gml_782_0": "Elegance",
+    "obj_npc_room_slash_Other_10_gml_1874_0_b": "* Lightners only want one thing and it's disgusting. I mean delicious.",
+    "obj_npc_room_slash_Other_10_gml_1895_0": "* Oh, miba, oh mama! No rooms in your pockets!? What's in there!?",
+    "obj_npc_room_slash_Other_10_gml_1896_0": "* Boys and salesmen!? Oh, miba, oh mama...",
+    "scr_weaponinfo_slash_scr_weaponinfo_gml_624_0": "SlayDark"
 }
