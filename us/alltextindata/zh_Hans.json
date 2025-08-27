@@ -1946,7 +1946,7 @@
     "obj_bara02_585": "* Niko像拍打牛皮鼓\n  一样拍打RG 02的胸口。",
     "obj_bara02_597": "* Niko告诉RG 02\n  他最喜欢的秘密。/^",
     "obj_barrierevent_145": "* 来吧。/%%",
-    "obj_battlecontroller_286": "\\W* 你和NIKO胜利了！\n* Niko获得了\\[1]点EXP\n  和\\[2]G。",
+    "obj_battlecontroller_286": "\\W* 你和NIKO胜利了！\n* Niko获得了\\[1]点EXP和\\[2]G。",
     "obj_battlecontroller_287": "\n* Niko的LOVE提升了。",
     "obj_bed_watcher_94": "\\F9\\E5* 看起来是张舒适的床。/",
     "obj_blookdiary_75": "* 她似乎很喜欢\n  这个主意。",
@@ -3184,5 +3184,7 @@
     "obj_dummytrigger_271": "\\F0* 那么^1。\n* 那么！\n* 那那那么！/",
     "obj_dummytrigger_350": "* 只是想着.../",
     "obj_dummytrigger_357": "* 你可能不会喜欢那样...",
-    "obj_dummytrigger_358": "\\F9\\E5* （我们去看看他吧^1，\n  \\[C]。）/%%"
+    "obj_dummytrigger_358": "\\F9\\E5* （我们去看看他吧^1，\n  \\[C]。）/%%",
+    "obj_sans_room_145": "* 你还好吗，Niko？^1\n* 你看起来有点心不在焉。/",
+    "obj_spiderb_839": "指的一定是\n另一个戴着\n围巾的人类~/"
 }
