@@ -12,7 +12,7 @@
         "TipText.text": "小提示！ "
     },
     "HypotheticalEndScreen": {
-        "LogTitleText.text": "解锁新日志"
+        "LogTitleText.text": "解锁新日志\n"
     },
     "NewMainMenu_ConsoleMenu": {
         "CheckUpdateScreenText": "<b>>请选择一个条目</b>\n\n",
