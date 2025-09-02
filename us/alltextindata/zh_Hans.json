@@ -3852,5 +3852,9 @@
     "obj_readable_room2_165": "\\F9\\E3* .../%%",
     "obj_readable_room2_180": "* （Niko获得了奖励：50G。）/",
     "obj_readable_room2_187": "* （Niko获得了奖励：10G。）/",
-    "obj_readable_room2_195": "* （Niko获得了奖励：5G。）/"
+    "obj_readable_room2_195": "* （Niko获得了奖励：5G。）/",
+    "obj_readable_room2_209,obj_readable_room2_223": "* （Niko获得了奖励：2G。）/",
+    "obj_readable_room2_216": "* （Niko获得了奖励：1G。）/",
+    "obj_readable_room2_231": "* （Niko获得了奖励：4G。）/",
+    "obj_readable_room2_245": "\\W\\F8\\E7\\T0* 这是一个\\R洞\\W。/%%"
 }
