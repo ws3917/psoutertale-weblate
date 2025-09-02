@@ -3856,5 +3856,14 @@
     "obj_readable_room2_209,obj_readable_room2_223": "* （Niko获得了奖励：2G。）/",
     "obj_readable_room2_216": "* （Niko获得了奖励：1G。）/",
     "obj_readable_room2_231": "* （Niko获得了奖励：4G。）/",
-    "obj_readable_room2_245": "\\W\\F8\\E7\\T0* 这是一个\\R洞\\W。/%%"
+    "obj_readable_room2_245": "\\W\\F8\\E7\\T0* 这是一个\\R洞\\W。/%%",
+    "obj_readable_room2_277": "\\F4\\E0\\TPUNDYNE在海湾里\n找到了它.../",
+    "obj_readable_room2_295": "* 人类为什么要袭击我们^1？\n* 诚然^1，他们看起来\n  无所畏惧。//",
+    "obj_readable_room2_377": "* 你这样有点吓人啊。/",
+    "obj_readable_room2_395": "*（北方^1，勇者之路。）\n*（西方^1，贤者之路。）\n*（每条路都将通往尽头。）/",
+    "obj_readable_room2_561": "\\F9\\E3* ..^1.\\E2嗯。/%%",
+    "obj_readable_room2_571": "\\F8\\E7* 嘿^1，\\[C]^1，\n  你能看到这面墙\n  上的宝石吗？/",
+    "obj_readable_room2_572": "\\F8\\E9* 它们好漂亮哦！/%%",
+    "obj_readable_room2_590": "* （Niko突然充满了正义感。）/%%",
+    "obj_readable_room2_600": "*（Niko听到了一段\n  谈话...）/"
 }
