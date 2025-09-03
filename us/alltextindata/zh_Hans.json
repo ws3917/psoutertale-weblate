@@ -4000,5 +4000,21 @@
     "obj_smallfrog_83": "\\F0* 呱呱。/%%",
     "obj_smallfrog_99": "\\F0*（哈^1？\n  结界也打开了...？）/",
     "obj_smallfrog_xadvice_63": "*（好吧^1，\n  至少你听我说话了。）/",
-    "obj_smallfrog_xadvice_64": "\\F9\\E2* ？？？/%%"
+    "obj_smallfrog_xadvice_64": "\\F9\\E2* ？？？/%%",
+    "obj_snowdrake_559": "* 根据你的命令^1，Niko在\n  Snowdrake还未讲出任何\n  笑话前就冲它大笑。/^",
+    "obj_snowdrake_545": "\\W* \\Y你\\W命令Niko\n  朝Snowdrake竖中指。/",
+    "obj_smallfrog_xadvice_71": "*（你变得成熟了^1，\n  不是吗？）/",
+    "obj_smallfrog_xadvice_72": "\\F8\\E7* 额^1，应该吧？/%%",
+    "obj_smallfrog_xadvice_150": "*（可恶^1，连你也这样！）/",
+    "obj_smallfrog_xadvice_151": "\\F9\\E9* 我做了什么？？/%%",
+    "obj_smallfrog_xadvice_153": "* （...也许有的东西\n  是永远不变的。）/",
+    "obj_smallfrog_xadvice_154": "\\F9\\E2* 啥？/%%",
+    "obj_snailguy_70": "* 现在再找第二个房子\n  已经太迟了.../",
+    "obj_snowdecahedron_102": "\\F8\\E7\\T0* 这是个雪球。/",
+    "obj_snowdecahedron_103": "\\F0*（其实^1，这是个\n  雪十面体。）/%%",
+    "obj_snowdrake_543": "\\K* 等会，你是认真说\n  那些双关的？/^",
+    "obj_snowdrake_545_0": "\\K* 额，好的..^1. 我听人说\n  这是代表“友好”的意思，\n  对吧？/",
+    "obj_snowdrake_546": "\\W* Snowdrake挣扎着想反击^1，\n  但是身心俱疲\n  仓皇溜走了.../",
+    "obj_snowdrake_547": "\\K* 等等，回来！\n  我是不是做错了\n  什么？？？/^",
+    "obj_snowdrake_560": "* Niko对Snowdrake的双关\n  笑话回以大笑。/^"
 }
