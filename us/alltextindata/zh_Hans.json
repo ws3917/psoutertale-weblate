@@ -1840,7 +1840,7 @@
     "obj_asgoreb_658": "\\K* 他受伤了。\\W",
     "obj_asgoreb_712": "\\W* * ASGORE的手颤抖了\n  一下。/^",
     "obj_asgoreb_716": "\\K* Dreemurr先生^1，求你了^1，\n  让战斗停下！/",
-    "obj_asgoreb_717": "\\W* ASGORE的呼吸声有\n  一丝紊乱。",
+    "obj_asgoreb_717": "\\W* ASGORE的呼吸声有\n  一丝紊乱。/^",
     "obj_asgoreb_721": "\\K* 我不想继续下去了！/",
     "obj_asgoreb_748": "* Niko试图开口说话^1，\n  但是被回忆怔住了。/^",
     "obj_asgoremeet_event_225": "\\F8\\E1\\T0* 你好。/%%",
