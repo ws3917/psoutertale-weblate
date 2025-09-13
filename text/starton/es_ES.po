@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-08-17 09:58+0000\n"
-"Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
+"PO-Revision-Date: 2025-09-13 03:50+0000\n"
+"Last-Translator: Ariel Garcia <noezaraspe23130718@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #
 msgid ""
@@ -1643,11 +1643,11 @@ msgstr ""
 "<25>{#p/asgore}{#f/3}* ...\n"
 "* De verdad..."
 
-#, fuzzy
 msgid ""
 "<25>{#f/5}* You must reconsider what you are doing, not for our sakes..."
 msgstr ""
-"<25>{#f/5}* Debes reconsiderar lo que estás haciendo, no por nuestro bien..."
+"<25>{#f/5}* Deberías reconsiderar lo que estás haciendo, no por nuestro "
+"bien..."
 
 msgid "<25>{#f/6}* But for yours!"
 msgstr "<25>{#f/6}* ¡Sino por el tuyo!"
@@ -7832,7 +7832,6 @@ msgstr ""
 msgid "<18>{#f/0}IF THE NUMBER IS EVEN, YOU WILL BE FINE AT FIRST..."
 msgstr "<18>{#f/0}SI EL NÚMERO ES PAR, AL PRINCIPIO ESTARÁS BIEN..."
 
-#, fuzzy
 msgid "<18>{#f/9}BUT RANDOM MONSTER ENCOUNTERS WILL OCCUR!"
 msgstr "<18>{#f/9}¡PERO OCURRIRÁN ENCUENTROS ALEATORIOS CON MONSTRUOS!"
 
