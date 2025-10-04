@@ -1,0 +1,22 @@
+{
+    "phone.dialing": "{face -1}{voice 0}* 拨号中...",
+    "phone.nobody.0": "{face -1}{voice 0}* 无人接听。",
+    "phone.nobody.1": "{face -1}{voice 0}* 但是谁也没有来。",
+    "phone.ring": "{face -1}{voice 0}* 嘀嘀嘀，{sleep 20}嘀嘀嘀...",
+    "phone.click": "{face -1}{voice 0}{char_unlink true}* 嘀...",
+
+    "phone.toriel.name": "托丽尔",
+    "phone.eggdog.name": "律师蛋狗",
+
+    "phone.toriel.actions.0": "* (说点什么？){voice -1}{sleep 30}\n\n   {choice 0}打招呼     {sleep 20}{choice 1}聊天      {sleep 20}{choice 2}调情{choice `CHOICE`}",
+    "phone.toriel.actions.1": "* (关于什么？){voice -1}\n  {choice 0}空闲时做什么   {sleep 20}{choice 1}古迹的管理\n  {sleep 20}{choice 2}兴趣爱好       {sleep 20}{choice 3}“妈！”{choice `CHOICE`}{choice_switch_direction 2}",
+
+    "phone.toriel.0": "{face 2}{voice 4}* 呃...{sleep 20}你只是想打个招呼？{pause}{clear}* 好吧，{sleep 20}那么...{pause}{clear}* “你好！”{pause}{clear}* 希望你对这个回复满意，{sleep 20}\n  嘿嘿。",
+    "phone.toriel.1.0": "{face 2}{voice 4}* 我嘛...{sleep 20}我比较喜欢养花。{pause}{clear}* 等你到公园你就知道了，{sleep 20}\n  你能看到那些漂亮的花。{pause}{clear}* 不过，{sleep 20}空闲的时候倒是\n  没多少就是啦，{sleep 20}我平时\n  很忙的。",
+    "phone.toriel.1.1": "{face 2}{voice 4}{face_emotion 4}* 你居然会对这个话题\n  感兴趣？{sleep 20}好吧...{pause}{clear}{face_emotion 0}* 我得管理好蛙吉特们的事情，{sleep 20}\n  还要参加卢克眼们的表演...{pause}{clear}* 翻茄种植园的营销，{sleep 20}\n  还有那些牌子幽灵时不时\n  瞎搞出来的事。{pause}{clear}{face_emotion 6}* 不过，{sleep 20}总而言之对我来说\n  还挺轻松的，{sleep 20}你也这么\n  觉得吧？",
+    "phone.toriel.1.2": "{face 2}{voice 4}* 啊，{sleep 20}你问这个？{pause}{clear}* 也就是做做饭然后\n  搞点园艺活吧。{pause}{clear}* 其它的时候我比较喜欢\n  在壁炉旁边看看书，{sleep 20}\n  就这些了。",
+    "phone.toriel.1.3": "{face 2}{voice 4}* ...？{pause}{clear}{face_emotion 5}* 嗯？{pause}{clear}* 啊，{sleep 20}虽然听到你这么喊\n  我很开心，{sleep 20}但是...{pause}{clear}{face_emotion 0}* 嗯...{pause}{clear}* 好吧，{sleep 20}孩子，{sleep 20}如果你乐意\n  的话，{sleep 20}就这么称呼我吧。",
+    "phone.toriel.2": "{face 2}{voice 4}{face_emotion 5}* ？？？{pause}{clear}* 你们人类都喜欢开\n  这样的玩笑吗？{pause}{clear}* 呃，{sleep 20}我的意思是...{pause}{clear}{face_emotion 0}* 还是少开这种玩笑\n  比较好，{sleep 20}嗯...",
+
+    "phone.eggdog.0": "{char_link 2}* 孩子，{sleep 20}面对面就没必要\n  打电话了吧。"
+}

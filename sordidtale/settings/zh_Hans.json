@@ -1,0 +1,62 @@
+{
+    "settings.page.control" : "控制",
+    "settings.page.audio" : "音频",
+    "settings.page.window" : "窗口",
+    "settings.page.other" : "其他",
+    "settings.page.net" : "网络",
+
+    "settings.state.on" : "开启",
+    "settings.state.off" : "关闭",
+
+    "settings.control.auto_run" : "自动奔跑",
+    "settings.control.keyboard" : "键盘设置",
+    "settings.control.joy" : "手柄设置",
+    "settings.control.reset" : "重置为默认配置",
+
+    "settings.audio.master" : "主音量",
+    "settings.audio.balance" : "音量平衡",
+    "settings.audio.music" : "音乐",
+    "settings.audio.sound" : "音效",
+
+    "settings.window.fullscreen" : "全屏",
+    "settings.window.size" : "窗口尺寸",
+    "settings.window.vfx" : "简化视觉效果",
+    "settings.window.border" : "边框",
+
+    "settings.other.language" : "语言",
+    "settings.other.text" : "文本",
+    "settings.other.sprite" : "贴图",
+
+    "settings.other.system" : "系统",
+    "settings.other.save_folder" : "存档文件夹",
+    "settings.other.check_update" : "检查更新",     
+
+    "settings.net.discord" : "Discord 游玩状态",
+    "settings.net.gamejolt" : "Gamejolt 账号",
+
+
+
+    "settings.window.border.0" : "禁用",
+    "settings.window.border.1" : "细线框",
+    "settings.window.border.2" : "复古",
+    "settings.window.border.3" : "动态",
+    "settings.window.border.4" : "古迹",
+    "settings.window.border.5" : "珀尔城",  
+    "settings.window.border.6" : "落泉",
+    "settings.window.border.7" : "洞穴",    
+    "settings.window.border.8" : "商业街",
+    "settings.window.border.9" : "核心",
+    "settings.window.border.10" : "地底首都",
+    "settings.window.border.11" : "元首府",
+
+
+    
+    "settings.other.language.0" : "ENG",
+    "settings.other.language.1" : "中文",
+
+    "settings.space.y.0" : "0",
+    "settings.space.y.1" : "-3",
+    "settings.offset.x.0" : "-2",
+    "settings.offset.x.1" : "-6"
+}
+  

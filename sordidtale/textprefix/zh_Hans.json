@@ -1,0 +1,6 @@
+{
+    "textprefix.intro": "{shadow false}{instant false}{skippable false}{font 0}{scale 2}{voice 1}{depth -1000}{speed 10}{space_x 2}{space_y 2}",
+    "textprefix.settings": "{shadow false}{instant true}{font 1}{scale 2}{depth -1000}",
+    "textprefix.dartgame": "{shadow false}{outline true}{color_outline `black`}{instant true}{font 0}{depth -100}"
+}
+  

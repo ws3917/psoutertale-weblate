@@ -1,0 +1,9 @@
+{
+    "player.getgold": "{char_unlink}* 你获得了{insert GOLD}G。",
+    "player.getitem": "{char_unlink}* 你获得了{insert ITEM}。",
+    "dartgame.start": "上次最高分：{insert SCORE}\n按下[Z]开始\n按下[X]退出",
+    "dartgame.hint": "按下[Z]投掷\n按住[X]退出",
+    "dartgame.score": "得分：\n{insert SCORE}",
+    "dartgame.score.highest": "\n{color `yellow`}新纪录！"
+}
+  
