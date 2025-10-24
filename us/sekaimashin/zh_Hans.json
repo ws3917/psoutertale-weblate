@@ -1,6 +1,6 @@
 {
-    "gml_Script_SCR_TEXT.gml_9375": "在创建这个传送门时，\n我没有考虑到海拔高度因素，\n所以它位于地表。",
-    "gml_Script_SCR_TEXT.gml_9374": "这样情况就复杂了。",
+    "gml_Script_SCR_TEXT.gml_9375": "在创建这个传送门时，\n我没有考虑到海拔高度因素，\n所以它的位置在地表。",
+    "gml_Script_SCR_TEXT.gml_9374": "这样就难办了。",
     "gml_Script_SCR_TEXT.gml_9373": "我还以为\n这个地方在地表！",
     "gml_Object_obj_twm2_Collision_1576.gml_10": "哪怕力量微薄，\n我也定会阻止你。",
     "gml_Object_obj_twm2_Collision_1576.gml_5": "你最好重置。",
