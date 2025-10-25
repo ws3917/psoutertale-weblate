@@ -19,7 +19,7 @@ msgid "- Overworld -"
 msgstr "- 主世界 -"
 
 msgid "- Stats -"
-msgstr "- 统计 - "
+msgstr "- 统计 -"
 
 msgid "- Setup -"
 msgstr "- 设置 -"
