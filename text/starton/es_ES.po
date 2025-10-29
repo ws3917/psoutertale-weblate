@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
 "PO-Revision-Date: 2025-10-29 10:49+0000\n"
-"Last-Translator: Valentino <valentinoleomunozch@gmail.com>\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
 "2-starton/es/>\n"
 "Language: es_ES\n"
@@ -12177,7 +12177,7 @@ msgid "<25>{#f/20}* Very cool, Frisk."
 msgstr ""
 
 msgid "Score: $(x)"
-msgstr ""
+msgstr "Puntuación: $(x)"
 
 msgid "<32>{#p/asriel2}* Dogamy and Dogaressa."
 msgstr ""
@@ -12218,10 +12218,10 @@ msgid "<32>{#p/story}* Just Astro now."
 msgstr ""
 
 msgid "<32>{#p/asriel2}* Jerry."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Jerry."
 
 msgid "<32>{#p/story}* Jerry."
-msgstr ""
+msgstr "<32>{#p/story}* Jerry."
 
 msgid ""
 "<32>{#p/asriel2}* The teenage idiot squad.\n"
@@ -12328,16 +12328,16 @@ msgid "<32>{#p/human}* (You make a romantic joke.)"
 msgstr ""
 
 msgid "<08>{#p/basic}{~}You're weird."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eres raro."
 
 msgid "<08>{#p/basic}{~}You're mean AND weird."
 msgstr ""
 
 msgid "<32>{#p/asriel2}* Chilldrake."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Chilldrake."
 
 msgid "<32>{#p/asriel2}* Stardrake."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Stardrake."
 
 msgid "<32>{#p/story}* Chilldrake is puffed up..."
 msgstr ""
@@ -12522,10 +12522,10 @@ msgid "<32>{#p/human}* (You continue to laugh at Stardrake's puns.)"
 msgstr ""
 
 msgid "* Chilldrake"
-msgstr ""
+msgstr "* Chilldrake"
 
 msgid "* Stardrake"
-msgstr ""
+msgstr "* Stardrake"
 
 msgid "<08>{#p/basic}{~}Only Starry can do that."
 msgstr ""
@@ -12537,7 +12537,7 @@ msgid "<08>{#p/basic}{~}You ain't Starry."
 msgstr ""
 
 msgid "<08>{#p/basic}{~}Ha.. Ha.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ja.. Ja.."
 
 msgid "<08>{#p/basic}{~}Quit copying my friends."
 msgstr ""
@@ -12642,7 +12642,7 @@ msgid "<08>{#p/basic}{~}I'll be the best person I can be!"
 msgstr ""
 
 msgid "<08>{#p/basic}{~}\\x00*licks lips*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*se lame los labios*"
 
 msgid "<32>{#p/story}* Jerry is wounded."
 msgstr ""
@@ -12700,7 +12700,7 @@ msgid "<08>{#p/basic}{~}Must be nice being HUMAN.."
 msgstr ""
 
 msgid "* Jerry"
-msgstr ""
+msgstr "* Jerry"
 
 msgid "<32>{#p/story}* Jerry is living care-free."
 msgstr ""
@@ -12782,7 +12782,7 @@ msgid "<32>{#p/human}* (You tell Whizkarat everything you know about mice.)"
 msgstr ""
 
 msgid "<32>{#p/basic}* Suddenly...!"
-msgstr ""
+msgstr "<32>{#p/basic}* ¡De pronto...!"
 
 msgid ""
 "<32>{#p/human}* (You try to tell Whizkarat more, but it's already found its "
@@ -12810,7 +12810,7 @@ msgid "<32>{#p/human}* (You make a cute remark and scratch Whizkarat's neck.)"
 msgstr ""
 
 msgid "<32>{#p/asriel2}* Whizkarat."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Whizkarat."
 
 msgid "<32>{#p/story}* Whizkarat is losing its cool."
 msgstr ""
@@ -12822,7 +12822,7 @@ msgid "<08>{#p/basic}{~}No pussy- cats allowed."
 msgstr ""
 
 msgid "<08>{#p/basic}{~}\\x00*purrs gently*"
-msgstr ""
+msgstr "<08>{#p/basic}{~}\\x00*ronronea suavemente*"
 
 msgid "<32>{#p/story}* Whizkarat is nearing demise."
 msgstr ""
@@ -12852,7 +12852,7 @@ msgid "<08>{#p/basic}{~}Could you help me?"
 msgstr ""
 
 msgid "* Whizkarat"
-msgstr ""
+msgstr "* Whizkarat"
 
 msgid "<32>{#p/story}* Whizkarat fantasizes about getting down on all fours."
 msgstr ""
@@ -12885,7 +12885,7 @@ msgid "<32>{#p/story}* Whizkarat has found its way."
 msgstr ""
 
 msgid "<08>{#p/basic}{~}Wonder- ful..."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Maravi- lloso..."
 
 msgid "<08>{#p/basic}{~}Simply splen- did..."
 msgstr ""
@@ -12953,7 +12953,7 @@ msgid "<32>{#p/story}* Doggo has lost sight of you."
 msgstr ""
 
 msgid "* Doggo"
-msgstr ""
+msgstr "* Doggo"
 
 msgid "<32>{#p/story}* Doggo loves fetch!"
 msgstr ""
@@ -12974,7 +12974,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/asriel2}* Doggo."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Doggo."
 
 msgid "<32>{#p/story}* Doggo knows you're here."
 msgstr ""
@@ -13057,10 +13057,10 @@ msgid "<11>{#p/basic}{~}IT JUST KEEPS COMING!"
 msgstr ""
 
 msgid "<11>{#p/basic}{~}AND COMING!!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}¡¡Y VUELVE!!"
 
 msgid "<11>{#p/basic}{~}AND COMINGGG!!!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}¡¡¡Y VUELVE!!!"
 
 msgid ""
 "<11>{#p/basic}{~}OK.\n"
@@ -13080,7 +13080,7 @@ msgid "<11>{#p/basic}{~}AHHHHHHH!!!"
 msgstr "<11>{#p/basic}{~}¡¡¡AHHHHHHH!!!"
 
 msgid "<11>{#p/basic}{~}No escape!"
-msgstr ""
+msgstr "<11>{#p/basic}{~}¡Sin escape!"
 
 msgid ""
 "<11>{*}{#p/basic}{~}Ha!\n"
@@ -13162,7 +13162,7 @@ msgid "<32>{#p/story}* Canis Minor loves fetch!"
 msgstr ""
 
 msgid "<11>{#p/basic}{~}(Pants fast)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Corre rápidamente)"
 
 msgid "<32>{#p/story}* Canis Minor tucks its tail between its legs."
 msgstr ""
@@ -13171,28 +13171,28 @@ msgid "* Canis Minor"
 msgstr ""
 
 msgid "<11>{#p/basic}{~}(Pant pant)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Acariciando)"
 
 msgid "<11>{#p/basic}{~}(Tiny bark)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Guau pequeño)"
 
 msgid "<11>{#p/basic}{~}(Wag wag)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Wag wag)"
 
 msgid "<11>{#p/basic}{~}(Thinks of food)"
 msgstr ""
 
 msgid "<11>{#p/basic}{~}(Pant! Pant!)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(¡Caricia! ¡Caricia!)"
 
 msgid "<11>{#p/basic}{~}(Excited noises)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Sonidos de emoción)"
 
 msgid "<11>{#p/basic}{~}(Motor revving)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Motor acelerando)"
 
 msgid "<11>{#p/basic}{~}(Plane takeoff)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Avión despegando)"
 
 msgid "<11>{#p/basic}{~}(Kettle whistle)"
 msgstr ""
