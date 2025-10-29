@@ -8,7 +8,7 @@
     "normal_gml_Object_oTextC3R1_Step_0_129": "* 一座黑暗喷泉！？",
     "normal_gml_Object_oTextC3R1_Step_0_207": "* ...我想我们该\n  试图向着喷泉\n  的方向前进了。",
     "normal_gml_Object_oTextC3R1_Step_0_147": "* 肯定不可能是你\n  也不是我，但那就意味着...",
-    "normal_gml_Object_oTextC3R1_Step_0_156": "* 罢了，这想法\n  太扯了。",
+    "normal_gml_Object_oTextC3R1_Step_0_156": "* 算了吧，\n  这想法太扯了。",
     "normal_gml_Object_oTextDadTalk_Step_0_6": "* 哦... 我的小Susie@\n  为什么要哭呢？",
     "normal_gml_Object_oTextDadTalk_Step_0_13": "* ...他们又开始干那事了，@\n  对吧？",
     "normal_gml_Object_oTextDadTalk_Step_0_20": "* ...Susie，仔细听着。",
@@ -115,7 +115,7 @@
     "normal_gml_Object_oTextC3R7_Step_0_144": "* 浓重的黑暗将会消散。",
     "normal_gml_Object_oTextC3R7_Step_0_152": "* 到那时，也只有在那时，\n  Kris才能将其封印。",
     "normal_gml_Object_oTextC3R7_Step_0_160": "* ...所以我们得在这\n  熬过一整晚，对吧？",
-    "normal_gml_Object_oTextC3R7_Step_0_169": "* 天哪，这感觉就像\n  《ICE-E的五夜后宫》\n  一样。",
+    "normal_gml_Object_oTextC3R7_Step_0_169": "* 天哪，这感觉就像\n  《ICE-E的五夜后宫》\n  一",
     "normal_gml_Object_oTextC3R7_Step_0_198": "* 嘿嘿嘿女士们，先生们，\n  还有这些不可名状的生物们{\n  是我！",
     "normal_gml_Object_oTextC3R7_Step_0_206": "* 每个人都最喜欢的\n  主持人...",
     "normal_gml_Object_oTextC3R7_Step_0_213": "* Miiike！！！",
@@ -395,5 +395,7 @@
     "normal_gml_Object_oTextShadowWoman_Step_0_62": "* 先买杯喝的...\n  我们再谈。",
     "normal_gml_Object_oTextShadowWomanBackup_Step_0_66": "* 我... 不需要\n  任何东西。",
     "normal_gml_Object_oTextShadowWoman_Step_0_72": "* 我... 不需要\n  任何东西。",
-    "normal_gml_Object_oTextShadowWomanBackup_Step_0_984": "* 我... 还是什么\n  都不需要。"
+    "normal_gml_Object_oTextShadowWomanBackup_Step_0_984": "* 我... 还是什么\n  都不需要。",
+    "normal_gml_Object_oTextC3R1_Step_0_165": "* 该死，肯定是{c:red}骑士{/c}偷偷\n  溜进来了...",
+    "normal_gml_Object_oTextC3R1_Step_0_216": "* 然后狠狠的踹几脚{c:red}骑士的\n  屁股{/c}，解解他逼着我们\n  拯救了世界三次的恨！"
 }
