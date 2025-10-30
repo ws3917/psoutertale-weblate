@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2025-10-29 10:49+0000\n"
+"PO-Revision-Date: 2025-10-31 03:15+0000\n"
 "Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
-"Language-Team: Spanish <https://translate.ws3917.space/projects/ps-outertale/"
-"2-starton/es/>\n"
+"Language-Team: Spanish <https://translate2.ws3917.space/projects/"
+"ps-outertale/2-starton/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.14\n"
 
 #
 msgid ""
@@ -10976,7 +10976,7 @@ msgid "<32>* \"Or even create wild light shows with electricity magic!\""
 msgstr ""
 
 msgid "<32>* \"How unfortunate.\""
-msgstr ""
+msgstr "<32>* \"Qué desafortunado.\""
 
 msgid ""
 "<32>{#p/human}* (The books on this bookshelf document the history of the "
@@ -11181,7 +11181,7 @@ msgid "<32>{#s/phone}{#p/event}* Dialing..."
 msgstr "<32>{#s/phone}{#p/event}* Marcando..."
 
 msgid "<32>{#p/human}* (No connection.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Sin conexión.)"
 
 msgid "<32>{#p/basic}* It's a note."
 msgstr ""
@@ -11324,7 +11324,7 @@ msgid "<32>{#p/basic}* A neatly-made hypercar bed."
 msgstr ""
 
 msgid "<18>{#p/papyrus}THAT'S MY BED!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡ESA ES MI CAMA!"
 
 msgid "<18>{#f/4}IF I EVER GET TO EXPLORE THE STARS..."
 msgstr ""
@@ -11372,7 +11372,7 @@ msgid "<18>{#p/papyrus}HEY, THOSE ARE ALL THE ATTACKS I USED ON YOU."
 msgstr ""
 
 msgid "<18>GREAT MEMORIES, HUH?"
-msgstr ""
+msgstr "<18>¿BUENOS RECUERDOS, EH?"
 
 msgid "<18>SEEMS LIKE IT WAS ONLY YESTERDAY..."
 msgstr ""
@@ -11759,6 +11759,8 @@ msgid ""
 "<#23>  \"NYEH-HEH-HEH,\"\n"
 "  PAPYRUS"
 msgstr ""
+"<#23>  \"NYEH-JE-JE,\"\n"
+"  PAPYRUS"
 
 msgid ""
 "<32>{#p/basic}* There's no longer anyone to spy on you through the camera "
@@ -11914,7 +11916,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/basic}* Fetch, huh?"
-msgstr ""
+msgstr "<32>{#p/basic}* ¿Una cerca, eh?"
 
 msgid "<33>{#p/basic}* Now we're getting places..."
 msgstr ""
@@ -11992,7 +11994,7 @@ msgid "<32>* If I were you, I wouldn't let it go to waste."
 msgstr ""
 
 msgid "<32>{#p/basic}* Don't worry."
-msgstr ""
+msgstr "<32>{#p/basic}* No te preocupes."
 
 msgid "<32>* With any luck, you'll be best friends in no time."
 msgstr ""
@@ -12008,7 +12010,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/basic}* You tried."
-msgstr ""
+msgstr "<32>{#p/basic}* Lo intentaste."
 
 msgid "<32>{#p/basic}* Have you done this before...?"
 msgstr ""
@@ -12100,13 +12102,13 @@ msgid "(Unknown)"
 msgstr "(Desconocido)"
 
 msgid "New High Score!"
-msgstr ""
+msgstr "¡Nueva Puntuación Alta!"
 
 msgid "Better Luck Next Time..."
 msgstr ""
 
 msgid "Thanks For Playing!"
-msgstr ""
+msgstr "¡Gracias Por Jugar!"
 
 msgid "<32>{#p/event}* Ring, ring..."
 msgstr "<32>{#p/event}* Ring, ring..."
@@ -12203,7 +12205,7 @@ msgid "<32>{#p/story}* Stardrake and Astro Serf pose like bad guys."
 msgstr ""
 
 msgid "<32>{#p/asriel2}* One left."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Falta Uno."
 
 msgid "<32>{#p/story}* Chilldrake remains steady."
 msgstr ""
@@ -12242,7 +12244,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/asriel2}* Two left."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Faltan Dos."
 
 msgid "<32>{#p/story}* Astro Serf and Chilldrake remain steady."
 msgstr ""
@@ -12354,7 +12356,7 @@ msgid "<08>{#p/basic}{~}THIS won't be funny either!"
 msgstr ""
 
 msgid "<08>{#p/basic}{~}Filthy law- obider."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Asqueroso cumplidor de la ley."
 
 msgid "<08>{#p/basic}{~}Is your flesh rotten as you?"
 msgstr ""
@@ -12363,7 +12365,7 @@ msgid "<08>{#p/basic}{~}Defiance can't be defied!"
 msgstr ""
 
 msgid "<08>{#p/basic}{~}(Insults towards humans)"
-msgstr ""
+msgstr "<08>{#p/basic}{~}(Insulta hacia los humanos)"
 
 msgid "<32>{#p/human}* (You denounce Chilldrake for its cause.)"
 msgstr ""
@@ -13195,13 +13197,13 @@ msgid "<11>{#p/basic}{~}(Plane takeoff)"
 msgstr "<11>{#p/basic}{~}(Avión despegando)"
 
 msgid "<11>{#p/basic}{~}(Kettle whistle)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Tetera sonando)"
 
 msgid "<11>{#p/basic}{~}(...)"
 msgstr "<11>{#p/basic}{~}(...)"
 
 msgid "<11>{#p/basic}{~}(Faraway bark)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Guau desde muy lejos)"
 
 msgid "<11>{#p/basic}{~}(Bark)"
 msgstr "<11>{#p/basic}{~}(Guau)"
@@ -13286,7 +13288,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/asriel2}* ???"
-msgstr ""
+msgstr "<32>{#p/asriel2}* ¿¿¿???"
 
 msgid "<32>{#p/human}* (You can reach Canis Minor again.)"
 msgstr ""
@@ -13302,7 +13304,7 @@ msgid ""
 msgstr ""
 
 msgid "<32>{#p/asriel2}* Stop."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Detente."
 
 msgid "<32>{#p/basic}* Perhaps mankind was not meant to pet this much."
 msgstr ""
@@ -13460,7 +13462,7 @@ msgid "<11>{#p/basic}{~}Shake."
 msgstr "<11>{#p/basic}{~}Sacudirse."
 
 msgid "* Dogamy"
-msgstr ""
+msgstr "* Dogamy"
 
 msgid "<32>{#p/story}* Married dogs love fetch!"
 msgstr ""
@@ -13697,7 +13699,7 @@ msgid "<11>{#p/basic}{~}(You'll suffer for this.)"
 msgstr ""
 
 msgid "* Dogaressa"
-msgstr ""
+msgstr "* Dogaressa"
 
 msgid "<32>{#p/story}* Dogamy is looking for affection."
 msgstr ""
@@ -13731,9 +13733,11 @@ msgid ""
 "<12>{#p/basic}{~}(Don't,\n"
 "actually...)"
 msgstr ""
+"<12>{#p/basic}{~}(De hecho,\n"
+"no...)"
 
 msgid "<11>{#p/basic}{~}(Far enough.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Ya es suficiente.)"
 
 msgid "<11>{#p/basic}{~}(He means me.)"
 msgstr ""
@@ -13745,7 +13749,7 @@ msgid "<11>{#p/basic}{~}(Of course we were first.)"
 msgstr ""
 
 msgid "<11>{#p/basic}{~}(Time's up.)"
-msgstr ""
+msgstr "<11>{#p/basic}{~}(Se acabo el tiempo.)"
 
 msgid "<11>{#p/basic}{~}(Do humans have tails?)"
 msgstr ""
@@ -14101,7 +14105,7 @@ msgid "<15>{#f/20}FOR NOW, THOUGH, IT'S OFF TO THE CAPTURE ZONE!!!"
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/27}WOWIE... AGAIN???"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/27}¿¿¿WOWIE... DE NUEVO???"
 
 msgid "<15>{#f/15}WELL, IF YOU INSIST...!"
 msgstr ""
@@ -14135,12 +14139,14 @@ msgid "<15>{#p/papyrus}{#f/27}... A-AT LEAST I STILL HAVE MY HEAD!"
 msgstr ""
 
 msgid "<32>{#p/basic}* Cute."
-msgstr ""
+msgstr "<32>{#p/basic}* Lindo."
 
 msgid ""
 "<15>{#p/papyrus}{#f/20}WHAT!?\n"
 "F-F-FLIRTING!?"
 msgstr ""
+"<15>{#p/papyrus}{#f/20}¡¿QUÉ!?\n"
+"¿¡C-C-COQUETEANDO!?"
 
 msgid ""
 "<15>SO YOU FINALLY REVEAL YOUR {@fill=#f00}ULTIMATE FEELINGS{@fill=#000}!"
@@ -14234,7 +14240,7 @@ msgid "<32>{#p/story}* Papyrus is at the edge of defeat."
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/20}HOW SELFLESS!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/20}¡QUÉ GENEROSO!"
 
 msgid "<15>{#f/21}YOU WANT ME TO FEEL BETTER ABOUT FIGHTING YOU..."
 msgstr ""
@@ -14243,7 +14249,7 @@ msgid "<15>{#p/papyrus}{#f/15}THERE'S NO NEED TO LIE TO YOURSELF!!!"
 msgstr ""
 
 msgid "* Papyrus"
-msgstr ""
+msgstr "* Papyrus"
 
 msgid "<32>{#p/story}* Papyrus readies a bone attack."
 msgstr ""
@@ -14276,7 +14282,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/12}MY SPAGHETTI!"
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/12}¡MI SPAGHETTI!"
 
 msgid "<15>{#p/papyrus}{#f/13}AND YOU LOOK LIKE YOU'RE ENJOYING IT..."
 msgstr ""
@@ -14486,7 +14492,7 @@ msgid "<15>{#f/14}... SPECIAL ATTACK..."
 msgstr ""
 
 msgid "<15>{#f/17}FORMATION {@fill=#f00}SIGMA{@fill=#000}!!!"
-msgstr ""
+msgstr "<15>{#f/17}FORMACIÓN {@fill=#f00}SIGMA{@fill=#000}!!!"
 
 msgid ""
 "<15>{#p/papyrus}{#f/27}WELL...! *HUFF* IT'S CLEAR... YOU CAN'T! *HUFF* BEAT "
@@ -14519,7 +14525,7 @@ msgid "<15>{#p/papyrus}{#f/27}SOMETHING IS TRYING TO TEAR OUR LOVE APART?"
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/21}I WONDER..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/21}ME PREGUNTO..."
 
 msgid "<15>{#p/papyrus}{#f/27}SO YOU -DON'T- WISH TO REMAIN WITH ME?"
 msgstr ""
@@ -14589,7 +14595,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/24}WAIT... TRAPEZOID..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}ESPERA... TRAPEZOIDE..."
 
 msgid ""
 "<15>{#p/papyrus}{#f/22}ARE YOU SAYING THAT YOU'RE TRAPPED WITH ME, RIGHT "
@@ -14686,7 +14692,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/29}NOW WHAT..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/29}AHORA QUÉ..."
 
 msgid ""
 "<15>{#p/papyrus}{#f/27}YOU MEAN I'M AN IDIOT FOR NOT NOTICING HOW MUCH YOU "
@@ -14752,7 +14758,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/24}WHICH MEANS..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}LO QUE SIGNIFICA..."
 
 msgid "<15>{#p/papyrus}{#f/22}THE \"STAR\" IN THIS SCENARIO MUST BE HIM!"
 msgstr ""
@@ -14779,7 +14785,7 @@ msgid ""
 msgstr ""
 
 msgid "<15>{#p/papyrus}{#f/24}STRANGE ENOUGH..."
-msgstr ""
+msgstr "<15>{#p/papyrus}{#f/24}ES SUFICIENTEMENTE EXTRAÑO..."
 
 msgid ""
 "<15>{#p/papyrus}{#f/15}... THAT I'M CONVINCED THERE'S MORE GOING ON HERE!"
@@ -14878,10 +14884,10 @@ msgid "<32>{#p/asriel2}* ... huh?"
 msgstr ""
 
 msgid "<11>{#p/asgore}{#f/5}Is that..."
-msgstr ""
+msgstr "<11>{#p/asgore}{#f/5}Eso es..."
 
 msgid "<11>{#p/asgore}{#f/1}Really now..."
-msgstr ""
+msgstr "<11>{#p/asgore}{#f/1}¿En serio? ahora mismo..."
 
 msgid "<11>{#p/asgore}{#f/1}Must we resort to violence?"
 msgstr ""
@@ -14907,7 +14913,7 @@ msgid "<11>{#f/2}It's just a projection."
 msgstr ""
 
 msgid "* Asgore"
-msgstr ""
+msgstr "* Asgore"
 
 msgid "<32>{#p/asriel2}* Kill him, $(name)."
 msgstr ""
@@ -14936,7 +14942,7 @@ msgid "Fresh exoberries, bathed in a sea of moist Jell-O."
 msgstr ""
 
 msgid "Berry Pie"
-msgstr ""
+msgstr "Tarta de Arándanos"
 
 msgid "<32>{#p/human}* (You throw away the Exoberry Pie.)"
 msgstr ""
@@ -14956,7 +14962,7 @@ msgid ""
 msgstr ""
 
 msgid "Exoberry Pie"
-msgstr ""
+msgstr "Tarta de Arándanos Exóticos"
 
 msgid "<32>{#p/human}* (You eat the Exoberry Pie.)"
 msgstr ""
@@ -14989,7 +14995,7 @@ msgid ""
 msgstr ""
 
 msgid "Computer Chip"
-msgstr ""
+msgstr "Chip de Computadora"
 
 msgid "<32>{#p/human}* (You bit into the Computer Chip.)"
 msgstr ""
@@ -15018,7 +15024,7 @@ msgid ""
 msgstr ""
 
 msgid "Field Emitter"
-msgstr ""
+msgstr "Emisor de Campo"
 
 msgid "<32>{#p/human}* (You deployed the Field Emitter.)"
 msgstr ""
@@ -15038,13 +15044,13 @@ msgid ""
 msgstr ""
 
 msgid "Field Emitter?"
-msgstr ""
+msgstr "¿Emisor de Campo?"
 
 msgid "A non-euclidian fruit, bigger on the inside."
 msgstr ""
 
 msgid "Ghost Fruit"
-msgstr ""
+msgstr "Fruta Fantasma"
 
 msgid "<32>{#p/human}* (You fold the Ghost Fruit in on itself.)"
 msgstr ""
@@ -15066,7 +15072,7 @@ msgid ""
 msgstr ""
 
 msgid "Power Glove"
-msgstr ""
+msgstr "Guante de Poder"
 
 msgid "<32>{#p/human}* (You throw away the Power Glove.)"
 msgstr ""
@@ -15097,7 +15103,7 @@ msgid ""
 msgstr ""
 
 msgid "Power Glove?"
-msgstr ""
+msgstr "¿Guante de Poder?"
 
 msgid "Made of an unknown, pearly-white substance."
 msgstr ""
@@ -15126,7 +15132,7 @@ msgid "Instead of a joke, the wrapper says something fantastical."
 msgstr ""
 
 msgid "Ice Dream"
-msgstr ""
+msgstr "Helado de Sueño"
 
 msgid "<32>{#p/human}* (You throw away the Ice Dream.)"
 msgstr ""
@@ -15204,7 +15210,7 @@ msgid "Alters your perception of time."
 msgstr ""
 
 msgid "Vortex Pop"
-msgstr ""
+msgstr "Paleta Vórtice"
 
 msgid "<32>{#p/human}* (You throw away the Vortex Pop.)"
 msgstr ""
@@ -15278,7 +15284,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}... YEAH!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}... ¡¡¡SÍ!!"
 
 msgid "<25>{#p/undyne}{#f/4}* Is perfectly fine!"
 msgstr ""
@@ -15323,13 +15329,13 @@ msgid "<18>{#p/papyrus}{#f/6}BUT IT'S OKAY IF YOU DON'T!!!"
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/17}* OKAY!!!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* ¡¡¡¡VALE!!!"
 
 msgid "<18>{#p/papyrus}{#f/9}OKAY!!!!!"
 msgstr "<18>{#p/papyrus}{#f/9}¡¡¡OK!!!!!"
 
 msgid "<25>{#p/undyne}{#f/8}* OKAY!!!!!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/8}* ¡¡¡¡¡¡VALE!!!!!!"
 
 msgid "<18>{#p/papyrus}{#f/4}... OKAY."
 msgstr "<18>{#p/papyrus}{#f/4}... ESTA BIEN."
@@ -15431,7 +15437,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#f/4}... \"AHEM.\""
-msgstr ""
+msgstr "<18>{#f/4}... \"EJEM.\""
 
 msgid "<18>{#f/0}I, PAPYRUS, HEREBY DECLARE YOUR PROMISE VOID."
 msgstr ""
@@ -15454,7 +15460,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/0}(THANK YOU.)"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}(GRACIAS.)"
 
 msgid "<18>{#f/4}WELL, YOU DIDN'T SAY YOU WERE GOING TO SHARE IT..."
 msgstr ""
@@ -15519,7 +15525,7 @@ msgid ""
 msgstr ""
 
 msgid "Radiant Swirl"
-msgstr ""
+msgstr "Remolino Radiante"
 
 msgid "<32>{#p/human}* (You eat the Radiant Swirl.)"
 msgstr ""
@@ -15555,7 +15561,7 @@ msgid "A truly one-of-a-kind weapon."
 msgstr ""
 
 msgid "Dog Sword"
-msgstr ""
+msgstr "Espada Perruna"
 
 msgid "<32>{#p/human}* (You try to throw away the Corn Dog Sword...)"
 msgstr ""
@@ -15617,7 +15623,7 @@ msgid ""
 msgstr ""
 
 msgid "Flamin' Grillby"
-msgstr ""
+msgstr "Grillby Ardiente"
 
 msgid "<32>{#p/human}* (You consume the Flamin' Grillby.)"
 msgstr ""
@@ -15628,7 +15634,7 @@ msgid ""
 msgstr ""
 
 msgid "Slider Trio"
-msgstr ""
+msgstr "Trío Deslizante"
 
 msgid "<32>{#p/human}* (You throw away the Sliders.)"
 msgstr ""
@@ -15651,7 +15657,7 @@ msgid ""
 msgstr ""
 
 msgid "Slider Duo"
-msgstr ""
+msgstr "Dúo Deslizante"
 
 msgid "<32>{#p/human}* (15 HP. Two uses left.)"
 msgstr ""
@@ -15696,7 +15702,7 @@ msgid "Acquired from the unsealed envelope in Sans's room."
 msgstr ""
 
 msgid "Rusty Key"
-msgstr ""
+msgstr "Llave Oxidada"
 
 msgid "Used to unlock the armory in the rec center."
 msgstr ""
@@ -15787,7 +15793,7 @@ msgid "<10>{#p/human}(You're carrying too much.)"
 msgstr "<10>{#p/human}(Estás llevando demasiado.)"
 
 msgid "Take it?"
-msgstr ""
+msgstr "¿Tomarlo?"
 
 msgid ""
 "Buy it for\n"
@@ -15795,7 +15801,7 @@ msgid ""
 msgstr ""
 
 msgid "<09>{#p/basic}Nothing left."
-msgstr ""
+msgstr "<09>{#p/basic}No queda nada."
 
 msgid "<09>{#p/napstablook}{#k/0}oh... i don't have any more..."
 msgstr ""
@@ -15896,13 +15902,13 @@ msgid "<30>{#k/0}* they live with undyne, i think"
 msgstr ""
 
 msgid "Say Hello"
-msgstr ""
+msgstr "Decir Hola"
 
 msgid "What Happened"
-msgstr ""
+msgstr "¿Qué Paso?"
 
 msgid "The Future"
-msgstr ""
+msgstr "EL FUTURO"
 
 msgid "Ghosts"
 msgstr "Fantasmas"
@@ -15911,7 +15917,7 @@ msgid "Family"
 msgstr "Familia"
 
 msgid "Your Life"
-msgstr ""
+msgstr "Tu Vida"
 
 msgid "Mettaton"
 msgstr "Mettaton"
@@ -15923,10 +15929,10 @@ msgid "Travels"
 msgstr "Viajes"
 
 msgid "DJ Blooky?"
-msgstr ""
+msgstr "¿DJ Blooky?"
 
 msgid "Dapper Blook?"
-msgstr ""
+msgstr "¿ApuestoBlook?"
 
 msgid "<09>{#p/napstablook}{#k/1}oh, you wanna chat?"
 msgstr ""
@@ -16343,7 +16349,7 @@ msgid "<09>{#p/basic}{#k/4}Thanks for your purchase."
 msgstr ""
 
 msgid "<09>{#p/basic}{#k/7}Just looking?"
-msgstr ""
+msgstr "<09>{#p/basic}{#k/7}¿Solo estas mirando?"
 
 msgid "<09>{#p/basic}{#k/5}That's not enough money."
 msgstr ""
@@ -16413,7 +16419,7 @@ msgid "What To Do Here"
 msgstr ""
 
 msgid "Town History"
-msgstr ""
+msgstr "Historia de la Ciudad"
 
 msgid "<09>{#p/basic}{#k/0}Care to chat?"
 msgstr ""
@@ -16585,7 +16591,7 @@ msgid "<32>{#k/0}* That's life, ain't it?"
 msgstr ""
 
 msgid "Papyrus's Phone"
-msgstr ""
+msgstr "Teléfono de Papyrus"
 
 msgid "Papyrus and Undyne"
 msgstr ""
@@ -16834,7 +16840,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/0}FUN FACT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}UN DATO DIVERTIDO."
 
 msgid "<18>{#p/papyrus}{#f/0}IF YOU TOTAL UP OUR ROTATION SPEED..."
 msgstr ""
@@ -16876,7 +16882,7 @@ msgid "<25>{#p/undyne}{#f/14}* Like... a surprise gift!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}YOU WHAT?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}¿TÚ QUÉ?"
 
 msgid "<25>{#p/undyne}{#f/12}* But, uh, that'd be messing with perfection."
 msgstr ""
@@ -16943,7 +16949,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}THINKING OF...?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}¿PIENSAS EN...?"
 
 msgid "<25>{#p/undyne}{#f/9}* ... thanks for being there when you were."
 msgstr ""
@@ -16962,7 +16968,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/0}OH, OKAY."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}OH, VALE."
 
 msgid "<18>{#p/papyrus}{#f/5}I GUESS THAT WOULD BE PRETTY BAD..."
 msgstr ""
@@ -17246,7 +17252,7 @@ msgid "<18>{#p/papyrus}{#f/1}ME, UNKNOWINGLY PART OF AN EXPERIMENT!?"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/7}THAT'S PREPOSTEROUS!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¡ESO ES ABSURDO!"
 
 msgid "<25>{#p/undyne}{#f/15}* ... you never know..."
 msgstr ""
@@ -17291,7 +17297,7 @@ msgid "<18>{#p/papyrus}{#f/7}THERE'S NO WAY ANYONE COULD SOLVE THEM!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/7}IT'S RIDICULOUS!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¡ESO ES RIDICULO!"
 
 msgid ""
 "<25>{#p/undyne}{#f/1}* That puzzle artist in the librarby makes them, I "
@@ -17335,7 +17341,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/0}SUBTRACTION, HUH?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}¿SUSTRAER, EH?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}... WOULDN'T THE MORE ACCURATE TERM BE \"COMPARISON?\""
@@ -17432,7 +17438,7 @@ msgid "<25>{#p/undyne}{#f/17}* Don't you ever get tired of that!?"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}NOT REALLY!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡NO REALMENTE!!"
 
 msgid "<18>{#p/papyrus}{#f/4}I'M SOLVING IT AS WE SPEAK..."
 msgstr ""
@@ -17566,7 +17572,7 @@ msgid "<25>{#p/undyne}{#f/12}* Don't you get it?"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/0}GET WHAT?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}¿OBTENER QUÉ?"
 
 msgid ""
 "<25>{#p/undyne}{#f/1}* I've been told there's a term for this sort of thing."
@@ -17690,7 +17696,7 @@ msgid "<25>{#p/undyne}{#f/12}* Just call me \"pundyne.\""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/0}PLEASE DON'T."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}POR FAVOR NO."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}SO...\n"
@@ -17704,7 +17710,7 @@ msgid "<25>{#p/undyne}{#f/12}* ... it can't be that bad, right?"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}TRUST ME."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}CONFÍA EN MÍ."
 
 msgid "<18>{#p/papyrus}{#f/4}IT WAS PRETTY BAD."
 msgstr ""
@@ -17843,7 +17849,7 @@ msgid "<18>{#p/papyrus}{#f/6}WHY DO YOU THINK I DIDN'T USE IT!?"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}... LITERALLY!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}... ¡¡LITERALMENTE!!"
 
 msgid "<18>{#p/papyrus}{#f/4}DON'T EVEN GET ME STARTED..."
 msgstr ""
@@ -18038,7 +18044,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}CAREFUL NOW..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}TEN CUIDADO..."
 
 msgid "<18>{#p/papyrus}{#f/0}THAT DOOR THERE IS THE ENTRANCE TO THE FOUNDRY."
 msgstr ""
@@ -18066,7 +18072,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}OF COURSE..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}POR SUPUESTO..."
 
 msgid "<18>{#p/papyrus}{#f/6}DID I MENTION THE DARKNESS THAT AWAITS YOU?"
 msgstr ""
@@ -18088,13 +18094,13 @@ msgid "<25>{#p/undyne}{#f/14}* And you wouldn't have it any other way!"
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/17}* Right?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* ¿Cierto?"
 
 msgid "<18>{#p/papyrus}{#f/6}... OF COURSE!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}SO... GRILLBY'S."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ES TAN... GRILLBY."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}IS IT TRUE THEY INSTALLED A YAMOK SAUCE MACHINE..."
@@ -18119,7 +18125,7 @@ msgid "<18>{#p/papyrus}{#f/4}NOT WHEN IT COMES TO THINGS LIKE THIS."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}... STILL."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}... AÚN ASÍ."
 
 msgid "<18>{#p/papyrus}{#f/5}IT'S NICE THAT THEY FINALLY FIXED THE JUKEBOX."
 msgstr ""
@@ -18196,7 +18202,7 @@ msgid "<25>{#p/undyne}{#f/8}* Like we'd ever NOT!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}SOME \"KITCHEN...\""
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}UNA \"COCINA...\""
 
 msgid "<18>{#p/papyrus}{#f/5}NOW THEY JUST USE IT FOR PRIVATE CARD GAMES."
 msgstr ""
@@ -18438,7 +18444,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}WITHOUT DOUBT!"
-msgstr ""
+msgstr "<18>{#p/papyrus}¡SIN DUDA!"
 
 msgid "<18>{#p/papyrus}ONCE IN A WHILE, SANS WILL READ ME A BEDTIME STORY."
 msgstr ""
@@ -18526,7 +18532,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}UNLIKE ME!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡EXCEPTO YO!!"
 
 msgid ""
 "<25>{#p/undyne}{#f/1}* I hope they don't mind me using the pipes as a jungle"
@@ -18592,7 +18598,7 @@ msgid "<18>{#p/papyrus}{#f/4}... JUST DON'T WATCH IT ON THE JOB, OKAY?"
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/17}* Okay!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* ¡¡Vale!!"
 
 msgid "<18>{#p/papyrus}WHAT'S IN YOUR DIMENSIONAL BOX?"
 msgstr ""
@@ -18680,7 +18686,7 @@ msgid "<18>{#p/papyrus}{#f/7}BUT, TRUTHFULLY, I DISAGREE!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}AFTER ALL..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}DESPUÉS DE TODO..."
 
 msgid "<18>{#p/papyrus}{#f/6}A GOOD DOG SHOULD VALUE HONESTY ABOVE ALL ELSE!"
 msgstr ""
@@ -19051,13 +19057,13 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}HOW MANY?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}¿CÓMO CUANTOS?"
 
 msgid "<25>{#p/undyne}{#f/17}* Very many."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}HOW VERY??"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¿¿CUANTOS SON DEMASIADOS??"
 
 msgid "<25>{#p/undyne}{#f/7}* Knock it off!"
 msgstr ""
@@ -19102,7 +19108,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}SPOILER ALERT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}ALERTA DE SPOILER..."
 
 msgid "<18>{#p/papyrus}{#f/4}... IT'S VERY DARK INSIDE."
 msgstr ""
@@ -19179,7 +19185,7 @@ msgid "<25>{#p/undyne}{#f/12}* That's better."
 msgstr ""
 
 msgid "<19>{#p/papyrus}{#f/5}HALFWAY OVER..."
-msgstr ""
+msgstr "<19>{#p/papyrus}{#f/5}A MITAD DEL CAMINO..."
 
 msgid "<19>{#p/papyrus}{#f/9}HERE'S TO THE LONG JOURNEY AHEAD!"
 msgstr ""
@@ -19296,7 +19302,7 @@ msgid "<18>{#p/papyrus}{#f/6}I'M CHERISHING AS HARD AS I CAN!!"
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/7}* GOOD!!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/7}* ¡¡¡QUÉ BUENO!!!"
 
 msgid "<18>{#p/papyrus}{#f/0}LEGEND HAS IT..."
 msgstr ""
@@ -19341,7 +19347,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}TOTALLY NORMAL!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡TOTALMENTE NORMAL!!"
 
 msgid "<25>{#p/undyne}{#f/1}* So you're saying that's NOT normal, right?"
 msgstr ""
@@ -19485,7 +19491,7 @@ msgid "<25>{#p/undyne}{#f/1}* It has a cool music box inside, though."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}BREAKING NEWS."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}NOTICIAS DE ULTIMO MOMENTO."
 
 msgid "<18>{#p/papyrus}{#f/4}MYSTERIOUS STATUE IS MYSTERIOUS."
 msgstr ""
@@ -19584,7 +19590,7 @@ msgid "<25>{#p/undyne}{#f/17}* So that's why that couch is so messy."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}NO SPOILERS!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡¡SIN SPOILERS!!!"
 
 msgid "<18>{#p/papyrus}{#f/4}AND THAT'S NOT EVEN HIS MOST IMPRESSIVE FEAT."
 msgstr ""
@@ -19755,7 +19761,7 @@ msgid "<18>{#p/papyrus}{#f/0}A GREAT PLACE TO DISPOSE OF UNDESIRABLE ITEMS."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}OR, ALTERNATIVELY..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}O, ALTERNATIVAMENTE..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/9}A GREAT PLACE TO FIND TREASURE AT NO PERSONAL COST!"
@@ -19997,7 +20003,7 @@ msgid "<18>{#p/papyrus}{#f/9}EXTREMELY COOL TO SAY ABOUT YOUR HOUSE!!!"
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/14}* Nope!!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* ¡¡¡No!!!"
 
 msgid "<18>{#p/papyrus}{#f/4}AT LEAST IT WAS, UNTIL..."
 msgstr ""
@@ -20081,7 +20087,7 @@ msgid "<18>{#p/papyrus}{#f/4}OKAY, OKAY..."
 msgstr "<18>{#p/papyrus}{#f/4}ESTA BIEN, ESTA BIEN..."
 
 msgid "<18>{#p/papyrus}{#f/0}ALMOST EVERYONE."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}CASÍ TODOS."
 
 msgid "<18>{#p/papyrus}{#f/0}ALAS, I'M MUCH MORE SUITED AS A CHEERER-UPPER."
 msgstr ""
@@ -20096,7 +20102,7 @@ msgid "<18>{#p/papyrus}{#f/0}SOMETHING ABOUT OFFERING \"TIMELY ENCOURAGEMENT.\""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}TIMELY ENCOURAGEMENT..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}ÁNIMOS EN EL MOMENTO ADECUADO..."
 
 msgid "<18>{#p/papyrus}{#f/4}AS IF THERE'S ENCOURAGEMENT THAT -ISN'T- TIMELY."
 msgstr ""
@@ -20225,7 +20231,7 @@ msgid "<18>{#p/papyrus}{#f/7}THEY'RE NOT DUMB!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}THEY JUST..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}EL HUMANO SOLO..."
 
 msgid "<18>{#p/papyrus}{#f/6}... WEREN'T ABLE TO THINK OF THOSE THINGS."
 msgstr ""
@@ -20281,7 +20287,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}WHAT?? HOURS?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¿¿QUÉ?? ¿HORAS?"
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}I SOLVED THOSE PUZZLES IN NO MORE THAN TEN SECONDS!"
@@ -20313,7 +20319,7 @@ msgid "<18>{#p/papyrus}{#f/6}NEAR THE RIGHT!!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}GOOD LUCK!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡BUENA SUERTE!!"
 
 msgid "<18>{#p/papyrus}{#f/4}OH... IT'S -THIS- PUZZLE, EH?"
 msgstr ""
@@ -20469,7 +20475,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}FOR EXAMPLE??"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¿¿POR EJEMPLO??"
 
 msgid ""
 "<25>{#p/undyne}{#f/8}* For example, the HOLE in the middle of that platform!"
@@ -20542,7 +20548,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}UNTIL THEN..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}HASTA ENTONCES..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/6}WAIT, ISN'T THERE A ROOM LIKE THIS SOMEWHERE ELSE!?"
@@ -20793,7 +20799,7 @@ msgid "<25>{#p/undyne}{#f/17}* Since before I was born, in fact!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}HOW STRANGE!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡QUÉ EXTRAÑO!!"
 
 msgid "<18>{#p/papyrus}{#f/5}TO BE HONEST, I'M NOT SURE I WANT TO KNOW WHY..."
 msgstr ""
@@ -20878,7 +20884,7 @@ msgid "<26>{#f/12}* I don't think either of us would understand it."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/4}POINT TAKEN."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/4}ENTENDIDO."
 
 msgid "<18>{#p/papyrus}{#f/0}SO HOW DOES IT WORK?"
 msgstr ""
@@ -20894,7 +20900,7 @@ msgid "<25>{#p/undyne}{#f/8}* I'll tell you later!!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}I KNOW!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡¡LO SÉ!!!"
 
 msgid "<18>{#p/papyrus}{#f/4}THE LAST TIME I WAS HERE..."
 msgstr ""
@@ -21233,7 +21239,7 @@ msgid "<25>{#p/undyne}{#f/17}* An \"ego compensation filter\" if you will."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/7}NEVER MIND!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¡NO IMPORTA!"
 
 msgid "<18>{#p/papyrus}{#f/0}THESE LIFTGATES ARE PRETTY FUN."
 msgstr ""
@@ -21280,7 +21286,7 @@ msgid "<25>{#p/undyne}{#f/8}* OH MY GOD PLEASE!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}OKAY, OKAY!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡VALE, VALE!"
 
 msgid "<18>{#p/papyrus}{#f/5}I HEARD TUITION IS HARD TO COME BY IN AERIALIS."
 msgstr ""
@@ -21457,7 +21463,7 @@ msgid "<18>{#p/papyrus}{#f/4}ACTUALLY, THAT DEPENDS ON THE GRAVITY."
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/8}* Papyrus!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/8}* ¡¡Papyrus!!"
 
 msgid "<18>{#p/papyrus}{#f/4}IT -HAS- BEEN A WHILE SINCE HE'S DONE ONE."
 msgstr ""
@@ -21512,7 +21518,7 @@ msgid "<25>{#p/undyne}{#f/12}* ..."
 msgstr "<25>{#p/undyne}{#f/12}* ..."
 
 msgid "<25>{#p/undyne}{#f/12}* Nothin.'"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/12}* Nada."
 
 msgid ""
 "<25>{#p/undyne}{#f/12}* Apart from almost erasing myself from existence, "
@@ -21563,13 +21569,13 @@ msgid "<25>{|}{#p/undyne}{#f/8}* But I wasn't talking about the- {%}"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}NO BUTS!!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡¡SIN PEROS!!!"
 
 msgid "<25>{|}{#p/undyne}{#f/7}* If you would just let me- {%}"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/7}NO IFS!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/7}¡¡SIN \"Y SI\"!!"
 
 msgid "<18>{#p/papyrus}{#f/4}AND NO HOWEVERS, EITHER."
 msgstr ""
@@ -21769,7 +21775,7 @@ msgid "<18>{#p/papyrus}{#f/0}WOW! THAT'S A GREAT QUESTION!"
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/14}* Really?"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* ¿En serio?"
 
 msgid "<18>{#p/papyrus}{#f/0}A GREAT QUESTION I DON'T WANT AN ANSWER TO!"
 msgstr ""
@@ -21804,7 +21810,7 @@ msgid "<18>{#p/papyrus}{#f/4}WAS IT ABOUT MOLE-RATS?"
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/14}* No."
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/14}* No."
 
 msgid "<18>{#p/papyrus}{#f/4}DID IT INVOLVE A \"MONEY-MAKING OPPORTUNITY?\""
 msgstr ""
@@ -22082,7 +22088,7 @@ msgid "<18>{#p/papyrus}{#f/5}HOPEFULLY THEY'LL COME TO RESPECT HER IN TIME."
 msgstr ""
 
 msgid "<26>{#p/undyne}{#f/14}* Hopefully."
-msgstr ""
+msgstr "<26>{#p/undyne}{#f/14}* Con suerte."
 
 msgid "<18>{#p/papyrus}{#f/0}I WONDER HOW IT'S DIFFERENT FROM A NORMAL MEMO."
 msgstr ""
@@ -22153,7 +22159,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}HE DID??"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¿¿ÉL LO HIZO??"
 
 msgid "<25>{#p/undyne}{#f/1}* The first one wasn't up to his \"high standards.\""
 msgstr ""
@@ -22243,7 +22249,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}HOW COME?"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}¿POR QUÉ?"
 
 msgid "<25>{#p/undyne}{#f/17}* Elevators EVERYWHERE."
 msgstr ""
@@ -22261,7 +22267,7 @@ msgid "<25>{#p/undyne}{#f/8}* AND THEY DON'T EVEN HAVE MUSIC!!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/1}IT'S UNFATHOMABLE!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/1}¡ES INCOMPRENSIBLE!"
 
 msgid "<18>{#p/papyrus}{#f/4}IF ONLY THERE WAS A BETTER WAY TO GET AROUND."
 msgstr ""
@@ -22422,7 +22428,7 @@ msgid "<18>{#p/papyrus}{#f/9}LIKE THE MEW MEW DOLL ON TV EARLIER!!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}ORGANIZED TRASH..."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}BASURA ORGANIZADA..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/4}THE TWO WORDS I NEVER THOUGHT I'D UTTER TOGETHER."
@@ -22606,7 +22612,7 @@ msgid "<18>WE DON'T MEET ANY OF THOSE MOLE-RAT IMPOSTORS."
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/5}MY APOLOGIES."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/5}MIS DISCULPAS."
 
 msgid "<18>{#p/papyrus}{#f/4}I DIDN'T MEAN TO VENT."
 msgstr ""
@@ -22761,6 +22767,8 @@ msgid ""
 "<18>{#p/papyrus}{#f/4}DIMENSIONS...\n"
 "LAYERS..."
 msgstr ""
+"<18>{#p/papyrus}{#f/4}DIMENSIONES...\n"
+"CAPAS..."
 
 msgid ""
 "<18>{#p/papyrus}{#f/5}DO THEY GIVE US EXTRA BLANKETS TO TAKE NAPS WITH?"
@@ -22790,7 +22798,7 @@ msgid ""
 msgstr ""
 
 msgid "<25>{#p/undyne}{#f/17}* Obviously!!"
-msgstr ""
+msgstr "<25>{#p/undyne}{#f/17}* ¡¡Obviamente!!"
 
 msgid ""
 "<18>{#p/papyrus}{#f/0}OH, ME?\n"
@@ -22831,7 +22839,7 @@ msgid "<25>{#p/undyne}{#f/17}* This is no time to be worrying about that!"
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/0}QUITE RIGHT."
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/0}MUY BIEN."
 
 msgid "<18>{#p/papyrus}{#f/6}SO ARE YOU COMING, OR GOING?"
 msgstr ""
@@ -22841,7 +22849,7 @@ msgid ""
 msgstr ""
 
 msgid "<18>{#p/papyrus}{#f/6}STOP WORRYING!!"
-msgstr ""
+msgstr "<18>{#p/papyrus}{#f/6}¡¡DEJA DE PREOCUPARTE!!"
 
 msgid "Starton - Landing Zone"
 msgstr ""
