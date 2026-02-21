@@ -1,0 +1,50 @@
+{
+   "startroom.wake": "* 喂，{sleep 20}醒醒啦。",
+
+   "floweyroom.flowey.meet.first.0": "{face 1}{voice 2}{char_link 1}* 嘿，{sleep 20}等等！{pause}{clear}{face_emotion 4}* 我说，{sleep 20}\n  你别这么着急走！{pause}{clear}{face_emotion 0}* 我叫{color `yellow`}小花{color `white`}。{sleep 20}{face_emotion 3}\n* 一朵名叫{color `yellow`}小花{color `white`}的{color `red`}红花{color `white`}！{pause}{clear}{face_emotion 2}* 看你的模样...{sleep 20}\n  {face_emotion 0}你是一个人类对吧？{pause}{clear}{face_emotion 0}* 人类在地底可不常见，{sleep 20}\n{face_emotion 3}  我猜你肯定很想回家！{pause}{clear}{face_emotion 0}* 如果你想离开这里，{sleep 20}\n  那必须要学会\n  这里的规则！{pause}{clear}{face_emotion 5}* 因为地下世界是一个\n  危险的地方，{sleep 20}{face_emotion 6}你需要\n  学会在这里生存下来！{pause}{clear}{face_emotion 0}* 你看，{sleep 20}这里只有我\n  能教你了。{pause}{clear}{face_emotion 3}* 那么现在，{sleep 20}\n  课程开始！",
+   "floweyroom.flowey.meet.first.1": "{face 1}{voice 2}{char_link 1}* 这就是了，{sleep 20}我给你\n  准备的谜题。{pause}{clear}* 很简单的，{sleep 20}只需要你走上前，{sleep 20}\n  去好好看看告示上的东西...{sleep 20}\n  你应该认字，{sleep 20}对吧？",
+
+   "floweyroom.flowey.vines": "{face 1}{voice 2}{char_link 1}* 面对谜题可别临阵脱逃哦。",
+
+   "trap.flowey.0": "{voice 3}{speed 5}{effect 0}* 哈哈哈哈哈，{sleep 20}你个白痴！{pause}{clear}* 你真以为会有人这么好心\n  给你提供新手教学吗？{pause}{clear}* 记住了！{sleep 20}\n* 在地下世界，{sleep 20}不是杀人就是被杀！{pause}{clear}* 看看你的样子，{sleep 20}真可怜呢...{pause}{clear}* 乖乖等死吧...",
+   "trap.flowey.1": "{voice 2}* 等等，{sleep 20}什么动静？{sleep 20}\n  有什么东西砍断了我的藤蔓！{pause}{clear}* 哎呀！{sleep 20}怎么是您！{pause}{clear}* 我...{sleep 20}我什么都没做！{pause}{clear}{voice -1}* ......{pause}{clear}{voice 2}* 别过来！{sleep 20}这...{sleep 20}\n  这坑里绝对没有人类！{sleep 20}真没有！{pause}{clear}{voice -1}* ......",
+
+   "floweyroom.toriel": "{face 2}{voice 4}{char_link 2}* 真是不好意思，{sleep 20}孩子，{sleep 20}\n  我来得太晚了。{pause}{clear}{face_emotion 1}* 那朵花真是坏透了，竟然{sleep 20}\n  对这么一个手无寸铁的孩子\n  下手...{pause}{clear}{face_emotion 0}* 我叫{color `blue`}托丽尔{color `white`}，{sleep 20}\n  是{color `red`}古迹{color `white`}的管理员。{pause}{clear}* 跟我来，{sleep 20}我们先离开这里，{sleep 20}\n  去个安全点的地方。",
+
+   "monuments.0.toriel": "{face 2}{voice 4}{char_link 2}* 欢迎来到你的新家，{sleep 20}\n  单纯的孩子。{pause}{clear}* 事不宜迟，{sleep 20}我马上就来\n  指导你怎么在古迹逛逛。",
+
+   "monuments.1.toriel.0": "{face 2}{voice 4}{char_link 2}* 古迹这里到处都是谜题。{pause}{clear}* 以前的怪物们喜欢在\n  开门的时候整点消遣。{pause}{clear}* 我也挺喜欢的，{sleep 20}所以我\n  保留了它们。{pause}{clear}* 只有解开这些谜题，{sleep 20}\n  你才能进入下一个房间。{pause}{clear}* 像这个谜题，{sleep 20}需要以\n  正确的顺序拉下开关\n  才能完成。{pause}{clear}* 让我来为你演示一下。",
+   "monuments.1.toriel.1": "{face 2}{voice 4}{char_link 2}* 下一个谜题就由你\n  来完成了哦，{sleep 20}我的孩子。{pause}{clear}* 请跟我走。",
+
+   "monuments.2.toriel.0": "{face 2}{voice 4}{char_link 2}* 好了，{sleep 20}孩子，{sleep 20}让我们\n  来看看实例吧。{pause}{clear}* 谜题就在这面墙上，{sleep 20}你可以\n  用旁边的控制台来操控它。{pause}{clear}* 让它们连成一条线就行。{sleep 20}\n  这应该不难，{sleep 20}尝试一下吧。",
+   "monuments.2.toriel.1": "{face 2}{voice 4}{char_link 2}* 我就知道你做得到，{sleep 20}孩子！{sleep 20}\n* 我之前还担心这会不会\n  太难了...{pause}{clear}* 是时候前往下一个\n  房间了，{sleep 20}走吧。",
+   "monuments.2.toriel.2": "{face 2}{voice 4}{char_link 2}* 嗯？{sleep 20}你是想要提示吗？{pause}{clear}* 好吧，{sleep 20}你想象一下那些\n  水管就是一条蛇，{sleep 20}\n  你需要把它的身体拼起来。{pause}{clear}* 再去试试看吧，{sleep 20}\n  我相信你做得到！",
+   "monuments.2.toriel.3": "{face 2}{voice 4}{char_link 2}* 就像我说的那样，{sleep 20}\n  让水管们都连接起来\n  变成一条蛇。",
+
+   "monuments.3.toriel.0": "{face 2}{voice 4}{char_link 2}* 由于你是个人类，{sleep 20}\n  在地下时有可能遭到\n  其他怪物的攻击。{pause}{clear}* 想必刚才...\n{sleep 20}* 你已经经历过了。{pause}{clear}* 当你遭遇到其他怪物的时候，{sleep 20}\n  你就会进入战斗。{pause}{clear}* 但是不用担心，{sleep 20}你可以试着\n  先和他们友好地交流一下。{pause}{clear}* 尽量拖延时间，{sleep 20}\n  我会出面解决的。{pause}{clear}* 好了，{sleep 20}那里有个人偶，{sleep 20}\n  试着去和它说说话吧。",
+   "monuments.3.toriel.1": "{face 2}{voice 4}{char_link 2}* 这就对了，孩子！{sleep 20}\n* 有的时候一些友好的问候\n  是化解冲突的最好方式。{pause}{clear}* 一起去下一个房间吧。",
+   "monuments.3.toriel.2": "{face 2}{voice 4}{char_link 2}{face_emotion 4}* 呃...{sleep 20}你应该先试着\n  和它说一说话的。{pause}{clear}{face_emotion 0}* 不过毕竟它是个不会\n  说话的人偶，{sleep 20}你不想跟它\n  交谈倒也是合情合理的。{pause}{clear}* 嗯...{pause}{clear}* 好吧，{sleep 20}我们去下一个\n  房间吧。",
+   "monuments.3.toriel.3": "{face 2}{voice 4}{char_link 2}{face_emotion 2}* ...{pause}{clear}* 孩子，{sleep 20}它不会咬你的。{pause}{clear}* ...{pause}{clear}{face_emotion 0}* 好吧，{sleep 20}有的时候逃跑也\n  不失为一种好的选择。{pause}{clear}* 跟紧我，{sleep 20}我们去\n  下一个房间吧。",
+   "monuments.3.toriel.4": "{face 2}{voice 4}{char_link 2}{face_emotion 4}* ...{pause}{clear}* ......{pause}{clear}{face_emotion 0}* 呃，{sleep 20}有的时候怪物们\n  总是奇奇怪怪的。{pause}{clear}* 我们还是去下一个房间吧。",
+   "monuments.3.toriel.5": "{face 2}{voice 4}{char_link 2}* 嗯？{sleep 20}你不敢去和它说话吗？{pause}{clear}* 好吧...{sleep 20}这实际上\n  没什么难的。{pause}{clear}* 你只需要靠近它就好，{sleep 20}就像\n  多年没见的老友那样。{pause}{clear}* 然后去跟它好好叙叙旧，{sleep 20}\n  说一说最近遇到的事情。{pause}{clear}* 很简单的，{sleep 20}我相信你，{sleep 20}\n  孩子！",
+   "monuments.3.toriel.6": "{face 2}{voice 4}{char_link 2}* 去吧孩子，{sleep 20}\n  没什么好怕的。{pause}{clear}* 我知道这可能有些难为你，{sleep 20}\n  但你必须尝试。{pause}{clear}* 放轻松，{sleep 20}那只是个人偶而已，{sleep 20}\n  它不会有什么事的。{pause}{clear}* ...",
+   "monuments.3.toriel.7": "{face 2}{voice 4}* ...",
+
+   "monuments.4.toriel.0": "{face 2}{voice 4}{char_link 2}* 好啦，{sleep 20}现在我们来到古迹\n  中的名胜了。{pause}{clear}* 我们叫它“古迹第一长”。{pause}{clear}* 这倒是很符合它的形象，{sleep 20}\n  对吧？{pause}{clear}* 来吧，{sleep 20}跟在我身边，{sleep 20}\n  我带你观光一下。",
+   "monuments.4.toriel.1": "{face 2}{voice 4}* “名胜”，{sleep 20}虽然是这么说...{pause}{clear}* 但实际上只是一个\n  很普通的加长版走廊\n  罢了。{pause}{clear}* 不过，{sleep 20}至少还算是\n  一尘不染，{sleep 20}是吧？{sleep 20}\n* 你觉得呢？",
+   "monuments.4.toriel.2": "{voice -1}      我喜欢      我觉得\n      这个        这没啥\n      {choice 0}走廊        {choice 1}意思",
+   "monuments.4.toriel.3.0": "{face 2}{voice 4}* 你喜欢这里？{sleep 20}真的吗？{sleep 20}\n* 那证明我每天的努力\n  没有白费。{pause}{clear}* 说真的，{sleep 20}每次打扫这个\n  简直{color `yellow`}腰{color `white`}了我的命。{pause}{clear}* 哈哈哈...",
+   "monuments.4.toriel.3.1": "{face 2}{voice 4}* 哦...{sleep 20}\n{face_emotion 7}* 说真的，{sleep 20}我也觉得这里\n  没啥意思。{pause}{clear}* 简直不知道当初设计它\n  的怪物是怎么想的。{pause}{clear}{face_emotion 0}* 我还得来这里打扫，{sleep 20}\n  真是{color `yellow`}腰{color `white`}了我的命。{pause}{clear}* 不过至少现在有个人\n  能听我说说话，{sleep 20}谢谢你了。",
+   "monuments.4.toriel.4": "{face 2}{voice 4}{face_emotion 3}* 天啊，{sleep 20}那里怎么\n  来了只青蛙！",
+   "monuments.4.toriel.5": "{face 2}{voice 4}* 这些叫蛙吉特的家伙总\n  到处乱跑，{sleep 20}不好好待在\n  我给他们规划的地方。{pause}{clear}* 不过，{sleep 20}虽然他们不太听话，{sleep 20}\n  但是有的时候他们\n  还是很有用的。{pause}{clear}* 我好像还没领你去\n  古迹的公园吧？{pause}{clear}* 我在那种了不少花，{sleep 20}\n  古迹的怪物们\n  都很喜欢那里。{pause}{clear}* 如果有的时候太忙了，{sleep 20}\n  我就会拜托我的两个\n  朋友帮我照看一下。{pause}{clear}* 然后他们两个偶尔\n  会把园艺活推给\n  蛙吉特们...{pause}{clear}* 我必须承认，{sleep 20}有的时候\n  蛙吉特甚至照料得\n  比他俩还好。{pause}{clear}* 毕竟花田也是田嘛。",
+   "monuments.4.toriel.6": "{face 2}{voice 4}{char_link 2}* 看起来我们到走廊尽头了。{sleep 20}\n* ...现在几点了？{pause}{clear}* 天啊，{sleep 20}瞧我这记性，{sleep 20}\n  都这个时间了。{pause}{clear}* 真是对不起，{sleep 20}孩子，{sleep 20}\n  我有一件非常重要的事情\n  要去做。{pause}{clear}* 乖乖在这等着，{sleep 20}好吗？{pause}{clear}* 这样吧，{sleep 20}这个电话给你，{sleep 20}\n  如果你等着急了，{sleep 20}就给我\n  打电话吧。{pause}{clear}* 我一会就回来接你，{sleep 20}\n  要乖乖的啊。",
+
+   "monuments.14.dogs.0": "* 话说遗迹走廊真安静啊，\n{sleep 20}  一只怪物也没有。{pause}{clear}* 是啊，{sleep 20}也没有人类。{pause}{clear}* 你提人类干什么？\n{sleep 20}  那些家伙肯定不会在这里啊。",
+   "monuments.14.dogs.1": "* 我告诉你，{sleep 20}要是让我\n  碰到人类，{sleep 20}我就...{sleep 20}{end}",
+   "monuments.14.dogs.2": "* 然后我再！",
+   "monuments.14.dogs.3": "* 所以你提了下人类\n  就是为了炫耀你最近\n  刚锻炼的身体吗。{pause}{clear}* 啊，{sleep 20}被发现了。{pause}{clear}* 上班的时候还是不要乱搞这些，{sleep 20}\n  被其他怪物看到了就不好了。",
+   "monuments.14.dogs.4": "{skippable false}{char_link 4}{face 3}* 哈哈，{sleep 20}哪里会有别的家伙嘛！\n{sleep 20}* 这里连根狗毛都{end}",
+   "monuments.14.dogs.5": "{char_link 4}{face 3}* ...没有。",
+   "monuments.14.dogs.6": "{char_link 4}{face 3}* 真是说狗粮狗粮到啊...{pause}{clear}{char_link 3}{face 4}* 那根本不是狗粮吧。{pause}{clear}{char_link 4}{face 3}* 我当然知道！{sleep 20}\n  那是一个人类！",
+   "monuments.14.dogs.7": "{char_link 4}{face 3}* 接招吧！"
+}

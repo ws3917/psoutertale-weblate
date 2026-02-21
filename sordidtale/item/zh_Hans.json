@@ -1,0 +1,63 @@
+{
+    "item.eat": "* 你吃掉了{insert ITEM}。",
+    "item.drink": "* 你喝掉了{insert ITEM}。",
+    "item.equip": "* 你装备了{insert ITEM}。",
+    "item.heal.part": "* 你回复了{insert HP} HP！",
+    "item.heal.all": "* 你的HP已满。",
+    "item.get": "{char_unlink}* 你获得了{insert ITEM}。",
+
+    "item.drop.0": "* {insert ITEM}被你扔掉了。",
+    "item.drop.1": "* 你以平静的口吻\n  送别了{insert ITEM}。",
+    "item.drop.2": "* 你把{insert ITEM}\n  放在地上，轻轻拍了拍它。",
+    "item.drop.3": "* 你把{insert ITEM}丢到地上。\n* 这正是它这样的垃圾\n  应有的待遇。",
+    "item.drop.4": "* 你丢弃了\n  {insert ITEM}。",
+
+    "item.toomuch.0": "* (你带的东西太多了。)",
+
+    "item.tml.name": "糖萌芦",
+    "item.tml.use": "* 你摸了摸糖萌芦，{sleep 20}\n  什么也没发生。",
+    "item.tml.info": "* 糖萌芦\n* 一只蓝色的，{sleep 20}毛茸茸的伊布。{sleep 20}\n* 是这个引擎的作者。",
+    "item.tml.drop": "* 你放生了糖萌芦。",
+
+    "item.stick.name": "树枝",
+    "item.stick.info": "* 树枝 - 武器 攻击 0\n* 小树杈吐不出橡芽。",
+    "item.stick.use.0": "* 你扔出了树枝。{sleep 20}\n* 然后自己把它捡了回来。",
+
+    "item.wreath.name": "花环",
+    "item.wreath.name.short": "花环",
+    "item.wreath.name.short.serious": "花环",
+    "item.wreath.info": "* 花环\n* 看起来仍存生机。",
+    "item.wreath.use.0": "* 你看了看手里的花环，{sleep 20}\n  想不出来它还能派上什么用场。",
+
+    "item.crisps.name.0": "怪物薯片{scale 1}{color_text `gray`}两片装{scale 2}{color `white`}",
+    "item.crisps.name.short.0": "怪物薯片{scale 1}{color_text `gray`}两片装{scale 2}{color `white`}",
+    "item.crisps.name.short.serious.0": "怪物薯片{scale 1}{color_text `gray`}两片装{scale 2}{color `white`}",
+    "item.crisps.name.1": "怪物薯片",
+    "item.crisps.name.short.1": "怪物薯片",
+    "item.crisps.name.short.serious.1": "怪物薯片",
+    "item.crisps.name.eat": "一片怪物薯片",
+    "item.crisps.info.0": "* 怪物薯片{scale 1}{color_text `gray`}两片装{scale 2}{color `white`} - 治愈 5 HP\n* 一份两片，{sleep 20}你可以吃两次。",
+    "item.crisps.info.1": "* 怪物薯片{scale 1}{color_text `gray`}两片装{scale 2}{color `white`} - 治愈 5 HP\n* 剩下来的两片薯片，{sleep 20}\n  你可以吃两次。",
+    "item.crisps.info.2": "* 怪物薯片 - 治愈5 HP\n* 一片薯片，{sleep 20}另一片似乎还在\n  你的嘴里嘎吱作响。",
+
+    "item.leatherchestplate.name": "皮革胸甲",
+    "item.leatherchestplate.name.short": "皮革胸甲",
+    "item.leatherchestplate.name.short.serious": "皮革胸甲",
+    "item.leatherchestplate.info": "* 皮革胸甲 - 防具 防御 3\n* 在防御力方面有点言过其实，{sleep 20}\n  不过御寒倒是很合适。",
+
+    "item.moussecake.name": "慕斯蛋糕",
+    "item.moussecake.name.short": "毛丝蛋糕",
+    "item.moussecake.info": "* 慕斯蛋糕 - 治愈25 HP\n* 不可多得的美味佳肴。\n* 里面绝对没有毛。",
+
+    "item.latte.name": "拿铁咖啡",
+    "item.latte.info": "* 拿铁咖啡 - 治愈9 HP\n* 比起普通的拿铁，{sleep 20}\n  里面加了更多的牛奶。",
+
+    "item.triloso.name": "特式咖啡",
+    "item.triloso.info": "* 特式咖啡 - 治愈12 HP\n* 据说这象征着深远的历史。\n* 不过现在只是一杯咖啡罢了。",
+
+    "item.blackcoffee.name": "苦咖啡",
+    "item.blackcoffee.info": "* 苦咖啡 - 治愈27 HP\n* 喝下去的时候，{sleep 20}你会\n  感受到怪物们的痛苦。{pause}{clear}* 战斗中喝掉提升速度。",
+
+    "item.fruittea.name": "果茶",
+    "item.fruittea.info": "* 果茶 - 治愈12 HP\n* 看上去五颜六色的。{sleep 20}\n* 虽然有些凉了，{sleep 20}但味道应该不错。"
+}

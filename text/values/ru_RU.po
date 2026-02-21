@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-19 12:51+0000\n"
+"PO-Revision-Date: 2025-08-08 08:00+0000\n"
+"Last-Translator: ws3917 <ws3917@outlook.com>\n"
+"Language-Team: Russian <https://translate.ws3917.space/projects/ps-outertale/"
+"7-values/ru/>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
+
+#
+msgid "en_US"
+msgstr "ru_RU"
+
+msgid "You must choose a name."
+msgstr "Вы должны выбрать имя."
+
+msgid "No?"
+msgstr "Нет?"
+
+msgid "Hm...?"
+msgstr "Хм?.."
+
+msgid "Maybe?"
+msgstr "Наверное?"
+
+msgid "Yes?"
+msgstr "Да?"
+
+msgid ""
+"Take heart.\n"
+"There is nothing to be afraid of here."
+msgstr ""
+"Не унывайте.\n"
+"Здесь нечего бояться."
+
+msgid "A light-hearted spirit will serve you well on your journey."
+msgstr "Лёгкий настрой сослужит хорошую службу на вашем пути."
+
+msgid ""
+"Take heart.\n"
+"Your frustrations are behind you now."
+msgstr ""
+"Не унывайте.\n"
+"Ваши страдания уже позади."
+
+msgid ""
+"Take heart.\n"
+"The story is yours, no matter what you feel."
+msgstr ""
+"Не унывайте.\n"
+"Эта история — ваша, что бы вы ни чувствовали."
+
+msgid "May tranquility come upon you as you embark on your journey."
+msgstr "Пусть на вашем пути царит спокойствие."
+
+msgid ""
+"Take heart.\n"
+"Your story is as interesting as you make it."
+msgstr ""
+"Не унывайте.\n"
+"Ваша история будет интересна настолько, насколько вы ей позволите."
+
+msgid "May your quality of speech translate to action on your journey."
+msgstr "Пусть ваша речь перейдёт в действие на вашем пути."
+
+msgid "A courageous heart will serve you well on your journey."
+msgstr "Отважное сердце сослужит хорошую службу на вашем пути."
+
+msgid "A sense of serenity will do you wonders on your journey."
+msgstr "Спокойствие ума сотворит чудеса на вашем пути."
+
+msgid "May your ingenuity surpass the challenges on your journey."
+msgstr "Пусть ваше мастерство преодолеет все трудности на вашем пути."
+
+msgid "A confident mindset will take you far on your journey."
+msgstr "Уверенный настрой поможет вам пройти долгий путь."
+
+msgid "May your inginuity surpass the challanges on your journey."
+msgstr "Пусть ваша изобретательность превзойдёт все трудности на вашем пути."
+
+msgid "May balance come upon you as you embark on your journey."
+msgstr "Пусть равновесие снизойдёт на вас, когда вы отправитесь в путь."
+
+msgid ""
+"Take heart.\n"
+"There is much to be learned on the road ahead."
+msgstr ""
+"Не унывайте.\n"
+"Впереди вас ждёт много уроков."
+
+msgid "May the tapestry of chaos and order satisfy you on your journey."
+msgstr "Пусть гобелен хаоса и порядка поможет вам на вашем пути."
+
+msgid "May your story gain meaning in this cocoon amidst the darkness."
+msgstr "Пусть ваша история обретёт смысл в этом коконе тьмы."
+
+msgid "May the experience be as playful as you desire."
+msgstr "Пусть увлекательность этого опыта будет ограничена лишь вашим желанием."
+
+msgid "May the experience be as excessive as you desire."
+msgstr "Пусть богатство вашего опыта ограничивается лишь вашим желанием."
+
+msgid ""
+"Take heart.\n"
+"You have nothing to feel ashamed of now."
+msgstr ""
+"Не унывайте.\n"
+"Вам больше нечего стыдиться."
+
+msgid "A temperate ego will take you far on your journey."
+msgstr "Умеренное самолюбие поможет вам зайти дальше на вашем пути."
+
+msgid "May the experience provide the sustenance you require."
+msgstr "Пусть ваш опыт окажет вам поддержку."
+
+msgid "May your story bring forth the emotion you strive to feel."
+msgstr "Пусть ваша история вызовет те эмоции, к которым вы стремились."
+
+msgid "May your choices be as effortless as they come."
+msgstr "Пусть принятие решений вас не тяготит."
+
+msgid ""
+"Take heart.\n"
+"There is much companionship to be had here."
+msgstr ""
+"Не унывайте.\n"
+"Здесь можно найти много друзей."
+
+msgid "May your fortune carry you forward on your journey."
+msgstr "Пусть удача сопутствует вам на вашем пути."
+
+msgid "May the tapestry of chaos and order please you on your journey."
+msgstr "Пусть гобелен хаоса и порядка радует вас на вашем пути."
+
+msgid ""
+"Take heart.\n"
+"Your story is as uplifting as you make it."
+msgstr ""
+"Не унывайте.\n"
+"Ваша история радостна настолько, насколько вы ей позволяете."
+
+msgid "May your stability provide a solid foundation on your journey."
+msgstr "Пусть непоколебимость станет вашим преимуществом."
+
+msgid "May the experience only add to your state of satisfaction."
+msgstr "Пусть игровой опыт удовлетворит вас."
+
+msgid "May the experience be as comforting as you desire."
+msgstr "Пусть комфорт вашей игры будет ограничен лишь вашим желанием."
+
+msgid "May the experience provide the energy you require."
+msgstr "Пусть ваш игровой опыт наполнит вас энергией."
+
+msgid "May your overflowing energy power you through your journey."
+msgstr "Пусть энергия, струящаяся сквозь вас, поможет на вашем пути."
+
+msgid "I am honored by your choice."
+msgstr "Ваш выбор — честь для меня."
+
+msgid "Let the experiment begin."
+msgstr "Да начнётся же эксперимент."
+
+msgid "The true name."
+msgstr "Настоящее имя."
+
+msgid "This name is incorrect."
+msgstr "Это имя введено неверно."
+
+msgid ""
+"............\n"
+"(They're powerless to stop you.)"
+msgstr ""
+"............\n"
+"(Они бессильны против вас.)"
+
+msgid ""
+"............\n"
+"(It's not much for conversation.)"
+msgstr ""
+"............\n"
+"(Здесь не о чём говорить.)"
+
+msgid "Hello."
+msgstr "Привет."
+
+msgid "Saddle up!"
+msgstr "Запрыгивай!"
+
+msgid "Well... I suppose that works..."
+msgstr "Ну... Думаю, это сработало..."
+
+msgid "I think you should think of your own name, my child."
+msgstr "Я думаю, тебе следует подумать над собственным именем, моё дитя."
+
+msgid "Really..."
+msgstr "Серьёзно..."
+
+msgid "Nice try, idiot."
+msgstr "Хорошая попытка, идиот."
+
+msgid "Don't you mean \"Eyewalker?\""
+msgstr "Ты хотел сказать «глазомер»?"
+
+msgid "Check out my antenna!"
+msgstr "Зацени мою антенну!"
+
+msgid "Guh huh huh, nice one."
+msgstr "Га-ха-ха, это хорошее."
+
+msgid "Huh? What's that smell?"
+msgstr "Хм? Что это за запах?"
+
+msgid "It's m-moving! I-I-It's shaking!"
+msgstr "Оно д-движется! О-оно трясётся!"
+
+msgid "Jerry."
+msgstr "Джерри."
+
+msgid "(The dog jumped into your lap.)"
+msgstr "(Собака запрыгнула к вам на колени.)"
+
+msgid "(Pant pant)"
+msgstr "(Арф арф)"
+
+msgid "I'LL ALLOW IT!!!!"
+msgstr "Я РАЗРЕШАЮ!!!"
+
+msgid "ok."
+msgstr "лан."
+
+msgid "nope."
+msgstr "не."
+
+msgid "A \"stellar\" choice."
+msgstr "«Блестящий» выбор!"
+
+msgid "A pleasing nomenclature, no?"
+msgstr "Отлично звучит, правда?"
+
+msgid "I am not amused."
+msgstr "Мне не смешно."
+
+msgid "Roar."
+msgstr "Равр."
+
+msgid "Wah ha ha! Why not?"
+msgstr "Вах-ха-ха! Почему нет?"
+
+msgid "What. What! WHAT!"
+msgstr "Что. Что! ЧТО!"
+
+msgid "That's my name!!"
+msgstr "Это моё имя!"
+
+msgid ""
+"Ahuhuhu~\n"
+"You must have great taste, dearie~"
+msgstr ""
+"Аху-ху-ху~\n"
+"У тебя отличный вкус, дорогуша~"
+
+msgid ""
+"Hey!\n"
+"Only Skrubby gets to call me that!"
+msgstr ""
+"Эй!\n"
+"Только Чистику позволено так меня называть!"
+
+msgid "Sorry, but you're a letter shy."
+msgstr "Прошу прощения, но вы очень скупы на буквы."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Clean name."
+msgstr "Чистое имя."
+
+msgid "hOI!"
+msgstr "пРИФ!"
+
+msgid "Ngah, fine."
+msgstr "Нгах, отлично."
+
+msgid "Get your OWN name!"
+msgstr "Добудь себе СВОЁ имя!"
+
+msgid "Uh.... OK?"
+msgstr "Э-э... Ладно?"
+
+msgid "D-don't do that."
+msgstr "Н-не делай этого."
+
+msgid "You are really scraping the bottom of the barrel."
+msgstr "Вы достигли самого дна."
+
+msgid "Like, OK I guess."
+msgstr "Типа, окей, наверное..."
+
+msgid "You like my name, little buddy?"
+msgstr "Понравилось моё имя, мелочь?"
+
+msgid "Bratty! Bratty! That's MY name!"
+msgstr "Брэтти! Брэтти! Это же МОЁ имя!"
+
+msgid "A fellow wizard?"
+msgstr "Дружище волшебник?"
+
+msgid "Slick choice, homeslice."
+msgstr "Неплохой выбор, уважуха."
+
+msgid "Now you're just being rude, darling."
+msgstr "Дорогуша, ты грубишь мне?"
+
+msgid "OOOOH!!! ARE YOU PROMOTING MY BRAND?"
+msgstr "О-О-О-Х!!! ТЫ ПРОДВИГАЕШЬ МОЙ БРЭНД?"
+
+msgid "Is this name correct? ;)"
+msgstr "Точно-точно? ;)"
+
+msgid "Hot, but not hot enough."
+msgstr "Горячо, но недостаточно."
+
+msgid "You don't have to do that..."
+msgstr "Не стоит этого делать..."
+
+msgid "You KNEW!?"
+msgstr "Ты ЗНАЛ?!"
+
+msgid "Respect my AUTHORITY!"
+msgstr "Уважай мой АВТОРИТЕТ!"
+
+msgid "Ahh! Thank you~"
+msgstr "Аах! Спасибо~"
+
+msgid "Thanks for, uh, using my name."
+msgstr "Спасибо, что, эм, используешь моё имя."
+
+msgid "You can?"
+msgstr "Ты можешь?"
+
+msgid "You cannot."
+msgstr "Ты не можешь."
+
+msgid "... fine."
+msgstr "...пусть так."
+
+msgid "..."
+msgstr "..."

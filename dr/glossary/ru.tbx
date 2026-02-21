@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry id="Имя главного героя">
+                <langSet xml:lang="en"><tig><term>Kris</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Крис</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PTs</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Б</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Elnina</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Эльнина</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recruits</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Сторонники</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Light World</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Светлый мир</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dark World</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Тёмный мир</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Susie</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Сьюзи</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ralsei</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ральзей</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>BOARD</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ДОСКА</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lancer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Лансер</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>King</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Король</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ramb</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Рамб</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Queen</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Королева</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Asriel</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Азриэль</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rudinn</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Бубинн</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tenna</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Тенна</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mike</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Майк</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lanino</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ланино</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PHYSICAL CHALLENGE</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ПОДВИЖНЫЕ ЗАДАНИЯ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ribbick</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>грязюшка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pippins</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пиппинс</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Watercooler</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>кулер</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shadow guy</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>теневой парень</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shuttah</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>затворник</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zapper</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пуллет</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>item</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>вещь</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Watercooler</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Кулер</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>POINT</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>БАЛЛ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Green Room</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>комната отдыха</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>DeluxeDinner</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ужин-делюкс</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GingerGuard</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Имбирный страж</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>points</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>баллы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revive mint</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>леденец жизни</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CHEF</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>КУЛИНАРИЯ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Castle Town</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Замковый городок</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Noelle</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ноэль</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>TV Dinners</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ТВ-ужин</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flying aces</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Козырной отряд</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
