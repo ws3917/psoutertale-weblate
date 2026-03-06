@@ -1,4 +1,5 @@
 {
     "testEnemyDesc_1 <style:battleUI>": "你好！这是一条测试描述文本！",
-    "testEnemyDesc_2 <style:battleUI>": "这是另一条测试描述文本！"
+    "testEnemyDesc_2 <style:battleUI>": "这是另一条测试描述文本！",
+    "testEnemyDialog_1 <style:battleBubbleDefault>": "这是一条确保运行正常的测试文本！"
 }
