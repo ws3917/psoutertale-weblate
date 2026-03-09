@@ -6740,7 +6740,7 @@ export default {
       flirtStatus8: [ '<32>{#p/story}* Papyrus dabs MTT-brand Cute Juice behind his ear.' ],
       flirtStatus9: [ '<32>{#p/story}* Papyrus realizes he doesn\'t have ears.' ],
       flirtStatus10: [ '<32>{#p/story}* Papyrus has random lumps of ointment on his head.' ],
-      flirtStatus11: [ '<32>{#p/story}* ... he\'s still thinking about sexy rectangles.' ],
+      flirtStatus11: [ '<32>{#p/story}* ... he\'s reconsidering his stance on rectangles.' ],
       hurtStatus: [ '<32>{#p/story}* Papyrus is at the edge of defeat.' ],
       insult1: [ '<15>{#p/papyrus}{#f/20}HOW SELFLESS!', '<15>{#f/21}YOU WANT ME TO FEEL BETTER ABOUT FIGHTING YOU...' ],
       insult2: [ '<15>{#p/papyrus}{#f/15}THERE\'S NO NEED TO LIE TO YOURSELF!!!' ],
@@ -7657,11 +7657,7 @@ export default {
                  'Ghosts',
                  'Sanctuary',
                  65 <= SAVE.data.n.plot
-                    ? SAVE.data.b.a_state_hapstablook && 68 <= SAVE.data.n.plot
-                       ? 'Family'
-                       : 'Your Life'
-                    : 63 <= SAVE.data.n.plot && SAVE.data.b.a_state_hapstablook
-                    ? 'Mettaton'
+                    ? 'Your Life'
                     : 60 <= SAVE.data.n.plot
                     ? 'Mew Mew Doll'
                     : 48 <= SAVE.data.n.plot
@@ -7718,7 +7714,7 @@ export default {
                  ]
                : [
                     '<32>{#p/napstablook}{#k/2}* you wanna know about ghosts?',
-                    '<32>{#k/0}* well, the only ghosts i know are myself, my three cousins...',
+                    '<32>{#k/0}* well, the only ghosts i know are myself, my cousins...',
                     '<32>{#k/3}* and the one behind you, of course',
                     '<32>{#k/1}* aside from that, there\'s not much to say',
                     '<32>{#k/0}* without a fused host body, we just sorta... exist',
@@ -7751,36 +7747,15 @@ export default {
          () =>
             SAVE.data.n.plot === 72
                ? [
-                    SAVE.data.b.a_state_hapstablook
-                       ? '<32>{#p/napstablook}{#k/0}* well, after me and my cousins resolved everything...'
-                       : '<32>{#p/napstablook}{#k/0}* well, since i didn\'t really have anything else to do...',
+                    '<32>{#p/napstablook}{#k/0}* well, since i didn\'t really have anything else to do...',
                     '<32>{#k/0}* i figured it was time to try something new for once.',
                     '<32>{#k/3}* i heard about the humans in the archive, and felt bad for them...',
                     '<32>{#k/3}* so... i adopted one.',
                     '<32>{#k/1}* i just hope i can take care of them properly now.'
                  ]
                : 65 <= SAVE.data.n.plot
-               ? SAVE.data.b.a_state_hapstablook
-                  ? 68 <= SAVE.data.n.plot
-                     ? [
-                          '<32>{#p/napstablook}{#k/3}* hey, mettaton came by a little while ago.',
-                          '<32>{#k/0}* we talked for a bit about what we\'ve been up to...',
-                          '<32>{#k/0}* about the family...',
-                          '<32>{#k/3}* well, i don\'t think i\'ve ever been this happy before.',
-                          '<32>{#k/3}* what you did for us back there... it means a lot.'
-                       ]
-                     : [
-                          '<32>{#p/napstablook}{#k/0}* hey... sorry things didn\'t work out the way we hoped...',
-                          '<32>{#k/3}* it was nice to have you there, though......'
-                       ]
-                  : [
-                       '<32>{#p/napstablook}{#k/7}* with every day that goes by, i feel a little further away from happiness......'
-                    ]
-               : 63 <= SAVE.data.n.plot && SAVE.data.b.a_state_hapstablook
                ? [
-                    '<32>{#k/7}* oh... you\'re probably wondering about the meeting',
-                    '<32>{#k/7}* don\'t worry, it\'s still happening...',
-                    '<32>{#k/7}* i just came back here to check on my shop......'
+                    '<32>{#p/napstablook}{#k/7}* with every day that goes by, i feel a little further away from happiness......'
                  ]
                : 60 <= SAVE.data.n.plot
                ? SAVE.data.b.a_state_napstadecline
@@ -7830,8 +7805,8 @@ export default {
                     [
                        '<32>{#p/napstablook}{#k/2}* you mean... that little hat trick i showed you...?',
                        '<32>{#k/1}* yeah, my cousin taught me that...',
-                       '<32>{#k/3}* he and i used to spend so much time together...',
-                       '<32>{#k/0}* then one day, he...',
+                       '<32>{#k/3}* them and i used to spend so much time together...',
+                       '<32>{#k/0}* then one day, they...',
                        '<32>{#k/6}* ...',
                        '<32>{#k/0}* never mind...'
                     ],
@@ -9291,10 +9266,10 @@ export default {
             SAVE.data.n.plot < 37.11
                ? []
                : [
-                     '<18>{#p/papyrus}{#f/0}NOTHING QUITE LIKE THE SAFETY AND SECURITY...',
-                     '<18>{#p/papyrus}{#f/0}OF A SOLID, STABLE, SOUNDLY- DESIGNED BRIDGE.',
-                     '<18>{#p/papyrus}{#f/9}A TRUE TESTAMENT TO SUPERB ENGINEERING!!'
-                  ]
+                    '<18>{#p/papyrus}{#f/0}NOTHING QUITE LIKE THE SAFETY AND SECURITY...',
+                    '<18>{#p/papyrus}{#f/0}OF A SOLID, STABLE, SOUNDLY- DESIGNED BRIDGE.',
+                    '<18>{#p/papyrus}{#f/9}A TRUE TESTAMENT TO SUPERB ENGINEERING!!'
+                 ]
       ),
       f_chase: pager.create(
          0,

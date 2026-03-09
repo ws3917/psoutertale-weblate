@@ -92,22 +92,6 @@ const toriel_aerialis = () =>
            '<25>{#f/0}* Not that I want them to upgrade their weapons.',
            '<25>{#f/2}* I worry about you enough as it is!'
         ]
-      : SAVE.data.n.plot < 65
-      ? SAVE.data.b.a_state_hapstablook
-         ? [
-              '<25>{#p/toriel}{#f/1}* A ghost, Lurksalot, recently spoke of some family business.',
-              '<25>{#f/5}* It seems this has been on their mind for some time.',
-              '<25>{#f/0}* Thankfully, they say it should be resolved soon.',
-              '<25>{#f/1}* And with the help of you, no less?',
-              '<25>{#f/0}* Well then.\n* I am very proud of you, little one.'
-           ]
-         : [
-              '<25>{#p/toriel}{#f/1}* A ghost, Lurksalot, recently spoke of some family business.',
-              '<25>{#f/5}* It seems this has been on their mind for some time.',
-              '<25>{#f/1}* They say their cousin tried to ask for your help, but...',
-              '<25>{#f/5}* You were unavailable at the time.',
-              '<25>{#f/1}* ... you did have a good reason, did you not?'
-           ]
       : SAVE.data.n.plot < 66
       ? [
            '<25>{#p/toriel}{#f/1}* Who knew a robot could have such a beautiful voice?',
@@ -1556,7 +1540,7 @@ export default {
          '<25>{#f/9}* Do not follow me into the next room.'
       ],
       exit4: [
-         '<25>{#p/toriel}{#f/13}* ...',
+         '<25>{#p/toriel}{#p/toriel}{#f/13}* ...',
          '<25>{#f/10}* ... of course.',
          '<25>{#f/9}* Perhaps it was always meant to come to this.',
          '<25>{#f/9}* Perhaps I was foolish to think you would be any different.',
@@ -2129,7 +2113,7 @@ export default {
          ][Math.min(roomKills().w_puzzle4++, 2)],
       mananaY: [
          '<32>{#p/basic}{#n1}* Huh?\n* Was that my Super Starwalker comic strip?',
-         "<32>{#p/basic}{#n1}* ... and here I thought I'd gotten rid of that thing."
+         '<32>{#p/basic}{#n1}* ... and here I thought I\'d gotten rid of that thing.'
       ],
       afrogX: (k: number) =>
          [
@@ -4827,21 +4811,13 @@ export default {
                  '<25>{#f/1}* I tried to ask them why, but they would not say...',
                  '<25>{#f/5}* ... I have not seen them since.'
               ]
-            : !SAVE.data.b.a_state_hapstablook || SAVE.data.n.plot < 68
-            ? [
+            : [
                  '<25>{#p/toriel}{#f/0}* That ghost who called earlier often inhabits this area.',
                  ...(SAVE.data.b.napsta_performance
                     ? [ '<25>{#f/1}* I thought they would be happier after their performance...' ]
                     : [ '<25>{#f/1}* I have tried to lift their spirits in the past...' ]),
                  '<25>{#f/5}* But their troubles may not be so easy to resolve.',
                  '<25>{#f/1}* If only I knew what was holding them down...'
-              ]
-            : [
-                 '<25>{#p/toriel}{#f/1}* For whatever reason, that ghost who often comes here...',
-                 '<25>{#f/0}* Has been feeling a lot better lately.',
-                 '<25>{#f/0}* They even came to my house to tell me so themselves.',
-                 '<25>{#f/1}* Apparently you had something to do with this...?',
-                 '<25>{#f/0}* Well then.\n* I am very proud of you, my child.'
               ],
       w_party: [
          '<25>{#p/toriel}{#f/0}* The activities room.\n* We host all kinds of performances there.',
@@ -5304,7 +5280,7 @@ export default {
       c_call_asriel: () =>
          [
             [
-               "<25>{#p/asriel2}{#f/3}* Just so you know, I'm not picking that up.",
+               '<25>{#p/asriel2}{#f/3}* Just so you know, I\'m not picking that up.',
                '<25>{#p/asriel2}{#f/4}* We have better things to do.'
             ],
             [ '<25>{#p/asriel2}{#f/4}* ...' ],

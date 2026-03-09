@@ -88,10 +88,10 @@ export default {
          '<32>* The original, you might say.'
       ],
       ghostpartymusic2: [
-         '<32>{#p/mettaton}{#e/mettaton/9}* NOW THIS IS SOMETHING I CAN REALLY "VIBE" TO, AS BLOOKY WOULD SAY.',
-         '<32>{#e/mettaton/36}* IT\'S GOT JUST THE RIGHT MIX OF ELEMENTS...',
-         '<32>{#e/mettaton/8}* AND THE BREAKDOWN?',
-         '<32>{#e/mettaton/9}* NOT WHAT I WOULD HAVE GONE FOR, BUT DECENT NONETHELESS.'
+         '<32>{#p/finalghost}* This one\'s... an interesting twist to be sure.',
+         '<32>{#p/basic}{#e/maddummy/1}* Hey! I like it!\n* That breakdown\'s fancy!',
+         '<32>{#p/finalghost}* To each their own...',
+         '<32>{#e/maddummy/0}* Indeed, mew!'
       ],
       ghostpartymusic3: [
          '<32>{#p/basic}{#e/maddummy/1}* I always thought this one felt really slow, you know?',
@@ -249,8 +249,8 @@ export default {
                     '<32>{#p/basic}* It\'s difficult to make out what\'s inside.',
                     ...(ghostpartyCondition()
                        ? [
-                            '<32>{#p/mettaton}{#e/mettaton/8}* THERE\'S PROBABLY NOTHING BUT GHOST FOOD IN THERE, DARLING.',
-                            '<32>{#p/mettaton}{#e/mettaton/9}* IF YOU TRIED TO EAT IT, IT\'D JUST PHASE THROUGH YOU.'
+                            '<32>{#p/finalghost}* The food in there can only be eaten by ghosts. It\'s called... ghost food.',
+                            '<32>{#p/finalghost}* It\'d phase right through you if you tried to eat it.'
                          ]
                        : [])
                  ],
@@ -482,24 +482,9 @@ export default {
                     '<32>{#p/napstablook}* thanks for...\n* not being helpful, i guess'
                  ]
                : 65 <= SAVE.data.n.plot
-               ? SAVE.data.b.a_state_hapstablook
-                  ? 68 <= SAVE.data.n.plot
-                     ? [
-                          '<32>{#p/napstablook}* hey, mettaton came by a little while ago.',
-                          '<32>* we talked for a bit about what we\'ve been up to...',
-                          '<32>* about the family...',
-                          '<32>* well, i don\'t think i\'ve ever been this happy before.',
-                          '<32>* what you did for us back there... it means a lot.'
-                       ]
-                     : [
-                          '<32>{#p/napstablook}* hey... sorry things didn\'t work out the way we hoped...',
-                          '<32>* it was nice to have you there, though......'
-                       ]
-                  : [
-                       '<32>{#p/napstablook}* with every day that goes by, i feel a little further away from happiness......'
-                    ]
-               : 63 <= SAVE.data.n.plot && SAVE.data.b.a_state_hapstablook
-               ? [ '<32>* oh...\n* hey......', '<32>* i just came back here to keep an eye on the snails......' ]
+               ? [
+                    '<32>{#p/napstablook}* with every day that goes by, i feel a little further away from happiness......'
+                 ]
                : 60 <= SAVE.data.n.plot
                ? [
                     '<32>{#p/napstablook}* being a contestant on one of mettaton\'s shows was a dream come true...',
@@ -531,13 +516,7 @@ export default {
             SAVE.storage.inventory.contents.includes('tvm_mewmew')
                ? [ '<32>{#p/napstablook}* ............' ]
                : 65 <= SAVE.data.n.plot
-               ? SAVE.data.b.a_state_hapstablook
-                  ? 68 <= SAVE.data.n.plot
-                     ? [ '<32>{#p/napstablook}* hopefully next time you won\'t have to risk your life.' ]
-                     : [ '<32>{#p/napstablook}* it is what it is...' ]
-                  : [ '<32>{#p/napstablook}* it is what it is...' ]
-               : 63 <= SAVE.data.n.plot && SAVE.data.b.a_state_hapstablook
-               ? [ '<33>{#p/napstablook}* don\'t worry, they\'re alright...', '<32>* at least, i hope so......' ]
+               ? [ '<32>{#p/napstablook}* it is what it is...' ]
                : 60 <= SAVE.data.n.plot
                ? [ '<32>{#p/napstablook}* hopefully next time he\'s a little nicer to the contestants.........' ]
                : 49 <= SAVE.data.n.plot
@@ -573,9 +552,7 @@ export default {
             SAVE.storage.inventory.contents.includes('tvm_mewmew')
                ? [ '<32>{#p/napstablook}* ............' ]
                : 65 <= SAVE.data.n.plot
-               ? SAVE.data.b.a_state_hapstablook && 68 <= SAVE.data.n.plot
-                  ? [ '<32>{#p/napstablook}* i wish i had more to say...' ]
-                  : [ '<32>{#p/napstablook}* it is what it is...' ]
+               ? [ '<32>{#p/napstablook}* it is what it is...' ]
                : 60 <= SAVE.data.n.plot
                ? [ '<32>{#p/napstablook}* .........' ]
                : 49 <= SAVE.data.n.plot
@@ -2169,11 +2146,7 @@ export default {
                        ? '<32>{#p/basic}* They are responsible for my colleagues\' deaths.\n* I will show no mercy!'
                        : '<32>{#p/basic}* This is the moment I have long prepared myself for.\n* I will not falter!',
                     '<32>{#p/undyne}* Yeah!! Get out there and show \'em what the ELITE squad are all about!!',
-                    '<32>{#s/echostop}{#p/event}{#npc}* Signal stop.',
-                    ...(world.kiddo && !SAVE.data.b.f_state_dc_kidd6
-                       ? ((SAVE.data.b.f_state_dc_kidd6 = true),
-                         [ '<25>{#p/kidd}{#f/8}* ... are we safe here, $(name)?' ])
-                       : [])
+                    '<32>{#s/echostop}{#p/event}{#npc}* Signal stop.'
                  ]
                : [
                     '<32>{#s/echostart}{#p/event}{#npc/a}* Signal start...',
@@ -2318,7 +2291,7 @@ export default {
                  ]
                : [
                     '<32>{#s/echostart}{#p/event}{#npc/a}* Signal start...',
-                    '<32>{#p/alphys}* Wait, wait!\n* This would be perfect for my date with Undyne...',
+                    '<32>{#p/alphys}* Wait, wait!\n* This would be perfect for a date with Undyne...',
                     '<32>{#p/mettaton}* OH WOULD IT NOW?',
                     '<32>{#p/alphys}* Mettaton!?\n* Where did you...\n* ... I\'m not d-dating anyone!',
                     '<32>{#p/mettaton}* OH, DON\'T YOU WORRY.\n* YOUR SECRET\'S SAFE WITH ME...\n* ... PROBABLY.',
@@ -3096,15 +3069,19 @@ export default {
          ghostparty3: pager.create(
             0,
             [
-               '<32>{#p/mettaton}{#e/mettaton/9}* WHILE BLOOKY\'S BUSY AT THE SHOP, WE DECIDED WE\'D LOOK AFTER THEIR FARM ONCE MORE.',
-               '<32>{#e/mettaton/8}* OF COURSE, IT\'S ONLY FOR A DAY BEFORE WE LEAVE THE OUTPOST.\n* BUT STILL.',
-               '<32>{#e/mettaton/36}* THINKING BACK, I\'VE BEEN PRETTY OVER-DRAMATIC ABOUT THE WHOLE THING.',
-               '<32>{#e/mettaton/36}* BLOOKY NEVER DID -THAT- MUCH WRONG... I GUESS I JUST DIDN\'T WANT TO ADMIT I WAS BORED.',
-               '<32>{#e/mettaton/8}* BUT MAYBE THAT\'S WHAT MAKES ME SUCH A GREAT ACTOR.',
-               '<32>{#e/mettaton/37}* IT\'S NOT ACTING IF YOU CAN\'T PUT TOO MUCH EMOTION INTO IT!',
-               '<32>{#e/mettaton/9}* ... OR SOMETHING LIKE THAT.'
+               '<32>{#p/mettaton}{#e/mettaton/38}* OH?\n* YOU FOUND MY SPARE HOUSE KEY?',
+               '<32>{#e/mettaton/38}* I THOUGHT IT\'D BEEN LOST FOREVER.',
+               '<32>{#e/mettaton/38}* ...',
+               '<32>{#e/mettaton/7}* I KNOW, I KNOW. YOU\'RE PROBABLY WONDERING WHY I HAVEN\'T TOLD THEM YET.',
+               '<32>{#e/mettaton/7}* WHY I HAVEN\'T TOLD MY COUSINS THAT I\'M RELATED TO THEM.',
+               '<32>{#e/mettaton/36}* READING THESE DIARIES, IT\'S CLEAR I WAS PRETTY OVER- DRAMATIC ABOUT EVERYTHING...',
+               '<32>{#e/mettaton/36}* BLOOKY NEVER DID -THAT- MUCH WRONG. I JUST... DIDN\'T WANT TO ADMIT I WAS UNSATISFIED.',
+               '<32>{#e/mettaton/36}* ...',
+               '<32>{#e/mettaton/9}* WELL. AFTER WE LEAVE THE OUTPOST, I\'M GOING TO TELL THEM WHAT I\'VE BEEN UP TO.',
+               '<32>{#e/mettaton/37}* LET\'S JUST SAY... A NEWFOUND SKELETON FRIEND OF MINE TALKED ME INTO IT!',
+               '{*}{#e/mettaton/9}{%}'
             ],
-            [ '<32>{#p/mettaton}{#e/mettaton/9}* IF YOU EVER NEED AN ACTOR, YOU KNOW WHO TO CALL.' ]
+            [ '<32>{#p/mettaton}* ... WISH ME LUCK, DARLING.' ]
          ),
          sleepingdogs: () =>
             world.darker
@@ -3128,10 +3105,7 @@ export default {
                        ...(ghostpartyCondition()
                           ? [
                                '<32>{#p/basic}* We\'re ghosts, so we don\'t really need a couch, mew.',
-                               '<32>* We just thought the room looked better with one in it!',
-                               '<32>{#p/mettaton}* OF COURSE.\n* ANY GOOD LIVING SPACE REQUIRES AT LEAST ONE COUCH!',
-                               '<32>{#p/mettaton}* PREFERABLY MTT-BRAND.',
-                               '<32>{#p/finalghost}* This seems like an entirely pointless requirement.'
+                               '<32>* We just thought the room looked better with one in it!'
                             ]
                           : [])
                     ],
@@ -3456,21 +3430,7 @@ export default {
                     '<32>{#p/basic}* W-what!?\n* I\'m not blushing!'
                  ]
                : 65 <= SAVE.data.n.plot
-               ? SAVE.data.b.a_state_hapstablook
-                  ? 68 <= SAVE.data.n.plot
-                     ? [ '<32>{#p/basic}* You did it, human.', '<32>{#p/basic}* I\'m sorry I ever doubted you.' ]
-                     : [
-                          '<32>{#p/basic}* Well.\n* Well!\n* WELL!',
-                          '<32>* You certainly know how to choose your battles.'
-                       ]
-                  : [ '<32>{#p/basic}* Ugh.\n* Ugh!\n* UGH!', '<33>{#p/basic}* My life really sucks right now.' ]
-               : 63 <= SAVE.data.n.plot && SAVE.data.b.a_state_hapstablook
-               ? [
-                    '<32>{#p/basic}* Hey, aren\'t you supposed to be in Mettaton\'s next show?',
-                    '<32>* What are you doing way back here?',
-                    '<32>* Come on.\n* Come on!\n* COME ON!!',
-                    '<32>* Get back in the spotlight so we can go forward with our plan!'
-                 ]
+               ? [ '<32>{#p/basic}* Ugh.\n* Ugh!\n* UGH!', '<33>{#p/basic}* My life really sucks right now.' ]
                : SAVE.data.n.bad_lizard < 2 && 49 <= SAVE.data.n.plot
                ? [
                     '<32>{#p/basic}* So.\n* So!\n* SO!',
@@ -3573,7 +3533,7 @@ export default {
          hapstabook1: () => [
             ...(SAVE.data.b.svr ? [] : [ '<32>{#p/basic}* It\'s a voicebook.' ]),
             '<32>{#p/human}* (You pick up the voicebook and open to the only recorded section.)',
-            '<32>{#p/hapstablook}* Dear diary, volume one...',
+            '<32>{#p/hapstablook}{#e/mettaton/36}* Dear diary, volume one...',
             '<32>* Humans dream of so many fantastical stories, yet when I look out my window...',
             '<32>* ... all I can see is a wall.',
             '<32>* Is it right that we monsters have become used to this sad state of living?',
@@ -3581,18 +3541,17 @@ export default {
             '<32>* Our sense of wonder has been beaten out of us...',
             '<32>* There\'s no denying it now.',
             '<32>{#p/human}* (You put the book back down.)',
-            ...(SAVE.data.b.svr || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom1++ > 0
-               ? []
+            ...(SAVE.data.n.plot === 72 || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom1++ > 0
+               ? [ '{*}{#e/mettaton/9}{%}' ]
                : [
                     '<32>{#p/basic}* ... he was always like this in the early days...',
-                    '<32>{#p/basic}* Always wanting everyone to be as happy as he was.',
-                    '<32>{#p/basic}* Especially me.'
+                    '<32>{#p/basic}* Always wanting everyone to be as happy as he was.'
                  ])
          ],
          hapstabook2: () => [
             ...(SAVE.data.b.svr ? [] : [ '<32>{#p/basic}* It\'s a voicebook.' ]),
             '<32>{#p/human}* (You pick up the voicebook and open to the only recorded section.)',
-            '<32>{#p/hapstablook}* Dear diary, volume two...',
+            '<32>{#p/hapstablook}{#e/mettaton/36}* Dear diary, volume two...',
             '<32>* I\'ve been binge-watching old human television series.',
             '<32>* These people aren\'t like what I\'ve been told... in fact, they\'re a lot like us.',
             '<32>* Living, laughing, loving...\n* Hurting and crying.\n* Doing what they believe in.',
@@ -3600,8 +3559,8 @@ export default {
             '<32>* But the more I see of them... the more I grow tired of that idea.',
             '<32>* Monsters aren\'t all starlight and roses, either.',
             '<32>{#p/human}* (You put the book back down.)',
-            ...(SAVE.data.b.svr || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom2++ > 0
-               ? []
+            ...(SAVE.data.n.plot === 72 || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom2++ > 0
+               ? [ '{*}{#e/mettaton/9}{%}' ]
                : [
                     '<32>{#p/basic}* I remember how, when we first met, he was the first one to open up to me.',
                     '<32>{#p/basic}* It wasn\'t long before I opened up, too...'
@@ -3610,15 +3569,15 @@ export default {
          hapstabook3: () => [
             ...(SAVE.data.b.svr ? [] : [ '<32>{#p/basic}* It\'s a voicebook.' ]),
             '<32>{#p/human}* (You pick up the voicebook and open to the only recorded section.)',
-            '<32>{#p/hapstablook}* Dear diary, volume three...',
+            '<32>{#p/hapstablook}{#e/mettaton/36}* Dear diary, volume three...',
             '<32>* It\'s been a hard day at the farm for Blooky and me.',
             '<32>* Two of the snails we\'d been looking after escaped, and we couldn\'t find them.',
             '<32>* No matter what I do, something like this always happens.',
             '<32>* Blooky says it\'s fine, of course, but they say that about everything.',
             '<32>* And I wonder why I still bother working here.',
             '<32>{#p/human}* (You put the book back down.)',
-            ...(SAVE.data.b.svr || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom3++ > 0
-               ? []
+            ...(SAVE.data.n.plot === 72 || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom3++ > 0
+               ? [ '{*}{#e/mettaton/9}{%}' ]
                : [
                     '<32>{#p/basic}* I tried to help the family out, but with the way things were...',
                     '<32>{#p/basic}* There wasn\'t much I could do.'
@@ -3627,21 +3586,21 @@ export default {
          hapstabook4: () => [
             ...(SAVE.data.b.svr ? [] : [ '<32>{#p/basic}* It\'s a voicebook.' ]),
             '<32>{#p/human}* (You pick up the voicebook and open to the only recorded section.)',
-            '<32>{#p/hapstablook}* Dear diary, volume four...',
+            '<32>{#p/hapstablook}{#e/mettaton/36}* Dear diary, volume four...',
             '<32>* I was at the store today when I ran into a girl... Alphys, I think?',
             '<32>* Apparently, she\'s next in line to be the royal scientist.\n* Who would\'ve thought?',
             '<32>* Anyway, her and I have become fast friends due to our shared love of humanity.',
             '<33>* Funny... the previous royal scientist was sympathetic, too.',
             '<32>* I wonder why that is.',
             '<32>{#p/human}* (You put the book back down.)',
-            ...(SAVE.data.b.svr || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom4++ > 0
-               ? []
+            ...(SAVE.data.n.plot === 72 || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom4++ > 0
+               ? [ '{*}{#e/mettaton/9}{%}' ]
                : [ '<32>{#p/basic}* Oh, if only you knew...' ])
          ],
          hapstabook5: () => [
             ...(SAVE.data.b.svr ? [] : [ '<32>{#p/basic}* It\'s a voicebook.' ]),
             '<32>{#p/human}* (You pick up the voicebook and open to the only recorded section.)',
-            '<32>{#p/hapstablook}* Dear diary, volume five...',
+            '<32>{#p/hapstablook}{#e/mettaton/36}* Dear diary, volume five...',
             '<32>* Alphys and I have started work on a new project.',
             '<32>* We\'ll be taking inspiration from those imaginative humans...',
             '<32>* ... by starting a new, public- broadcast television series!',
@@ -3649,31 +3608,24 @@ export default {
             '<32>* If this doesn\'t lift the public\'s spirits, then I don\'t know what will!',
             '<32>* Haha... let\'s just say things could get "explosive."',
             '<32>{#p/human}* (You put the book back down.)',
-            ...(SAVE.data.b.svr || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom5++ > 0
-               ? []
+            ...(SAVE.data.n.plot === 72 || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom5++ > 0
+               ? [ '{*}{#e/mettaton/9}{%}' ]
                : [ '<32>{#p/basic}* All he ever wanted to do was make them happy...' ])
          ],
          hapstabook6: () => [
             ...(SAVE.data.b.svr ? [] : [ '<32>{#p/basic}* It\'s a voicebook.' ]),
             '<32>{#p/human}* (You pick up the voicebook and open to the only recorded section.)',
-            '<32>{#p/hapstablook}* Dear diary, volume six...',
+            '<32>{#p/hapstablook}{#e/mettaton/36}* Dear diary, volume six...',
             '<32>* That Alphys... shes done something I never could have imagined.',
             '<32>* Thanks to her, my future seems brighter than ever...',
             '<32>* ... I only hope the others come to understand my choice.',
             '<32>* No matter what happens to me next, a part of me will always miss being with you.',
             '<32>* Please... never forget that.\n* Even if I myself do.',
             '<32>{#p/human}* (You put the book back down.)',
-            ...(SAVE.data.b.svr || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom6++ > 0
-               ? []
-               : SAVE.data.n.plot < 68
-               ? [
-                    '<32>{#p/basic}* Sentimental as ever, eh?',
-                    '<32>{#p/basic}* Well.\n* With any luck, you\'ll be re- united on better terms soon.'
-                 ]
-               : [
-                    '<32>{#p/basic}* Sentimental as ever, eh?',
-                    '<32>{#p/basic}* Heh.\n* I\'m just glad you got to re- unite with them in the end.'
-                 ])
+
+            ...(SAVE.data.n.plot === 72 || SAVE.data.b.oops || SAVE.data.n.state_foundry_hapstacom6++ > 0
+               ? [ '{*}{#e/mettaton/9}{%}' ]
+               : [ '<32>{#p/basic}* Sentimental as ever, eh?', '<32>{#p/basic}* Heh.' ])
          ],
          hapstacouch: () =>
             SAVE.data.b.svr
@@ -4577,7 +4529,7 @@ export default {
                  '<25>{#f/16}* ... maybe it\'s nothing, but I swear I feel weaker than usual.'
               ]
             : []),
-         ...(SAVE.data.n.plot < 68.1 || SAVE.data.b.a_state_hapstablook
+         ...(SAVE.data.n.plot < 68.1
             ? [
                  '<25>{#f/1}* In the meantime, I\'ll be at the rec center with Papyrus.',
                  '<25>{#f/12}* I look forward to seeing you there!',
@@ -7116,7 +7068,7 @@ export default {
          '<20>{#e/undyne/16}I\'ll...'
       ],
       flirtTalk3: [
-         '<20>{#p/undyne}{#e/undyne/18}Wha-...\nI...!',
+         '<20>{#p/undyne}{#p/undyne}{#e/undyne/18}Wha-...\nI...!',
          '<20>{#e/undyne/19}...',
          '<20>{#e/undyne/10}AHHHHHHHHHHHHHH-\nYOU FLIRTATIOUS LITTLE BRAT!',
          '<20>{#e/undyne/8}I HAVE HALF THE NERVE TO...',

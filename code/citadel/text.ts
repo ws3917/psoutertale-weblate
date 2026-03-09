@@ -373,10 +373,7 @@ export default {
             '<25>{#f/8}* ... right after I take your access card.'
          ],
          afterfight10: [ '<25>{#p/asriel2}{#f/1}* Come on, $(name).', '<25>{#f/2}* I\'ve seen enough of this place.' ],
-         afterfight11: [
-            '<25>{#p/asgore}{#f/5}* $(name)...?',
-            '<25>{#p/asgore}{#f/6}* ... hmm.\n* Safe journey, Asriel.'
-         ],
+         afterfight11: [ '<25>{#p/asgore}{#f/6}* $(name)...?', '<25>{#p/asgore}{#f/5}* ...' ],
          afterfight12: [ '<25>{#p/asriel2}{#f/16}* Ignore him, $(name).\n* Nothing in this world matters anymore.' ],
          afterfight13: [ '<25>{#p/asriel2}{#f/17}* Only you.' ],
          coreboomA1: [
@@ -2659,7 +2656,7 @@ export default {
                                             '<25>{#f/17}* Toriel... Asgore...\n* Sans... Papyrus...\n* Undyne... Alphys...',
                                             ...(!SAVE.data.b.f_state_kidd_betray
                                                ? [ '<25>{#f/15}* ... Monster Kid?\n* Is that their name?' ]
-                                               : world.happy_ghost && SAVE.data.b.a_state_hapstablook
+                                               : world.happy_ghost
                                                ? [ '<25>{#f/23}* ... Napstablook, and... all their cousins.' ]
                                                : SAVE.data.n.state_starton_nicecream > 0
                                                ? [ '<25>{#f/23}* ... even the Ice Dream guy.' ]
@@ -3145,29 +3142,16 @@ export default {
          ],
          hangar17: [ '<25>{#p/toriel}{#f/6}* Pff-\n* Hahaha!' ],
          hangar18: [ '<25>{#p/undyne}{#f/12}* I mean, I wouldn\'t go THAT far, but... sure.' ],
-         hangar19: () => [
+         hangar19: [
             '<25>{#p/alphys}{#g/alphysYupEverythingsFine}* So, first, we\'ll need a spacecraft for Mew Mew to pilot...',
             '<25>{#p/undyne}{#f/17}* Alphys!!\n* We\'re not even off the outpost yet!',
-            ...(SAVE.data.b.a_state_hapstablook
-               ? [
-                    '<25>{#p/undyne}{#f/16}* And besides, she\'s... kind of busy right now.',
-                    '<25>{#p/alphys}{#g/alphysWelp}* O-oh right, I forgot there\'s a real life Mew Mew now.',
-                    '<18>{#p/papyrus}{#f/0}YEAH, I SAW HER AT THE PARTY NOT TOO LONG AGO!',
-                    '<18>{#p/papyrus}{#f/0}SHE SEEMED PRETTY HAPPY, ACTUALLY.',
-                    '<25>{#p/alphys}{#g/alphysInquisitive}* Didn\'t she used to be some angry dummy or something?',
-                    '<25>{#p/undyne}{#f/7}* It doesn\'t MATTER!\n* She\'s beautiful the way she is NOW, dammit!',
-                    '<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* Oh my god, okay!!'
-                 ]
-               : [
-                    '<25>{#p/undyne}{#f/16}* And besides, it\'s...',
-                    '<25>{#p/undyne}{#f/17}* Hey, weren\'t you supposed to be making someone a Mew mew doll?',
-                    '<25>{#p/alphys}{#g/alphysWelp}* O-oh right, I still need to do that.',
-                    '<18>{#p/papyrus}{#f/5}I REMEMBER SOMEONE AT THE PARTY ASKING ABOUT IT...',
-                    '<18>{#p/papyrus}{#f/6}THEY SEEMED KIND OF SHY, THOUGH.',
-                    '<25>{#p/alphys}{#g/alphysCutscene2}* Yeah, I think I know who that was.\n* I gotta finish it...',
-                    '<25>{#p/undyne}{#f/7}* And you better be done BEFORE we get to the new homeworld!',
-                    '<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* I will, I will!!'
-                 ])
+            '<25>{#p/undyne}{#f/16}* And besides, she\'s... kind of busy right now.',
+            '<25>{#p/alphys}{#g/alphysWelp}* O-oh right, I forgot there\'s a real life Mew Mew now.',
+            '<18>{#p/papyrus}{#f/0}YEAH, I SAW HER AT THE PARTY NOT TOO LONG AGO!',
+            '<18>{#p/papyrus}{#f/0}SHE SEEMED PRETTY HAPPY, ACTUALLY.',
+            '<25>{#p/alphys}{#g/alphysInquisitive}* Didn\'t she used to be some angry dummy or something?',
+            '<25>{#p/undyne}{#f/7}* It doesn\'t MATTER!\n* She\'s beautiful the way she is NOW, dammit!',
+            '<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* Oh my god, okay!!'
          ],
          hangar20: [
             '<25>{#p/alphys}{#g/alphysYeahYouKnowWhatsUp}* A-anyway...',
@@ -3179,7 +3163,7 @@ export default {
             '<25>{#p/toriel}{#f/6}* Hee hee.\n* I am only teasing you.',
             '<25>{#p/toriel}{#f/1}* Truth be told, I have heard much about you...',
             '<25>{#p/toriel}{#f/0}* Being a royal scientist at such a young age is no small feat.',
-            '<25>{#p/undyne}{#f/8}* YEAH!!\n* She\'s the BEST!',
+            '<25>{#p/undyne}{#f/8}* YEAH!!\n* TELL HER!',
             '<25>{#p/alphys}{#g/alphysCutscene2}* ... I try.'
          ],
          hangar21: [
@@ -3247,11 +3231,9 @@ export default {
             '<32>{#p/mettaton}* I GUESS, ONCE WE GET TO THAT NEW HOMEWORLD...',
             '<32>{#p/mettaton}* THERE\'LL BE AMPLE TIME TO SELL RELATIONSHIP GUIDEBOOKS.',
             '<32>{#p/mettaton}* UNTIL THEN, WE\'LL JUST HAVE TO BE CONTENT WITH OUR FREEDOM...',
-            '<18>{#p/papyrus}{#f/0}DON\'T WORRY, METTATON, I\'LL BE THERE FOR YOU!',
-            '<18>{#p/papyrus}{#f/5}BECAUSE, WHEN IT COMES TO CONTENTMENT...',
-            '<18>{#p/papyrus}{#f/9}I\'M THE {@fill=#ff0}BONE{@fill=#fff}-A-FIDE KING!',
-            '<32>{#p/mettaton}* HAHAHA... YOU KNOW I -ALWAYS- APPRECIATE YOUR ADVICE, PAPYRUS.',
-            '<32>{#p/mettaton}* I\'M NOT LIKE THOSE OTHER PEOPLE WHO TREAT YOU LIKE A LITTLE CHILD.',
+            '<18>{#p/papyrus}{#f/4}OH, HOW WILL WE -EVER- MANAGE...',
+            '<32>{#p/mettaton}* HAHAHA... I THINK WE\'LL DO JUST FINE.',
+            '<32>{#p/mettaton}* NOW THAT YOU HAVE A FRIEND WHO DOESN\'T TREAT YOU LIKE A LITTLE CHILD, THAT IS.',
             '<25>{#p/undyne}{#f/14}* ... huh?\n* What are you looking at me for?',
             '<25>{#p/undyne}{#f/17}* What did I do!?'
          ],
@@ -6010,17 +5992,11 @@ export default {
          '<20>{#p/alphys}{#e/alphys/32}Hey... it\'s okay.',
          '<20>{#e/alphys/31}You\'re here now, and that\'s what matters, right?'
       ],
-      friend19: [ '<20>{#p/undyne}{#e/undyne/14}Pfft, it\'s the least I can do after that movie you promised!' ],
-      friend20: [ '<20>{#p/alphys}{#e/alphys/33}... wanna kiss?', '{*}{#e/asgore/5}{#e/undyne/19}{%}' ],
-      friend21: [ '<20>{#p/asgore}{#e/asgore/5}Um.' ],
-      friend22: [ '<20>{#p/undyne}{#e/undyne/6}Right now???' ],
-      friend23: [ '<20>{#p/alphys}{#e/alphys/34}Why not?' ],
-      friend24: [ '<20>{#p/asgore}{#e/asgore/20}Alphys.\nThere is a child with us.' ],
-      friend25: [ '<21>{#p/undyne}{#e/undyne/7}We wouldn\'t do it in front of them, right?' ],
-      friend26: [ '<32>{#p/alphys}{#e/alphys/32}...' ],
-      friend27: [ '<20>{#p/undyne}{#e/undyne/10}...' ],
-      friend28: [ '<20>{*}{#p/alphys}{#e/alphys/35}{#e/undyne/37}{#e/asgore/8}No hesitation.{^10}{%}' ],
-      friend29: [ '<15>{*}{#p/papyrus}{#e/papyrus/22}WAIT!!!{^10}{%}', '{*}{#e/papyrus/20}{%}' ],
+      friend19: [
+         '<20>{#p/undyne}{#e/undyne/14}Pfft, it\'s the least I can do after that movie you promised!',
+         '<20>{#p/undyne}{#e/alphys/31}O-oh, right!'
+      ],
+      friend20: [ '<20>{#p/undyne}{#e/alphys/32}...' ],
       friend30: () => [
          '<20>{#p/mettaton}SORRY, LADIES.\nTHE BOYS\' CLUB HAS ARRIVED.',
          ...(SAVE.data.n.state_aerialis_basebully > 9
@@ -6030,45 +6006,37 @@ export default {
             : [])
       ],
       friend31: [ '<20>{#p/napstablook}{#e/mettaton/2}{#e/alphys/15}{#e/asgore/1}{~}hey, um... i\'m not really a boy...' ],
-      friend32a: [
-         '<20>{#p/mettaton}{#e/mettaton/1}I NEVER SAID -YOU- WERE IN THE BOYS\' CLUB, BLOOKY...',
-         '<20>{#p/mettaton}{#e/undyne/38}{#e/papyrus/21}IT\'S PRETTY MUCH JUST BETWEEN ME AND PAPYRUS.'
-      ],
+      friend32a: [ '<20>{#p/mettaton}{#e/mettaton/1}I NEVER SAID -YOU- WERE IN THE BOYS\' CLUB, BLOOKY...' ],
       friend32b: [ '<20>{#p/napstablook}{~}oh......', '<20>{#p/napstablook}{~}i guess i\'ll come back later' ],
       friend33: [
          '<20>{#p/undyne}{#e/undyne/19}{#e/mettaton/4}Wait.',
          '<20>{#p/undyne}{#e/undyne/10}YOU TWO ARE A THING???'
       ],
       friend34: [
-         '<15>{#p/papyrus}{#e/papyrus/15}CORRECTAMUNDO!',
-         '<17>{#p/papyrus}{#e/papyrus/24}... A WORD I HAVE NEVER USED BEFORE, AND HOPEFULLY NEVER WILL AGAIN.'
+         '<17>{#p/papyrus}{#e/papyrus/24}IF BY "THING" YOU MEAN "FRIENDLY DUO...""',
+         '<15>{#p/papyrus}{#e/papyrus/15}THEN -ABSOLUTELY-!'
       ],
-      friend35: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/undyne}{#e/undyne/17}So THAT\'s what you\'ve been up to all this time...' ]
-            : [ '<20>{#p/undyne}{#e/undyne/17}So THAT\'s what your "business" was about...' ],
+      friend35: [ '<20>{#p/undyne}{#e/undyne/17}So THAT\'s what your "business" was about...' ],
       friend36: [
-         '<20>{#p/mettaton}{#e/mettaton/1}{#e/asgore/6}{#e/papyrus/20}OHHHH YES!\nIN FACT, WE WERE JUST DISCUSSING HOW WE\'D SPEND OUR FIRST DAY OUT.'
+         '<20>{#p/mettaton}{#e/mettaton/1}{#e/asgore/6}{#e/papyrus/20}OHHHH YES!\nIN FACT, WE WERE JUST DISCUSSING WHAT FUN ACTIVITY WE\'D DO TODAY.'
       ],
       friend37: [ '<20>{#p/alphys}{#e/alphys/34}{#e/undyne/1}{#e/mettaton/4}Ehehe.\nI might have some ideas for you.' ],
-      friend38: [
-         '<20>{#p/undyne}{#e/undyne/19}{#e/asgore/1}Uh, I don\'t think they\'d be into that kinda stuff, Alphys.'
-      ],
+      friend38: [ '<20>{#p/undyne}{#e/undyne/19}{#e/asgore/1}Uh, I don\'t think that kinda thing applies here, Alphys.' ],
       friend39: [ '<20>{#p/alphys}{#e/alphys/8}Oh.' ],
       friend40: [
          '<15>{#p/papyrus}{#e/papyrus/10}{#e/undyne/0}WHY DON\'T WE HANG OUT HERE! AT THE FORCE FIELD!',
-         '<15>{#e/mettaton/2}{#e/papyrus/28}I KNOW YOU LOVE YOUR "EXOTIC" DESTINATIONS...',
+         '<15>{#e/mettaton/2}{#e/papyrus/25}I KNOW YOU LOVE YOUR "EXOTIC" DESTINATIONS...',
          '{*}{#e/alphys/7}{#e/asgore/5}{%}'
       ],
       friend41: [
-         '<20>{#p/mettaton}{#e/mettaton/2}OH, YOU REALLY -DO- KNOW ME, PAPYRUS.',
+         '<20>{#p/mettaton}{#e/mettaton/2}OF COURSE, OF COURSE.',
          '<20>{#p/mettaton}{#e/mettaton/1}{#e/papyrus/13}THERE\'S NOTHING I LOVE MORE THAN STARING INTO THE DEEP ABYSS OF NOTHINGNESS...',
          '<20>{|}{#p/mettaton}{#e/mettaton/3}{#e/papyrus/21}ALL WHILE CONTEMPLATING THE MEANING OF LIFE, THE UNIVERSE, AND- {%}'
       ],
       friend42: [ '<20>{#p/sans}{#e/sans/2}{#e/undyne/21}{#e/alphys/8}hey guys.' ],
       friend43: [ '<15>{#p/papyrus}{#e/papyrus/10}{#e/mettaton/3}LONG TIME NO SEE, BROTHER!' ],
       friend44: [
-         '<16>{#p/papyrus}{#e/sans/0}{#e/papyrus/26}IT WOULD APPEAR MY PARTNER IS... STILL NEW TO\nTHE WHOLE "IN- LAWS" THING.'
+         '<16>{#p/papyrus}{#e/sans/0}{#e/papyrus/26}IT WOULD APPEAR MY NEW FRIEND IS... A LITTLE LESS EXCITED TO SEE YOU.'
       ],
       friend45: [ '<20>{#p/sans}{#e/alphys/7}heh.\nheya, asgore.' ],
       friend46: [ '<20>{#p/asgore}{#e/asgore/6}{#e/papyrus/20}Howdy, Sans.\nIt is good to see you here as well.' ],
@@ -6133,12 +6101,6 @@ export default {
          SAVE.data.b.undyne_respecc
             ? [ '<20>{#p/toriel}{#e/toriel/15}{#e/asgore/6}... are you sure about that, miss?' ]
             : [ '<20>{#p/toriel}{#e/toriel/15}{#e/asgore/6}... we are going to have a talk about this later, miss.' ],
-      friend58: [ '<20>{#p/alphys}{#e/alphys/33}Ahem, that\'s "misses" to you.' ],
-      friend59: [
-         '<20>{#p/undyne}{#e/undyne/10}{#e/sans/4}{#e/toriel/12}Alphys!!\nWe haven\'t even had dinner together!'
-      ],
-      friend60: [ '<20>{#p/alphys}{#e/alphys/34}Dinner?\nI was just gonna skip to dessert.' ],
-      friend61: [ '<15>{#p/papyrus}{#e/undyne/19}{#e/papyrus/19}{#e/asgore/4}{#e/sans/5}{#e/alphys/40}OH MY GOD!!!' ],
       friend62: [
          '<20>{#p/undyne}{#e/undyne/38}{#e/sans/0}{#e/asgore/1}{#e/toriel/13}{#e/papyrus/20}... hold on.',
          '<20>{#p/undyne}{#e/undyne/18}{#e/papyrus/21}How did YOU know to be here, Papyrus?'

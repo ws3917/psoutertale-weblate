@@ -3389,11 +3389,10 @@ export default {
          '<32>{#s/phone}{#p/event}* Ring, ring...',
          '<25>{#p/asgore}{#f/1}* ...',
          '<25>{#p/asgore}{#f/1}* Howdy, young one.',
-         '<25>{#p/asgore}{#f/1}* I do not know if this message will reach you, or if you are alive.',
-         '<25>{#p/asgore}{#f/2}* I cannot confirm if the self-destruct sequence was terminated.',
-         '<25>{#p/asgore}{#f/4}* However, if it was...',
-         '<25>{#p/asgore}{#f/25}* Then I am grateful to have saved your life.',
-         '<25>{#p/asgore}{#f/7}* I do not believe you were entirely at fault for Asriel\'s actions.',
+         '<25>{#p/asgore}{#f/1}* I do not know if this message will reach you.',
+         '<25>{#p/asgore}{#f/4}* However, if it does...',
+         '<25>{#p/asgore}{#f/25}* Know that I am grateful for what you have done.',
+         '<25>{#p/asgore}{#f/7}* It is clear you did what you could to defy Asriel\'s actions.',
          '<25>{#p/asgore}{#f/5}* Papyrus, Muffet, and many others you have shown mercy to...',
          '<25>{#p/asgore}{#f/6}* Can all attest to your attempts to make a difference.',
          '<25>{#p/asgore}{#f/21}* There is even someone with me who would like to say a few words.',
@@ -3467,17 +3466,13 @@ export default {
          '<25>{#p/asgore}{#f/4}* Knowing who inhabits and regulates it now...',
          '<25>{#p/asgore}{#f/2}* It would be wise not to strain it more than is necessary.',
          '<18>{#p/papyrus}{#f/0}YEAH, WELL, THAT MAKES SENSE.',
-         '<25>{#p/asgore}{#f/15}* ... however, before the message concludes.',
-         '<25>{#p/asgore}{#f/15}* I must issue you one last warning.',
-         '<25>{#p/asgore}{#f/14}* ...\n* Do not follow him.\n* Do not trust him.',
-         '<25>{#p/asgore}{#f/14}* Do not believe anything he tells you.',
-         '<25>{#p/asgore}{#f/13}* Do not let him do what he wants, and do not let him hurt others.',
-         '<18>{#p/papyrus}{#f/6}THIS IS PROBABLY MY CUE TO LEAVE.\nGOODBYE!',
-         '<25>{#p/asgore}{#f/14}* ... do not allow him to coerce you into violence yourself.',
-         '<25>{#p/asgore}{#f/13}* And if you are left with no other option...',
-         '<25>{#p/asgore}{#f/14}* ... do not hesitate to put an end to him.',
-         '<25>{#p/asgore}{#f/2}* ...',
-         '<25>{#p/asgore}{#f/4}* Good luck.',
+         '<25>{#p/asgore}{#f/5}* ...',
+         '<25>{#p/asgore}{#f/5}* Whatever happens now, we wish you a safe journey.',
+         '<18>{#p/papyrus}{#f/9}THAT WE DO!',
+         '<25>{#p/asgore}{#f/6}* Perhaps, in another lifetime....',
+         '<25>{#p/asgore}{#f/4}* ... we could have gotten to know each other a little better.',
+         '<25>{#p/asgore}{#f/1}* ...',
+         '<25>{#p/asgore}{#f/2}* Goodbye.',
          '<32>{#s/equip}{#p/event}* Click...'
       ],
       lastblook1: [
@@ -3521,33 +3516,22 @@ export default {
             '<32>* about how they all left the home galaxy...',
             '<32>* it\'s a miracle you even came to the outpost at all.'
          ],
-         () =>
-            SAVE.data.b.a_state_hapstablook
-               ? [
-                    '<32>{#p/napstablook}* oh yeah, about my cousins...',
-                    '<32>* after the whole mettaton thing, it\'s been going pretty good.',
-                    '<32>* we\'ve been talking it over, and...',
-                    '<32>* ... we\'ve decided to re-open the snail farm here on eurybia.',
-                    '<32>* mettaton\'s doing the advertising, while i and the others look after the snails.',
-                    '<32>* we even found a place we could stay once we get settled in...',
-                    '<32>* a very kind house told us we could live there.',
-                    '<32>* apparently, it\'s the same one undyne used to live in...'
-                 ]
-               : [
-                    '<32>{#p/napstablook}* oh right... my cousins.',
-                    '<32>* i don\'t really know if i should be telling you this, but...',
-                    '<32>* we sort of figured out that mettaton might be our long-lost cousin.',
-                    '<32>* the others and i tried to ask him about it, but...',
-                    '<32>* ... it didn\'t really go the way we\'d hoped.',
-                    '<32>* then, everyone was blaming each other for messing it up...',
-                    '<32>* i... haven\'t felt like talking with them since.',
-                    '<32>* yeah... this was a bad topic',
-                    '<32>* sorry...'
-                 ],
          () => [
-            ...(SAVE.data.b.a_state_hapstablook
-               ? [ '<32>{#p/napstablook}* ...', '<32>* speaking of family...' ]
-               : [ '<32>{#p/napstablook}* ...', '<32>* hey...\n* even if my family\'s not doing too well...' ]),
+            '<32>{#p/napstablook}* oh yeah, about my cousins...',
+            '<32>* on the way here, mettaton came to us and... told us everything he\'s been up to.',
+            '<32>* i felt bad for making him uncomfortable on my old farm, but...',
+            '<32>* he didn\'t seem to mind anymore.',
+            '<32>* in fact, we\'ve been talking it over, and...',
+            '<32>* ... we\'ve decided to re-open the snail farm here on eurybia.',
+            '<32>* mettaton\'s doing the advertising, while i and the others look after the snails.',
+            '<32>* i think that suits him better, and... we\'ll get more customers.',
+            '<32>* we even found a place we could stay once we get settled in...',
+            '<32>* a very kind house told us we could live there.',
+            '<32>* apparently, it\'s the same one undyne used to live in...'
+         ],
+         () => [
+            '<32>{#p/napstablook}* ...',
+            '<32>* speaking of family...',
             '<32>* that human i adopted is... really something, heh',
             '<32>* they say i\'m their favorite monster...',
             '<32>* ... knowing what they went through in the archive, that really means something.',
@@ -3695,20 +3679,11 @@ export default {
             '<32>* the more complicated the food, the more difficult it is to convert into ghost food.'
          ],
          () => [
-            ...(SAVE.data.b.a_state_hapstablook
-               ? [ '<32>{#p/napstablook}* this one time, my... er, mettaton made me a chocolate cake.' ]
-               : [ '<32>{#p/napstablook}* this one time, my cousin made me a chocolate cake.' ]),
+            '<32>{#p/napstablook}* this one time, my cousin... um, mettaton made me a chocolate cake.',
             '<32>* chocolate filling, chocolate icing... chocolate everything.',
             '<32>* if i didn\'t know any better, i\'d think it was actual human food.',
-            ...(SAVE.data.b.a_state_hapstablook
-               ? [
-                    '<32>* but somehow, he managed to convert all of that into a ghost food...',
-                    '<32>* not for a special occasion, but just because he wanted to see me smile.'
-                 ]
-               : [
-                    '<32>* but somehow, they managed to convert all of that into a ghost food...',
-                    '<32>* not for a special occasion, but just because they wanted to see me smile.'
-                 ]),
+            '<32>* but somehow, he managed to convert all of that into a ghost food...',
+            '<32>* not for a special occasion, but just because he wanted to see me smile.',
             '<32>* well... i did.\n* and we ate the cake together.',
             '<32>* and i was happy.'
          ],
@@ -3773,13 +3748,21 @@ export default {
       ],
       computer5: [ '<32>{#p/basic}* Thank you, fellow traveler.\n* I owe you my future.' ],
       end1: [
-         '<25>{*}{#p/asgore}{#f/6}* This is emergency program one.{^20}{%}',
-         '<25>{*}{#p/asgore}{#f/6}* Initiating automated self-destruct protocol.{^20}{%}'
+         '<25>{#p/asgore}{#f/2}* If you hear this message, then... I am no longer alive.',
+         '<25>{#p/asgore}{#f/1}* I had planned to destroy you in this shuttle, however...',
+         '<25>{#p/asgore}{#f/2}* ... you are, in a twisted sense, the last hope of monsterkind.',
+         '<25>{#p/asgore}{#f/3}* If you hear these words now, I implore you...',
+         '<25>{#p/asgore}{#f/4}* Tell others of us.\n* Of our stories.\n* Of our long-lost world.',
+         '<25>{#p/asgore}{#f/6}* Perhaps, through you... our species will not be forgotten!',
+         '<25>{#p/asgore}{#f/1}* Or perhaps... I am a fool for holding onto such hopes.',
+         '<25>{#p/asgore}{#f/1}* ...',
+         '<25>{#p/asgore}{#f/2}* Goodbye, Asriel.',
+         '<25>{#p/asgore}{#f/2}* ... goodbye, "$(name)."'
       ],
       end2: [
-         '<25>{*}{#p/asgore}{#f/6}* This is emergency program one.{^20}{%}',
-         '<25>{*}{#p/asgore}{#f/6}* The self-destruct protocol has been terminated remotely.{^20}{%}',
-         '<25>{*}{#p/asgore}{#f/6}* Systems powering down.{^20}{%}'
+         '<25>{#p/asgore}{#f/6}* This is emergency program one.{^20}{%}',
+         '<25>{#p/asgore}{#f/6}* An incoming transmission has been detected.{^20}{%}',
+         '<25>{#p/asgore}{#f/6}* All power will be temporarily shunted to the comms system.{^20}{%}'
       ],
       save1: '<32>{#p/human}{@fill=#f00}* ($(x) left.)',
       save2: '<32>{#p/human}{@fill=#f00}* (Determination.)',
@@ -3882,10 +3865,10 @@ export default {
             [
                '<32>{#p/basic}* For now, though, I\'ll just be hanging around.',
                '<32>* Watching, waiting...',
-               '<32>* ... ready to catch you the moment you do something even remotely silly!'
+               '<32>* ... ready to catch you the moment you do something you don\'t want me to see!'
             ],
             [ '<32>{#p/basic}* Okay, maybe I wouldn\'t actually go that far.' ],
-            [ '<33>{#p/basic}* Not unless you want me to, anyway.' ],
+            [ '<33>{#p/basic}* Not while you\'re awake, anyway.' ],
             []
          ),
          _frontier4: pager.create(

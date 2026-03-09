@@ -117,18 +117,10 @@ export default {
          '<32>* Where would you like to go?',
          choicer.create(
             '* (What do you say?)',
-            game.room === 'w_wonder'
-               ? 'Cancel'
-               : 'Outlands',
-            game.room === 's_taxi'
-               ? 'Cancel'
-               : 'Starton',
-            game.room === 'f_taxi'
-               ? 'Cancel'
-               : 'Foundry',
-            game.room === 'a_lookout'
-               ? 'Cancel'
-               : 'Aerialis'
+            game.room === 'w_wonder' ? 'Cancel' : 'Outlands',
+            game.room === 's_taxi' ? 'Cancel' : 'Starton',
+            game.room === 'f_taxi' ? 'Cancel' : 'Foundry',
+            game.room === 'a_lookout' ? 'Cancel' : 'Aerialis'
          )
       ],
       riverboi2: pager.create(
@@ -307,7 +299,7 @@ export default {
       undinter: pager.create(
          0,
          () =>
-            SAVE.data.n.plot < 68.1 || SAVE.data.b.a_state_hapstablook
+            SAVE.data.n.plot < 68.1
                ? iRespeccYourVilliany()
                   ? [
                        '<25>{#p/undyne}{#f/1}* Hey, punk.\n* Long time no see.',
@@ -334,7 +326,7 @@ export default {
                     '<25>{#f/4}* ... so you better not do anything STUPID!'
                  ],
          () =>
-            SAVE.data.n.plot < 68.1 || SAVE.data.b.a_state_hapstablook
+            SAVE.data.n.plot < 68.1
                ? [
                     '<25>{#p/undyne}{#f/1}* If you ever want to join me in the magical arts club...',
                     '<25>{#p/undyne}{#f/3}* ... er, I doubt the taxi would wanna take a kid there, actually.',
@@ -964,7 +956,7 @@ export default {
                : [
                     '<25>{#g/alphysWTF}* Oh my god of course he\'d use that as a security question.',
                     '<25>{#g/alphysNervousLaugh}* "Who has the biggest crush on Mettaton?"',
-                    choicer.create('* (What do you say?)', 'Alphys', 'Asgore', 'Papyrus', 'Undyne')
+                    choicer.create('* (What do you say?)', 'Alphys', 'Asgore', 'Catty', 'Undyne')
                  ])
          ],
          barricade1x: [
@@ -989,7 +981,7 @@ export default {
                : [
                     '<25>{#p/alphys}{#g/alphysWelp}* Oh wow, that was the right answer.',
                     '<25>{#g/alphysFR}* ...',
-                    '<25>{#g/alphysFR}* That\'s an oddly specific thing to know about Papyrus.',
+                    '<25>{#g/alphysFR}* Have you even MET Catty before? That\'s a weird thing for you to know.',
                     '<25>{#p/alphys}{#g/alphysUhButHeresTheDeal}* But okay!!'
                  ])
          ],
@@ -1053,12 +1045,10 @@ export default {
          ],
          barricade3b2: [
             '<25>{#p/alphys}{#g/alphysShocked}* Wh...',
-            '<25>{#g/alphysOhGodNo}* How do you know that?',
-            '<25>{#g/alphysOhGodNo}* Nobody\'s supposed to know that!!',
-            '<25>{#g/alphysNeutralSweat}* H-have you told anyone else??',
-            '<25>{#g/alphysNeutralSweat}* Are you planning to!?',
+            '<25>{#g/alphysOhGodNo}* How do you-',
             '<25>{#g/alphysNeutralSweat}* ...',
-            '<25>{#g/alphysNervousLaugh}* Well... this isn\'t Mettaton\'s true identity anyway.'
+            '<25>{#g/alphysNeutralSweat}* This... isn\'t really Mettaton\'s true identity.',
+            '<25>{#g/alphysInquisitive}* You know that, right?'
          ],
          barricade3b3: [
             '<25>{#p/alphys}{#g/alphysInquisitive}* Aidrian?',
@@ -1121,13 +1111,13 @@ export default {
                     '<25>{#g/alphysUhButHeresTheDeal}* Sure, okay!'
                  ]
                : [
-                  '<25>{#g/alphysTheFactIs}* Oh, a-and, uh, about that Mew Mew doll...',
-                  '<25>* Well...',
-                  SAVE.data.b.item_tvm_mewmew
-                     ? "<25>{#g/alphysUhButHeresTheDeal}* I'll get back to you on that later."
-                     : "<25>{#g/alphysUhButHeresTheDeal}* Actually, you don't even have it, so never mind.",
-                  '<25>{|}{#g/alphysCutscene3}* Anyway see you at the elevator baiiii- {%}'
-               ]),
+                    '<25>{#g/alphysTheFactIs}* Oh, a-and, uh, about that Mew Mew doll...',
+                    '<25>* Well...',
+                    SAVE.data.b.item_tvm_mewmew
+                       ? '<25>{#g/alphysUhButHeresTheDeal}* I\'ll get back to you on that later.'
+                       : '<25>{#g/alphysUhButHeresTheDeal}* Actually, you don\'t even have it, so never mind.',
+                    '<25>{|}{#g/alphysCutscene3}* Anyway see you at the elevator baiiii- {%}'
+                 ]),
             '<32>{#s/equip}{#p/event}* Click...'
          ],
          puzzleReaction1: [
@@ -1209,10 +1199,10 @@ export default {
                  ],
          cooker7c: [ '<32>{#p/mettaton}* WAIT, THIS MIGHT ACTUALLY GET SOMEONE KILLED.' ],
          cooker7d: [
-            "<32>{#p/mettaton}* WAIT! SOMETHING'S WRONG...",
-            "<32>{#p/mettaton}* THIS ISN'T MTT-BRAND {@fill=#003cff}FUN SLIME{@fill=#fff} AT ALL!",
+            '<32>{#p/mettaton}* WAIT! SOMETHING\'S WRONG...',
+            '<32>{#p/mettaton}* THIS ISN\'T MTT-BRAND {@fill=#003cff}FUN SLIME{@fill=#fff} AT ALL!',
             '<32>{#p/mettaton}* NO... THIS IS {@fill=#f00}PLASTIC EXPLOSIVE{@fill=#fff}!',
-            "<32>{#p/mettaton}* OUR SPECIAL GUEST MUST'VE SWAPPED THE INGREDIENTS!",
+            '<32>{#p/mettaton}* OUR SPECIAL GUEST MUST\'VE SWAPPED THE INGREDIENTS!',
             '<32>{#p/mettaton}* HOW TREACHEROUS!\n* TO THINK OUR SPECIAL GUEST COULD DO SUCH A THING...'
          ],
          cooker8a1: () =>
@@ -1762,7 +1752,7 @@ export default {
                        ? [ '<25>{#p/sans}{#g/sansNormal}* ...', '<25>{#p/sans}{#g/sansBlink}* that\'s okay.' ]
                        : [
                             '<25>{#p/sans}{#g/sansBlink}* nah, that\'s okay.\n* besides, i\'m only here \'cause my bro declined.',
-                            '<25>{#g/sansWink}* he gets nervous around you, mettaton.'
+                            '<25>* he was too busy getting ignored by you on the outernet.'
                          ])
                  ],
          moneyVote3b: () =>
@@ -1770,7 +1760,10 @@ export default {
                ? [ '<32>{#p/mettaton}* WELL, ALRIGHT.\n* I WON\'T COUNT YOUR VOTE, THEN.' ]
                : world.dead_skeleton
                ? []
-               : [ '<32>{#p/mettaton}* HMM...\n* I\'LL HAVE TO ASK HIM ABOUT THAT LATER.', '<32>* I WONDER...' ],
+               : [
+                    '<32>{#p/mettaton}* OH.\n* THAT WASN\'T MY INTENTION.',
+                    '<32>{#p/mettaton}* I\'LL... HAVE TO CHECK MY MESSAGES AFTER THE SHOW.'
+                 ],
          moneyVote3x: () =>
             world.scared_ghost
                ? [ '<32>{#p/napstablook}* the human.' ]
@@ -2148,11 +2141,6 @@ export default {
                ? [ '<32>{#p/napstablook}* i\'ll make sure she knows what you did for her' ]
                : [ '<32>{#p/napstablook}* i\'ll get this back to her as soon as i can' ],
          napchat2a: [ '<32>{#p/napstablook}* until next time............' ],
-         napchat2b: [
-            '<32>* there\'s... another thing i want to talk to you about........',
-            '<32>* meet me up ahead, by the big mettaton fountain',
-            '<32>* cya there............'
-         ],
          truemtt3: [
             '<32>{#p/basic}* Blooky...',
             '<32>* ...',
@@ -2262,7 +2250,7 @@ export default {
                        ? [
                             '<32>{#p/basic}{#x1}* So, you\'re the kid going by "$(moniker2)" now, huh?{#x3}',
                             iRespeccYourVilliany()
-                               ? '<32>{#x2}* Yeah, we saw.\n* We also know how easily Undyne gave up on stopping you.{#x3}'
+                               ? '<32>{#x2}* Yeah, we saw.\n* We also saw how easily Undyne gave up on stopping you.{#x3}'
                                : '<33>{#x2}* Yeah, we saw.\n* We also know you\'re not as tough as you may seem.{#x3}',
                             '<32>{#x1}* Pathetic, isn\'t it?{#x3}'
                          ]
@@ -2294,122 +2282,6 @@ export default {
             '<32>{#p/basic}{#x1}* Girl, this human thing might not be worth the trouble.{#x3}',
             '<32>{#x2}* Yeah, we\'ll let the boys handle this one... if Undyne thinks they\'re up for it.{#x3}'
          ],
-         hapsta1: () => [
-            '<32>{#p/napstablook}* so, uh...',
-            '<32>* do you think...\n* you can you help me with something...?',
-            '<33>* it\'s... kind of important......',
-            choicer.create('* (What do you say?)', 'Yes', 'No')
-         ],
-         hapsta1a: [ '<32>{#p/napstablook}* okay.........', '<32>* this way.........' ],
-         hapsta1b: [ '<32>{#p/napstablook}* oh.........', '<32>* i\'ll get out of your way, then.........' ],
-         hapsta2: [ '<32>{#p/napstablook}* well... here we are', '<32>* as for why we\'re here......' ],
-         hapsta3a: [
-            '<32>{#p/napstablook}* i\'ve been thinking more and more that mettaton is my long lost cousin.........',
-            '<32>* ever since he disappeared, i\'ve been worried about him'
-         ],
-         hapsta3b: [ '<32>* i just want him to be okay.' ],
-         hapsta4: [ '<32>{#p/napstablook}* take a look at this' ],
-         hapsta5: [ '<32>{#p/napstablook}* it\'s a private recording i found at the royal lab.' ],
-         hapsta6: [
-            '<32>{#p/alphys}* Completing your final body is going to take some time...',
-            '<32>* Are you sure you want this right now?',
-            '<32>{#p/hapstablook}* i\'m ready, doctor.',
-            '<32>{#p/alphys}* Okay... I\'m b-bringing Mettaton online right now.',
-            '<32>* This control chip will allow you to use any body I build for you...',
-            '<32>* When I finish your new body, I\'ll just t-transfer it there.',
-            '<32>* Will that, uh, work?',
-            '<32>{#p/hapstablook}* it\'s marvelous, doctor.\n* marvelous!',
-            '<32>{#p/alphys}* Heh... that\'s...\n* Very nice of you...',
-            '<32>{#p/hapstablook}* so when do i get to start?',
-            '<32>{#p/alphys}* O-oh, um, you can try right now if you like?',
-            '<32>* It\'s a universal chip, so you don\'t need to fuse with it to control it.',
-            '<32>{#p/hapstablook}* oooh, fancy...',
-            '<32>{#p/hapstablook}* being able to upgrade my body will be useful on my path to superstardom!',
-            '<32>{#s/echostop}{#p/event}* Playback complete.'
-         ],
-         hapsta7: [
-            '<32>{#p/napstablook}* well, that\'s it',
-            '<32>{|}{#p/napstablook}* if i didn\'t know any better, i\'d say that\'s- {%}'
-         ],
-         hapsta8: [ '<32>{#p/finalghost}* Sorry, I\'m late.' ],
-         hapsta9: [ '<32>* Oh.\n* Hello, human.' ],
-         hapsta10: [ '<32>* Cousin Blooky.\n* Why is the human here?' ],
-         hapsta11: [ '<32>{#p/napstablook}* i thought......\n* they might be able to help......' ],
-         hapsta12a: () => [
-            ...[
-               [ '<32>{#p/finalghost}* Hm.\n* It would be nice to have them on our side.' ],
-               [ '<32>{#p/finalghost}* Hm.\n* They\'ll have to curtail their violent side.' ],
-               [ '<32>{#p/finalghost}* Hm.\n* We can only hope they don\'t run away this time.' ],
-               [
-                  '<32>{#p/finalghost}* Hm.\n* Last time I saw them, they didn\'t seem very intelligent.',
-                  '<32>* But who knows.'
-               ],
-               [ '<32>{#p/finalghost}* Hm.\n* They were pretty nice to me...' ],
-               [ '<32>{#p/finalghost}* Hm.\n* We can only hope they keep their hands to themself.' ],
-               [ '<32>{#p/finalghost}* Hm.\n* They\'ll need to keep their flirtatious attitude in check.' ]
-            ][SAVE.data.n.state_wastelands_dummy]
-         ],
-         hapsta12b: [ '<32>* Are we ready to make the call?' ],
-         hapsta13: [ '<32>{#p/napstablook}* well, hold on...', '<32>{|}* where\'s- {%}' ],
-         hapsta14: [ '<32>{#p/basic}* RIGHT HERE, BOZO!' ],
-         hapsta15: [ '<32>{#p/finalghost}* Do you always have to do that.' ],
-         hapsta16: [
-            '<32>{#p/basic}* Human.\n* Human!\n* HUMAN!!!',
-            '<32>* WHAT HAVE YOU DONE TO MY COUSIN THIS TIME!?'
-         ],
-         hapsta17: [ '<32>{#p/finalghost}* They didn\'t do anything to me.\n* You\'re overreacting.' ],
-         hapsta18: [ '<32>{#p/basic}* Jeez, I was only kidding...' ],
-         hapsta19: [ '<32>{#p/finalghost}* Sure you were.\n* Now, for the matter at hand...' ],
-         hapsta20: [ '<32>{#p/finalghost}* We all know why we\'re here.\n* Our cousin is...' ],
-         hapsta21: [ '<32>{#p/basic}* Our cousin\'s a SELLOUT.' ],
-         hapsta22: [
-            '<32>{#p/finalghost}* ...',
-            '<32>* Our cousin is many things, but a "sellout" is not one of them.',
-            '<32>* In fact, after Blooky and I read his diaries... I fear we may be the ones at fault.'
-         ],
-         hapsta23: [ '<32>{#p/napstablook}* .........\n* ......... should we call him?' ],
-         hapsta24: [ '<32>{#p/finalghost}* I don\'t see a reason not to.' ],
-         hapsta25: [
-            '<32>{#p/event}* Ring, ring...',
-            '<32>{#p/mettaton}* BLOOKY!\n* WHAT A WONDERFUL SURPRISE!\n* WHAT IS IT YOU NEED?',
-            '<32>{#p/napstablook}* um... i wanted to talk to you about something',
-            '<32>{#p/mettaton}* WELL, HEY, WE CAN DO IT RIGHT HERE, WHAT DO YOU NEED?',
-            '<32>{#p/napstablook}* in private.........',
-            '<32>{#p/mettaton}* OH.',
-            '<32>{#p/mettaton}* I\'M AFRAID I CAN\'T DO THAT RIGHT NOW SINCE I\'M PREPARING FOR ANOTHER SHOW.',
-            '<32>* HOW ABOUT WE MEET UP ONCE THAT\'S OVER WITH?'
-         ],
-         hapsta26: [ '<32>{|}{#p/basic}* Anything to avoid- {%}' ],
-         hapsta27: [ '<32>{#p/finalghost}* Quiet!' ],
-         hapsta28: [
-            '<32>{#p/napstablook}* that works...',
-            '<32>{#p/mettaton}* FABULOUS, DARLING.',
-            '<32>* I\'LL CATCH UP WITH YOU THEN!'
-         ],
-         hapsta29: [
-            '<32>{#p/basic}* I knew it.\n* I knew it!\n* I KNEW IT!',
-            '<32>* This was doomed to fail from the very beginning.'
-         ],
-         hapsta30: [
-            '<32>{#p/finalghost}* Just because Mettaton isn\'t here right now doesn\'t mean we\'ve failed.',
-            '<32>* We\'ll just have to be patient.'
-         ],
-         hapsta31: [ '<32>{#p/basic}* Fine...' ],
-         hapsta32: () => [
-            '<32>{#p/finalghost}* Well, it was nice to talk to you again.',
-            '<32>* We\'ll see each other soon.'
-         ],
-         hapsta34: () => [
-            '<32>{#p/napstablook}* heh...',
-            ...(SAVE.data.b.oops
-               ? [ '<32>{#p/napstablook}* see you then, i guess' ]
-               : [
-                    '<32>{#p/napstablook}* and $(namel)?',
-                    '<32>{#p/basic}* ...?',
-                    '<32>{#p/napstablook}* .........\n* thanks for sticking around.'
-                 ])
-         ],
-         hapsta35: [ '<32>{#p/basic}* I just hope I can be useful for once...' ],
          opera1: () =>
             SAVE.data.n.state_foundry_undyne === 1
                ? [
@@ -2637,164 +2509,10 @@ export default {
                     '<32>{*}* STAY FABULOUS!{^30}{#x4}{%}'
                  ])
          ],
-         // 36 being the next hapsta number is a total coincidence xD
-         hapsta36: () => [
-            '<32>{#p/mettaton}{#e/mettaton/0}* OH... RIGHT.\n* I\'D FORGOTTEN ABOUT THAT.',
-            ...(SAVE.data.b.killed_glyde || SAVE.data.b.bad_lizard
-               ? [
-                    '<32>{#p/mettaton}{#e/mettaton/5}* ... I SUGGEST WE GO TO ANOTHER AREA FIRST, THOUGH.\n* IT\'S NOT SAFE HERE.'
-                 ]
-               : [])
-         ],
-         hapsta37: () =>
-            SAVE.data.b.killed_glyde || SAVE.data.b.bad_lizard
-               ? [ '<32>{#p/napstablook}* well, alright......\n* if you really want to, we can do it alone......' ]
-               : [
-                    '<32>{#p/napstablook}* hey, um......',
-                    '<32>{#p/napstablook}* i was looking through old lab recordings, and...'
-                 ],
-         hapsta38: [ '<32>{#p/mettaton}{#e/mettaton/34}* YES...?' ],
-         hapsta39: [
-            '<32>{#p/napstablook}* well, there was this voice that sounded like......',
-            '<32>{#p/napstablook}* like......'
-         ],
-         hapsta40: [ '<33>{#p/mettaton}{#e/mettaton/11}* WE DON\'T HAVE ALL DAY, DARLING.' ],
-         hapsta41: [
-            '<32>{#p/napstablook}* it was you',
-            '<32>{#p/napstablook}{#e/mettaton/3}* .........\n* the real you.'
-         ],
-         hapsta42: [
-            '<32>{#p/mettaton}{#e/mettaton/2}* THE "REAL ME" EH?',
-            '<32>{#e/mettaton/0}* NOW HOLD ON, LET\'S NOT JUMP TO CONCLUSIONS HERE.'
-         ],
-         hapsta43: [ '<32>{#p/finalghost}* They\'re telling the truth.' ],
-         hapsta44: [ '<32>{#p/mettaton}{#e/mettaton/6}* ... AND NOW THE GHOSTS ARE GANGING UP ON ME.\n* LOVELY.' ],
-         hapsta45: [ '<25>{#p/alphys}{#g/alphysTheFactIs}* Uh, I s-swear I had nothing to do with this...' ],
-         hapsta46: [
-            '<25>{#p/alphys}{#g/alphysYeahYouKnowWhatsUp}{#e/mettaton/3}* I-I\'ll just, get out of your guys\' way...'
-         ],
-         hapsta47: [
-            '<32>{#p/basic}* Excuse me, WHERE do you think you\'re going?',
-            '<32>{#p/basic}* You\'re the one who started all this in the first place!',
-            '<32>{#p/basic}* If it wasn\'t for your stupid tape, I wouldn\'t have to be here right now.'
-         ],
-         hapsta48: [ '<25>{#p/alphys}{#g/alphysNeutralSweat}* Whoops.' ],
-         hapsta49a: [
-            '<32>{#p/mettaton}{#e/mettaton/9}* SO THAT\'S IT, THEN.',
-            '<32>{#e/mettaton/7}* YOU\'RE ALL HERE... NO DOUBT TO BRING ME BACK HOME.'
-         ],
-         hapsta49b: [ '<32>{#e/mettaton/8}* SO MUCH FOR "CHASING YOUR DREAMS," EH BLOOKY?' ],
-         hapsta50: [ '<32>{|}{#p/napstablook}* cousin, i- {%}' ],
-         hapsta51a: [ '<32>{#p/mettaton}{#e/mettaton/18}* OH, DON\'T "COUSIN" ME.' ],
-         hapsta51b: [
-            '<32>{#p/mettaton}{#e/mettaton/20}* IF IT WASN\'T FOR YOU, I MIGHT\'VE ACTUALLY ENJOYED THE QUIET LIFE...',
-            '<32>{#p/mettaton}{#e/mettaton/17}* ... BUT NO.\n* YOU JUST -HAD- TO GET ME IN ON THE FAMILY BUSINESS.',
-            '<32>{#p/mettaton}{#e/mettaton/19}* A BUSINESS, MIGHT I ADD, WHOSE SALES FIGURES HAVE BEEN IN THE RED SINCE DAY ONE.'
-         ],
-         hapsta52: [ '<32>{#p/napstablook}{#e/mettaton/3}* .........\n* i know.' ],
-         hapsta53: [
-            '<32>{#p/mettaton}{#e/mettaton/17}* OH, REALLY NOW?\n* DO YOU REALLY KNOW WHAT IT WAS LIKE FOR ME?'
-         ],
-         hapsta54: [ '<32>{#p/finalghost}* Considering we\'ve all read your diaries, I\'m sure they do...' ],
-         hapsta55a: [
-            '<32>{#p/mettaton}{#e/mettaton/19}* I DON\'T CARE IF THEY\'VE READ MY DIARIES, I WANT THEM TO HEAR IT FROM ME.',
-            '<32>{#p/mettaton}{#e/mettaton/3}* ...\n* LISTEN, "COUSIN."\n* THE WORK WAS NEVER THE ISSUE.',
-            '<32>{#p/mettaton}{#e/mettaton/14}* SNAIL FARMING MAY NOT BE THE MOST GLAMOROUS PASS TIME, BUT I LIKED IT FOR WHAT IT WAS.',
-            '<32>{#p/mettaton}{#e/mettaton/13}* NO... IT ONLY STARTED BECOMING A PROBLEM WHEN EVERY SECOND I WASN\'T ON THE FARM...',
-            '<32>{#p/mettaton}* ... WAS A SECOND YOU PEOPLE DIDN\'T SEEM TO CARE ABOUT ME.'
-         ],
-         hapsta55b: [
-            '<32>{#p/mettaton}{#e/mettaton/16}* NO CALLS, NO VISITS... JUST THE OCCASIONAL "HEY, WHEN ARE YOU COMING BACK TO WORK?"',
-            '<32>{#p/mettaton}{#e/mettaton/15}* IT WAS PRETTY OBVIOUS TO ME THAT AT SOME POINT, I\'D BECOME NOTHING BUT A TOOL...',
-            '<32>{#p/mettaton}{#e/mettaton/11}* A MERE COG IN THE GRAND BLOOK FAMILY MACHINE.'
-         ],
-         hapsta56: [ '<32>{#p/napstablook}* ...............' ],
-         hapsta57a: [ '<32>{#p/mettaton}{#e/mettaton/2}* NOTHING TO SAY?\n* NO, NO, I EXPECTED AS MUCH.' ],
-         hapsta57b: [
-            '<32>{#p/mettaton}{#e/mettaton/5}* HONESTLY, THOUGH, I COULDN\'T CARE LESS ABOUT WHAT YOU HAVE TO SAY.',
-            '<32>{#p/mettaton}{#e/mettaton/10}* I\'VE GOT EVERYTHING I WANT IN LIFE, AND LOOK AT YOU...',
-            '<32>{#p/mettaton}{#e/mettaton/12}* CLINGING TO TRAINING DUMMIES AND BEGGING FOR SCRAPS.'
-         ],
-         hapsta58: [ '<32>{#p/finalghost}* You say you don\'t care about us, yet you invite us onto your shows.' ],
-         hapsta59: [
-            '<32>* You even gave Blooky special treatment during that last show...',
-            '<32>* Kicking that other contestant so it\'d be them against the human in the final round.'
-         ],
-         hapsta60: [ '<32>{#p/mettaton}{#e/mettaton/5}* ... THAT WAS ONLY OUT OF PITY.' ],
-         hapsta61: [ '<32>{#p/basic}* Or... part of you secretly wants to come back!' ],
-         hapsta62: [ '<32>{#p/mettaton}{#e/mettaton/11}* HAHAHA...\n* NOT A CHANCE IN THE GALAXY.' ],
-         hapsta63: [ '<32>{#p/napstablook}* i\'m sorry, cousin.' ],
-         hapsta64: [ '<32>{#p/mettaton}{#e/mettaton/21}* ... OH?' ],
-         hapsta65a: [
-            '<32>{#p/napstablook}* after you left, we couldn\'t keep up with our customers...',
-            '<32>{#p/napstablook}{#e/mettaton/15}* we had to scale down\n* the farm... isn\'t what it was......'
-         ],
-         hapsta65b: [ '<32>{#p/napstablook}* and i never realized how much you did for us...... until you were gone' ],
-         hapsta65c: [ '<32>{#p/napstablook}{#e/mettaton/4}* so... i\'m sorry.\n* for everything.........' ],
-         hapsta66a: [
-            '<32>{#p/mettaton}* I SEE.',
-            '<32>{#p/mettaton}{#e/mettaton/6}* ... I SEE.',
-            '<32>{#p/mettaton}{#e/mettaton/5}* SO YOU\'RE THE TYPE TO APOLOGIZE ONLY -AFTER- YOU\'VE BEEN CALLED OUT, HUH?'
-         ],
-         hapsta66b: [ '<32>{#p/mettaton}{#e/mettaton/0}* I SHOULD HAVE KNOWN.' ],
-         hapsta67: [ '<32>{|}{#p/napstablook}* that\'s not- {%}' ],
-         hapsta68a: [
-            '<32>{#p/mettaton}{#e/mettaton/3}* NO, I GET IT. YOU WANT ME TO FORGIVE YOU AND MOVE ON FROM IT LIKE NOTHING HAPPENED.',
-            '<32>{#p/mettaton}{#e/mettaton/5}* WELL, I\'M AFRAID THAT\'S NOT HOW THINGS WORK ANYMORE, BLOOKY.'
-         ],
-         hapsta68b: [ '<32>{#p/mettaton}{#e/mettaton/6}* ... ANYWAY, I\'VE GOT A GRAND FINALE TO PREPARE...' ],
-         hapsta68c: [ '<32>{#p/mettaton}{#e/mettaton/11}* SO, IF YOU DON\'T MIND, I\'LL BE ON MY WAY NOW.' ],
-         hapsta69: [ '<32>{#p/basic}* Get back here.\n* Get back here!\n* GET BACK HERE!!!' ],
-         hapsta70: [ '<33>{#p/finalghost}* I don\'t think he\'s coming back.' ],
-         hapsta71: [
-            '<32>{#p/napstablook}* maybe... he just needs a little space......',
-            '<32>{#p/napstablook}* we have to give him a chance.........'
-         ],
-         hapsta72: [ '<32>{#p/basic}* What a giant waste of time.\n* I\'m going back to Undyne\'s house now.' ],
-         hapsta73: [ '<32>{#p/finalghost}* It was a nice try, Blooky.', '<32>{#p/finalghost}* A nice try.' ],
-         hapsta74: [ '<32>{#p/napstablook}* no............' ],
-         hapsta75: () =>
-            SAVE.data.b.oops
-               ? [
-                    '<25>{#p/alphys}{#g/alphysCutscene2}* Hey...\n* Don\'t listen to them.',
-                    '<25>{#p/alphys}{#g/alphysCutscene2}* I\'ve known Mettaton f-for quite a while now...',
-                    '<25>{#p/alphys}{#g/alphysCutscene2}* He wouldn\'t leave like that unless he needed time to think.',
-                    '<32>{#p/napstablook}* yeah...',
-                    '<32>{#p/napstablook}* i guess......'
-                 ]
-               : [
-                    '<32>{#p/basic}* You know he\'s done this in the past, right?',
-                    '<32>{#p/basic}* He\'ll be back.',
-                    '<32>{#p/napstablook}* heh...\n* $(namel)......',
-                    '<25>{#p/alphys}{#g/alphysInquisitive}* $(name)...?',
-                    '<32>{#p/napstablook}* uh, it\'s a long story',
-                    '<25>{#p/alphys}{#g/alphysWelp}* ... I guess you can tell me later.',
-                    '<32>{#p/napstablook}* ...\n* thank you, $(namel)\n* for everything......',
-                    '<32>* you\'ve done so much for our family just by being here',
-                    '<32>* even if... it\'s not the family you really wanted......',
-                    '<32>{#p/basic}* Blooky, I...',
-                    '<32>{#p/napstablook}* $(namel), if...\n* no, when you see him again...',
-                    '<32>* don\'t ever let him forget how much you cared about him in life... alright?'
-                 ],
-         hapsta76: [
-            '<32>{#p/napstablook}* here\'s your mew mew doll',
-            '<32>* i hope i wasn\'t too late......',
-            '<25>{#p/alphys}{#g/alphysYeahYouKnowWhatsUpCenter}* No, i-it\'s okay.\n* Thank you.'
-         ],
-         hapsta77: [ '<32>{#p/napstablook}* well, cya......' ],
          opera36a: () => [
             '<25>{#p/alphys}{#g/alphysWelp}* That was certainly an unexpected turn of events.',
-            ...(SAVE.data.b.a_state_hapstablook && !SAVE.data.b.oops
-               ? [
-                    '<25>{#p/alphys}{#g/alphysInquisitive}* Not to mention the whole "$(name)" thing...',
-                    '<25>* Last I checked, they\'ve been dead for a hundred years...',
-                    '<25>{#g/alphysWelp}* Oh well.\n* I guess they\'ll tell me about it later.',
-                    '<25>{#g/alphysWelp}{#x5}* Speaking of which, you\'ll probably want to get going...'
-                 ]
-               : [
-                    '<25>{#p/alphys}{#g/alphysInquisitive}* Looks like we\'re in the clear, though...',
-                    '<25>{#g/alphysWelp}{#x5}* Which means... you\'ll probably want to get going...'
-                 ]),
+            '<25>{#p/alphys}{#g/alphysInquisitive}* Looks like we\'re in the clear, though...',
+            '<25>{#g/alphysWelp}{#x5}* Which means... you\'ll probably want to get going...',
             '<25>{#g/alphysTheFactIs}{#x6}* And I should probably get back to the lab...',
             '<25>{#g/alphysNervousLaugh}{#x5}* So... see you around, I guess?',
             ...(SAVE.data.b.failshow || !SAVE.data.b.item_tvm_mewmew || SAVE.data.b.mewget
@@ -2841,14 +2559,13 @@ export default {
                ? [ '<25>{#p/alphys}{#f/10}* I-I\'ll stay in contact.' ]
                : [ '<25>{#p/alphys}{#f/3}* N-not at all!!' ],
          opera38: [
-            '<32>{#p/basic}* ... now I understand why Blooky feels how they do all the time.',
-            '<32>* That guilt, thinking you could\'ve done more to care about someone...',
-            '<32>* Hmph.\n* Maybe there\'s something more I can do to help here.',
-            '<32>* Remember what happened with Toriel?',
-            '<32>* The way you called out for me, and I was able to talk?',
-            '<32>* I know things about monsters.\n* Things that could help us get through more quickly.',
-            '<32>* So, if I think of something...',
-            '<32>* Call out for me like you did before, okay?'
+            '<32>{#p/basic}* You know...\n* I\'ve been thinking.',
+            '<32>* The closer we get to the top of the outpost... to the Citadel...',
+            '<32>* To Asgore...',
+            '<32>* ...\n* The more I realize how guilty I feel about my past.',
+            '<32>* I could\'ve done so much more to show I cared...',
+            '<32>* But at least things have been different between us two.',
+            '<32>* Between us... I have no regrets.'
          ],
          operaX1: () =>
             [
@@ -2921,9 +2638,7 @@ export default {
                             '<32>{#e/mettaton/3}* HOW PREDICTABLE...'
                          ]),
                     '<32>{#e/mettaton/12}* SUFFICE IT TO SAY, I WON\'T WASTE YOUR TIME WITH A MONOLOGUE.',
-                    ...(SAVE.data.b.a_state_hapstablook
-                       ? [ '<32>{#e/mettaton/3}* JUST KNOW THAT I\'M NOT IN THE MOOD FOR GAMES.' ]
-                       : iFancyYourVilliany()
+                    ...(iFancyYourVilliany()
                        ? [ '<32>{#e/mettaton/31}* JUST KNOW THAT I WON\'T GO EASY ON YOU FOR A SECOND!' ]
                        : !world.badder_lizard
                        ? [ '<32>{#e/mettaton/31}* JUST KNOW THAT I\'M COUNTING ON YOU TO BRING YOUR A-GAME!' ]
@@ -2947,16 +2662,7 @@ export default {
                             '<32>{#e/mettaton/5}* FOR BETTER OR WORSE, YOU\'VE GIVEN US BOTH THE OPPORTUNITY TO SHINE OUR BEST.',
                             '<32>{#e/mettaton/6}* BUT NOW, COMES THE MOMENT YOU\'VE BEEN DYING FOR.',
                             '<32>{#e/mettaton/23}* THOUGH, I MUST ADMIT...',
-                            ...(SAVE.data.b.a_state_hapstablook
-                               ? [
-                                    '<32>{#e/mettaton/5}* THINGS DIDN\'T QUITE WORK OUT THE WAY I EXPECTED.',
-                                    '<32>{#e/mettaton/6}* ALL THIS OLD FAMILY NONSENSE COMING BACK OUT OF THE BLUE...',
-                                    '<32>* ... ISN\'T SOMETHING I\'M PARTICULARLY HAPPY ABOUT.',
-                                    '<32>{#e/mettaton/11}* STILL, I\'VE GOT A GRAND FINALE TO PERFORM, SO I MIGHT AS WELL GET IT OVER WITH.',
-                                    '<32>{#e/mettaton/5}* TRY NOT TO BE TOO MUCH OF A BORE, WILL YOU?',
-                                    '<32>{#e/mettaton/6}* THE AUDIENCE IS STARVING FOR SOME GENUINE ACTION.'
-                                 ]
-                               : !world.badder_lizard
+                            ...(!world.badder_lizard
                                ? [
                                     '<32>{#e/mettaton/25}* I\'M COUNTING ON YOU TO MAKE IT PAST ME IN ONE PIECE.',
                                     '<32>{#e/mettaton/0}* DON\'T GET ME WRONG, I\'D LOVE TO TAKE A HUMAN SOUL AND BECOME HUMANITY\'S STAR.',
@@ -3153,9 +2859,7 @@ export default {
                : '<32>{#p/mettaton}* Don\'t worry, darling, it\'s probably just a new season of a sci-fi anime she likes.',
             '<32>* As for me?',
             '<32>* ...\n* After Alphys puts me back in my old body...',
-            SAVE.data.b.a_state_hapstablook
-               ? '<32>* I should go pay my family a visit.'
-               : SAVE.data.n.state_starton_papyrus === 1
+            SAVE.data.n.state_starton_papyrus === 1
                ? '<32>* I\'m not really sure what I\'m going to do.'
                : '<32>* I\'m going to have some business to attend to.',
             ...(SAVE.data.b.oops
@@ -4374,8 +4078,8 @@ export default {
          corenote4: [
             '<32>{#p/basic}* There\'s a recording on the ground labelled "Undyne."',
             '<32>{#p/human}* (You play the recording...)',
-            '<32>{#p/alphys}* Undyne...\n* We were going to do so much together when we escaped...',
-            '<32>* I can picture it now.\n* A cruise around the galaxy, with nobody to get in our way.',
+            '<32>{#p/alphys}* Undyne...\n* After we escaped, I was going to ask you out.',
+            '<32>* Imagine... the two of us cruising around the galaxy, with nobody to get in our way.',
             '<32>* Whenever I felt sad or lonely, you were always there to cheer me up.',
             '<32>* Even if you and I disagreed on some things, you didn\'t let it get in the way of friendship.',
             '<32>* Because of me, you\'ll never get to explore the galaxy.'
@@ -6090,7 +5794,7 @@ export default {
          [ '<25>{#p/sans}{#f/3}* eh, fair enough.\n* i\'ll be here if you change your mind.' ],
          [ '<25>{#p/sans}{#f/3}* ok then.' ]
       ),
-      dinnerdate2b: [ '<25>{#p/sans}{#f/0}* sweet.' ],
+      dinnerdate2b: [ '<25>{#p/sans}{#p/sans}{#f/0}* sweet.' ],
       dinnerdate3: [ '<25>{#p/sans}{#f/2}* right this way.' ],
       dinnerdate4: [ '<25>{#p/sans}* here we are.' ],
       dinnerdate5: [ '<25>{#p/sans}* this table looks good.' ],
@@ -6640,7 +6344,7 @@ export default {
       act_flirt2: [ '<32>{#p/human}* (You try flirting with Glyde, but it doesn\'t elicit a response.)' ],
       act_berate: [ '<32>{#p/human}* (You berate Glyde.)\n* (Glyde laughs at the attempt.)' ],
       fightEnder1: [
-         '<20>{#p/basic}{~}{#e/glyde/4}... huh?',
+         '<20>{#p/basic}{#p/basic}{~}{#e/glyde/4}... huh?',
          '<20>{#p/basic}{~}Did you just say "triple beefcake deluxe?"',
          '<20>{#p/basic}{~}{#e/glyde/9}...',
          '<20>{#p/basic}{~}{#e/glyde/10}So...',
@@ -6649,7 +6353,7 @@ export default {
          '<20>{#p/basic}{~}But you remembered the password, too!'
       ],
       fightEnder2: [
-         '<20>{#p/basic}{~}{#e/glyde/4}... huh?',
+         '<20>{#p/basic}{#p/basic}{~}{#e/glyde/4}... huh?',
          '<20>{#p/basic}{~}Did you just say "triple beefcake deluxe?"',
          '<20>{#p/basic}{~}{#e/glyde/9}...',
          '<20>{#p/basic}{~}{#e/glyde/10}So...',
@@ -6677,23 +6381,23 @@ export default {
          '<20>{#p/basic}{~}{#e/glyde/10}Tell you what.\nSince you\'re so kind, I\'ll get outta your way and go bother someone else.',
          '<20>{#p/basic}{~}{#e/glyde/5}Kahaha!\nCatch ya on the flipside, G!'
       ],
-      intro1: [ '<20>{#p/basic}{~}{#e/glyde/6}Kahaha, take that ya stupid robot!' ],
+      intro1: [ '<20>{#p/basic}{#p/basic}{~}{#e/glyde/6}Kahaha, take that ya stupid robot!' ],
       intro2a: () =>
          !world.badder_lizard
             ? [ '<20>{#p/mettaton}ALPHYS AND I ARE STILL HERE, YOU KNOW.' ]
             : [ '<20>{#p/mettaton}I\'M STILL HERE, YOU KNOW.' ],
-      intro2b: [ '<20>{#p/basic}{~}{#e/glyde/8}Quiet!\nThis is MY stage now, robo-freak.' ],
+      intro2b: [ '<20>{#p/basic}{#p/basic}{~}{#e/glyde/8}Quiet!\nThis is MY stage now, robo-freak.' ],
       intro2c: [ '<20>{#p/mettaton}(THIS IS ACTUALLY PRETTY INTERESTING.)' ],
-      intro3: [ '<20>{#p/basic}{~}{#e/glyde/4}Boy have I got a story to tell!' ],
+      intro3: [ '<20>{#p/basic}{#p/basic}{~}{#e/glyde/4}Boy have I got a story to tell!' ],
       status1: [ '<32>{#p/story}* Glyde crashes in!' ],
       turn1a: () => [
-         '<20>{#p/basic}{~}{#e/glyde/10}Not gonna fight me, huh?',
+         '<20>{#p/basic}{#p/basic}{~}{#e/glyde/10}Not gonna fight me, huh?',
          iFancyYourVilliany()
             ? '<20>{#p/basic}{~}{#e/glyde/0}... surprising, coming from a common villain like you.'
             : '<20>{#p/basic}{~}{#e/glyde/0}... you do you, I guess.'
       ],
       turn1b: () => [
-         '<20>{#p/basic}{~}{#e/glyde/7}Ooh, I like your fighting spirit.',
+         '<20>{#p/basic}{#p/basic}{~}{#e/glyde/7}Ooh, I like your fighting spirit.',
          iFancyYourVilliany()
             ? '<20>{#p/basic}{~}{#e/glyde/10}Way to live up to your moniker, eh?'
             : '<20>{#p/basic}{~}{#e/glyde/10}That\'ll serve you well very soon...'
@@ -6706,19 +6410,19 @@ export default {
       ],
       turnStatus1: [ '<32>{#p/story}* Glyde sees its reflection and gets jealous.' ],
       turn2: [
-         '<20>{#p/basic}{~}{#e/glyde/8}It turns out my one- hundred percent legit business...',
+         '<20>{#p/basic}{#p/basic}{~}{#e/glyde/8}It turns out my one- hundred percent legit business...',
          '<20>{#p/basic}{~}{#e/glyde/8}Is under fire for being a fraud!',
          '<20>{#p/basic}{~}{#e/glyde/1}And I\'m thinking to myself "you\'ve gotta be kidding me."'
       ],
       turnStatus2: [ '<32>{#p/story}* Glyde is thinking of new slang for the word "cool."' ],
       turn3: [
-         '<20>{#p/basic}{~}{#e/glyde/6}I can assure you that my steak enterprise is the rarest thing out there.',
+         '<20>{#p/basic}{#p/basic}{~}{#e/glyde/6}I can assure you that my steak enterprise is the rarest thing out there.',
          '<20>{#p/basic}{~}Nothing compares to these fine fillets!',
          '<20>{#p/basic}{~}You hear me?\nNothing!'
       ],
       turnStatus3: [ '<32>{#p/story}* An arrogant-smelling wind blows through.' ],
       turn4: [
-         '<20>{#p/basic}{~}{#e/glyde/0}Why should you care?',
+         '<20>{#p/basic}{#p/basic}{~}{#e/glyde/0}Why should you care?',
          '<20>{#p/basic}{~}{#e/glyde/2}Because...',
          '<20>{#p/basic}{~}{#e/glyde/2}Er...',
          '<20>{#p/basic}{~}{#e/glyde/5}Because you\'re the only one who can save my sales figures!'
@@ -6726,19 +6430,19 @@ export default {
       turnStatus4: [ '<32>{#p/story}* Glyde does fancy flips.' ],
       turn5: () => [
          iFancyYourVilliany()
-            ? '<20>{#p/basic}{~}{#e/glyde/6}With the infamous "$(moniker2)" by my side, nothing can stop me!'
-            : '<20>{#p/basic}{~}{#e/glyde/6}With MTT\'s precious human on my side, nothing can stop me!',
+            ? '<20>{#p/basic}{#p/basic}{~}{#e/glyde/6}With the infamous "$(moniker2)" by my side, nothing can stop me!'
+            : '<20>{#p/basic}{#p/basic}{~}{#e/glyde/6}With MTT\'s precious human on my side, nothing can stop me!',
          '<20>{#p/basic}{~}{#e/glyde/7}Even the great Papa Gliden could only dream of the profits we\'d make together!'
       ],
       turn5a: [ '<20>{#p/alphys}I don\'t think attacking them is a great way to get them on your side.' ],
       turn5b: [
-         '<20>{#p/basic}{~}{#e/glyde/1}It\'s called a "show of strength," buck-teeth{#x1}.',
+         '<20>{#p/basic}{#p/basic}{~}{#e/glyde/1}It\'s called a "show of strength," buck-teeth{#x1}.',
          '<20>{#p/basic}{~}{#e/glyde/9}How else am I supposed to earn the respect of my business partners?'
       ],
       turn5c: [ '<20>{#p/basic}{~}{#e/glyde/10}Exactly.\nYou don\'t know anything.' ],
       turnStatus5: [ '<32>{#p/story}* Glyde is giving itself a high five... somehow.' ],
-      turn6a: [ '<20>{#p/basic}{~}{#e/glyde/6}So whaddya say, huh?' ],
-      turn6b: [ '<20>{#p/basic}{~}Crud.' ],
+      turn6a: [ '<20>{#p/basic}{#p/basic}{~}{#e/glyde/6}So whaddya say, huh?' ],
+      turn6b: [ '<20>{#p/basic}{#p/basic}{~}Crud.' ],
       turn6c: () => [
          '<20>{#p/basic}{#e/bpants/12}Why do I ALWAYS end up taking out the trash around here?',
          '<20>...',
@@ -6834,8 +6538,6 @@ export default {
       attackTalk: () =>
          SAVE.data.n.plot < 67
             ? [ '<20>{#p/mettaton}YOU SILLY GOOSE.\nTHAT\'S NOT GOING TO WORK ON ME, SWEETHEART!' ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}LISTEN, SWEETHEART.\nI\'VE HAD ENOUGH PAIN TODAY AS IT IS.\nDO YOU MIND?' ]
             : [ '<20>{#p/mettaton}LISTEN, SWEETHEART.\nATTACKING ME WON\'T DO YOU ANY FAVORS.\nESPECIALLY NOT NOW.' ],
       flirtTalk: [ '<20>{#p/mettaton}OHOHO...', '<20>GETTING FRISKY, EH?', '<20>I\'LL HAVE TO REMEMBER THAT, DARLING~' ],
 
@@ -6944,7 +6646,7 @@ export default {
          '<20>{#p/mettaton}...\nDON\'T BE RIDICULOUS.',
          '<20>{#p/mettaton}I\'VE ONLY BROUGHT YOU ON BECAUSE YOU\'RE A MAGNET FOR DRAMA!'
       ],
-      turn7g2: [ '<20>{#p/basic}(That\'s what my cousin used to say...)' ],
+      turn7g2: [ '<20>{#p/basic}Yeah, yeah...', '<20>{#p/basic}(Wait, that\'s what my cousin used to say...)' ],
       turn7h: [ '<20>{#p/basic}Oh, hey.\nGood to see you!' ],
       turn7i: [ '<20>{#p/mettaton}THAT\'S IT...?', '<20>{#p/mettaton}NOTHING ELSE TO SAY...?' ],
       turn7j1: [ '<20>{#p/basic}You know, Mettaton, I\'m not ALWAYS mad at everyone.' ],
@@ -7275,9 +6977,7 @@ export default {
                     '<32>{#p/story}* Mettaton\'s ATTACK up!\n* Mettaton\'s DEFENSE up!'
                  ]
                : [
-                    SAVE.data.b.a_state_hapstablook
-                       ? '<32>{#p/basic}* The confection reminds Mettaton of someone special to him...'
-                       : '<32>{#p/basic}* The confection reminds Mettaton of someone he once knew...',
+                    '<32>{#p/basic}* The confection reminds Mettaton of someone he once knew...',
                     '<32>{#p/story}* Mettaton\'s ATTACK down!\n* Mettaton\'s DEFENSE down!'
                  ],
          radio: () =>
@@ -7441,16 +7141,12 @@ export default {
                  '<20>{#p/mettaton}{#e/mettaton/17}{#a.la/8}{#a.ra/8}... heh.\nPoetic, isn\'t it?',
                  '<20>{#p/mettaton}{#e/mettaton/20}{#a.la/8}{#a.ra/8}Killing you is the only thing keeping me alive!'
               ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Ghosts!\nDummies!\n... snails?' ]
             : !world.badder_lizard
             ? [ '<20>{#p/mettaton}Drama!\nRomance!\nBloodshed!' ]
             : [ '<20>{#p/mettaton}Karma!\nVengeance!\nPayback!' ],
       turnTalk3: () =>
          world.bad_robot
             ? [ '<20>{#p/mettaton}{#e/mettaton/24}{#a.la/3}{#a.ra/0}But that\'s what sets me apart from all the others.' ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}It\'s an emotional rollercoaster!' ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}It\'s time to put you in your place!' ]
             : !world.badder_lizard
@@ -7459,8 +7155,6 @@ export default {
       turnTalk4: () =>
          world.bad_robot
             ? [ '<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}I couldn\'t give up even if I wanted to...' ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}It\'s a shame things had to be this way...' ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}Smile for the camera, $(moniker2)!' ]
             : !world.badder_lizard
@@ -7470,11 +7164,6 @@ export default {
          world.bad_robot
             ? [
                  '<20>{#p/mettaton}{#e/mettaton/17}{#a.la/9}{#a.ra/10}Now just you watch.\nI\'ll tear that rotten organ right out of your body!'
-              ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [
-                 '<20>{#p/mettaton}But maybe you can help me make a choice here.',
-                 '<20>{#p/mettaton}Queue the all- important pop quiz!'
               ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}Oooh, it\'s time for a pop quiz!', '<20>Can your brains hold a candle to your brawn?' ]
@@ -7493,8 +7182,6 @@ export default {
                  '<20>{#p/mettaton}{#e/mettaton/18}{#a.la/8}{#a.ra/8}What?\nYou call that cold thing a heart?',
                  '<20>{#p/mettaton}{#e/mettaton/30}{#a.la/9}{#a.ra/10}... no.\nLet me show you what a REAL one looks like.'
               ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Not so simple, is it?', '<20>... perhaps a heart to heart will lead us to the answer.' ]
             : SAVE.data.n.state_aerialis_mttanswer === 0
             ? [ '<20>{#p/mettaton}Your "answer" sure was underwhelming...', '<20>{#p/mettaton}But this won\'t be!' ]
             : iFancyYourVilliany()
@@ -7512,8 +7199,6 @@ export default {
       turnTalk7: () =>
          world.bad_robot
             ? [ '<20>{#p/mettaton}{#e/mettaton/26}{#a.la/8}{#a.ra/8}It\'s only a matter of time...' ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}It\'s not like I never loved the old life.' ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}You may be a demon, but can you dance like the devil?' ]
             : !world.badder_lizard
@@ -7522,8 +7207,6 @@ export default {
       turnTalk8: () =>
          world.bad_robot
             ? [ '<20>{#p/mettaton}{#e/mettaton/18}{#a.la/8}{#a.ra/8}Until you inevitably lose to me.' ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}But it wasn\'t exactly glamorous, either...' ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}It\'s time to bring your a-game!' ]
             : !world.badder_lizard
@@ -7532,16 +7215,12 @@ export default {
       turnTalk9: () =>
          world.bad_robot
             ? [ '<20>{#p/mettaton}{#e/mettaton/9}{#a.la/0}{#a.ra/5}Then, our kind will get to see the stars...' ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Whatever, Who cares!' ]
             : !world.badder_lizard
             ? [ '<20>{#p/mettaton}Lights!\nCamera!\nPlastic explosives!' ]
             : [ '<20>{#p/mettaton}Destruction!\nAnnihilation!\nArmageddon!' ],
       turnTalk10: () =>
          world.bad_robot
             ? [ '<20>{#p/mettaton}{#e/mettaton/1}{#a.la/1}{#a.ra/7}... and I\'m the one who\'s going to send them there!' ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Nobody, that\'s who!' ]
             : !world.badder_lizard
             ? [ '<20>{#p/mettaton}Things are blowing up!' ]
             : [ '<20>{#p/mettaton}Things are getting crazy!' ],
@@ -7551,8 +7230,6 @@ export default {
                  '<20>{#p/mettaton}{#e/mettaton/15}{#a.la/8}{#a.ra/8}It\'s a shame, really.\nAlphys, Asgore, even my cousins...',
                  '<20>{#e/mettaton/12}{#a.la/8}{#a.ra/8}Those closest to me are all quick to avoid conflict.'
               ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Let\'s just take a moment to think.' ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}Nothing like a break to quell the enemy\'s fire!' ]
             : !world.badder_lizard
@@ -7563,11 +7240,6 @@ export default {
             ? [
                  '<20>{#p/mettaton}{#e/mettaton/13}{#a.la/8}{#a.ra/8}But me?\nI don\'t play by their lovey-dovey rules.',
                  '<20>{#p/mettaton}{#e/mettaton/23}{#a.la/1}{#a.ra/6}I get straight to the heart of it!'
-              ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [
-                 '<20>{#p/mettaton}I don\'t get why they had to be so confrontational...',
-                 '<20>{#p/mettaton}... am I supposed to believe it was out of love?'
               ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}It\'s time we got back to the heart of this conflict!' ]
@@ -7586,8 +7258,6 @@ export default {
                  '<20>{#p/mettaton}{#e/mettaton/26}{#a.la/8}{#a.ra/8}... jeez.',
                  '<20>{#e/mettaton/25}{#a.la/8}{#a.ra/8}You really are an annoying little bug, aren\'t you?'
               ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}A... and besides, how can I even trust them now?' ]
             : SAVE.data.b.a_state_armwrecker
             ? [ '<20>{#p/mettaton}A... arms?\nWh... who needs arms with legs like these?' ]
             : [ '<20>{#p/mettaton}I... is that all you\'ve got?' ],
@@ -7597,8 +7267,6 @@ export default {
                  '<20>{#p/mettaton}{#e/mettaton/15}{#a.la/8}{#a.ra/8}But hey, you know what they say about a bug, right?',
                  '<20>{#p/mettaton}{#e/mettaton/13}{#a.la/9}{#a.ra/10}It\'s just another problem that needs fixing.'
               ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}I d-don\'t... know what to think anymore...' ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}Let\'s h-hear... hear one last roar from the audience!' ]
             : !world.badder_lizard
@@ -7611,8 +7279,6 @@ export default {
                  '<20>{#p/mettaton}{#e/mettaton/19}{#a.la/0}{#a.ra/10}But, and I mean this in the best possible way...',
                  '<20>{#p/mettaton}{#e/mettaton/17}{#a.la/8}{#a.ra/8}You\'d have better chances against a wall of reinforced polycarbide.'
               ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Could it be that they\'re tr... truly sorry?' ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}There\'s no way I\'m giv... giving up now!' ]
             : !world.badder_lizard
@@ -7624,8 +7290,6 @@ export default {
                  '<20>{#p/mettaton}{#e/mettaton/20}{#a.la/0}{#a.ra/0}What\'s that?\nYou don\'t care what I have to say?',
                  '<20>{#p/mettaton}{#e/mettaton/17}{#a.la/8}{#a.ra/8}... feh.\nYour loss, darling!'
               ]
-            : SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Or is it ju... just a ploy to get into the spotlight?' ]
             : iFancyYourVilliany()
             ? [ '<20>{#p/mettaton}Not after al... all we\'ve been through!' ]
             : !world.badder_lizard
@@ -7643,45 +7307,17 @@ export default {
                  '<20>{#e/mettaton/7}{#a.la/9}{#a.ra/10}I\'ll let my heart take it from here!'
               ]
             : [ '<20>{#p/mettaton}{#e/mettaton/13}The show must go on...!' ],
-      audienceRec0: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [
-                 '<20>{#p/mettaton}{#e/mettaton/11}(Sigh...)',
-                 '<20>{#e/mettaton/29}Well...',
-                 '<20>{#e/mettaton/10}Would you look at that.',
-                 '<20>{#e/mettaton/20}This is the most viewers I\'ve ever had...',
-                 '<20>{#e/mettaton/17}By now, we\'ve reached the viewer call-in milestone.',
-                 '<20>{#e/mettaton/14}...',
-                 '<20>{#e/mettaton/15}Let\'s see what the audience has to say...',
-                 '<20>{#e/mettaton/12}... before we finish off our saga for good.'
-              ]
-            : [
-                 '<20>{#p/mettaton}{#e/mettaton/8}Ooh, look at these ratings...',
-                 '<20>{#e/mettaton/5}This is the most viewers I\'ve ever had!',
-                 '<20>{#e/mettaton/7}By now, we\'ve reached the viewer call-in milestone.',
-                 '<20>{#e/mettaton/15}Let\'s see what the audience has to say...',
-                 iFancyYourVilliany()
-                    ? '<20>{#e/mettaton/19}... before the battle is over for real!'
-                    : '<20>{#e/mettaton/19}... before we finish off our saga for good!'
-              ],
+      audienceRec0: () => [
+         '<20>{#p/mettaton}{#e/mettaton/8}Ooh, look at these ratings...',
+         '<20>{#e/mettaton/5}This is the most viewers I\'ve ever had!',
+         '<20>{#e/mettaton/7}By now, we\'ve reached the viewer call-in milestone.',
+         '<20>{#e/mettaton/15}Let\'s see what the audience has to say...',
+         iFancyYourVilliany()
+            ? '<20>{#e/mettaton/19}... before the battle is over for real!'
+            : '<20>{#e/mettaton/19}... before we finish off our saga for good!'
+      ],
       turnTalkX0a: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [
-                 '<20>{#p/mettaton}{#e/mettaton/15}No... I...',
-                 '<20>{#p/mettaton}{#e/mettaton/14}I still have to...',
-                 '<20>{#p/mettaton}{#e/mettaton/9}...',
-                 '<20>{#p/mettaton}{#e/mettaton/9}Blooky, if you\'re watching this, then...',
-                 '<20>{#p/mettaton}{#e/mettaton/10}Please don\'t feel bad, alright?',
-                 '<20>{#p/mettaton}{#e/mettaton/9}I shouldn\'t have pushed you away.',
-                 '<20>{#p/mettaton}{#e/mettaton/19}I shouldn\'t have acted like I didn\'t care.',
-                 '<20>{#p/mettaton}{#e/mettaton/17}Because... regardless of what happened in the past...',
-                 '<20>{#p/mettaton}{#e/mettaton/10}You, Lurksalot... all of you...',
-                 '<20>{#p/mettaton}{#e/mettaton/20}You\'re still my family!',
-                 '<20>{#p/mettaton}{#e/mettaton/15}So... forget everything else I\'ve said.',
-                 '<20>{#p/mettaton}{#e/mettaton/9}From now on, it doesn\'t matter.',
-                 '<20>{#p/mettaton}{#e/mettaton/10}All that matters...'
-              ]
-            : iFancyYourVilliany()
+         iFancyYourVilliany()
             ? [
                  '<20>{#p/mettaton}{#e/mettaton/14}...',
                  '<20>{#p/mettaton}{#e/mettaton/15}So that\'s how it is, is it?',
@@ -7745,9 +7381,7 @@ export default {
                  '<20>{#p/mettaton}{#e/mettaton/30}And in the end...'
               ],
       turnTalkX0b: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{*}{#p/mettaton}{#e/mettaton/31}... is that I forgive you!{^20}{%}' ]
-            : iFancyYourVilliany()
+         iFancyYourVilliany()
             ? [ '<20>{*}{#p/mettaton}{#e/mettaton/30}... let\'s end this rivalry off with a bang.{^20}{%}' ]
             : !world.badder_lizard
             ? [ '<20>{*}{#p/mettaton}{#e/mettaton/30}... at least it ended off with a bang.{^20}{%}' ]
@@ -7787,46 +7421,36 @@ export default {
          '<21>{#p/napstablook}{~}.....',
          '<21>{#e/mettaton/9}{~}oh........',
          '<21>{~}hi...\nmettaton...',
-         ...(SAVE.data.b.a_state_hapstablook
+         ...(iFancyYourVilliany()
             ? [
-                 '<21>{#e/mettaton/18}{~}i know it\'s been weird since the meeting...\nbut...',
-                 '<21>{~}seeing you for who you really are, doing what you really want...',
-                 '<21>{#e/mettaton/10}{~}brought a happy tear to my eye...',
-                 '<21>{#e/mettaton/9}{~}i can\'t tell, but...\ni guess this is the last episode...?',
-                 '<21>{#e/mettaton/11}{~}i\'ll miss you...\ncousin......'
-              ]
-            : [
-                 ...(iFancyYourVilliany()
+                 '<21>{#e/mettaton/18}{~}i really liked seeing your rivalry...',
+                 ...(SAVE.data.n.kills < 10
                     ? [
-                         '<21>{#e/mettaton/18}{~}i really liked seeing your rivalry...',
-                         ...(SAVE.data.n.kills < 10
-                            ? [
-                                 '<21>{~}it\'s not usually the sort of thing i\'m into...\nbut...',
-                                 '<21>{#e/mettaton/10}{~}because you did it, i enjoyed it...\nvicariously'
-                              ]
-                            : [
-                                 '<21>{~}a lot of people have gone missing lately...\nbut...',
-                                 '<21>{#e/mettaton/10}{~}seeing you battle it out like that helped me feel better'
-                              ])
+                         '<21>{~}it\'s not usually the sort of thing i\'m into...\nbut...',
+                         '<21>{#e/mettaton/10}{~}because you did it, i enjoyed it...\nvicariously'
                       ]
                     : [
-                         '<21>{#e/mettaton/18}{~}i really liked watching your show...',
-                         ...(SAVE.data.n.kills < 10
-                            ? [
-                                 '<21>{~}my life is pretty boring...\nbut...',
-                                 '<21>{#e/mettaton/10}{~}seeing you on tv brought excitement to my life...\nvicariously'
-                              ]
-                            : [
-                                 '<21>{~}a lot of people have gone missing lately...\nbut...',
-                                 '<21>{#e/mettaton/10}{~}seeing you on tv helped me feel better'
-                              ])
-                      ]),
-                 '<21>{#e/mettaton/9}{~}i can\'t tell, but...\ni guess this is the last episode...?',
-                 '<21>{#e/mettaton/11}{~}i\'ll miss you...\nmettaton......'
-              ])
+                         '<21>{~}a lot of people have gone missing lately...\nbut...',
+                         '<21>{#e/mettaton/10}{~}seeing you battle it out like that helped me feel better'
+                      ])
+              ]
+            : [
+                 '<21>{#e/mettaton/18}{~}i really liked watching your show...',
+                 ...(SAVE.data.n.kills < 10
+                    ? [
+                         '<21>{~}my life is pretty boring...\nbut...',
+                         '<21>{#e/mettaton/10}{~}seeing you on tv brought excitement to my life...\nvicariously'
+                      ]
+                    : [
+                         '<21>{~}a lot of people have gone missing lately...\nbut...',
+                         '<21>{#e/mettaton/10}{~}seeing you on tv helped me feel better'
+                      ])
+              ]),
+         '<21>{#e/mettaton/9}{~}i can\'t tell, but...\ni guess this is the last episode...?',
+         '<21>{#e/mettaton/11}{~}i\'ll miss you...\nmettaton......'
       ],
       audienceRec2: [
-         '<20>{#p/mettaton}{#e/mettaton/19}No, wait!\nWait, bl...',
+         '<20>{#p/mettaton}{#e/mettaton/19}No, wait!\nBlooky, I...',
          '<20>{#e/mettaton/9}Th... they already hung up.',
          '<20>{#e/mettaton/19}...',
          '<20>{#e/mettaton/20}I\'ll take another caller!!!'
@@ -7847,33 +7471,13 @@ export default {
          '<20>{#p/mettaton}Ah... I see.',
          '<20>{#e/mettaton/9}...',
          '<20>{#e/mettaton/19}Everyone... thank you so much.',
-         ...(SAVE.data.b.a_state_hapstablook
-            ? [
-                 '<20>{#e/mettaton/20}And Blooky...',
-                 '<20>{#e/mettaton/20}I never thought I\'d forgive you and the others, but...',
-                 '<20>{#e/mettaton/9}That farm was your passion project, right?',
-                 '<20>{#e/mettaton/9}After having several of my own... I think I get it.',
-                 '<20>{#e/mettaton/19}You just wanted us to be successful together...',
-                 '<20>{#e/mettaton/19}You, Lurksalot... all of you...',
-                 '<20>{#e/mettaton/20}You all just wanted us to be happy.',
-                 '<20>{#e/mettaton/20}... heh.',
-                 '<20>{#e/mettaton/9}But as for my show...',
-                 '<20>{#e/mettaton/10}I think I might take a break for a while.'
-              ]
-            : [ '<20>{#e/mettaton/20}But you misunderstand...', '<20>{#e/mettaton/10}I\'m... not going anywhere.' ]),
+         '<20>{#e/mettaton/20}But you misunderstand...',
+         '<20>{#e/mettaton/10}I\'m... not going anywhere.',
          '<20>...',
          '<20>{#e/mettaton/20}I guess it\'s for the best, though.',
-         ...(SAVE.data.b.a_state_hapstablook
-            ? [
-                 '<20>{#e/mettaton/15}I\'ve been away from the family for far too long...',
-                 '<20>{#e/mettaton/14}It\'s about time I told them what\'s going on.',
-                 '<20>{#e/mettaton/19}In short...'
-              ]
-            : [
-                 '<20>{#e/mettaton/15}The truth is, this form\'s energy consumption is...',
-                 '<20>{#e/mettaton/14}Inefficient.',
-                 '<20>{#e/mettaton/19}In a few moments, I\'ll run out of battery power, and...'
-              ]),
+         '<20>{#e/mettaton/15}The truth is, this form\'s energy consumption is...',
+         '<20>{#e/mettaton/14}Inefficient.',
+         '<20>{#e/mettaton/19}In a few moments, I\'ll run out of battery power, and...',
          '<20>{#e/mettaton/10}Well.',
          '<20>I\'ll be alright.',
          iFancyYourVilliany()
@@ -7916,46 +7520,29 @@ export default {
             ],
             [ '<20>{#p/asriel2}...' ]
          ][Math.min(SAVE.flag.n.ga_asrielNapstakill++, 1)],
-      qq: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? 'Would you forgive a ghost?'
-            : !world.badder_lizard
-            ? 'Would you smooch a ghost?'
-            : 'Would you attack a ghost?',
+      qq: () => (!world.badder_lizard ? 'Would you smooch a ghost?' : 'Would you attack a ghost?'),
       qa: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [ 'Yes', 'No', 'Hug it out!', 'Forgive\nand forget.' ]
-            : !world.badder_lizard
+         !world.badder_lizard
             ? [ 'Heck Yeah', 'HELL YEAH', 'Absolutely!', 'Without\nHesitation.' ]
             : [ 'I Could', 'I Should', 'I Will', 'If I\nHave To.' ],
       q0: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Time\'s up.{^40}{%}' ]
-            : !world.badder_lizard
+         !world.badder_lizard
             ? [ '<20>{#p/mettaton}Time\'s up, darling.\nI\'ll take that as a yes~{^40}{%}' ]
             : [ '<20>{#p/mettaton}Time\'s up, darling.\nI\'ll take that as a yes...{^40}{%}' ],
       q1: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Straight to the point, I see.{^40}{%}' ]
-            : !world.badder_lizard
+         !world.badder_lizard
             ? [ '<20>{#p/mettaton}Great answer!\nI love it!!!{^40}{%}' ]
             : [ '<20>{#p/mettaton}I\'d like to see you try.{^40}{%}' ],
       q2: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}... but I can\'t keep running away.{^40}{%}' ]
-            : !world.badder_lizard
+         !world.badder_lizard
             ? [ '<20>{#p/mettaton}Now THAT\'s how you answer a question!{^40}{%}' ]
             : [ '<20>{#p/mettaton}So you just lack the courage, hmm?{^40}{%}' ],
       q3: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Woah, I wouldn\'t go that far.{^40}{%}' ]
-            : !world.badder_lizard
+         !world.badder_lizard
             ? [ '<20>{#p/mettaton}I like your attitude!{^40}{%}' ]
             : [ '<20>{#p/mettaton}The truth is so refreshing!{^40}{%}' ],
       q4: () =>
-         SAVE.data.b.a_state_hapstablook
-            ? [ '<20>{#p/mettaton}Well, that\'s confidence...{^40}{%}' ]
-            : !world.badder_lizard
+         !world.badder_lizard
             ? [ '<20>{#p/mettaton}Oooh, you\'re serious about this.{^40}{%}' ]
             : [ '<20>{#p/mettaton}Don\'t lie to yourself, dear...{^40}{%}' ],
       hitIndicator: 'Hits: $(x)',
@@ -9162,7 +8749,7 @@ export default {
       epiphaNOPE: () =>
          world.bad_lizard > 1
             ? [ '<11>{#p/basic}{~}Like, what are you even doing?' ]
-            : [ '<11>{#p/basic}{~}This ain\'t it, chief.' ],
+            : [ '<11>{#p/undyne}{#p/basic}{~}This ain\'t it, chief.' ],
       act_check: () =>
          world.goatbro
             ? [ '<32>{#p/asriel2}* RG 01...\n* There\'s really not much to say about these guys.' ]
@@ -11933,38 +11520,25 @@ export default {
          name: 'Aerialis - Stage Two',
          text: () =>
             SAVE.data.n.plot < 65
-               ? SAVE.data.b.a_state_hapstablook
-                  ? [
-                       '<32>{#p/human}* (Pondering the backstory of a certain TV superstar fills you with determination.)'
-                    ]
-                  : [ '<32>{#p/human}* (Mettaton\'s ludicrous hijinks fill you with determination.)' ]
+               ? [ '<32>{#p/human}* (Mettaton\'s ludicrous hijinks fill you with determination.)' ]
                : SAVE.data.n.plot < 68
                ? [ '<32>{#p/human}* (Taking a step back before your upcoming performance fills you with determination.)' ]
                : world.bad_robot
                ? [ '<32>{#p/human}* (Reflecting on your road to conflict fills you with determination.)' ]
                : SAVE.data.b.killed_mettaton
                ? [ '<32>{#p/human}* (Reflecting on such an anti- climactic ending fills you with determination.)' ]
-               : SAVE.data.b.a_state_hapstablook
-               ? [ '<32>{#p/human}* (Knowing how far Mettaton has come fills you with determination.)' ]
                : [ '<32>{#p/human}* (Reflecting on your road to superstardom fills you with determination.)' ]
       },
       a_split: {
          name: 'Aerialis - Fountain',
          text: () =>
             SAVE.data.n.plot < 65
-               ? SAVE.data.b.a_state_hapstablook
-                  ? [ '<32>{#p/human}* (The anticipation of Mettaton\'s intervention fills you with determination.)' ]
-                  : [ '<32>{#p/human}* (This fountain in the middle of nowhere fills you with determination.)' ]
+               ? [ '<32>{#p/human}* (This fountain in the middle of nowhere fills you with determination.)' ]
                : SAVE.data.n.plot < 68
                ? [ '<32>{#p/human}* (Gazing upon this fountain once again fills you with determination.)' ]
                : world.bad_robot || SAVE.data.b.killed_mettaton
                ? [
                     '<32>{#p/human}* (The punch in the fountain has turned bitter.)',
-                    '<32>* (This, of course, fills you with determination.)'
-                 ]
-               : SAVE.data.b.a_state_hapstablook
-               ? [
-                    '<32>{#p/human}* (The punch in the fountain has turned savory.)',
                     '<32>* (This, of course, fills you with determination.)'
                  ]
                : [
@@ -11979,8 +11553,6 @@ export default {
                ? [ '<32>{#p/human}* (Taxi rides to unfamiliar places fill you with determination.)' ]
                : 68 <= SAVE.data.n.plot
                ? [ '<32>{#p/human}* (Returning to this corner of corny comforts fills you with determination.)' ]
-               : SAVE.data.b.a_state_hapstablook
-               ? [ '<32>{#p/human}* (Learning Mettaton\'s backstory fills you with determination.)' ]
                : [ '<32>{#p/human}* (Over-dramatic musicals fill you with determination.)' ]
       },
       a_core_entry1: {
