@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2026-03-13 14:54+0000\n"
+"PO-Revision-Date: 2026-03-18 20:54+0000\n"
 "Last-Translator: Valent <placeholder@example.com>\n"
 "Language-Team: Spanish <https://cryblik.com:49495/projects/ps-outertale/2-"
 "starton/es/>\n"
@@ -12344,57 +12344,65 @@ msgid "<32>{#p/basic}* So... Papyrus, huh?"
 msgstr "<32>{#p/basic}* Así que... Papyrus, ¿eh?"
 
 msgid "<32>* After all this time, you finally became friends."
-msgstr ""
+msgstr "<32>* Después de todo este tiempo, por fin se volvieron amigos."
 
 msgid "<32>* Somehow I knew you two would end up as friends."
-msgstr ""
+msgstr "<32>* De alguna manera, sabía que ustedes dos acabarían siendo amigos."
 
 msgid ""
 "<32>* ...\n"
 "* I watched that skeleton grow up here..."
 msgstr ""
+"<32>* ...\n"
+"* Ví a ese esqueleto crecer aquí..."
 
 msgid "<32>* Always setting a good example for those around him..."
-msgstr ""
+msgstr "<32>* Siempre dando un buen ejemplo a quienes le rodean..."
 
 msgid "<32>* ... and for me."
-msgstr ""
+msgstr "<32>* ... y a mí."
 
 msgid "<32>* It's too bad I can't tell him that myself."
-msgstr ""
+msgstr "<32>* Es una pena que no pueda decírselo yo mismo."
 
 msgid "<32>* But that's okay."
-msgstr ""
+msgstr "<32>* Pero está bien."
 
 msgid "<32>* Seeing you two get along more than makes up for it."
-msgstr ""
+msgstr "<32>* Ver que se llevan tan bien es más que suficiente."
 
 msgid ""
 "<32>{#p/basic}* I heard the taxi driver will be here when everyone else is "
 "off the outpost."
 msgstr ""
+"<32>{#p/basic}* He oído que el taxista estará aquí cuando todos los demás "
+"hayan salido de la Zona Espacial."
 
 msgid ""
 "<32>{#p/basic}* I heard the taxi driver will be here when everyone else is "
 "gone."
 msgstr ""
+"<32>{#p/basic}* He oído que el taxista estará aquí cuando todos los demás se "
+"hayan ido."
 
 msgid "<32>{#p/basic}* I heard the taxi driver doesn't eat their greens."
-msgstr ""
+msgstr "<32>{#p/basic}* He oído que el taxista no se come sus verduras."
 
 msgid "<33>{#p/basic}* Are they even a real monster...?"
-msgstr ""
+msgstr "<33>{#p/basic}* ¿Es si quiera un monstruo de verdad...?"
 
 msgid ""
 "<32>{#p/basic}* A real monster wouldn't hesitate to escape this dreadful "
 "place."
 msgstr ""
+"<32>{#p/basic}* Un monstruo de verdad no dudaría en escapar de este lugar "
+"espantoso."
 
 msgid "<32>{#p/basic}* Real monsters always eat their greens."
-msgstr ""
+msgstr "<32>{#p/basic}* Los monstruos de verdad siempre se comen sus verduras."
 
 msgid "<32>{#p/human}* (You can't seem to find anyone down there.)"
-msgstr ""
+msgstr "<32>{#p/human}* (No parece haber nadie por aquí.)"
 
 msgid "UNDYNEFAN10"
 msgstr "UNDYNEFAN10"
@@ -12403,10 +12411,10 @@ msgid "(Unknown)"
 msgstr "(Desconocido)"
 
 msgid "New High Score!"
-msgstr "¡Nueva Puntuación Alta!"
+msgstr "¡Nueva Puntuación Máxima!"
 
 msgid "Better Luck Next Time..."
-msgstr ""
+msgstr "Mejor Suerte Para La Próxima..."
 
 msgid "Thanks For Playing!"
 msgstr "¡Gracias Por Jugar!"
