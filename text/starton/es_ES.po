@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
 "PO-Revision-Date: 2026-03-18 20:54+0000\n"
-"Last-Translator: Valent <placeholder@example.com>\n"
+"Last-Translator: Allmighty <allmighty@example.com>\n"
 "Language-Team: Spanish <https://cryblik.com:49495/projects/ps-outertale/2-"
 "starton/es/>\n"
 "Language: es_ES\n"
@@ -12423,20 +12423,21 @@ msgid "<32>{#p/event}* Ring, ring..."
 msgstr "<32>{#p/event}* Ring, ring..."
 
 msgid "<32>{#p/alphys}* So... killing him wasn't g-good enough, huh?"
-msgstr ""
+msgstr "<32>{#p/alphys}* Así que... matarlo no fue s-suficiente, ¿eh?"
 
 msgid ""
 "<32>* You just had to go and beat his score on my... stupid m-minigame..."
 msgstr ""
+"<32>* Tenías que ir y superar su puntuación en mi... estúpido m-minijuego..."
 
 msgid "<32>* Ehehe..."
 msgstr "<32>* Ejeje..."
 
 msgid "<32>* You're truly disgusting..."
-msgstr ""
+msgstr "<32>* Eres realmente repugnante..."
 
 msgid "<32>{#s/equip}{#p/human}* (You lost all of your G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Perdiste todo tu Oro.)"
 
 msgid "<25>{#p/asriel2}{#f/10}* Daring today, aren't we?"
 msgstr ""
