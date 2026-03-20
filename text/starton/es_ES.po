@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2026-03-18 20:54+0000\n"
+"PO-Revision-Date: 2026-03-21 12:54+0000\n"
 "Last-Translator: Allmighty <allmighty@example.com>\n"
 "Language-Team: Spanish <https://cryblik.com:49495/projects/ps-outertale/2-"
 "starton/es/>\n"
@@ -12440,79 +12440,93 @@ msgid "<32>{#s/equip}{#p/human}* (You lost all of your G.)"
 msgstr "<32>{#s/equip}{#p/human}* (Perdiste todo tu Oro.)"
 
 msgid "<25>{#p/asriel2}{#f/10}* Daring today, aren't we?"
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/10}* Hoy estamos atrevidos, ¿no?"
 
 msgid "<25>{#p/asriel2}{#f/1}* Now THAT's the Alphys I like to see."
-msgstr ""
+msgstr "<25>{#p/asriel2}{#f/1}* Esta SÍ que es la Alphys que me gusta ver."
 
 msgid "<25>{#p/asriel2}{#f/4}* Too bad this won't save her when she's dead."
 msgstr ""
+"<25>{#p/asriel2}{#f/4}* Lástima que esto no la salvará cuando esté muerta."
 
 msgid ""
 "<25>{#p/sans}* didja seriously just put in all that effort tryna beat my "
 "score?"
 msgstr ""
+"<25>{#p/sans}* ¿en serio te esforzaste tanto intentando superar mi "
+"puntuación?"
 
 msgid ""
 "<25>{#f/3}* wow.\n"
 "* you're even more stubborn than my bro."
 msgstr ""
+"<25>{#f/3}* guau.\n"
+"* eres incluso más terco que mi hermano."
 
 msgid "<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Too bad he's dead, huh?"
 msgstr ""
+"<25>{*}{#p/darksans}{#f/1}{#i/5}{#s.stop}* Lástima que esté muerto, ¿eh?"
 
 msgid ""
 "<25>{#f/0}* i'd give you a special reward, but i'm still looking for toriel."
 msgstr ""
+"<25>{#f/0}* te daría una recompensa especial, pero sigo buscando a toriel."
 
 msgid "<25>{#f/0}* i'd give you a special reward, but i'm on break right now."
 msgstr ""
+"<25>{#f/0}* te daría una recompensa especial, pero ahora mismo estoy de "
+"descanso."
 
 msgid "<25>{#f/0}* no hard feelings."
-msgstr ""
+msgstr "<25>{#f/0}* sin rencores."
 
 msgid "<25>{#f/2}* instead, i'll just send ya some pocket change."
-msgstr ""
+msgstr "<25>{#f/2}* en cambio, te enviaré algo de cambio suelto."
 
 msgid "<32>{#s/equip}{#p/human}* (You got 10000G.)"
-msgstr ""
+msgstr "<32>{#s/equip}{#p/human}* (Obtuviste 10000 de Oro.)"
 
 msgid "<25>{#p/asriel1}{#f/13}* ... you actually beat the high score?"
 msgstr ""
+"<25>{#p/asriel1}{#f/13}* ... ¿de verdad superaste la puntuación más alta?"
 
 msgid ""
 "<25>{#f/17}* Wow.\n"
 "* I under-estimated you."
 msgstr ""
+"<25>{#f/17}* Guau.\n"
+"* No te valore lo suficiente."
 
 msgid "<25>{#f/20}* Very cool, Frisk."
-msgstr ""
+msgstr "<25>{#f/20}* Muy genial, Frisk."
 
 msgid "Score: $(x)"
 msgstr "Puntuación: $(x)"
 
 msgid "<32>{#p/asriel2}* Dogamy and Dogaressa."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Dogamy y Dogaressa."
 
 msgid "<32>{#p/story}* Dogi assault you!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Dogi te asalta!"
 
 msgid "<32>{#p/asriel2}* Tacky hats and fickle friends."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Sombreros cutres y amigos volubles."
 
 msgid ""
 "<32>{#p/story}* Astro Serf saunters in!\n"
 "* Jerry came too."
 msgstr ""
+"<32>{#p/story}* ¡Astro Serf hace su entrada!\n"
+"* Jerry también vino."
 
 msgid "<32>{#p/asriel2}* The teenage idiot squad."
-msgstr ""
+msgstr "<32>{#p/asriel2}* El escuadrón de adolescentes idiotas."
 
 msgid "<32>{#p/story}* Chilldrake and Astro Serf pose like bad guys."
-msgstr ""
+msgstr "<32>{#p/story}* Chilldrake y Astro Serf posan como tipos malos."
 
 msgid "<32>{#p/story}* Stardrake and Astro Serf pose like bad guys."
-msgstr ""
+msgstr "<32>{#p/story}* Stardrake y Astro Serf posan como tipos malos."
 
 msgid "<32>{#p/asriel2}* One left."
 msgstr "<32>{#p/asriel2}* Falta Uno."
