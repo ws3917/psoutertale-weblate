@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2026-03-21 12:54+0000\n"
-"Last-Translator: Allmighty <allmighty@example.com>\n"
+"PO-Revision-Date: 2026-03-23 07:54+0000\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://cryblik.com:49495/projects/ps-outertale/2-"
 "starton/es/>\n"
 "Language: es_ES\n"
@@ -12532,16 +12532,16 @@ msgid "<32>{#p/asriel2}* One left."
 msgstr "<32>{#p/asriel2}* Falta Uno."
 
 msgid "<32>{#p/story}* Chilldrake remains steady."
-msgstr ""
+msgstr "<32>{#p/story}* Chilldrake se mantiene estable."
 
 msgid "<32>{#p/story}* Stardrake remains steady."
-msgstr ""
+msgstr "<32>{#p/story}* Stardrake se mantiene estable."
 
 msgid "<32>{#p/story}* Astro Serf remains steady."
-msgstr ""
+msgstr "<32>{#p/story}* Astro Serf se mantiene estable."
 
 msgid "<32>{#p/story}* Just Astro now."
-msgstr ""
+msgstr "<32>{#p/story}* Ahora solo es Astro."
 
 msgid "<32>{#p/asriel2}* Jerry."
 msgstr "<32>{#p/asriel2}* Jerry."
@@ -12553,111 +12553,146 @@ msgid ""
 "<32>{#p/asriel2}* The teenage idiot squad.\n"
 "* Also, Jerry."
 msgstr ""
+"<32>{#p/asriel2}* La pandilla de adolescentes idiotas.\n"
+"* Y también Jerry."
 
 msgid "<32>{#p/story}* Jerry and friends appear!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Aparecen Jerry y sus amigos!"
 
 msgid ""
 "<32>{#p/story}* Astro Serf and Chilldrake confront you, sighing.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Astro Serf y Chilldrake se enfrentan a ti, agh.\n"
+"* Jerry."
 
 msgid ""
 "<32>{#p/story}* Astro Serf and Stardrake confront you, sighing.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Astro Serf y Stardrake se enfrentan a ti, agh.\n"
+"* Jerry."
 
 msgid "<32>{#p/asriel2}* Two left."
 msgstr "<32>{#p/asriel2}* Faltan Dos."
 
 msgid "<32>{#p/story}* Astro Serf and Chilldrake remain steady."
-msgstr ""
+msgstr "<32>{#p/story}* Astro Serf y Chilldrake se mantienen estables."
 
 msgid "<32>{#p/story}* Astro Serf and Stardrake remain steady."
-msgstr ""
+msgstr "<32>{#p/story}* Astro Serf y Stardrake se mantienen estables."
 
 msgid ""
 "<32>{#p/story}* Astro Serf remains steady.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Astro Serf se mantiene estable.\n"
+"* Jerry."
 
 msgid "<32>{#p/story}* Chilldrake and Jerry remain steady!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Chilldrake y Jerry se mantienen estables!"
 
 msgid ""
 "<32>{#p/story}* Chilldrake remains steady.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Chilldrake se mantiene estable.\n"
+"* Jerry."
 
 msgid "<32>{#p/story}* Stardrake and Jerry remain steady!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Stardrake y Jerry se mantienen estables!"
 
 msgid ""
 "<32>{#p/story}* Stardrake remains steady.\n"
 "* Jerry."
 msgstr ""
+"<32>{#p/story}* Stardrake se mantiene estable.\n"
+"* Jerry."
 
 msgid ""
 "<32>{#p/asriel2}* Chilldrake, the teen rebel.\n"
 "* Nothing more pointless than a rebel without a cause."
 msgstr ""
+"<32>{#p/asriel2}* Chilldrake, el adolescente rebelde.\n"
+"* No hay nada más inútil que un rebelde sin causa."
 
 msgid ""
 "<32>{#p/asriel2}* Stardrake, the comedian.\n"
 "* A bigger joke than he himself could ever hope to tell."
 msgstr ""
+"<32>{#p/asriel2}* Stardrake, el comediante.\n"
+"* Un chiste más grande de lo que él mismo podría llegar a contar jamás."
 
 msgid ""
 "<33>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
 "* Rebels against everything!!\n"
 "* On the lookout for Starry."
 msgstr ""
+"<33>{#p/story}* CHILLDRAKE - ATQ 12 DEF 7\n"
+"* ¡¡Rebeldes contra todo!!\n"
+"* Buscando a Starry."
 
 msgid ""
 "<32>{#p/story}* STARDRAKE - ATK 12 DEF 7\n"
 "* This teen comedian fights to keep a captive audience."
 msgstr ""
+"<32>{#p/story}* STARDRAKE - ATQ 12 DEF 7\n"
+"* Este adolescente comediante se esfuerza por mantener a su público en vilo."
 
 msgid ""
 "<32>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
 "* Rebels against everything!!\n"
 "* Looking for a way out."
 msgstr ""
+"<32>{#p/story}* CHILLDRAKE - ATQ 12 DEF 7\n"
+"* ¡¡Rebeldes contra todo!!\n"
+"* Buscando una salida."
 
 msgid ""
 "<32>{#p/story}* STARDRAKE - ATK 12 DEF 7\n"
 "* This teen isn't taking your punchline very well."
 msgstr ""
+"<32>{#p/story}* STARDRAKE - ATQ 12 DEF 7\n"
+"* A este adolescente no le está haciendo mucha gracia tu broma."
 
 msgid ""
 "<32>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
 "* Rebels against everything!!\n"
 "* Especially flirting!!"
 msgstr ""
+"<32>{#p/story}* CHILLDRAKE - ATQ 12 DEF 7\n"
+"* ¡¡Rebeldes contra todo!!\n"
+"* ¡¡Sobre todo contra el coqueteo!!"
 
 msgid ""
 "<32>{#p/story}* STARDRAKE - ATK 12 DEF 7\n"
 "* Flirting is no joke for this teen comedian."
 msgstr ""
+"<32>{#p/story}* STARDRAKE - ATQ 12 DEF 7\n"
+"* Para este adolescente comediante, coquetear no es ninguna broma."
 
 msgid ""
 "<32>{#p/story}* CHILLDRAKE - ATK 12 DEF 7\n"
 "* The rebellion is fading..."
 msgstr ""
+"<32>{#p/story}* CHILLDRAKE - ATQ 12 DEF 7\n"
+"* La rebelión se está desvaneciendo..."
 
 msgid ""
 "<32>{#p/story}* STARDRAKE - ATK 12 DEF 7\n"
 "* Things are looking up for this teen comedian."
 msgstr ""
+"<32>{#p/story}* STARDRAKE - ATQ 12 DEF 7\n"
+"* Las cosas pintan bien para este adolescente comediante."
 
 msgid "<32>{#p/human}* (You make a romantic joke.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Haces una broma romántica.)"
 
 msgid "<08>{#p/basic}{~}You're weird."
 msgstr "<08>{#p/basic}{~}Eres raro."
 
 msgid "<08>{#p/basic}{~}You're mean AND weird."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Eres malo Y raro."
 
 msgid "<32>{#p/asriel2}* Chilldrake."
 msgstr "<32>{#p/asriel2}* Chilldrake."
@@ -12666,141 +12701,160 @@ msgid "<32>{#p/asriel2}* Stardrake."
 msgstr "<32>{#p/asriel2}* Stardrake."
 
 msgid "<32>{#p/story}* Chilldrake is puffed up..."
-msgstr ""
+msgstr "<32>{#p/story}* Chilldrake está engreído..."
 
 msgid "<32>{#p/story}* Stardrake is puffed up..."
-msgstr ""
+msgstr "<32>{#p/story}* Stardrake está engreído..."
 
 msgid ""
 "<08>{#p/basic}{~}No!!\n"
 "This is the way!"
 msgstr ""
+"<08>{#p/basic}{~}¡¡No!!\n"
+"¡Este es el camino!"
 
 msgid "<08>{#p/basic}{~}THIS won't be funny either!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Esto tampoco va a tener gracia!"
 
 msgid "<08>{#p/basic}{~}Filthy law- obider."
 msgstr "<08>{#p/basic}{~}Asqueroso cumplidor de la ley."
 
 msgid "<08>{#p/basic}{~}Is your flesh rotten as you?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Tu carne está tan podrida como tú?"
 
 msgid "<08>{#p/basic}{~}Defiance can't be defied!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡A la rebeldía no se le puede hacer frente!"
 
 msgid "<08>{#p/basic}{~}(Insults towards humans)"
 msgstr "<08>{#p/basic}{~}(Insulta hacia los humanos)"
 
 msgid "<32>{#p/human}* (You denounce Chilldrake for its cause.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Denuncias a Chilldrake por sus actos.)"
 
 msgid "<32>{#p/human}* (You boo Stardrake.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Abucheas a Stardrake.)"
 
 msgid ""
 "<32>{#p/human}* (You tell Chilldrake that they should be a rebel somewhere "
 "else.)"
 msgstr ""
+"<32>{#p/human}* (Le dices a Chilldrake que debería irse a rebelarse a otro "
+"lugar.)"
 
 msgid "<32>{#p/human}* (You tell Stardrake that they aren't funny.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Le dices a Stardrake que no es divertido.)"
 
 msgid ""
 "<32>{#p/human}* (You mock Chilldrake for protesting out in the middle of "
 "nowhere.)"
 msgstr ""
+"<32>{#p/human}* (Te burlas de Chilldrake por protestar en medio de la nada.)"
 
 msgid ""
 "<32>{#p/basic}* Chilldrake takes your mockery as advice, and saunters off to"
 " town..."
 msgstr ""
+"<32>{#p/basic}* Chilldrake se toma tus burlas como un consejo y se va "
+"tranquilamente al pueblo..."
 
 msgid ""
 "<32>{#p/human}* (You tell Stardrake that no one will ever love them the way "
 "they are.)"
 msgstr ""
+"<32>{#p/human}* (Le dices a Stardrake que nadie lo querrá jamás tal y como "
+"es.)"
 
 msgid ""
 "<32>{#p/basic}* Stardrake struggles to make a retort, and slinks away "
 "utterly crushed..."
 msgstr ""
+"<32>{#p/basic}* Stardrake intenta responder, pero no lo consigue, y se aleja "
+"cabizbajo, completamente abatido..."
 
 msgid "<32>{#p/asriel2}* Almost dead."
 msgstr "<32>{#p/asriel2}* Casi se muere."
 
 msgid "<32>{#p/story}* Chilldrake is flaking apart."
-msgstr ""
+msgstr "<32>{#p/story}* Chilldrake se está desmoronando."
 
 msgid "<32>{#p/story}* Stardrake is flaking apart."
-msgstr ""
+msgstr "<32>{#p/story}* Stardrake se está desmoronando."
 
 msgid ""
 "<08>{#p/basic}{~}Brush my teeth?\n"
 "No way in heck!"
 msgstr ""
+"<08>{#p/basic}{~}¿Qué me cepille los dientes?\n"
+"¡Ni hablar!"
 
 msgid "<08>{#p/basic}{~}Try not to get \"spaced\" out.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Intenta no ocupar mucho \"espacio\".."
 
 msgid "<08>{#p/basic}{~}No bedtime for this bird!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Esta pájaro no tendrá hora de dormir!"
 
 msgid "<08>{#p/basic}{~}I'm just in my moon pun \"phase\""
-msgstr ""
+msgstr "<08>{#p/basic}{~}Simplemente estoy en mi \"fase\" lunar"
 
 msgid "<08>{#p/basic}{~}Who needs parents anyway!?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿¡Quién necesita padres de todas maneras!?"
 
 msgid "<08>{#p/basic}{~}Haven't seen home in \"light- years..\""
-msgstr ""
+msgstr "<08>{#p/basic}{~}No he visto mi casa en \"años luz..\""
 
 msgid "<08>{#p/basic}{~}Live wild and free, I say!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Yo digo que vivas feliz y libre!"
 
 msgid ""
 "<08>{#p/basic}{~}Oh, it's on.\n"
 "\"Tachy- on.\""
 msgstr ""
+"<08>{#p/basic}{~}Oh, esta encendido.\n"
+"\"Demasia- encendido.\""
 
 msgid "<08>{#p/basic}{~}Nobody tells ME what to do!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Nadie ME dice lo que tengo que hacer!"
 
 msgid ""
 "<08>{#p/basic}{~}Want a fight?\n"
 "\"Comet\" me, bro."
 msgstr ""
+"<08>{#p/basic}{~}¿Quieres pelear?\n"
+"Te van a salir \"estrellitas\"."
 
 msgid "<08>{#p/basic}{~}Authority be darned!"
 msgstr "<08>{#p/basic}{~}¡Al diablo con la autoridad!"
 
 msgid "<08>{#p/basic}{~}Don't ruin the \"atmos- phere..\""
-msgstr ""
+msgstr "<08>{#p/basic}{~}No arruines la \"atmosfera\""
 
 msgid ""
 "<08>{#p/basic}{~}Trim my claws?\n"
 "No way in heck!"
 msgstr ""
+"<08>{#p/basic}{~}¿Qué me corte las uñas?\n"
+"¡Ni hablar!"
 
 msgid "<08>{#p/basic}{~}It's not free, it's \"zero G\""
-msgstr ""
+msgstr "<08>{#p/basic}{~}No es gratis, solo es \"cero de Orografía\""
 
 msgid "<32>{#p/story}* Chilldrake is losing faith in its rebellion."
-msgstr ""
+msgstr "<32>{#p/story}* Chilldrake está perdiendo la fe en su rebelión."
 
 msgid "<32>{#p/story}* Stardrake is pleased with its \"stellar\" joke."
-msgstr ""
+msgstr "<32>{#p/story}* Stardrake está encantado con su chiste \"estelar\"."
 
 msgid "<08>{#p/basic}{~}At least you admit it."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Al menos lo admites."
 
 msgid "<08>{#p/basic}{~}That wasn't s'posed to be funny!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Eso no se suponía que fuera gracioso!"
 
 msgid "<08>{#p/basic}{~}You don't know my cause!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡No sabes cuál es mi motivación!"
 
 msgid "<08>{#p/basic}{~}What are YOU laughin' at!?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿¡De qué TE estás riendo!?"
 
 msgid ""
 "<08>{#p/basic}{~}Do you..\n"
@@ -12814,40 +12868,46 @@ msgid ""
 "Laughs!\n"
 "Mom was right!"
 msgstr ""
+"<08>{#p/basic}{~}¿¡Ves!?\n"
+"¡Risas!\n"
+"¡Mamá tenía razón!"
 
 msgid "<08>{#p/basic}{~}I don't think you.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}No creo que tú.."
 
 msgid "<08>{#p/basic}{~}Thanks, you're all great."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Gracias, eres genial."
 
 msgid "<08>{#p/basic}{~}To tell you the truth.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}A decir verdad.."
 
 msgid "<08>{#p/basic}{~}You have good taste!!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡¡Tienes buen gusto !!"
 
 msgid "<32>{#p/human}* (You agree with Chilldrake.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Concuerdas con Chilldrake.)"
 
 msgid "<32>{#p/human}* (You laugh at Stardrake's remark.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Te ríes ante el comentario de Stardrake.)"
 
 msgid ""
 "<32>{#p/human}* (But it hasn't said anything you could agree with yet.)"
 msgstr ""
+"<32>{#p/human}* (Pero todavía no ha dicho nada con lo que puedas estar de "
+"acuerdo.)"
 
 msgid "<32>{#p/human}* (But it hasn't said anything you could laugh at yet.)"
 msgstr ""
+"<32>{#p/human}* (Pero todavía no ha dicho nada de lo que te puedas reír.)"
 
 msgid "<32>{#p/human}* (You laugh at Stardrake's pun.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Te ríes del chiste de Stardrake.)"
 
 msgid "<32>{#p/human}* (You double down on your agreement with Chilldrake.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Reafirmas tu acuerdo con Chilldrake.)"
 
 msgid "<32>{#p/human}* (You continue to laugh at Stardrake's puns.)"
-msgstr ""
+msgstr "<32>{#p/human}* (No dejas de reírte de los chistes de Stardrake.)"
 
 msgid "* Chilldrake"
 msgstr "* Chilldrake"
@@ -12856,10 +12916,10 @@ msgid "* Stardrake"
 msgstr "* Stardrake"
 
 msgid "<08>{#p/basic}{~}Only Starry can do that."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Solo Starry puede hacer eso."
 
 msgid "<08>{#p/basic}{~}Is that s'posed to be funny?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Se supone que eso es gracioso?"
 
 msgid "<08>{#p/basic}{~}You ain't Starry."
 msgstr "<08>{#p/basic}{~}Tú no eres Starry."
@@ -12868,141 +12928,158 @@ msgid "<08>{#p/basic}{~}Ha.. Ha.."
 msgstr "<08>{#p/basic}{~}Ja.. Ja.."
 
 msgid "<08>{#p/basic}{~}Quit copying my friends."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Deja de copiar a mis amigos."
 
 msgid "<08>{#p/basic}{~}I've heard that one."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Ya escuche ese."
 
 msgid "<32>{#p/human}* (You make a space pun.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Haces un chiste sobre el espacio.)"
 
 msgid "<32>{#p/story}* Chilldrake is wondering where Starry went."
-msgstr ""
+msgstr "<32>{#p/story}* Chilldrake se pregunta dónde se habrá metido Starry."
 
 msgid "<32>{#p/story}* Stardrake is assessing the crowd."
-msgstr ""
+msgstr "<32>{#p/story}* Stardrake está evaluando al público."
 
 msgid "<32>{#p/story}* Chilldrake is chanting an anarchist spell."
-msgstr ""
+msgstr "<32>{#p/story}* Chilldrake está recitando un hechizo anarquista."
 
 msgid "<32>{#p/story}* Stardrake is practicing its next pun."
-msgstr ""
+msgstr "<32>{#p/story}* Stardrake está ensayando su próximo chiste."
 
 msgid "<32>{#p/story}* Chilldrake starts a one- monster riot."
-msgstr ""
+msgstr "<32>{#p/story}* Chilldrake desata un motín de monstruos."
 
 msgid "<32>{#p/story}* Stardrake is smiling at the thought of its next pun."
-msgstr ""
+msgstr "<32>{#p/story}* Stardrake sonríe al pensar en su siguiente chiste."
 
 msgid "<32>{#p/story}* Smells like wet pillows."
-msgstr ""
+msgstr "<32>{#p/story}* Huele a almohadas mojadas."
 
 msgid "<32>{#p/story}* Smells like body spray."
-msgstr ""
+msgstr "<32>{#p/story}* Huele a desodorante."
 
 msgid ""
 "<32>{#p/story}* Stardrake sighs in relief, realizing its own name is in fact"
 " not a pun."
 msgstr ""
+"<32>{#p/story}* Stardrake suspira aliviado al darse cuenta de que su propio "
+"nombre, en realidad, no es un juego de palabras."
 
 msgid "<32>{#p/story}* Chilldrake saunters up!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Chilldrake se acerca tranquilamente!"
 
 msgid "<32>{#p/story}* Stardrake flutters forth!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Stardrake sale volando!"
 
 msgid ""
 "<33>{#p/asriel2}* Jerry, the undisputable jerk.\n"
 "* I refuse to believe one flirt could have that much influence."
 msgstr ""
+"<33>{#p/asriel2}* Jerry, el imbécil indiscutible.\n"
+"* Me niego a creer que un simple coqueteo pueda tener tanta influencia."
 
 msgid ""
 "<32>{#p/story}* JERRY - ATK 0 DEF 30\n"
 "* A born-again monster, awakened with the power of friendship!"
 msgstr ""
+"<32>{#p/story}* JERRY - ATQ 0 DEF 30\n"
+"* ¡Un monstruo renacido, despertado por el poder de la amistad!"
 
 msgid ""
 "<32>{#p/asriel2}* Jerry, the undisputable jerk.\n"
 "* A worthless piece of garbage, nothing more, nothing less."
 msgstr ""
+"<32>{#p/asriel2}* Jerry, el imbécil indiscutible.\n"
+"* Un pedazo de basura sin valor, ni más ni menos."
 
 msgid ""
 "<32>{#p/story}* JERRY - ATK 0 DEF 30\n"
 "* Everyone knows Jerry.\n"
 "* Makes attacks last longer."
 msgstr ""
+"<32>{#p/story}* JERRY - ATQ 0 DEF 30\n"
+"* Todo el mundo conoce a Jerry.\n"
+"* Hace que los ataques duren más tiempo."
 
 msgid ""
 "<32>{#p/human}* (You flirt with Jerry.)\n"
 "* (It appreciates the compliment.)"
 msgstr ""
+"<32>{#p/human}* (Coqueteas con Jerry.)\n"
+"* (Le gusta el cumplido.)"
 
 msgid ""
 "<32>{#p/human}* (You call on your experience, and deliver a life-changing "
 "flirt.)"
 msgstr ""
+"<32>{#p/human}* (Recurres a tu experiencia y lanzas un coqueteo que le "
+"cambiará la vida.)"
 
 msgid "<32>{#p/human}* (You flirt with Jerry.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Coqueteas con Jerry.)"
 
 msgid "<32>{#p/basic}* Jerry seems to like you a little too much now."
-msgstr ""
+msgstr "<32>{#p/basic}* Parece que le gustas a Jerry demasiado últimamente."
 
 msgid "<32>{#p/human}* (You ditch Jerry.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Dejas a Jerry.)"
 
 msgid "<32>{#p/human}* (You kiss Jerry.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Besas a Jerry.)"
 
 msgid "<32>{#p/story}* Jerry's redemption arc begins."
-msgstr ""
+msgstr "<32>{#p/story}* Comienza el arco de redención de Jerry."
 
 msgid "<32>{#p/story}* This is wrong on so many levels."
-msgstr ""
+msgstr "<32>{#p/story}* Esto está mal en varios aspectos."
 
 msgid "<08>{#p/basic}{~}You... y-you..."
 msgstr "<08>{#p/basic}{~}Tú... t-tú..."
 
 msgid "<08>{#p/basic}{~}Just for you, I'll..."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Solo por ti, voy a..."
 
 msgid "<08>{#p/basic}{~}I'll be the best person I can be!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Seré la mejor persona que pueda ser!"
 
 msgid "<08>{#p/basic}{~}\\x00*licks lips*"
 msgstr "<08>{#p/basic}{~}\\x00*se lame los labios*"
 
 msgid "<32>{#p/story}* Jerry is wounded."
-msgstr ""
+msgstr "<32>{#p/story}* Jerry está herido."
 
 msgid "<08>{#p/basic}{~}I'm so glad we're here!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Me alegro mucho de que estemos aquí!"
 
 msgid "<08>{#p/basic}{~}Aren't you guys BORED?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿No están ABURRIDOS?"
 
 msgid "<08>{#p/basic}{~}Can we do this more often??"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿¿Podemos hacer esto más a menudo??"
 
 msgid "<08>{#p/basic}{~}Why are we doing this?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Por qué hacemos esto?"
 
 msgid "<08>{#p/basic}{~}Hey, you guys are the BEST!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Oigan, ustedes son los MEJORES!"
 
 msgid "<08>{#p/basic}{~}Wow, you guys SUCK at this."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Vaya, ustedes APESTAN en esto."
 
 msgid "<08>{#p/basic}{~}Does anyone want a hug?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Alguien quiere un abrazo?"
 
 msgid ""
 "<08>{#p/basic}{~}SHHHH!\n"
 "Let me think, guys!!"
 msgstr ""
+"<08>{#p/basic}{~}¡SHHHH!\n"
+"¡¡Déjenme pensar, chicos!!"
 
 msgid "<08>{#p/basic}{~}Thanks for being here!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Gracias por estar aquí!"
 
 msgid "<08>{#p/basic}{~}Awkwarrd."
 msgstr "<08>{#p/basic}{~}Que raro."
@@ -13011,57 +13088,60 @@ msgid ""
 "<08>{#p/basic}{~}You're awesome!\n"
 "Just saying."
 msgstr ""
+"<08>{#p/basic}{~}¡Eres increíble!\n"
+"Solo digo."
 
 msgid "<08>{#p/basic}{~}So like, what are you even doing?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}Así que, ¿Siquiera qué estás haciendo?"
 
 msgid "<08>{#p/basic}{~}Wouldn't trade ya for the galaxy."
-msgstr ""
+msgstr "<08>{#p/basic}{~}No te cambiaría ni por toda la galaxia."
 
 msgid "<08>{#p/basic}{~}The signal here sucks."
-msgstr ""
+msgstr "<08>{#p/basic}{~}La señal aquí apesta."
 
 msgid "<08>{#p/basic}{~}I love humans!"
 msgstr "<08>{#p/basic}{~}¡Amo a los humanos!"
 
 msgid "<08>{#p/basic}{~}Must be nice being HUMAN.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Debe de ser bonito ser HUMANO.."
 
 msgid "* Jerry"
 msgstr "* Jerry"
 
 msgid "<32>{#p/story}* Jerry is living care-free."
-msgstr ""
+msgstr "<32>{#p/story}* Jerry vive sin preocupaciones."
 
 msgid "<32>{#p/story}* Jerry eats powdery food and licks its hands proudly."
 msgstr ""
+"<32>{#p/story}* Jerry come comida en polvo y se lame las manos con orgullo."
 
 msgid "<32>{#p/story}* Jerry giggles from happiness."
-msgstr ""
+msgstr "<32>{#p/story}* Jerry se ríe con alegría."
 
 msgid "<32>{#p/story}* Jerry sneezes without covering its nose."
-msgstr ""
+msgstr "<32>{#p/story}* Jerry estornuda sin taparse la nariz."
 
 msgid "<32>{#p/story}* Jerry lets out a squeal of excitement."
-msgstr ""
+msgstr "<32>{#p/story}* Jerry suelta un grito de emoción."
 
 msgid "<32>{#p/story}* Jerry lets out a yawn."
-msgstr ""
+msgstr "<32>{#p/story}* Jerry suelta un bostezo."
 
 msgid "<32>{#p/story}* Smells like...... Jerry?"
-msgstr ""
+msgstr "<32>{#p/story}* ¿Huele como a... Jerry?"
 
 msgid "<32>{#p/story}* Smells like...... Jerry."
-msgstr ""
+msgstr "<32>{#p/story}* Huele como a... Jerry"
 
 msgid "<32>{#p/story}* Jerry clings to you!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Jerry se pega a ti!"
 
 msgid "<08>{#p/basic}{~}Wow..."
 msgstr "<08>{#p/basic}{~}Wow..."
 
 msgid "<08>{#p/basic}{~}A kiss from my very best friend!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Un beso de mi mejor amigo!"
 
 msgid "<32>{#p/story}* ..."
 msgstr "<32>{#p/story}* ..."
