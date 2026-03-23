@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2026-03-23 07:54+0000\n"
-"Last-Translator: Valent <placeholder@example.com>\n"
+"PO-Revision-Date: 2026-03-24 19:54+0000\n"
+"Last-Translator: Allmighty <allmighty@example.com>\n"
 "Language-Team: Spanish <https://cryblik.com:49495/projects/ps-outertale/2-"
 "starton/es/>\n"
 "Language: es_ES\n"
@@ -13190,12 +13190,14 @@ msgid ""
 "<33>{#p/story}* WHIZKARAT - ATK 16 DEF 8\n"
 "* This reformed country mouse has taken a liking to you."
 msgstr ""
+"<33>{#p/story}* WHIZKARAT - ATQ 16 DEF 8\n"
+"* Este ratón de campo reformado te ha tomado cariño."
 
 msgid "<32>{#p/human}* (You tell Whizkarat a mouse fact.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Le dices a Whizkarat un dato sobre ratones.)"
 
 msgid "<32>{#p/human}* (You tell Whizkarat everything you know about mice.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Le dices a Whizkarat todo lo que sabes sobre ratones.)"
 
 msgid "<32>{#p/basic}* Suddenly...!"
 msgstr "<32>{#p/basic}* ¡De pronto...!"
@@ -13204,101 +13206,107 @@ msgid ""
 "<32>{#p/human}* (You try to tell Whizkarat more, but it's already found its "
 "way.)"
 msgstr ""
+"<32>{#p/human}* (Intentas contarle más a Whizkarat, pero ya ha encontrado su "
+"camino.)"
 
 msgid "<32>{#p/human}* (You pluck a whisker from Whizkarat's face.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Le arrancas un bigote de la cara a Whizkarat.)"
 
 msgid "<32>{#p/basic}* Whizkarat lets out a gnarly hiss!"
-msgstr ""
+msgstr "<32>{#p/basic}* ¡Whizkarat suelta un siseo gutural!"
 
 msgid "<32>{#p/human}* (You pluck another whisker from Whizkarat's face.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Arrancas otro bigote de la cara de Whizkarat.)"
 
 msgid "<32>{#p/basic}* Whizkarat scurries away!"
-msgstr ""
+msgstr "<32>{#p/basic}* ¡Whizkarat se escabulle!"
 
 msgid ""
 "<32>{#p/human}* (You try to pluck a whisker, but Whizkarat pretends it has "
 "none.)"
 msgstr ""
+"<32>{#p/human}* (Intentas arrancarle un bigote, pero Whizkarat finge que no "
+"tiene ninguno.)"
 
 msgid "<32>{#p/human}* (You make a cute remark and scratch Whizkarat's neck.)"
 msgstr ""
+"<32>{#p/human}* (Haces un lindo comentario y le rascas el cuello a "
+"Whizkarat.)"
 
 msgid "<32>{#p/asriel2}* Whizkarat."
 msgstr "<32>{#p/asriel2}* Whizkarat."
 
 msgid "<32>{#p/story}* Whizkarat is losing its cool."
-msgstr ""
+msgstr "<32>{#p/story}* Whizkarat está perdiendo su encanto."
 
 msgid "<08>{#p/basic}{~}Keep your paws off me..!"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¡Quita tus patas de encima!"
 
 msgid "<08>{#p/basic}{~}No pussy- cats allowed."
-msgstr ""
+msgstr "<08>{#p/basic}{~}No se per- miten gatitos."
 
 msgid "<08>{#p/basic}{~}\\x00*purrs gently*"
 msgstr "<08>{#p/basic}{~}\\x00*ronronea suavemente*"
 
 msgid "<32>{#p/story}* Whizkarat is nearing demise."
-msgstr ""
+msgstr "<32>{#p/story}* Whizkarat está cerca de su fin."
 
 msgid "<08>{#p/basic}{~}What food do they eat?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Qué alimentos come?"
 
 msgid "<08>{#p/basic}{~}Where do they hide?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Dónde se esconde?"
 
 msgid "<08>{#p/basic}{~}How do they speak?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Cómo habla?"
 
 msgid "<08>{#p/basic}{~}Do they dream?"
 msgstr "<08>{#p/basic}{~}¿Soñara?"
 
 msgid "<08>{#p/basic}{~}Alas, here I stand."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Oh, aquí estoy."
 
 msgid "<08>{#p/basic}{~}Oh, how I lose myself.."
-msgstr ""
+msgstr "<08>{#p/basic}{~}Oh, qué perdido me siento."
 
 msgid "<08>{#p/basic}{~}The si- tuation is not ideal."
-msgstr ""
+msgstr "<08>{#p/basic}{~}La si- tuación no es la ideal."
 
 msgid "<08>{#p/basic}{~}Could you help me?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Podrías ayudarme?"
 
 msgid "* Whizkarat"
 msgstr "* Whizkarat"
 
 msgid "<32>{#p/story}* Whizkarat fantasizes about getting down on all fours."
-msgstr ""
+msgstr "<32>{#p/story}* Whizkarat fantasea con ponerse a cuatro patas."
 
 msgid "<32>{#p/story}* Whizkarat scans the area."
-msgstr ""
+msgstr "<32>{#p/story}* Whizkarat escanea el área."
 
 msgid "<32>{#p/story}* Whizkarat is trying to pretend that it is small."
-msgstr ""
+msgstr "<32>{#p/story}* Whizkarat está tratando de fingir que es pequeño."
 
 msgid "<32>{#p/story}* Smells like top-twenty-cheese."
-msgstr ""
+msgstr "<32>{#p/story}* Huele a queso de segunda categoría."
 
 msgid "<32>{#p/story}* Whizkarat just needs a little more help."
-msgstr ""
+msgstr "<32>{#p/story}* Whizkarat solo necesita un poco más de ayuda."
 
 msgid "<08>{#p/basic}{~}Live in holes, do they..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Vive en agujeros..?"
 
 msgid "<08>{#p/basic}{~}Squeak like toys, do they..?"
-msgstr ""
+msgstr "<08>{#p/basic}{~}¿Chirrían como juguetes, verdad...?"
 
 msgid "<08>{#p/basic}{~}From now on, I shall live as a mouse."
-msgstr ""
+msgstr "<08>{#p/basic}{~}A partir de ahora, viviré como un ratón."
 
 msgid "<32>{#p/asriel2}* It's vulnerable."
 msgstr "<32>{#p/asriel2}* Esta vulnerable."
 
 msgid "<32>{#p/story}* Whizkarat has found its way."
-msgstr ""
+msgstr "<32>{#p/story}* Whizkarat ha encontrado su camino."
 
 msgid "<08>{#p/basic}{~}Wonder- ful..."
 msgstr "<08>{#p/basic}{~}Maravi- lloso..."
