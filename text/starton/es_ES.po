@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2026-03-26 18:54+0000\n"
-"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
+"PO-Revision-Date: 2026-03-27 19:54+0000\n"
+"Last-Translator: Danirex7 <Danirex7@example.com>\n"
 "Language-Team: Spanish <https://cryblik.com:49495/projects/ps-outertale/2-"
 "starton/es/>\n"
 "Language: es_ES\n"
@@ -13645,7 +13645,7 @@ msgid "<11>{#p/basic}{~}(Pants fast)"
 msgstr "<11>{#p/basic}{~}(Corre rápidamente)"
 
 msgid "<32>{#p/story}* Canis Minor tucks its tail between its legs."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor traba su cola entre sus piernas."
 
 msgid "* Canis Minor"
 msgstr "* Canis Minor"
@@ -13740,56 +13740,63 @@ msgid "<32>{#p/human}* (You have to jump up to pet the dog.)"
 msgstr "<32>{#p/human}* (Tienes que saltar para acariciar al perro.)"
 
 msgid "<32>{#p/asriel2}* We can't do this all day."
-msgstr ""
+msgstr "<32>{#p/asriel2}* No podemos hacer esto todo el día."
 
 msgid "<32>{#p/human}* (You pet Canis Minor without even reaching it.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Acaricias a Canis Minor sin ni siquiera alcanzarlo.)"
 
 msgid "<32>{#p/basic}* It gets more excited."
-msgstr ""
+msgstr "<32>{#p/basic}* Se está emocionando más."
 
 msgid "<32>{#p/asriel2}* We CAN do this all day...?"
-msgstr ""
+msgstr "<32>{#p/asriel2}* ¿Podemos hacer esto todo el día...?"
 
 msgid "<32>{#p/basic}* There is no way to stop this madness."
-msgstr ""
+msgstr "<32>{#p/basic}* No hay manera de parar esta locura."
 
+#, fuzzy
 msgid ""
 "<32>{#p/basic}* Many small pets for a dog, one giant neck amongst dog-kind."
 msgstr ""
+"<32>{#p/basic}* Muchas pequeñas caricias para un perro, un cuello gigante "
+"entre tipos de perro."
 
 msgid "<32>{#p/asriel2}* Why are we still here."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Porqué seguimos aqui."
 
 msgid "<32>{#p/human}* (You call Canis Minor, but it cannot hear you.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Llamas a Canis Minor, pero no puede oirte.)"
 
 msgid ""
 "<32>{#p/asriel2}* There.\n"
 "* It's totally out of reach now."
 msgstr ""
+"<32>{#p/asriel2}* Aquí.\n"
+"* Está totalmente fuera del alcance ahora."
 
 msgid "<32>{#p/asriel2}* ???"
 msgstr "<32>{#p/asriel2}* ¿¿¿???"
 
 msgid "<32>{#p/human}* (You can reach Canis Minor again.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Puedes alcanzar a Canis Minor otra vez.)"
 
 msgid "<32>{#p/asriel2}* You've GOT to be kidding me."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Tu TIENES que estar bromeando."
 
 msgid "<32>{#p/basic}* It's possible that you may have a problem."
-msgstr ""
+msgstr "<32>{#p/basic}* Es posible que tengas un problema."
 
 msgid ""
 "<32>{#p/human}* (Canis Minor is unpettable, but appreciates the attempt.)"
 msgstr ""
+"<32>{#p/human}* (Canis Minor es inacariciable, pero aprecia el intento.)"
 
 msgid "<32>{#p/asriel2}* Stop."
 msgstr "<32>{#p/asriel2}* Detente."
 
 msgid "<32>{#p/basic}* Perhaps mankind was not meant to pet this much."
 msgstr ""
+"<32>{#p/basic}* Quizás la humanidad no estaba destinada a acariciar tanto."
 
 msgid "<32>{#p/asriel2}* Please stop."
 msgstr "<32>{#p/asriel2}* Por favor, detente."
@@ -13798,12 +13805,14 @@ msgid "<32>{#p/basic}* It continues."
 msgstr "<32>{#p/basic}* Continúa."
 
 msgid "<32>{#p/human}* (But Canis Minor was beyond your reach.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Pero Canis Minor estaba fuera de tu alcance.)"
 
 msgid ""
 "<32>{#p/asriel2}* Okay, it's over.\n"
 "* Now kill this idiot already."
 msgstr ""
+"<32>{#p/asriel2}* Vale, se acabó.\n"
+"* Ahora, mata a este idiota ya."
 
 msgid "<32>{#p/human}* (Really now.)"
 msgstr "<32>{#p/human}* (En serio.)"
@@ -13821,89 +13830,113 @@ msgid "<32>{#p/story}* Canis Minor appears."
 msgstr "<32>{#p/story}* Aparece Canis Minor."
 
 msgid "<32>{#p/story}* Canis Minor tilts its head to one side."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor inclina la cabeza hacia un lado."
 
 msgid "<32>{#p/story}* Canis Minor thinks your weapon is a dog treat."
 msgstr ""
+"<32>{#p/story}* Canis Minor cree que tu arma es una golosina para perros."
 
 msgid "<32>{#p/story}* Canis Minor is not really paying attention."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor realmente no está prestando atención."
 
 msgid "<32>{#p/story}* Smells like dog chow."
-msgstr ""
+msgstr "<32>{#p/story}* Huele a comida para perros."
 
 msgid "<32>{#p/story}* Canis Minor is barking excitedly."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor está ladrando emocionado."
 
 msgid "<32>{#p/story}* Canis Minor is overstimulated."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor está sobreestimulado."
 
 msgid "<32>{#p/story}* Canis Minor shows no signs of stopping."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor no muestra señales de parar."
 
 msgid "<32>{#p/story}* Canis Minor is lowering."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor está bajando."
 
 msgid "<32>{#p/story}* Canis Minor learns to code."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor aprende a programar."
 
 msgid "<32>{#p/story}* Canis Minor is whining because it can't see you."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor se queja porque no puede verte."
 
 msgid "<32>{#p/story}* Hello there."
 msgstr "<32>{#p/story}* Hola."
 
 msgid "<32>{#p/story}* Canis Minor is questioning your life choices."
 msgstr ""
+"<32>{#p/story}* Canis Minor está cuestionando las decisiones de tu vida."
 
 msgid "<32>{#p/story}* Canis Minor has gone where no dog has gone before."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Minor ha ido donde ningún perro ha ido antes."
 
 msgid ""
 "<32>{#p/asriel2}* Dogamy, the pathetic dog.\n"
 "* Relies entirely on his over- aggressive partner."
 msgstr ""
+"<32>{#p/asriel2}* Dogamy, el perro patético.\n"
+"* Depende completamente de su pareja excesivamente agresiva."
 
 msgid ""
 "<32>{#p/story}* DOGAMY - ATK 14 DEF 5\n"
 "* Husband of Dogaressa.\n"
 "* Knows only what he smells."
 msgstr ""
+"<32>{#p/story}* DOGAMY - ATQ 14 DEF 5\n"
+"* Esposo de Dogaressa.\n"
+"* Solo conoce lo que huele."
 
 msgid ""
 "<32>{#p/story}* DOGAMY - ATK 14 DEF 5\n"
 "* Recently widowed.\n"
 "* Knows only the pain of loss."
 msgstr ""
+"<32>{#p/story}* DOGAMY - ATQ 14 DEF 5\n"
+"* Recientemente viudo.\n"
+"* Solo conoce el dolor de la pérdida."
 
 msgid ""
 "<32>{#p/story}* DOGAMY - ATK 14 DEF 5\n"
 "* Husband of Dogaressa.\n"
 "* Knows more than ever before."
 msgstr ""
+"<32>{#p/story}* DOGAMY - ATQ 14 DEF 5\n"
+"* Esposo de Dogaressa.\n"
+"* Sabe más que nunca."
 
 msgid ""
 "<32>{#p/story}* DOGAMY - ATK 14 DEF 5\n"
 "* Husband of Dogaressa.\n"
 "* Doesn't mind sharing...?"
 msgstr ""
+"<32>{#p/story}* DOGAMY - ATQ 14 DEF 5\n"
+"* Esposo de Dogaressa.\n"
+"* ¿No le importa compartir...?"
 
 msgid ""
 "<32>{#p/story}* DOGAMY - ATK 14 DEF 5\n"
 "* Husband of Dogaressa.\n"
 "* Wouldn't mind leaving...?"
 msgstr ""
+"<32>{#p/story}* DOGAMY - ATQ 14 DEF 5\n"
+"* Esposo de Dogaressa.\n"
+"* ¿No le importará irse...?"
 
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (The dogs run to get it.)\n"
 "* (You play fetch for a while.)"
 msgstr ""
+"<32>{#p/human}* (Tiras la llave.)\n"
+"* (El perro corre a cogerla.)\n"
+"* (Juegas a buscarla por un rato.)"
 
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Dogamy ignores it and lets it roll off the edge.)"
 msgstr ""
+"<32>{#p/human}* (Tiras la llave.)\n"
+"* (Dogamy la ignora y deja que se deslice por el borde.)"
 
 msgid "<32>{#p/asriel2}* Saw that coming."
 msgstr "<32>{#p/asriel2}* Ya me lo imaginaba."
@@ -13916,7 +13949,7 @@ msgstr ""
 "Pero ¿¡por qué...!?"
 
 msgid "<11>{#p/basic}{~}Love is in the air?"
-msgstr ""
+msgstr "<11>{#p/basic}{~}¿El amor está en el aire?"
 
 msgid "<11>{#p/basic}{~}You didn't just..."
 msgstr "<11>{#p/basic}{~}Tú no habrás..."
@@ -13925,16 +13958,16 @@ msgid "<11>{#p/basic}{~}What's the puppy doing?"
 msgstr "<11>{#p/basic}{~}¿Qué está haciendo el perrito?"
 
 msgid "<32>{#p/human}* (You flirt with Dogamy.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Coqueteas con Dogamy.)"
 
 msgid "<32>{#p/basic}* Your... pheromones, reach Dogamy's snout."
-msgstr ""
+msgstr "<32>{#p/basic}* Tus... feromonas, llegan al hocico de Dogamy."
 
 msgid "<32>{#p/basic}* Dogamy's expression is unchanged."
-msgstr ""
+msgstr "<32>{#p/basic}* La expresión de Dogamy no ha cambiado."
 
 msgid "<32>{#p/story}* Dogaressa is intent on kicking human tail."
-msgstr ""
+msgstr "<32>{#p/story}* Dogaressa intenta patear cola humana."
 
 msgid "<11>{#p/basic}{~}Whine."
 msgstr "<11>{#p/basic}{~}Quejarse."
@@ -13949,33 +13982,36 @@ msgid "* Dogamy"
 msgstr "* Dogamy"
 
 msgid "<32>{#p/story}* Married dogs love fetch!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Los perros casados aman buscarla!"
 
 msgid "<32>{#p/story}* The dogs' minds are expanding at an exponential rate."
 msgstr ""
+"<32>{#p/story}* Las mentes de los perros se expanden a un ritmo exponencial."
 
 msgid "<11>{#p/basic}{~}..."
 msgstr "<11>{#p/basic}{~}..."
 
 msgid "<32>{#p/story}* Dogaressa is looking for affection."
-msgstr ""
+msgstr "<32>{#p/story}* Dogaressa está en busca de afecto."
 
 msgid "<32>{#p/asriel2}* They're vulnerable."
 msgstr "<32>{#p/asriel2}* Son vulnerables."
 
 msgid "<32>{#p/story}* The dogs' minds have been expanded."
-msgstr ""
+msgstr "<32>{#p/story}* Las mentes de los perros han sido expandidas."
 
 msgid "<11>{#p/basic}{~}Paws off you smelly human."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Patas abajo humano oloroso."
 
 msgid "<11>{#p/basic}{~}Paws off you weird puppy."
-msgstr ""
+msgstr "<11>{#p/basic}{~}Patas abajo cachorro raro."
 
 msgid ""
 "<11>{#p/basic}{~}Wow!!!\n"
 "Pet by another pup!!!"
 msgstr ""
+"<11>{#p/basic}{~}¡¡¡Wow!!!\n"
+"¡¡¡Ser acariciado por otro perro!!!"
 
 msgid ""
 "<11>{#p/basic}{~}Stop!\n"
@@ -14005,38 +14041,42 @@ msgstr "<32>{#p/human}* (Acaricias a Dogamy.)"
 
 msgid "<32>{#p/human}* (You try to pet Dogamy, but he cowers in fear.)"
 msgstr ""
+"<32>{#p/human}* (Intentas acariciar a Dogamy, pero se acobarda en miedo.)"
 
 msgid "<11>{#p/basic}{~}The prince has lost his mind..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}El principe ha perdido la mente..."
 
 msgid ""
 "<11>{#p/basic}{~}Take my wife...\n"
 "'s fleas."
 msgstr ""
+"<11>{#p/basic}{~}Llevate a mi esposa...\n"
+"y a sus pulgas."
 
 msgid "<11>{#p/basic}{~}You have come far..."
 msgstr "<11>{#p/basic}{~}Has llegado muy lejos..."
 
 msgid "<11>{#p/basic}{~}Don't touch my hot dog."
-msgstr ""
+msgstr "<11>{#p/basic}{~}No toques mi perrito caliente."
 
 msgid "<11>{#p/basic}{~}We'll take you down!"
 msgstr "<11>{#p/basic}{~}¡Te vamos a derrotar!"
 
+#, fuzzy
 msgid "<11>{#p/basic}{~}Number one puppy-dog eyes champs K-614!!"
-msgstr ""
+msgstr "¡¡<11>{#p/basic}{~}Campiones numero uno en ojos de cachorro K-614!!"
 
 msgid "<11>{#p/basic}{~}You won't win this time..."
-msgstr ""
+msgstr "<11>{#p/basic}{~}No ganarás esta vez..."
 
 msgid "<11>{#p/basic}{~}Let's kick human tail!!"
 msgstr "<11>{#p/basic}{~}¡¡Vamos a darle una paliza al humano!!"
 
 msgid "<32>{#p/story}* The dogs think that you may be a lost puppy."
-msgstr ""
+msgstr "<32>{#p/story}* Los perros creen que eres un cachorro perdido."
 
 msgid "<32>{#p/human}* (You encourage the dogs to sniff you again.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Animas a los perros a olerte de nuevo.)"
 
 msgid "<32>* (You smell just as weird as before.)"
 msgstr ""
@@ -14048,22 +14088,28 @@ msgid ""
 "<32>{#p/human}* (You encourage the dogs to sniff you again, but they already"
 " know you smell fine.)"
 msgstr ""
+"<32>{#p/human}* (Animas a los perros a olerte otra vez, pero ya saben que "
+"hueles bien.)"
 
 msgid ""
 "<32>{#p/human}* (You encourage the dogs to sniff you, but they seem occupied"
 " with other things.)"
 msgstr ""
+"<32>{#p/human}* (Animas a los perros a olerte otra vez, pero parecen "
+"ocupados en otras cosas.)"
 
 msgid ""
 "<32>{#p/human}* (You encourage Dogamy to sniff you, but he won't even lift "
 "up his snout.)"
 msgstr ""
+"<32>{#p/human}*(Animas a Dogamy a olerte otra vez, pero ni siquiera levantó "
+"su hocico.)"
 
 msgid "<32>{#p/asriel2}* You're going to get your clothes dirty, $(name)."
 msgstr ""
 
 msgid "<32>{#p/story}* The dogs may want to re-smell you."
-msgstr ""
+msgstr "<32>{#p/story}* Los perros pueden querer re-olerte."
 
 msgid ""
 "<32>{#p/human}* (You roll around in the dirt.)\n"
