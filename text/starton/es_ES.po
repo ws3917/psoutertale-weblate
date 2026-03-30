@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
 "PO-Revision-Date: 2026-03-31 20:54+0000\n"
-"Last-Translator: Valent <placeholder@example.com>\n"
+"Last-Translator: Danirex7 <Danirex7@example.com>\n"
 "Language-Team: Spanish <https://cryblik.com:49495/projects/ps-outertale/2-"
 "starton/es/>\n"
 "Language: es_ES\n"
@@ -14386,49 +14386,54 @@ msgid "<32>{#p/basic}* Canis Major awkwardly cocks its head to one side."
 msgstr "<32>{#p/basic}* Canis Major inclina torpemente la cabeza hacia un lado."
 
 msgid "<32>{#p/human}* (You call Canis Major.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Llamas a Canis Major.)"
 
 msgid ""
 "<32>{#p/basic}* Canis Major bounds towards you, flecking slobber into your "
 "face."
 msgstr ""
+"<32>{#p/basic}* Canis Major salta hacia ti, salpicando tu cara de saliva."
 
 msgid "<32>{#p/asriel2}* Canis Major."
 msgstr "<32>{#p/asriel2}* Canis Major."
 
 msgid "<32>{#p/story}* Canis Major seeks affection."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Major busca afecto."
 
 msgid ""
 "<32>{#p/human}* (You call Canis Major.)\n"
 "* (Only the dog's ears perk up.)"
 msgstr ""
+"<32>{#p/human}* (Llamas a Canis Major.)\n"
+"* (Solo los oidos del perro se levantan.)"
 
 msgid "<32>{#p/basic}* Canis Major decides you are too boring."
-msgstr ""
+msgstr "<32>{#p/basic}* Canis Major decide que eres muy aburridos."
 
 msgid ""
 "<32>{#p/human}* (You throw the spanner.)\n"
 "* (Canis Major absorbs it and carries on with its life.)"
 msgstr ""
+"<32>{#p/human}* (Tiras la llave.)\n"
+"* (Canis Major la absorbe y la carga con su vida.)"
 
 msgid "<32>{#p/asriel2}* Yeah... that makes sense."
-msgstr ""
+msgstr "<32>{#p/asriel2}* Si... eso tiene sentido."
 
 msgid "<32>{#p/story}* Canis Major is panting slowly."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Major está jadeando lentamente."
 
 msgid "<32>{#p/story}* Canis Major just wants some affection."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Major solo quiere algo de afecto."
 
 msgid "<32>{#p/story}* Canis Major is making puppy-dog eyes."
-msgstr ""
+msgstr "<32>{#p/story}* Canis Major está haciendo ojos de cachorrito."
 
 msgid "* Canis Major"
 msgstr "* Canis Major"
 
 msgid "<32>{#p/story}* Canis Major loves fetch!"
-msgstr ""
+msgstr "<32>{#p/story}* ¡Canis Major ama buscarla!"
 
 msgid "<32>{#p/story}* Canis Major is patting the ground with its front paws."
 msgstr ""
