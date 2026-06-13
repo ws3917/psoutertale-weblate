@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2026-02-24 01:54+0000\n"
-"Last-Translator: Allmighty <allmighty@example.com>\n"
-"Language-Team: Spanish <https://cryblik.com:49495/projects/ps-outertale/4-"
-"aerialis/es/>\n"
+"PO-Revision-Date: 2026-06-14 18:47+0000\n"
+"Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
+"Language-Team: Spanish <https://translate.ws3917.space:29271/projects/ps-"
+"outertale/4-aerialis/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #
 msgid "<32>{#p/human}* (It appears the terminal is beyond your access level.)"
@@ -260,13 +260,13 @@ msgid "Outlands"
 msgstr "Las Afueras"
 
 msgid "Starton"
-msgstr ""
+msgstr "Starton"
 
 msgid "Foundry"
-msgstr ""
+msgstr "Fábrica"
 
 msgid "Aerialis"
-msgstr ""
+msgstr "Aerialis"
 
 msgid ""
 "<32>{#p/basic}{#npc/a}* Tra la la.\n"
@@ -647,7 +647,7 @@ msgid "<18>{#f/5}THE THINGS THAT GO THROUGH HER HEAD SOMETIMES..."
 msgstr ""
 
 msgid "<18>{#f/5}..."
-msgstr ""
+msgstr "<18>{#f/5}..."
 
 msgid "<18>{#f/5}... INVOLVING HER FINDING OUT THAT YOU..."
 msgstr ""
@@ -2008,13 +2008,13 @@ msgid "<25>{#g/alphysNervousLaugh}* \"Who has the biggest crush on Mettaton?\""
 msgstr ""
 
 msgid "Alphys"
-msgstr ""
+msgstr "Alphys"
 
 msgid "Asgore"
 msgstr "Asgore"
 
 msgid "Papyrus"
-msgstr ""
+msgstr "Papyrus"
 
 msgid "Undyne"
 msgstr "Undyne"
@@ -2186,10 +2186,10 @@ msgid "Model 42"
 msgstr ""
 
 msgid "Hapstablook"
-msgstr ""
+msgstr "Hapstablook"
 
 msgid "Aidrian"
-msgstr ""
+msgstr "Aidrian"
 
 msgid "Mettaton"
 msgstr "Mettaton"
@@ -2637,10 +2637,10 @@ msgid "<32>{#p/basic}* This is absolutely bonkers."
 msgstr ""
 
 msgid ":$(x)"
-msgstr ""
+msgstr ":$(x)"
 
 msgid "$(x)%"
-msgstr ""
+msgstr "$(x)%"
 
 msgid ""
 "<32>{#p/mettaton}* YOU DO REALIZE YOUR LIFE IS IN DANGER HERE... RIGHT?"
@@ -3605,13 +3605,13 @@ msgid "* (Who will you vote for?)"
 msgstr ""
 
 msgid "Sans"
-msgstr ""
+msgstr "Sans"
 
 msgid "Napstablook"
-msgstr ""
+msgstr "Napstablook"
 
 msgid "Temmie"
-msgstr ""
+msgstr "Temmie"
 
 msgid "Monster Kid"
 msgstr ""
@@ -7598,10 +7598,10 @@ msgid "<32>{#p/human}* (You take in the wish flower's aura.)"
 msgstr ""
 
 msgid "{*}{#d.sysx}{%}"
-msgstr ""
+msgstr "{*}{#d.sysx}{%}"
 
 msgid "{*}{#d.sys}{%}"
-msgstr ""
+msgstr "{*}{#d.sys}{%}"
 
 msgid "<32>{#p/basic}* It's a wish flower."
 msgstr ""
@@ -12487,10 +12487,10 @@ msgid "<20>{#p/basic}{~}Did you just say \"triple beefcake deluxe?\""
 msgstr ""
 
 msgid "<20>{#p/basic}{~}{#e/glyde/9}..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}{#e/glyde/9}..."
 
 msgid "<20>{#p/basic}{~}{#e/glyde/10}So..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}{#e/glyde/10}Entonces..."
 
 msgid ""
 "<20>{#p/basic}{~}{#e/glyde/5}YOU'RE the one who purchased my product in the "
@@ -12652,10 +12652,10 @@ msgid "<20>{#p/basic}{#p/basic}{~}{#e/glyde/0}Why should you care?"
 msgstr ""
 
 msgid "<20>{#p/basic}{~}{#e/glyde/2}Because..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}{#e/glyde/2}Porque..."
 
 msgid "<20>{#p/basic}{~}{#e/glyde/2}Er..."
-msgstr ""
+msgstr "<20>{#p/basic}{~}{#e/glyde/2}Em..."
 
 msgid ""
 "<20>{#p/basic}{~}{#e/glyde/5}Because you're the only one who can save my "
@@ -12707,7 +12707,7 @@ msgid "<20>{#p/basic}{#p/basic}{~}{#e/glyde/6}So whaddya say, huh?"
 msgstr ""
 
 msgid "<20>{#p/basic}{#p/basic}{~}Crud."
-msgstr ""
+msgstr "<20>{#p/basic}{#p/basic}{~}Que asco."
 
 msgid ""
 "<20>{#p/basic}{#e/bpants/12}Why do I ALWAYS end up taking out the trash "
@@ -12715,7 +12715,7 @@ msgid ""
 msgstr ""
 
 msgid "<20>..."
-msgstr ""
+msgstr "<20>..."
 
 msgid "<20>{#e/bpants/0}Sorry for the trouble, little buddy."
 msgstr ""
@@ -12750,7 +12750,7 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/mettaton}BURGERPANTS!"
-msgstr ""
+msgstr "<20>{#p/mettaton}¡BURGERPANTS!"
 
 msgid "<20>IT'S SO VERY GREAT TO SEE YOU."
 msgstr ""
@@ -12778,7 +12778,7 @@ msgid "<20>I DIDN'T KNOW YOU DISLIKED ME THAT MUCH."
 msgstr ""
 
 msgid "<20>{#p/basic}{#e/bpants/12}..."
-msgstr ""
+msgstr "<20>{#p/basic}{#e/bpants/12}..."
 
 msgid ""
 "<20>{|}{#p/basic}{#e/bpants/2}I seriously just can't with this guy I swear "
