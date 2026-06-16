@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-16 11:17+0000\n"
-"PO-Revision-Date: 2026-06-14 18:47+0000\n"
+"PO-Revision-Date: 2026-06-17 04:46+0000\n"
 "Last-Translator: Stefano <stefanobuendia20@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space:29271/projects/ps-"
 "outertale/4-aerialis/es/>\n"
@@ -12830,7 +12830,7 @@ msgid "<20>{#p/mettaton}IT'S LIKE A RENT-FREE MIST MACHINE!"
 msgstr ""
 
 msgid "<20>{#p/mettaton}SPICY."
-msgstr ""
+msgstr "<20>{#p/mettaton}PICANTE."
 
 msgid "<32>{#p/story}* Mettaton swings into action!"
 msgstr ""
@@ -12908,7 +12908,7 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/mettaton}OHOHO..."
-msgstr ""
+msgstr "<20>{#p/mettaton}OHOHO..."
 
 msgid "<20>GETTING FRISKY, EH?"
 msgstr ""
@@ -12920,7 +12920,7 @@ msgid "<20>{#p/mettaton}LET'S START WITH SOMETHING SIMPLE..."
 msgstr ""
 
 msgid "<20>SINGING!"
-msgstr ""
+msgstr "<20>¡CANTAR!"
 
 msgid "<20>{|}DO YOU HAVE WHAT IT TAKES TO- {%}"
 msgstr ""
@@ -12979,10 +12979,10 @@ msgid "<20>{*}WHAT HAVE I TOLD YOU ABOUT HANDING OUT HINTS?{^30}{%}"
 msgstr ""
 
 msgid "<20>{*}...{^30}{%}"
-msgstr ""
+msgstr "<20>{*}...{^30}{%}"
 
 msgid "<20>{*}ANYWAY...{^30}{%}"
-msgstr ""
+msgstr "<20>{*}COMO SEA...{^30}{%}"
 
 msgid "<20>{*}LET'S GET THIS SHOW ON THE ROAD!{^30}{%}"
 msgstr ""
@@ -13007,7 +13007,7 @@ msgid "<20>PERHAPS WHAT YOU NEED IS A LITTLE COMPETITION!"
 msgstr ""
 
 msgid "<20>{#p/mettaton}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}..."
 
 msgid "<20>WHERE IS..."
 msgstr ""
@@ -13050,7 +13050,7 @@ msgid "<20>{#p/mettaton}GIVE IT ALL YOU'VE GOT, SHYREN!"
 msgstr ""
 
 msgid "<20>{#p/mettaton}SHYREN...?"
-msgstr ""
+msgstr "<20>{#p/mettaton}¿SHYREN...?"
 
 msgid "<20>{#p/mettaton}ENCHANTING, EH?"
 msgstr ""
@@ -13347,13 +13347,13 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/alphys}N-no!"
-msgstr ""
+msgstr "<20>{#p/alphys}¡N-no!"
 
 msgid "<20>{*}{#p/alphys}Are you k-kidding?{^30}{%}"
 msgstr ""
 
 msgid "<20>{*}{#p/alphys}{#e/alphys/7}..."
-msgstr ""
+msgstr "<20>{*}{#p/alphys}{#e/alphys/7}..."
 
 msgid "<20>{#p/alphys}You can't force me to do something I don't want to."
 msgstr ""
@@ -13362,7 +13362,7 @@ msgid "<20>{*}{#p/alphys}I don't...{^30}{%}"
 msgstr ""
 
 msgid "<20>{*}{#p/alphys}I...{^30}{%}"
-msgstr ""
+msgstr "<20>{*}{#p/alphys}YO...{^30}{%}"
 
 msgid "<20>{#p/alphys}I c-can't do it!"
 msgstr ""
@@ -13409,13 +13409,13 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/mettaton}WELL..."
-msgstr ""
+msgstr "<20>{#p/mettaton}BUENO..."
 
 msgid "<20>IF YOU SAY SO, DOCTOR."
 msgstr ""
 
 msgid "<20>{#p/mettaton}HMM..."
-msgstr ""
+msgstr "<20>{#p/mettaton}HMM..."
 
 msgid "<20>YOU MAKE AN INTERESTING POINT, DOCTOR."
 msgstr ""
@@ -13449,7 +13449,7 @@ msgid "<20>YOU WON'T WANT TO MISS IT."
 msgstr ""
 
 msgid "<20>{#p/alphys}Welp."
-msgstr ""
+msgstr "<20>{#p/alphys}Bueno."
 
 msgid ""
 "<20>{#p/alphys}Seriously?\n"
@@ -13457,7 +13457,7 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/alphys}..."
-msgstr ""
+msgstr "<20>{#p/alphys}..."
 
 msgid "<32>{#p/story}* It's electro-shockin' time."
 msgstr ""
@@ -13490,19 +13490,19 @@ msgid "<32>{#p/story}* Mettaton points dramatically at the camera."
 msgstr ""
 
 msgid "<20>{#p/mettaton}NICE!"
-msgstr ""
+msgstr "<20>{#p/mettaton}¡GENIAL!"
 
 msgid "<20>{#p/mettaton}VERY NICE!"
 msgstr ""
 
 msgid "<20>{#p/mettaton}FABULOUS!"
-msgstr ""
+msgstr "<20>{#p/mettaton}¡FABULOSO!"
 
 msgid "<20>{#p/mettaton}OUTSTANDING!"
-msgstr ""
+msgstr "<20>{#p/mettaton}¡EXCELENTE!"
 
 msgid "<20>{#p/mettaton}STELLAR!"
-msgstr ""
+msgstr "<20>{#p/mettaton}¡BRILLANTE!"
 
 msgid "<20>{#p/mettaton}THAT'S THE WAY!"
 msgstr ""
@@ -13517,13 +13517,13 @@ msgid "<20>{#p/basic}See ya next time, human!"
 msgstr ""
 
 msgid "<20>{#p/basic}..."
-msgstr ""
+msgstr "<20>{#p/basic}..."
 
 msgid "<20>{#p/basic}Never again."
 msgstr ""
 
 msgid "<20>{#p/mettaton}OOPS..."
-msgstr ""
+msgstr "<20>{#p/mettaton}OOPS..."
 
 msgid "<20>{#p/mettaton}SO CLOSE..."
 msgstr ""
@@ -13535,10 +13535,10 @@ msgid "<20>{#p/mettaton}HOW UNFORTUNATE..."
 msgstr ""
 
 msgid "<20>{#p/mettaton}FAILURE!"
-msgstr ""
+msgstr "<20>{#p/mettaton}¡PERDISTE!"
 
 msgid "<20>{#p/mettaton}DISAPPOINTING."
-msgstr ""
+msgstr "<20>{#p/mettaton}DECEPCIONANTE."
 
 msgid "<20>{#p/mettaton}WHAT. WAS. THAT."
 msgstr ""
@@ -13644,7 +13644,7 @@ msgid "<20>MY SWITCH??"
 msgstr ""
 
 msgid "<18>{#p/mettaton}Ohoho..."
-msgstr ""
+msgstr "<18>{#p/mettaton}Ohoho..."
 
 msgid "<18>If you thought I had style before, just wait until you see me now."
 msgstr ""
@@ -14410,7 +14410,7 @@ msgid "<20>{#p/mettaton}It's the le... least I can do!"
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/12}H... haah...\n"
@@ -14433,10 +14433,10 @@ msgid "<20>{#p/mettaton}{#e/mettaton/13}The show must go on...!"
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/11}(Sigh...)"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/11}(Agh...)"
 
 msgid "<20>{#e/mettaton/29}Well..."
-msgstr ""
+msgstr "<20>{#e/mettaton/29}Bueno..."
 
 msgid "<20>{#e/mettaton/10}Would you look at that."
 msgstr ""
@@ -14449,7 +14449,7 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#e/mettaton/14}..."
-msgstr ""
+msgstr "<20>{#e/mettaton/14}..."
 
 msgid "<20>{#e/mettaton/15}Let's see what the audience has to say..."
 msgstr ""
@@ -14479,7 +14479,7 @@ msgid "<20>{#p/mettaton}{#e/mettaton/14}I still have to..."
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/9}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/9}..."
 
 msgid ""
 "<20>{#p/mettaton}{#e/mettaton/9}Blooky, if you're watching this, then..."
@@ -14517,7 +14517,7 @@ msgid "<20>{#p/mettaton}{#e/mettaton/10}All that matters..."
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/14}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/14}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}So that's how it is, is it?"
 msgstr ""
@@ -14558,7 +14558,7 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/14}Well then, dear $(moniker2)."
 msgstr ""
@@ -14579,7 +14579,7 @@ msgid "<20>{#p/mettaton}{#e/mettaton/17}... don't you?"
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/18}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/18}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/9}But before I go."
 msgstr ""
@@ -14625,7 +14625,7 @@ msgid "<20>{#p/mettaton}{#e/mettaton/12}I should have known you'd betray me."
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/15}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}I wanted to give you a chance."
 msgstr ""
@@ -14668,7 +14668,7 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/30}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/30}..."
 
 msgid "<20>{#p/mettaton}{#e/mettaton/30}Well, that's fine."
 msgstr ""
@@ -14698,7 +14698,7 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}...?"
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/19}{#a.la/8}{#a.ra/8}¿...?"
 
 msgid "<20>{#p/mettaton}{#e/mettaton/15}{#a.la/0}{#a.ra/0}... of course."
 msgstr ""
@@ -14778,7 +14778,7 @@ msgid "<20>{#e/mettaton/10}Then maybe we should've just let you win."
 msgstr ""
 
 msgid "<20>{#e/mettaton/9}..."
-msgstr ""
+msgstr "<20>{#e/mettaton/9}..."
 
 msgid "<20>{#e/mettaton/9}Oh well..."
 msgstr ""
@@ -14787,10 +14787,10 @@ msgid "<21>{#p/event}Ring, ring..."
 msgstr ""
 
 msgid "<21>{#p/napstablook}{~}....."
-msgstr ""
+msgstr "<21>{#p/napstablook}{~}....."
 
 msgid "<21>{#e/mettaton/9}{~}oh........"
-msgstr ""
+msgstr "<21>{#e/mettaton/9}{~}oh........"
 
 msgid ""
 "<21>{~}hi...\n"
@@ -14872,7 +14872,7 @@ msgid "<20>{#e/mettaton/9}Th... they already hung up."
 msgstr ""
 
 msgid "<20>{#e/mettaton/19}..."
-msgstr ""
+msgstr "<20>{#e/mettaton/19}..."
 
 msgid "<20>{#e/mettaton/20}I'll take another caller!!!"
 msgstr ""
@@ -14958,14 +14958,14 @@ msgid "<20>{#e/mettaton/15}The truth is, this form's energy consumption is..."
 msgstr ""
 
 msgid "<20>{#e/mettaton/14}Inefficient."
-msgstr ""
+msgstr "<20>{#e/mettaton/14}Ineficiente."
 
 msgid ""
 "<20>{#e/mettaton/19}In a few moments, I'll run out of battery power, and..."
 msgstr ""
 
 msgid "<20>{#e/mettaton/10}Well."
-msgstr ""
+msgstr "<20>{#e/mettaton/10}Bueno."
 
 msgid "<20>I'll be alright."
 msgstr ""
@@ -15012,7 +15012,7 @@ msgid "<20>{*}{#e/mettaton/4}It's time to put you in the grave.{^30}{%}"
 msgstr ""
 
 msgid "<20>{#p/mettaton}{#e/mettaton/6}..."
-msgstr ""
+msgstr "<20>{#p/mettaton}{#e/mettaton/6}..."
 
 msgid ""
 "<20>{#e/mettaton/9}G... guess that's what I get for fusing with my body..."
@@ -15025,7 +15025,7 @@ msgid "<20>{#e/mettaton/7}... to stop you..."
 msgstr ""
 
 msgid "<20>{#e/mettaton/7}..."
-msgstr ""
+msgstr "<20>{#e/mettaton/7}..."
 
 msgid ""
 "<20>{#e/mettaton/10}Goodbye...\n"
@@ -15034,16 +15034,16 @@ msgid ""
 msgstr ""
 
 msgid "<20>{#p/finalghost}{~}..."
-msgstr ""
+msgstr "<20>{#p/finalghost}{~}..."
 
 msgid "<20>{~}Mettaton..."
-msgstr ""
+msgstr "<20>{~}Mettaton..."
 
 msgid "<20>{#p/finalghost}{~}So this is what it comes to."
 msgstr ""
 
 msgid "<20>{~}..."
-msgstr ""
+msgstr "<20>{~}..."
 
 msgid ""
 "<20>{~}I have waited long for a chance to put an end to you, and now I have "
@@ -15068,7 +15068,7 @@ msgid "<20>{#x1}Cut me some slack..."
 msgstr ""
 
 msgid "<20>{#p/asriel2}..."
-msgstr ""
+msgstr "<20>{#p/asriel2}..."
 
 msgid "Would you forgive a ghost?"
 msgstr ""
@@ -15094,7 +15094,7 @@ msgid "HELL YEAH"
 msgstr ""
 
 msgid "Absolutely!"
-msgstr ""
+msgstr "¡Absolutamente!"
 
 msgid ""
 "Without\n"
@@ -15173,49 +15173,49 @@ msgid "Shield: $(x)%"
 msgstr ""
 
 msgid "Impressive"
-msgstr ""
+msgstr "Impresionante"
 
 msgid "Dramatic"
-msgstr ""
+msgstr "Dramatico"
 
 msgid "Unimpressive"
-msgstr ""
+msgstr "Poco impresionante"
 
 msgid "Risky"
-msgstr ""
+msgstr "Riesgoso"
 
 msgid "Laughable"
-msgstr ""
+msgstr "Ridículo"
 
 msgid "Crazy"
-msgstr ""
+msgstr "Que loco"
 
 msgid "Impressive?"
-msgstr ""
+msgstr "¿Impresionante?"
 
 msgid "Showstopping"
-msgstr ""
+msgstr "Espectacular"
 
 msgid "Plot Twist"
 msgstr ""
 
 msgid "Cute"
-msgstr ""
+msgstr "Lindo"
 
 msgid "Doubling Down"
 msgstr ""
 
 msgid "Flirty"
-msgstr ""
+msgstr "Coqueto"
 
 msgid "Tripling Down"
 msgstr ""
 
 msgid "Romantic"
-msgstr ""
+msgstr "Romantico"
 
 msgid "Flirtatious"
-msgstr ""
+msgstr "Amoroso"
 
 msgid "Enthralling"
 msgstr ""
