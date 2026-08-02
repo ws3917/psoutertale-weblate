@@ -40,5 +40,13 @@
     "turnmato.dinner": "Ate The Green Vegetables{autoend 60}",
     "sniffe.pet.0": "Wait...{sleep 20}What are you DOING！{pause}{clear}{switchdialog 1}你这家伙！{sleep 20}\n是想干什么啊！",
     "sniffe.pet.2.0": "...",
-    "sniffe.die.0.0": "{speed 4}I'm sorry..."
+    "sniffe.die.0.0": "{speed 4}I'm sorry...",
+    "flowey.meet.first.3.0": "{skippable false}{voice 2}You're good.{pause}{clear}But these little tricks\ndidn't make sense for you\nto live in the MONUMENTS.{pause}{clear}跟我来，{sleep 20}I have some else to\nshow you.",
+    "loox.0": "Please\ngo\naway.{autoend 60}",
+    "loox.1": "What're you looking at?{autoend 60}",
+    "loox.3": "Don't stare at me, all right?{autoend 60}",
+    "loox.dontpickon.1": "Let you off.{autoend 60}",
+    "turnmato.talk": "Plants're of socialphobia!{sleep 20}\nIdiot.{autoend 60}",
+    "dogs.0": "{voice 6}Smell of Humans is smell of DANGER!{pause}{clear}{switchdialog 1}{voice 5}Sure enough it's the HUMAN!",
+    "dogs.2": "You HUMANS take away our sunshine and freedom......{pause}{clear}{switchdialog 1}{voice 5}汪！{sleep 20}别跟她废话了！\n"
 }
