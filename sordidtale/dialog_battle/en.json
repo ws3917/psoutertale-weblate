@@ -41,12 +41,18 @@
     "sniffe.pet.0": "Wait...{sleep 20}What are you DOING！{pause}{clear}{switchdialog 1}你这家伙！{sleep 20}\n是想干什么啊！",
     "sniffe.pet.2.0": "...",
     "sniffe.die.0.0": "{speed 4}I'm sorry...",
-    "flowey.meet.first.3.0": "{skippable false}{voice 2}You're good.{pause}{clear}But these little tricks\ndidn't make sense for you\nto live in the MONUMENTS.{pause}{clear}跟我来，{sleep 20}I have some else to\nshow you.",
+    "flowey.meet.first.3.0": "{skippable false}{voice 2}You're good.{pause}{clear}But these little tricks\ndidn't make sense for you\nto live in the MONUMENTS.{pause}{clear}Come，{sleep 20}I have some else to\nshow you.",
     "loox.0": "Please\ngo\naway.{autoend 60}",
     "loox.1": "What're you looking at?{autoend 60}",
     "loox.3": "Don't stare at me, all right?{autoend 60}",
     "loox.dontpickon.1": "Let you off.{autoend 60}",
     "turnmato.talk": "Plants're of socialphobia!{sleep 20}\nIdiot.{autoend 60}",
     "dogs.0": "{voice 6}Smell of Humans is smell of DANGER!{pause}{clear}{switchdialog 1}{voice 5}Sure enough it's the HUMAN!",
-    "dogs.2": "You HUMANS take away our sunshine and freedom......{pause}{clear}{switchdialog 1}{voice 5}汪！{sleep 20}别跟她废话了！\n"
+    "dogs.2": "You HUMANS take away our sunshine and freedom......{pause}{clear}{switchdialog 1}{voice 5}汪！{sleep 20}别跟她废话了！\n",
+    "dogs.pet.attacked": "Woof!{pause}{clear}{switchdialog 1}Don't touch us!",
+    "sniffe.pet.1": "Stop right now!{pause}{clear}{switchdialog 1}你把战斗当成什么了！",
+    "sniffe.die.0.1": "Sniff!{pause}{clear}可恶！{sleep 20}You punk HUMAN!",
+    "sniffe.p2.0.1": "Freeze there!",
+    "barky.p2.1.1": "My axe will divide you into pieces!",
+    "barky.p2.1.3": "What a shame..."
 }
