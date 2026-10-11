@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-25 08:13+0000\n"
-"PO-Revision-Date: 2026-10-09 23:47+0000\n"
+"PO-Revision-Date: 2026-10-12 03:47+0000\n"
 "Last-Translator: Ariel Nicolas García <noezaraspe23130718@gmail.com>\n"
 "Language-Team: Spanish <https://translate.ws3917.space:29271/projects/ps-"
 "outertale/5-citadel/es/>\n"
@@ -13633,16 +13633,16 @@ msgid "7 HP."
 msgstr ""
 
 msgid "Ice Dream"
-msgstr "Helado de Sueño"
+msgstr "Sueño Helado"
 
 msgid "<32>{#p/human}* (You throw away the Ice Dream.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Tiras el Sueño Helado.)"
 
 msgid "<32>{#p/human}* (7 HP.)"
 msgstr "<32>{#p/human}* (7 PS.)"
 
 msgid "<32>{#p/human}* (You unwrapped the Ice Dream.)"
-msgstr ""
+msgstr "<32>{#p/human}* (Desenvuelves el Sueño Helado.)"
 
 msgid "<32>{#p/human}* (It's a holographic illustration of a crying child.)"
 msgstr ""
