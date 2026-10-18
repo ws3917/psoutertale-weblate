@@ -1,1 +1,20 @@
-{}
+{
+    "ui.menu.item": "",
+    "ui.menu.item.use": "",
+    "ui.menu.item.info": "",
+    "ui.menu.item.drop": "",
+    "ui.menu.stat": "",
+    "ui.menu.stat.0": "",
+    "ui.menu.stat.1": "",
+    "ui.menu.stat.2": "",
+    "ui.menu.phone": "",
+    "ui.save.name.empty": "",
+    "ui.save.save": "",
+    "ui.save.return": "",
+    "ui.save.menu": "",
+    "ui.save.saved": "",
+    "ui.box.inventory": "",
+    "ui.box.box": "",
+    "ui.box.finish": "",
+    "ui.buy.space": ""
+}
