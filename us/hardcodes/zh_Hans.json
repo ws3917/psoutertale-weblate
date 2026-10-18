@@ -231,5 +231,6 @@
     "gml_Script_SCR_TEXT.gml:1370:a67fcfd2-611f-4ff8-a1c6-21e4e9e83a41": "* （Niko得到了蛋派^1。）/%%",
     "[\"gml_Script_SCR_TEXT.gml:3801:eb76c0ed-5e39-4061-b702-a1c9ce164ad3\", \"gml_Script_SCR_TEXT.gml:3806:aa9fbe72-8cd5-422e-8c7b-c6d14ed67370\", \"gml_Script_SCR_TEXT.gml:3811:27f47040-e14b-447b-bbd4-cb3d65e878ef\", \"gml_Script_SCR_TEXT.gml:3816:8c9e8ef4-761f-4d53-8f62-0176de06611d\", \"gml_Script_SCR_TEXT.gml:3821:15b30557-4ee3-4e63-bf45-655e80afe7dc\", \"gml_Script_SCR_TEXT.gml:3826:a0206bca-0198-4285-96ad-efe127bc0071\", \"gml_Script_SCR_TEXT.gml:3831:2e8c2e3f-e682-4dc5-977a-80c4cdd873f5\"]": "* x/%%",
     "gml_Script_SCR_TEXT.gml:9628:fccd09ab-b98d-4567-be88-fd63ab745a3d": "\\F9\\E2* 额..^1.&* 我们..^1. 在哪儿^1，&  ",
-    "gml_Script_SCR_TEXT.gml:9632:0511f4d3-697e-4a44-bbe7-7939c3efe3f5": "* ..^1\\E3. "
+    "gml_Script_SCR_TEXT.gml:9632:0511f4d3-697e-4a44-bbe7-7939c3efe3f5": "* ..^1\\E3. ",
+    "[\"gml_Script_scr_battlegroup.gml:1417:44636dac-53de-40f3-a7a4-083319a15123\", \"gml_Script_scr_battlegroup.gml:1429:d325fc69-1e0d-4632-864b-425a14de004c\", \"gml_Script_SCR_TEXT.gml:86:92f05f7e-c00c-4096-a7aa-6efcd49fba85\"]": ""
 }
